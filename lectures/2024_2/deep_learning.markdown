@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+permalink: /lectures/2024_2/dl
 ---
 
-Our [Courses](/courses/)
+Deep Learning
