@@ -28,9 +28,12 @@ url: "https://linklab.github.io" # the base hostname & protocol for your site, e
 #github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 
 #theme: jekyll-theme-minimal
 
