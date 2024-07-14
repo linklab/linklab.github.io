@@ -15,22 +15,13 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Entrepreneurship in Industry (산업체취창업특강)</strong>
-                            <ul style="margin-left: 1.5em">
-                                <li>
-                                    <a href="https://www.dropbox.com/s/8hj8yf3q7ekzl54/%EC%88%98%EC%97%85%EC%9A%B4%EC%98%81%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80.pdf?dl=0" target="_blank">
-                                        강의 내용<i class="fa fa-link" aria-hidden="true"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.dropbox.com/s/luam3bdpjqvixmr/2023-1%ED%95%99%EA%B8%B0%20%EC%82%B0%EC%97%85%EC%B2%B4%EC%B7%A8%EC%B0%BD%EC%97%85%ED%8A%B9%EA%B0%95%20%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%20%EC%95%88%EB%82%B4_%EC%BB%B4%EA%B3%B5.pdf?dl=0">
-                                        취창업지원팀 안내 자료<i class="fa fa-link" aria-hidden="true"></i>
-                                    </a>
-                                </li>
-                            </ul>
+                            <a>
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                         <li>
                             <strong>University Life and Vision (대학생활과비전)</strong>
-                            <a href="#" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -60,21 +51,18 @@ permalink: /courses/
                             <ul style="margin-left: 1.5em">
                                 <li>
                                     <a href="https://www.dropbox.com/s/8hj8yf3q7ekzl54/%EC%88%98%EC%97%85%EC%9A%B4%EC%98%81%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80.pdf?dl=0" target="_blank">
-                                        강의 내용<i class="fa fa-link" aria-hidden="true"></i>
+                                        강의 내용 <i class="fa fa-link" aria-hidden="true"></i>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://www.dropbox.com/s/luam3bdpjqvixmr/2023-1%ED%95%99%EA%B8%B0%20%EC%82%B0%EC%97%85%EC%B2%B4%EC%B7%A8%EC%B0%BD%EC%97%85%ED%8A%B9%EA%B0%95%20%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%20%EC%95%88%EB%82%B4_%EC%BB%B4%EA%B3%B5.pdf?dl=0">
-                                        취창업지원팀 안내 자료<i class="fa fa-link" aria-hidden="true"></i>
+                                        취창업지원팀 안내 자료 <i class="fa fa-link" aria-hidden="true"></i>
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li>
                             <strong>University Life and Vision (대학생활과비전)</strong>
-    {#                                                            <a href="#" target="_blank">#}
-    {#                                                                <i class="fa fa-link" aria-hidden="true"></i>#}
-    {#                                                            </a>#}
                         </li>
                     </ol>
                 </div>
@@ -148,13 +136,19 @@ permalink: /courses/
                             </a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=4270">Script Programming</a>
+                            <strong>Script Programming</strong>
+                            <a href="http://link.koreatech.ac.kr:8080/?page_id=4270" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3957">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3957" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                     </ol>
                 </div>
@@ -163,16 +157,25 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3623">Service-Oriented Computing &amp; Practice</a>
+                            <strong>Service-Oriented Computing &amp; Practice</strong>
+                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3623" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3620">Script Programming</a>
+                            <strong>Script Programming</strong>
+                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3620" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3464">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3464" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                     </ol>
                 </div>
@@ -181,13 +184,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3008">Script Programming</a>
+                            <strong>Script Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3008">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -196,19 +201,23 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=2627">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=2639">Script Programming</a>
+                            <strong>Script Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href=" http://link.koreatech.ac.kr:8080/?page_id=2299">Computer Networks </a>
+                            <strong>Computer Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href=" http://link.koreatech.ac.kr:8080/?page_id=2308">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -217,19 +226,23 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=1503">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=1614">Script Programming</a>
+                            <strong>Script Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2015_1/CN/CN20151.html">Computer Networks</a>
+                            <strong>Computer Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2015_1/AP/AP20151.html">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -238,10 +251,12 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2014_2/WSC/WSC20142.html">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2014_2/SP/SP20142.html">Script Programming</a>
+                            <strong>Script Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
@@ -262,10 +277,12 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2013_1/UC/UC20131.html">Ubiquitous Computing &amp; Practice</a>
+                            <strong>Ubiquitous Computing &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2013_1/AP/AP20131.html">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -274,19 +291,23 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_2/WSC/WSC20122.html">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_2/CN/CN20122.html">Computer Networks</a>
+                            <strong>Computer Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_1/UC/syllabus.html">Ubiquitous Computing &amp; Practice</a>
+                            <strong>Ubiquitous Computing &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_1/AP/AP20121.html">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -295,22 +316,27 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/CN20112/CN20112.html">Computer Networks</a>
+                            <strong>Computer Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/WSC20112/WSC20112.html">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/DM20111/DM20111.html">Discrete Mathematics</a>
+                            <strong>Discrete Mathematics</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/UC/syllabus.html">Ubiquitous Computing &amp; Practice</a>
+                            <strong>Ubiquitous Computing &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/AP20111/AP20111.html">Algorithm &amp; Practice</a>
+                            <strong>Algorithm &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -319,19 +345,23 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2010_1/CN20102/CN20102.html">Computer Networks</a>
+                            <strong>Computer Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2010_1/WSC20102/WSC20102.html">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2010_1/DM20101/DM20101.html">Discrete Mathematics</a>
+                            <strong>Discrete Mathematics</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2010_1/UC/syllabus.html">Ubiquitous Computing &amp; Practice</a>
+                            <strong>Ubiquitous Computing &amp; Practice</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -340,22 +370,27 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2009_1/Java20092/Java20092.html">Java Programming</a>
+                            <strong>Java Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2009_1/AdvWeb20092/AdvWeb20092.html">Advanced Web Programming</a>
+                            <strong>Advanced Web Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2009_1/DS/syllabus.html">Data Structure</a>
+                            <strong>Data Structure</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2009_1/UC/syllabus2.html">Ubiquitous Computing</a>
+                            <strong>Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2009_1/WP/syllabus.html">Web Programming</a>
+                            <strong>Web Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -364,22 +399,27 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_2/AWP/syllabus.html">Advanced Web Programming</a>
+                            <strong>Advanced Web Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_2/BDE/syllabus.html">Basic Design of Engineering</a>
+                            <strong>Basic Design of Engineering</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_1/DS/syllabus.html">Data Structure</a>
+                            <strong>Data Structure</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_1/UC/syllabus.html">Ubiquitous Computing</a>
+                            <strong>Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_1/WP/syllabus.html">Web Programming</a>
+                            <strong>Web Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -388,22 +428,27 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_2/AWP/syllabus.html">Advanced Web Programming</a>
+                            <strong>Advanced Web Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_2/WSC/syllabus.html">Web Service Computing</a>
+                            <strong>Web Service Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_1/DS/syllabus.html">Data Structure</a>
+                            <strong>Data Structure</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_1/UC/syllabus.html">Ubiquitous Computing</a>
+                            <strong>Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_1/WP/syllabus.html">Web Programming</a>
+                            <strong>Web Programming</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -412,19 +457,23 @@ permalink: /courses/
                 <h4 class="course_season text-right">[Fall]</h4>
                 <ol class="study">
                     <li>
-                        <a href="http://link.koreatech.ac.kr:8080/courses2/2006_2/DS/syllabus.pdf">Data Structure</a>
+                        <strong>Data Structure</strong>
+                        <a><i class="fa fa-link" aria-hidden="true"></i></a>
                     </li>
                     <li>
-                        <a href="http://link.koreatech.ac.kr:8080/courses2/2006_2/WC/syllabus.pdf">Web Service Computing</a>
+                        <strong>Web Service Computing</strong>
+                        <a><i class="fa fa-link" aria-hidden="true"></i></a>
                     </li>
                 </ol>
                 <h4 class="course_season text-right">[Spring]</h4>
                 <ol class="study">
                     <li>
-                        <a href="http://link.koreatech.ac.kr:8080/courses2/2006_1/network_programming/net_pro_syllabus.pdf">Network Programming</a>
+                        <strong>Network Programming</strong>
+                        <a><i class="fa fa-link" aria-hidden="true"></i></a>
                     </li>
                     <li>
-                        <a href="http://link.koreatech.ac.kr:8080/courses2/2006_1/data_communication/data_com_syllabus.pdf">Data Communication</a>
+                        <strong>Data Communication</strong>
+                        <a><i class="fa fa-link" aria-hidden="true"></i></a>
                     </li>
                 </ol>
             </div>
@@ -548,9 +597,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Data Science</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=4630" target="_blank">
-                                <i class="fa fa-link" aria-hidden="true"></i>
-                            </a>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -559,7 +606,8 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3810">Topics in Artificial Intelligence</a>
+                            <strong>Topics in Artificial Intelligence</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -573,7 +621,8 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3467">Data Science</a>
+                            <strong>Data Science</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -586,13 +635,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3163">Advanced Ubiquitous Computing</a>
+                            <strong>Advanced Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3021">Topics in Artificial Intelligence</a>
+                            <strong>Topics in Artificial Intelligence</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -601,13 +652,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=2573">Data Science</a>
+                            <strong>Data Science</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=2314">Applied Network Protocols</a>
+                            <strong>Applied Network Protocols</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -619,7 +672,8 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=908">Data Science</a>
+                            <strong>Data Science</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -634,7 +688,8 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2014_2/AUC2014/AUC2014.html">Advanced Ubiquitous Computing</a>
+                            <strong>Advanced Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
@@ -656,10 +711,12 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2013_1/SNA/SNA2013.html">Social Network Analysis</a>
+                            <strong>Social Network Analysis</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2013_1/TSN/TSN2013.html">Topics in Sensor Networks</a>
+                            <strong>Topics in Sensor Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -668,19 +725,23 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_2/AWN/AWN2012.html">Topics in Sensor Networks</a>
+                            <strong>Topics in Sensor Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_2/ICS/syllabus.html">Intelligent Convergence of Software</a>
+                            <strong>Intelligent Convergence of Software</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_1/MI/syllabus.html">Mobile Internet</a>
+                            <strong>Mobile Internet</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2012_1/NPA/NPA2012.html">Advanced Network Protocols</a>
+                            <strong>Advanced Network Protocols</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -689,13 +750,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/AUC2011/AUC2011.html">Advanced Ubiquitous Computing</a>
+                            <strong>Advanced Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2011_1/ICWWN2011/ICWWN2011.html">Intelligent Convergence of Wired/Wireless Networks</a>
+                            <strong>Intelligent Convergence of Wired/Wireless Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -708,10 +771,12 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2010_1/SP20102/SP20102.html">Stochastic Process</a>
+                            <strong>Stochastic Process</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2010_1/SN20102/SN20102.html">Topics in Sensor Networks</a>
+                            <strong>Topics in Sensor Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -725,13 +790,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            Advanced Technology for Future Convergence Technology <a href="http://link.koreatech.ac.kr:8080/courses2/gracourse/TCP_Tutorial_-_Part_I.ppt">TCP-1</a>, <a href="http://link.koreatech.ac.kr:8080/courses2/gracourse/TCP_Tutorial_-_Part_II.ppt">TCP-2</a>, <a href="http://link.koreatech.ac.kr:8080/courses2/gracourse/Mobile_Sensor_Robots-Issues.ppt">Mobile Sensor Robots-Issues</a>, <a href="http://link.koreatech.ac.kr:8080/courses2/gracourse/TCP_Tutorial_-_Part_III.ppt">TCP-3</a>
+                            <strong>Advanced Technology for Future Convergence Technology</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2009_1/MSR/syllabus.html">Mobile Sensor Robots</a>
+                            <strong>Mobile Sensor Robots</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -744,13 +811,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_2/SN/syllabus.html">Topics of Sensor Networks</a>
+                            <strong>Topics of Sensor Networks</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2008_1/AUC/syllabus.html">Advanced Ubiquitous Computing</a>
+                            <strong>Advanced Ubiquitous Computing</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -763,13 +832,15 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_2/G_Course/syllabus.html">Wireless Internet</a>
+                            <strong>Wireless Internet</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2007_1/G_Course/syllabus.html">Simulation and Modeling</a>
+                            <strong>Simulation and Modeling</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                     <br/>
@@ -783,9 +854,13 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2006_1/mobile_communication/mobile_com_syllabus.pdf">Mobile Communication Network</a> <a href="http://link.koreatech.ac.kr:8080/courses2/2006_1/mobile_communication/paper_list.html" target="_blank" rel="noopener noreferrer">Paper Assignment</a>
+                            <strong>Mobile Communication Network</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
+                    <br/>
+                    <br/>
+                    <br/>
                     <br/>
                     <br/>
                     <br/>
@@ -795,14 +870,15 @@ permalink: /courses/
                 </div>
             </div>
         </article>
-        <article>
+        <article style="margin-top: -0.3em">
             <button class="accordion">Special Lectures</button>
             <div class="panel article-content-1 research-content">
                 <div style="margin-bottom: 3.5em;">
                     <h3 class="course_year">2013</h3>
                     <ol class="study">
                         <li>
-                            <a href="http://link.koreatech.ac.kr:8080/courses2/2013_1/AP-KOICA/AP-KOICA20131.html">KOICA - Algorithms</a>
+                            <strong>KOICA - Algorithms</strong>
+                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
