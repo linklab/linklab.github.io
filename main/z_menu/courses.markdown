@@ -33,13 +33,13 @@ permalink: /courses/
                     <ol class="study">
                          <li>
                             <strong>Deep Learning & Practice</strong>
-                            <a href="/lecture/2023/dl_practice" target="_blank">
+                            <a href="/lectures/2023/2/dl" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <strong>Artificial Intelligence Application & Practice</strong>
-                            <a href="/lecture/2023/ai_application_practice" target="_blank">
+                            <a href="/lectures/2023/2/ai_ap" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -521,7 +521,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Advanced Artificial Intelligence</strong>
-                            <a href="/lecture/2024/advanced_ai" target="_blank">
+                            <a href="/lectures/2024/2/advanced_ai" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -536,7 +536,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Data Science</strong>
-                            <a href="/lecture/2023/data_science" target="_blank">
+                            <a href="/lectures/2023/1/data_science" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
