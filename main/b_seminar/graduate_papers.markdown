@@ -303,6 +303,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+              <li>07월 15일 (월) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio. "Neural Combinatorial Optimization with Reinforcement Learning", ICLR, 2017.
+                    </strong>
+                    <a href="https://arxiv.org/abs/1611.09940" target="_blank">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>07월 11일 (목) 논문 세미나 – 김주봉
                     <br/>
                     <strong>
