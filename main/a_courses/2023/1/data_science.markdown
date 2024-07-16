@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lectures/2023/1/data_science
+permalink: /courses/2023/1/data_science
 ---
 
 <section style="overflow-wrap: anywhere; word-wrap: anywhere;">

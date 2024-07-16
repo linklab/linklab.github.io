@@ -33,13 +33,13 @@ permalink: /courses/
                     <ol class="study">
                          <li>
                             <strong>Deep Learning & Practice</strong>
-                            <a href="/lectures/2023/2/dl" target="_blank">
+                            <a href="/courses/2023/2/dl" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <strong>Artificial Intelligence Application & Practice</strong>
-                            <a href="/lectures/2023/2/ai_ap" target="_blank">
+                            <a href="/courses/2023/2/ai_ap" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -72,7 +72,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Artificial Intelligence Application & Practice</strong>
-                            <a href="/lecture/2022/ai_application_practice" target="_blank">
+                            <a href="/courses/2022/1/ai_application_practice" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -81,7 +81,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Algorithm & Practice</strong>
-                            <a href="/lecture/2022/algorithm" target="_blank">
+                            <a href="/courses/2022/1/algorithm_and_practice" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -93,13 +93,13 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Script Programming</strong>
-                            <a href="/lecture/2021/script_programming" target="_blank">
+                            <a href="/courses/2021/2/script_programming" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <strong>Artificial Intelligence Application & Practice</strong>
-                            <a href="/lecture/2021/ai_application_practice" target="_blank">
+                            <a href="/courses/2021/2/ai_application_practice" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -119,7 +119,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Algorithm & Practice</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=4600" target="_blank">
+                            <a href="/courses/2020/1/algorithm_and_practice" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -131,13 +131,13 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Service-Oriented Computing &amp; Practice</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=4273" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <strong>Script Programming</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=4270" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -146,7 +146,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Algorithm &amp; Practice</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3957" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -158,13 +158,13 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Service-Oriented Computing &amp; Practice</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3623" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
                             <strong>Script Programming</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3620" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -173,7 +173,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Algorithm &amp; Practice</strong>
-                            <a href="http://link.koreatech.ac.kr:8080/?page_id=3464" target="_blank">
+                            <a>
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -485,25 +485,19 @@ permalink: /courses/
                 <ol class="study">
                     <li>
                         <strong>강화학습 기초 - 기본 원리 및 이론</strong>
-                        <a href="/menu/courses/e_learning_rl_1" target="_blank">
+                        <a href="/courses/e_learning_rl_1" target="_blank">
                             <i class="fa fa-link" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li>
                         <strong>강화학습 응용 - 학습 유형별 알고리즘 및 응용</strong>
-                        <a href="/menu/courses/e_learning_rl_2" target="_blank">
+                        <a href="/courses/e_learning_rl_2" target="_blank">
                             <i class="fa fa-link" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li>
                         <strong>강화학습 심화 - 심층강화학습 기반 게임 제어</strong>
-                        <a href="/menu/courses/e_learning_rl_3" target="_blank">
-                            <i class="fa fa-link" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <strong>Python Programming</strong>
-                        <a href="http://link.koreatech.ac.kr:8080/courses2/SPE/syllabus.html" target="_blank">
+                        <a href="/courses/e_learning_rl_3" target="_blank">
                             <i class="fa fa-link" aria-hidden="true"></i>
                         </a>
                     </li>
@@ -521,7 +515,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Advanced Artificial Intelligence</strong>
-                            <a href="/lectures/2024/2/advanced_ai" target="_blank">
+                            <a href="/courses/2024/2/advanced_ai" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -536,12 +530,13 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Data Science</strong>
-                            <a href="/lectures/2023/1/data_science" target="_blank">
+                            <a href="/courses/2023/1/data_science" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                     </ol>
                     <div>
+                        <br/>
                         <br/>
                         <br/>
                         <br/>
@@ -558,7 +553,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Advanced Artificial Intelligence</strong>
-                            <a href="/lecture/2022/advanced_ai" target="_blank">
+                            <a href="/courses/2022/1/advanced_ai" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -576,7 +571,7 @@ permalink: /courses/
                     <ol class="study" style="margin-bottom: 2.0em;">
                         <li>
                             <strong>Seminar on Future Convergence</strong>
-                            <a href="/lecture/2021/seminar_future_convergence" target="_blank">
+                            <a href="/courses/2021/2/seminar_future_convergence" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -597,7 +592,9 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Data Science</strong>
-                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
+                            <a href="/courses/2020/1/data_science" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
                         </li>
                     </ol>
                 </div>
@@ -867,10 +864,12 @@ permalink: /courses/
                     <br/>
                     <br/>
                     <br/>
+                    <br/>
+                    <br/>
                 </div>
             </div>
         </article>
-        <article style="margin-top: -0.3em">
+        <article style="margin-top: -0.6em">
             <button class="accordion">Special Lectures</button>
             <div class="panel article-content-1 research-content">
                 <div style="margin-bottom: 3.5em;">
@@ -878,7 +877,6 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>KOICA - Algorithms</strong>
-                            <a><i class="fa fa-link" aria-hidden="true"></i></a>
                         </li>
                     </ol>
                 </div>
@@ -887,7 +885,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>강화학습 라이브러리 사용하기</strong>
-                            <a href="/menu/courses/rl_library" target="_blank">
+                            <a href="/courses/rl_library" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>

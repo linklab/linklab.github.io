@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lectures/2023/2/dl
+permalink: /courses/2023/2/dl
 ---
 
 <section style="overflow-wrap: anywhere; word-wrap: anywhere;">

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lectures/2023/2/ai_ap
+permalink: /courses/2023/2/ai_ap
 ---
 
 <section style="overflow-wrap: anywhere; word-wrap: anywhere;">
@@ -395,7 +395,7 @@ permalink: /lectures/2023/2/ai_ap
                                                     <br/>
 <!--
                                                         <div>
-                                                            <img src="/static/assets/images/research/model_based_model_free.jpg" />
+                                                            <img src="/assets/images/research/model_based_model_free.jpg" />
                                                         </div>
 -->
                                                     <h3 class="title-level-3">2. Course Information</h3>
