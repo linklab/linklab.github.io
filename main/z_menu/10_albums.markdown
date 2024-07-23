@@ -13,7 +13,7 @@ permalink: /albums/
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white; font-size: 120%; font-weight: bold" class="container-fluid">
+                <div style="background-color:white; font-size: 110%; font-weight: bold" class="container-fluid">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div style="padding:1.0em" class="content-wrapper">

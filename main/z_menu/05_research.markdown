@@ -7,7 +7,7 @@ permalink: /research/
 <style>
     @media (min-width: 1200px) {
         .container {
-            max-width: 1190px;
+            max-width: 1180px;
             padding: 0;
         }
     }
@@ -40,27 +40,30 @@ permalink: /research/
                                     <br/>
                                     <h4 class="title-level-4">2. Machine Learning&nbsp;&nbsp;&nbsp;<a
                                             href="/research/ml"><i class="fa fa-link"
-                                                                        aria-hidden="true"></i></a></h4>
+                                                                        aria-hidden="true"></i></a>
+                                    </h4>
+                                    <br/>
+                                    <h4 class="title-level-4">3. Combinatorial Optimization&nbsp;<a
+                                            href="/research/cop"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    </h4>
                                 </div>
                             </article>
                             <br/>
                             <article>
                                 <button class="accordion">Applications</button>
                                 <div class="panel article-content-1">
-                                    <h4 class="title-level-4">1. Combinatorial Optimization&nbsp;<a
-                                            href="/menu/research_or"><i class="fa fa-link" aria-hidden="true"></i></a></h4>
-                                    <br/>
-                                    <h4 class="title-level-4">2. Intelligent Networking (5G/6G)&nbsp;&nbsp;&nbsp;<a
-                                            href="/menu/research_in"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <h4 class="title-level-4">1. Intelligent Networking (5G/6G)&nbsp;&nbsp;&nbsp;<a
+                                            href="/research/network"><i class="fa fa-link" aria-hidden="true"></i></a>
                                     </h4>
                                     <br/>
-                                    <h4 class="title-level-4">3. Control of Internet of Things & Robotics&nbsp;&nbsp;<a
-                                            href="/menu/research_iot"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <h4 class="title-level-4">2. Control of Internet of Things & Robotics&nbsp;&nbsp;<a
+                                            href="/research/robotics"><i class="fa fa-link" aria-hidden="true"></i></a>
                                     </h4>
                                     <br/>
-                                    <h4 class="title-level-4">4. Financial Engineering&nbsp;&nbsp;&nbsp;<a
-                                            href="/menu/research_fe"><i
-                                            class="fa fa-link" aria-hidden="true"></i></a></h4>
+                                    <h4 class="title-level-4">3. Financial Engineering&nbsp;&nbsp;&nbsp;<a
+                                            href="/research/finance"><i
+                                            class="fa fa-link" aria-hidden="true"></i></a>
+                                    </h4>
                                 </div>
                             </article>
                             <br/>

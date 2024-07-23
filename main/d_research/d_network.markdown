@@ -1,56 +1,34 @@
-{# !!! research_areas.html page, anchor links are synchronized to the old link pages and resources #}
+---
+layout: page
+permalink: /research/network
+---
 
-{% extends "base.html" %}
-{% block title %} Reinforcement Learning (강화 학습) {% endblock %}
-{% block additional_style %}
-    {# custom list styles for current page #}
-    .list-style-1, .list-style-1 > :not(.list-style-2) {
-    font-size: 14px;
-    margin-left: 20px;
-    list-style-type: decimal;
+<style>
+    ol.study {
+        list-style: inside;
+        padding-top: 0.0em;
     }
-    .list-style-2, .list-style-2 * {
-    font-size: 14px;
-    margin-left: 20px;
-    list-style-type: circle;
+    .article-content-1 > ul, ol {
+        margin-top: 0em;
+        margin-left: 0px;
     }
-    .list-style-2 > :not(.list-style-1) {
-    margin-top:    5px;
-    margin-bottom: 10px;
+    @media (min-width: 1200px) {
+        .container {
+            max-width: 1190px;
+            padding: 0;
+        }
     }
-{% endblock %}
-
-{% block body %}
-<!-- page-title -->
-<section class="page-title centred"
-         style="background-image: url(/assets/images/landscape/koreatech_landscape_2.jpg);">
-    <div class="container">
-        <div class="content-box">
-            <div class="title">Intelligent Network</div>
-            <ul class="bread-crumb">
-                <li><a href="/">Home</a></li>
-                <li><a href="/menu/research">Research</a></li>
-                <li>Research Areas</li>
-                <li>Intelligent Network</li>
-            </ul>
-        </div>
-    </div>
-</section>
-<!-- page-title end -->
+</style>
 
 <section>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-
                 <div style="background-color:white;" class="container-fluid">
                         <!--Start Content Grid-->
                         <section class="row content" style="padding-bottom:100px">
-                            <section class="content-wrapper title-section">
-                                <h2 class="title-level-2">Intelligent Networking (5G/6G)</h2>
-                            </section>
-                            <section style="padding: 0px 30px; width:100%" class="content-wrapper">
+                            <section style="padding: 0px 3px; width:100%" class="content-wrapper">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6">
                                         <article>
@@ -489,10 +467,6 @@
         <!--End Container Div-->
     </div>
 </section>
-{% endblock %}
-
-<!-- script for accordion -->
-{% block additional_javascript %}
 <script type="text/javascript">
     var acc = document.getElementsByClassName("accordion");
 
@@ -512,4 +486,3 @@
         acc[i].click();
     }
 </script>
-{% endblock %}

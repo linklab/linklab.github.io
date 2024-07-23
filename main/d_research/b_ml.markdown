@@ -14,7 +14,7 @@ permalink: /research/ml
     }
     @media (min-width: 1200px) {
         .container {
-            max-width: 1190px;
+            max-width: 1200px;
             padding: 0;
         }
     }
@@ -26,9 +26,9 @@ permalink: /research/ml
         <div class="container">
             <div style="background-color:white;" class="container-fluid">
             <section class="row content" style="padding-bottom:100px">
-                <section style="padding: 0px 60px; width:100%" class="content-wrapper">
+                <section style="padding: 0px 7px; width:100%" class="content-wrapper">
                     <article>
-                        <button class="accordion">Fundamentals</button>
+                        <button class="accordion">Machine Learning - Fundamentals</button>
                         <div class="panel article-content-1 research-content" style="max-height: 983px;">
                             <ol class="study">
                                 <li>
@@ -78,7 +78,7 @@ permalink: /research/ml
                                     <ol style="padding-left: 1.0em">
                                         <li>
                                             Laboratory
-                                            <ol style="padding-left: 1.0em">
+                                            <ul style="padding-left: 1.0em">
                                                 <li>
                                                     RNN from scratch
                                                     <a href="https://colab.research.google.com/drive/1XQS3jw6IgFo2a-mi8lkq_Q67aLrqqzWU" target="_blank">
@@ -97,7 +97,7 @@ permalink: /research/ml
                                                         <img src="/assets/images/colab.png" width="5%" />
                                                     </a>
                                                 </li>
-                                            </ol>
+                                            </ul>
                                         </li>
                                     </ol>
                                 </li>
@@ -118,7 +118,7 @@ permalink: /research/ml
                                         </li>
                                         <li>
                                             Laboratory
-                                            <ol style="padding-left: 1.0em">
+                                            <ul style="padding-left: 1.0em">
                                                 <li>
                                                     Attention from scratch
                                                     <a href="https://colab.research.google.com/drive/1efbm9nLFHiVLPlG0POhxOsesF2LC_x92" target="_blank">
@@ -137,13 +137,14 @@ permalink: /research/ml
                                                         <img src="/assets/images/colab.png" width="5%" />
                                                     </a>
                                                 </li>
-                                            </ol>
+                                            </ul>
                                         </li>
                                     </ol>
                                 </li>
                             </ol>
                         </div>
                     </article>
+                    <br/>
                     <article>
                         <button class="accordion">Generation</button>
                         <div class="panel article-content-1 research-content" style="max-height: 983px;">
@@ -153,7 +154,7 @@ permalink: /research/ml
                                     <ol style="padding-left: 1.0em">
                                         <li>
                                             Laboratory
-                                            <ol style="padding-left: 1.0em">
+                                            <ul style="padding-left: 1.0em">
                                                 <li>
                                                     AE - Fashion MNIST
                                                     <a href="https://colab.research.google.com/drive/11FZpGDORJSS_gfKfsDVt0dCavdm0vQkU" target="_blank">
@@ -178,7 +179,7 @@ permalink: /research/ml
                                                         <img src="/assets/images/colab.png" width="5%" />
                                                     </a>
                                                 </li>
-                                            </ol>
+                                            </ul>
                                         </li>
                                     </ol>
                                 </li>
@@ -209,6 +210,10 @@ permalink: /research/ml
                 panel.style.maxHeight = panel.scrollHeight + "px";
             }
         });
+    }
+
+    for (var i = 0; i < acc.length; i++) {
+        acc[i].click();
     }
 
     for (var i = 0; i < acc.length; i++) {
