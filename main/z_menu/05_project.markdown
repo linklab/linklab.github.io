@@ -14,6 +14,13 @@ permalink: /project/
         margin-bottom: 2.5em;
         width: 100%;
     }
+
+    @media (min-width: 1200px) {
+        .container {
+            max-width: 1190px;
+            padding: 0;
+        }
+    }
 </style>
 <section>
     <div class="cw-content container-fluid">
@@ -22,10 +29,7 @@ permalink: /project/
                 <!--Start Container Div-->
                 <div style="background-color:white;" class="container-fluid">
                     <section class="row content" style="padding-bottom:100px">
-                        <section class="content-wrapper title-section">
-                            <h2 class="title-level-1">Projects</h2>
-                        </section>
-                        <section style="padding: 0px 30px; width:100%" class="content-wrapper">
+                        <section style="padding: 0px 0px; width:100%" class="content-wrapper">
                             <article>
                                 <button class="accordion">2024</button>
                                 <div class="panel article-content-1">
