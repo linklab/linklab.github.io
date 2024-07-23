@@ -55,7 +55,7 @@ permalink: /invited_talks/
                             <h3 class = "title-level-3 year"> 2020 </h3>
                             <p>
                                 AI을 활용한 게임 에이전트 학습시키기, <a href="https://conference.koreatech.ac.kr/main.do" target="_blank">2020 인공지능 기술교육 비대면 컨퍼런스</a>, 40 Minutes, 2020년 12월 04일
-                                <a href="https://colab.research.google.com/drive/16ruPXfbMok_KOL7Yrbp69wpe3yKI518x?usp=sharing" target="_blank"><img src="/static/assets/images/colab.png" width="6%" /></a>
+                                <a href="https://colab.research.google.com/drive/16ruPXfbMok_KOL7Yrbp69wpe3yKI518x?usp=sharing" target="_blank"><img src="/assets/images/colab.png" width="6%" /></a>
                             </p>
                             <p><!-- more --></p>
                             <p>멀티 에이전트 강화 학습과 지능형 네트워크, <a href="http://ietf.or.kr/board/board.php?task=view&db=board10&no=52&page=1&search=&searchKey=&category=&pageID=ID12302604091" target="_blank">IETF 미러포럼 – AI for/in Network 기술 워크숍</a>, 40 Minutes, 2020년 10월 15일</p>
@@ -428,3 +428,23 @@ permalink: /invited_talks/
     </div>
     <!--End Container Div-->
 </div>
+
+<script type="text/javascript">
+    var acc = document.getElementsByClassName("accordion");
+
+    for (var i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+            this.classList.toggle("acc_active");
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+            } else {
+                panel.style.maxHeight = panel.scrollHeight + "px";
+            }
+        });
+    }
+
+    for (var i = 0; i < acc.length; i++) {
+        acc[i].click();
+    }
+</script>

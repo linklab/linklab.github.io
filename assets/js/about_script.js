@@ -10,7 +10,7 @@ $(document).ready(function() {
 	if( mobile == false ) {
 
 		// load fullpage
-	    $.getScript( "/static/assets/js/jquery.fullPage.min.js", function() {
+	    $.getScript( "/assets/js/jquery.fullPage.min.js", function() {
 	    	$('.main').fullpage({
 	   			verticalCentered: false,
 				responsive: 767,
@@ -31,7 +31,7 @@ $(document).ready(function() {
 	    });
 
 	    // load threejs
-		$.getScript( "/static/assets/js/three.min.js");
+		$.getScript( "/assets/js/three.min.js");
 
 		// keep scrolling
 		$('body').on('click', '.title h1', function() {

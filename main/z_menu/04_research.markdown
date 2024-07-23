@@ -33,13 +33,13 @@ permalink: /research/
                                 <button class="accordion">Fundamentals & Algorithms</button>
                                 <div class="panel article-content-1">
                                     <h4 class="title-level-4">1. Reinforcement Learning&nbsp;&nbsp;&nbsp;
-                                        <a href="/menu/research_rl">
+                                        <a href="/research/rl">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
                                     </h4>
                                     <br/>
                                     <h4 class="title-level-4">2. Machine Learning&nbsp;&nbsp;&nbsp;<a
-                                            href="/menu/research_ml"><i class="fa fa-link"
+                                            href="/research/ml"><i class="fa fa-link"
                                                                         aria-hidden="true"></i></a></h4>
                                 </div>
                             </article>
@@ -71,11 +71,23 @@ permalink: /research/
         </div>
     </div>
 </section>
-
 <script type="text/javascript">
     var acc = document.getElementsByClassName("accordion");
+
+    for (var i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+            this.classList.toggle("acc_active");
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+            } else {
+                panel.style.maxHeight = panel.scrollHeight + "px";
+            }
+        });
+    }
 
     for (var i = 0; i < acc.length; i++) {
         acc[i].click();
     }
 </script>
+

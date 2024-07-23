@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<div id="basePage-up"></div>
+
+<script type='text/javascript' src='/assets/js/script.min11b8.js?ver=4.5'></script>
+<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/dataTables.bootstrap5.js"></script>
 
   {%- include head.html -%}
 
@@ -14,39 +20,7 @@
     </main>
 
     {%- include footer.html -%}
-    <div id="basePage-up"></div>
 
-    <script type='text/javascript' src='/static/assets/js/script.min11b8.js?ver=4.5'></script>
-    <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/dataTables.bootstrap5.js"></script>
-
-    <script type="text/javascript">
-        var baseUrl = "index.html";
-
-        var acc = document.getElementsByClassName("accordion");
-
-        for (var i = 0; i < acc.length; i++) {
-            acc[i].addEventListener("click", function () {
-                this.classList.toggle("acc_active");
-                var panel = this.nextElementSibling;
-                if (panel.style.maxHeight) {
-                    panel.style.maxHeight = null;
-                } else {
-                    panel.style.maxHeight = panel.scrollHeight + "px";
-                }
-            });
-        }
-    </script>
-
-
-    <script type="text/javascript">
-        var acc = document.getElementsByClassName("accordion");
-
-        for (var i = 0; i < acc.length; i++) {
-            acc[i].click();
-        }
-    </script>
 
   </body>
 
