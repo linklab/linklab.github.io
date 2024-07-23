@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Projects
+permalink: /projects/
 ---
 
 <style>
@@ -84,6 +84,23 @@ permalink: /project/
                                             </tr>
                                             </tbody>
                                         </table>
+                                    </p>
+                                    <p>
+                                        <strong>Development of Acceleration Technology for Learning Financial and Economic Simulations Based on Meta Deep Reinforcement Learning
+                                        </strong><br/>
+                                        <strong>(메타 심층 강화학습 기반 재정 및 경제 시뮬레이션 학습 가속화 기술 개발)</strong><br/>
+                                        - Duration: Aug. 10, 2023 ~ Nov. 30, 2023<br/>
+                                        - Sponsor: Electronics and Telecommunications Research Institute (ETRI)<br/>
+                                        - Role: Project manager (연구책임)
+                                    </p>
+                                    <br/>
+                                    <p>
+                                        <strong>Research on Quantum Key Resource Management Environment Based on Deep Reinforcement Learning
+                                        </strong><br/>
+                                        <strong>(심층강화학습 기반 양자키 자원 관리 환경 연구)</strong><br/>
+                                        - Duration: April 01, 2023 ~ Oct. 31, 2023<br/>
+                                        - Sponsor: Korea Institute of Science and Technology Information (KISTI)<br/>
+                                        - Role: Project manager (연구책임)
                                     </p>
                                 </div>
                             </article>
@@ -176,6 +193,7 @@ permalink: /project/
                                         - Sponsor: Electronics and Telecommunications Research Institute (ETRI)<br/>
                                         - Role: Project manager (연구책임)
                                     </p>
+                                    <br/>
                                     <p>
                                         <strong>Research on Quantum Key Resource Management Environment Based on Deep Reinforcement Learning
                                         </strong><br/>

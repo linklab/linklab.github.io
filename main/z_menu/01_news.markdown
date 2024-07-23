@@ -27,6 +27,14 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table table-borderless">
+                                <tr class="news" yaer="2024" month="September" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        September 01, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        석영준 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2024" month="July" day="16">
                                     <td class="text-md-right" style="width: 20%">
                                         July 16, 2024
@@ -56,7 +64,7 @@ permalink: /news/
                                         March 30, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        눌란벡 키즈 아셀, LINK 연구실의 신입 석사과정 학생으로 입실
+                                        눌란벡 키즈 아셀, LINK 연구실의 신입 석사과정 학생으로 공부/연구 시작
                                     </td>
                                 </tr>
                                 <tr class="news" yaer="2024" month="March" day="02">
@@ -64,7 +72,29 @@ permalink: /news/
                                         March 02, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        최요한 석사, LINK 연구실의 신입 박사과정 학생으로 입실
+                                        최요한 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2024" month="January" day="23">
+                                    <td class="text-md-right" style="width: 20%">
+                                        January 23, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        LINK 연구실 김주봉 박사, [축] 저명 학술지 <strong>Neural Networks (IF: 7.6, NEUROSIENCE 분야 상위 8.18%)</strong>에 1저자 논문 Acceptance Letter 수신 
+                                        <a href="https://www.sciencedirect.com/science/article/pii/S089360802400073X" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2023" month="September" day="26">
+                                    <td class="text-md-right" style="width: 20%">
+                                        September 26, 2023
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        LINK 연구실 임현교 박사, [축] 저명 학술지 <strong>IEEE Internet of Things Journal (IF: 10.6, COMPUTER SCIENCE, INFORMATION SYSTEMS 분야 상위 2.2%)</strong>에 1저자 논문 Acceptance Letter 수신 
+                                        <a href="https://ieeexplore.ieee.org/abstract/document/10263775" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
                                     </td>
                                 </tr>
                                 <tr class="news" year="2023" month="September" day="1">
@@ -91,7 +121,18 @@ permalink: /news/
                                         March 02, 2023
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        지창훈 석사, LINK 연구실의 신입 박사과정 학생으로 입실
+                                        지창훈 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
+                                    </td>
+                                </tr>
+                                <tr class="news" yaer="2021" month="Novmember" day="03">
+                                    <td class="text-md-right" style="width: 20%">
+                                        Novmember 03, 2021
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        한연희 교수님, 한국기술교육대학교 개교30주년 미래기술발표에서 "범용인공지능을 향한 강화학습 균형 제어" 주제로 기술발표 수행
+                                        <a href="https://www.youtube.com/watch?v=Sx2Gp2srhlU" target="_blank">
+                                            <i class="fa fa-youtube" style="color: red"></i>
+                                        </a>
                                     </td>
                                 </tr>
                             </table>
