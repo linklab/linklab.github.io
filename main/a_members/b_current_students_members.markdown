@@ -46,7 +46,7 @@ permalink: /members/students_and_members
                             <hr>
                             <ul class="topic_email">
                                 <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
-                                <li><b>Topic</b>:Game Development, Reinforcement Learning</li>
+                                <li><b>Topic</b>: Reinforcement Learning</li>
                                 <li><b>Email</b>: <a href="mailto:chb3350@koreatech.ac.kr">chb3350@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
@@ -93,7 +93,7 @@ permalink: /members/students_and_members
                             <ul class="topic_email">
                                 <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
                                 <li><b>Topic</b>: Reinforcement learning</li>
-                                <li><b>Email</b>: <a href="mailto:yoweif@koreatech.ac.kr ">yoweif@koreatech.ac.kr </a></li>
+                                <li><b>Email</b>: <a href="mailto:yoweif@koreatech.ac.kr">yoweif@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ permalink: /members/students_and_members
                             <ul class="topic_email">
                                 <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
                                 <li><b>Topic</b>: Reinforcement learning</li>
-                                <li><b>Email</b>: <a href="mailto:dsb04163@koreatech.ac.kr ">dsb04163@koreatech.ac.kr </a></li>
+                                <li><b>Email</b>: <a href="mailto:dsb04163@koreatech.ac.kr">dsb04163@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
                     </div>
@@ -133,13 +133,13 @@ permalink: /members/students_and_members
                                  alt="">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">아셀</h4>
+                            <h4 class="card-title">눌란벡 키즈 아셀</h4>
                             <h6 class="card-category">M.S. Student<br>(March 1, 2024 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
                                 <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
                                 <li><b>Topic</b>: Reinforcement learning</li>
-                                <li><b>Email</b>: <a href="mailto:yoweif@koreatech.ac.kr ">yoweif@koreatech.ac.kr </a></li>
+                                <li><b>Email</b>: <a href="mailto:aselbaekki@koreatech.ac.kr">aselbaekki@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
                     </div>

@@ -18,19 +18,19 @@ permalink: /members/
                     <div class="row content">
                         <div style="padding:1.0em" class="content-wrapper">
                             <h4 class = "title-level-4 year"> 
-                                Professor
-                                <a href="/members/professor" target="_blank">
+                                LINK Lab. Director: Prof. Youn-Hee Han
+                                <a href="/members/professor">
                                     <i class="fa fa-link" aria-hidden="true"></i>
                                 </a>
                             </h4>
                             <h4 class = "title-level-4 year"> 
-                                Current Students & Members 
+                                LINK Lab. Members (Current Students & Researchers) 
                                 <a href="/members/students_and_members" target="_blank">
                                     <i class="fa fa-link" aria-hidden="true"></i>
                                 </a>
                             </h4>
                             <h4 class = "title-level-4 year"> 
-                                Alumni
+                                LINK Lab. Alumni
                                 <a href="/members/alumni" target="_blank">
                                     <i class="fa fa-link" aria-hidden="true"></i>
                                 </a>
