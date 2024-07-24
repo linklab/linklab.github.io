@@ -5,17 +5,24 @@ permalink: /news/
 ---
 <style>
     .news {
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         font-size: 1em;
         font-weight: bold;
     }
     
     .news td {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
         color: darkorange;
     }
 
     .news .desc {
         color: darkslategray;
+    }
+
+    @media (min-width: 1200px) {
+        .container {
+            max-width: 1180px;
+            padding: 0;
+        }
     }
 </style>
 <section>
@@ -26,8 +33,8 @@ permalink: /news/
                 <div style="background-color:white; font-size: 110%;">
                     <!--Start Content Grid-->
                     <div class="row content">
-                            <table class="table table-borderless">
-                                <tr class="news" yaer="2024" month="September" day="01">
+                            <table class="table">
+                                <tr class="news" year="2024" month="09" day="01">
                                     <td class="text-md-right" style="width: 20%">
                                         September 01, 2024
                                     </td>
@@ -35,7 +42,7 @@ permalink: /news/
                                         석영준 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
                                     </td>
                                 </tr>
-                                <tr class="news" year="2024" month="July" day="16">
+                                <tr class="news" year="2024" month="07" day="16">
                                     <td class="text-md-right" style="width: 20%">
                                         July 16, 2024
                                     </td>
@@ -43,7 +50,7 @@ permalink: /news/
                                         LINK 연구실 김주봉 박사, [축] 정부출연연구소인 <strong>한국과학기술정보연구원(KISTI)</strong> 양자정보연구단에 연구원으로 입사
                                     </td>
                                 </tr>
-                                <tr class="news" year="2024" month="June" day="25">
+                                <tr class="news" year="2024" month="06" day="25">
                                     <td class="text-md-right" style="width: 20%">
                                         June 25, 2024
                                     </td>
@@ -51,15 +58,18 @@ permalink: /news/
                                         한연희 교수님, 한국 인터넷 산학연 연구자들의 가장 큰 규모의 행사인 KRNET2024에서 "IETF 네트워크 디지털 트윈 및 양자 인터넷 표준화 현황" 주제로 세션 발표
                                     </td>
                                 </tr>
-                                <tr class="news" year="2024" month="June" day="09">
+                                <tr class="news" year="2024" month="06" day="09">
                                     <td class="text-md-right" style="width: 20%">
                                         June 09, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         LINK 연구실 4학년 학부생 (곽재우 외 4인) 졸업작품: <strong>ChatGPT 기반 스터디멘토 서비스</strong>, 2024년 컴퓨터공학부 최우수 졸업작품으로 선정
+                                        <a href="https://www.youtube.com/watch?v=k7lPh06q0qw" target="_blank">
+                                            <i class="fa fa-youtube" style="color: red"></i>
+                                        </a>
                                     </td>
                                 </tr>
-                                <tr class="news" yaer="2024" month="March" day="30">
+                                <tr class="news" year="2024" month="03" day="30">
                                     <td class="text-md-right" style="width: 20%">
                                         March 30, 2024
                                     </td>
@@ -67,7 +77,7 @@ permalink: /news/
                                         눌란벡 키즈 아셀, LINK 연구실의 신입 석사과정 학생으로 공부/연구 시작
                                     </td>
                                 </tr>
-                                <tr class="news" yaer="2024" month="March" day="02">
+                                <tr class="news" year="2024" month="03" day="02">
                                     <td class="text-md-right" style="width: 20%">
                                         March 02, 2024
                                     </td>
@@ -75,7 +85,18 @@ permalink: /news/
                                         최요한 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
                                     </td>
                                 </tr>
-                                <tr class="news" year="2024" month="January" day="23">
+                                <tr class="news" year="2024" month="03" day="02">
+                                    <td class="text-md-right" style="width: 20%">
+                                        March 02, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        울라 이산 연구 교수, [축] LINK 연구실에서의 연구 성과를 인정 받아 <strong>대만의 Yuan Ze University</strong> 정년 트랙 교수(Tenure-Track Professor)로 임용되어 강의/연구를 시작함
+                                        <a href="https://www.cse.yzu.edu.tw/en/people/professor?name=Ihsan%20Ullah" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2024" month="01" day="23">
                                     <td class="text-md-right" style="width: 20%">
                                         January 23, 2024
                                     </td>
@@ -86,7 +107,7 @@ permalink: /news/
                                         </a>
                                     </td>
                                 </tr>
-                                <tr class="news" year="2023" month="September" day="26">
+                                <tr class="news" year="2023" month="09" day="26">
                                     <td class="text-md-right" style="width: 20%">
                                         September 26, 2023
                                     </td>
@@ -97,15 +118,15 @@ permalink: /news/
                                         </a>
                                     </td>
                                 </tr>
-                                <tr class="news" year="2023" month="September" day="1">
+                                <tr class="news" year="2023" month="09" day="01">
                                     <td class="text-md-right" style="width: 20%">
-                                        September 1, 2023
+                                        September 01, 2023
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         LINK 연구실 임현교 박사, [축] 정부출연연구소인 <strong>한국과학기술정보연구원(KISTI)</strong> 양자정보연구단에 연구원으로 입사
                                     </td>
                                 </tr>
-                                <tr class="news" yaer="2023" month="April" day="26">
+                                <tr class="news" year="2023" month="04" day="26">
                                     <td class="text-md-right" style="width: 20%">
                                         April 26, 2023
                                     </td>
@@ -116,7 +137,7 @@ permalink: /news/
                                         </a>
                                     </td>
                                 </tr>
-                                <tr class="news" yaer="2023" month="March" day="02">
+                                <tr class="news" year="2023" month="03" day="02">
                                     <td class="text-md-right" style="width: 20%">
                                         March 02, 2023
                                     </td>
@@ -124,15 +145,42 @@ permalink: /news/
                                         지창훈 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
                                     </td>
                                 </tr>
-                                <tr class="news" yaer="2021" month="Novmember" day="03">
+                                <tr class="news" year="2021" month="11" day="03">
                                     <td class="text-md-right" style="width: 20%">
-                                        Novmember 03, 2021
+                                        November 03, 2021
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         한연희 교수님, 한국기술교육대학교 개교30주년 미래기술발표에서 "범용인공지능을 향한 강화학습 균형 제어" 주제로 기술발표 수행
                                         <a href="https://www.youtube.com/watch?v=Sx2Gp2srhlU" target="_blank">
                                             <i class="fa fa-youtube" style="color: red"></i>
                                         </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2021" month="10" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        September 01, 2021
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        울라 이산 박사후 연구원, LINK 연구실에서 연구 교수(Research Professor)로 연구 시작
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2020" month="11" day="11">
+                                    <td class="text-md-right" style="width: 20%">
+                                        November 11, 2020
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        한연희 교수님이 사업단장으로 한국기술교육대학교 4단계 BK21 대학원 과제 선정 받음 (7년간 34억)
+                                        <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2015906" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2020" month="09" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        September 01, 2020
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        울라 이산 박사, LINK 연구실에서 박사후 연구원(Post Doctoral Researcher)로 연구 시작
                                     </td>
                                 </tr>
                             </table>
