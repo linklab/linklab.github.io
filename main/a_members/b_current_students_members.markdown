@@ -151,7 +151,7 @@ permalink: /members/students_and_members
             <div class="title-level-2">Undergraduate</div>
         </div>
         <br/>
-        <h3>17기</h3>
+        <h3>18기</h3>
         <div class="row wrapper-students">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
@@ -159,73 +159,13 @@ permalink: /members/students_and_members
                         <div class="card-header card-avatar">
                             <img class="img"
                                  src="/assets/images/members/anonymous_man.png"
-                                 alt="Sang-Woo Kim (김상우)">
+                                 alt="곽재우">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Sang-Woo Kim (김상우)</h4>
-                            <h6 class="card-category">Undergraduate<br/>(March 1, 2022 ~ Present)</h6>
+                            <h4 class="card-title">곽재우</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <li/>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                <div class="item-student">
-                    <div class="card card-profile">
-                        <div class="card-header card-avatar">
-                            <img class="img"
-                                 src="/assets/images/members/김성원.jpg"
-                                 alt="Sung-Won Kim (김성원)">
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Sung-Won Kim (김성원)</h4>
-                            <h6 class="card-category">Undergraduate<br/>(March 1, 2022 ~ Present)</h6>
-                            <hr>
-                            <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                <div class="item-student">
-                    <div class="card card-profile">
-                        <div class="card-header card-avatar">
-                            <img class="img"
-                                 src="/assets/images/members/김문웅.png"
-                                 alt="Moon-Woong Kim (김문웅)">
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Moon-Woong Kim (김문웅)</h4>
-                            <h6 class="card-category">Undergraduate<br/>(March 1, 2022 ~ Present)</h6>
-                            <hr>
-                            <ul class="topic_email">
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                <div class="item-student">
-                    <div class="card card-profile">
-                        <div class="card-header card-avatar">
-                            <img class="img"
-                                 src="/assets/images/members/손영진.jpg"
-                                 alt="Young-Jin Son (손영진)">
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Young-Jin Son (손영진)</h4>
-                            <h6 class="card-category">Undergraduate<br/>(March 1, 2022 ~ Present)</h6>
-                            <hr>
-                            <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
-                                </li>
                             </ul>
                         </div>
                     </div>
@@ -237,36 +177,195 @@ permalink: /members/students_and_members
                         <div class="card-header card-avatar">
                             <img class="img"
                                  src="/assets/images/members/anonymous_man.png"
-                                 alt="Joo-Won Cha (차주원)">
+                                 alt="김건우">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Joo-Won Cha (차주원)</h4>
-                            <h6 class="card-category">Undergraduate<br/>(March 1, 2022 ~ Present)</h6>
+                            <h4 class="card-title">김건우</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
                                 <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
-                                </li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_man.png"
+                                 alt="김준곤">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">김준곤</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_man.png"
+                                 alt="전경호">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">전경호</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_woman.png"
+                                 alt="윤아현">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">윤아현</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
                         <div class="card-body" style="border-style: solid;">
-                            <h4 class="card-title">졸업작품: 딥러닝 기반 위험 소리 감지 앱</h4>
+                            <h4 class="card-title">졸업작품: ChatGPT 기반 스터디멘토 서비스</h4>
                             <ul>
-                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/029tjyq88wtdp3f/%EC%88%9C%EB%B2%8826_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%9C%84%ED%97%98%20%EC%86%8C%EB%A6%AC%20%EA%B0%90%EC%A7%80%20%EC%95%B1_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
-                                <li>졸업작품 시연영상: <a href="#" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/x156zge6q32siohc3d2xx/22_ChatGPT-_.pdf?rlkey=kapef9pmdacgn74tea38fhgus&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 시연영상: <a href="https://www.youtube.com/watch?v=k7lPh06q0qw" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row wrapper-students">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_man.png"
+                                 alt="조관희">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">조관희</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_man.png"
+                                 alt="박상윤">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">박상윤</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_man.png"
+                                 alt="문선호">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">문선호</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_man.png"
+                                 alt="김도형">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">김도형</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/anonymous_woman.png"
+                                 alt="이유찬">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">이유찬</h4>
+                            <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-body" style="border-style: solid;">
+                            <h4 class="card-title">졸업작품: 숙박 편의성까지 고려한 최적의 여행 경로 추천 서비스</h4>
+                            <ul>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/0we514777f7gjrscoyfv4/27_-_-_-_-_-_-_-_-_-_.pdf?rlkey=6xbunfh3pd8auifjdsinmutxj&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <!--<li>졸업작품 시연영상: <a href="https://www.youtube.com/watch?v=k7lPh06q0qw" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>-->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
         <br/>
