@@ -40,7 +40,7 @@ permalink: /news/
                                         September 01, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        석영준 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
+                                        석영준 석사, LINK 연구실의 신입 박사과정 학생으로 연구 시작
                                     </td>
                                 </tr>
                                 <tr class="news" year="2024" month="07" day="16">
@@ -75,7 +75,7 @@ permalink: /news/
                                         March 30, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        눌란벡 키즈 아셀, LINK 연구실의 신입 석사과정 학생으로 공부/연구 시작
+                                        눌란벡 키즈 아셀, LINK 연구실의 신입 석사과정 학생으로 연구 시작
                                     </td>
                                 </tr>
                                 <tr class="news" year="2024" month="03" day="02">
@@ -83,7 +83,7 @@ permalink: /news/
                                         March 02, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        최요한 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
+                                        최요한 석사, LINK 연구실의 신입 박사과정 학생으로 연구 시작
                                     </td>
                                 </tr>
                                 <tr class="news" year="2024" month="03" day="02">
@@ -143,7 +143,7 @@ permalink: /news/
                                         March 02, 2023
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        지창훈 석사, LINK 연구실의 신입 박사과정 학생으로 공부/연구 시작
+                                        지창훈 석사, LINK 연구실의 신입 박사과정 학생으로 연구 시작
                                     </td>
                                 </tr>
                                 <tr class="news" year="2021" month="11" day="03">
