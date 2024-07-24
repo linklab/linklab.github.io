@@ -46,15 +46,17 @@ fetch('https://linklab.github.io/news/')
     // Select all <tr> elements
     const rows = doc.querySelectorAll('tr');
     
-    // Get the latest 5 <tr> elements
-    const latestFiveRows = Array.from(rows).slice(-5);
+    // Extract the latest 5 <tr> elements
+    let latestFiveRows = Array.from(rows).slice(0, 5);
     
     // Select the table in the current page where the data will be inserted
     const table = document.querySelector('table');
     
     latestFiveRows.forEach(row => {
-      // Select all <td> elements within the <tr>
-      const cells = row.querySelectorAll('td');
+      // Extract the year, month, and day attributes from the <tr>
+      const year = row.getAttribute('year');
+      const month = row.getAttribute('month');
+      const day = row.getAttribute('day');
       
       // Create a new <tr> element
       const newRow = document.createElement('tr');
@@ -62,14 +64,17 @@ fetch('https://linklab.github.io/news/')
       // Create and populate the date <td> element
       const dateCell = document.createElement('td');
       dateCell.className = 'date';
-      dateCell.textContent = cells[0].textContent;
+      dateCell.textContent = `${year}-${month}-${day}`;
       newRow.appendChild(dateCell);
       
-      // Create and populate the description <td> element
-      const descCell = document.createElement('td');
-      descCell.className = 'desc';
-      descCell.textContent = cells[1].textContent;
-      newRow.appendChild(descCell);
+      // Select the description <td> element within the <tr>
+      const descCell = row.querySelector('.desc');
+      
+      // Create and populate the description <td> element in the new row
+      const newDescCell = document.createElement('td');
+      newDescCell.className = 'desc';
+      newDescCell.innerHTML = descCell.innerHTML; // Copy the HTML content
+      newRow.appendChild(newDescCell);
       
       // Append the new row to the table
       table.appendChild(newRow);
