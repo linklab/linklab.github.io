@@ -158,7 +158,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/곽재우.png"
                                  alt="곽재우">
                         </div>
                         <div class="card-body">
@@ -176,7 +176,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/김건우.png"
                                  alt="김건우">
                         </div>
                         <div class="card-body">
@@ -195,7 +195,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/김준곤.png"
                                  alt="김준곤">
                         </div>
                         <div class="card-body">
@@ -213,7 +213,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/전경호.png"
                                  alt="전경호">
                         </div>
                         <div class="card-body">
@@ -232,7 +232,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_woman.png"
+                                 src="/assets/images/members/윤아현.png"
                                  alt="윤아현">
                         </div>
                         <div class="card-body">
@@ -266,7 +266,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/조관희.png"
                                  alt="조관희">
                         </div>
                         <div class="card-body">
@@ -284,7 +284,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/박상윤.jpg"
                                  alt="박상윤">
                         </div>
                         <div class="card-body">
@@ -303,7 +303,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/문선호.jpg"
                                  alt="문선호">
                         </div>
                         <div class="card-body">
@@ -321,7 +321,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/김도형.jpg"
                                  alt="김도형">
                         </div>
                         <div class="card-body">
@@ -340,7 +340,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/이유찬.jpg"
                                  alt="이유찬">
                         </div>
                         <div class="card-body">
