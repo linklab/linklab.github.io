@@ -49,6 +49,24 @@ layout: page
         color: darkslategray;
         width: 80%;
     }
+
+    .right_padding {
+        padding: 0;
+        padding-right: 1.0em !important;
+        margin: 0 !important;
+    }
+
+    .left_padding {
+        padding: 0;
+        padding-left: 1.0em !important;
+        margin: 0 !important;
+    }
+
+    @media (min-width: 1200px) {
+        .second_label_photos {
+            margin-top: -0.6em;
+        }
+    }
 </style>
 
 <div class="row">
@@ -66,18 +84,18 @@ layout: page
         <span class="title">■ LINK 연구원</span>
         <div class="solid_border">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 left_padding">
                     <img src="/assets/images/members/link_lab_member_2023.jpg" width="100%" height="96%"/>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 right_padding">
                     <img src="/assets/images/members/link_lab_member_2008.jpg" width="100%" height="96%"/>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-6">
+            <div class="row second_label_photos">
+                <div class="col-md-6 left_padding">
                     <img src="/assets/images/members/link_lab_member_2017.jpg" width="100%" height="99%"/>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 right_padding">
                     <img src="/assets/images/members/link_lab_member_2016.jpg" width="100%" height="99%"/>
                 </div>
             </div>
@@ -145,7 +163,82 @@ layout: page
         </div>
     </div>
 </div>
-
+<br/>
+<div class="row">
+    <div class="col-md-12">
+        <span class="title">■ Highlighted Research Outcome Videos</span>
+        <div class="recruit">
+          <div class="row">
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div>
+                      <iframe src="https://www.youtube.com/embed/ijdO3UNL4Bs"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          LINK 연구실 제작 MARL (Multi-Agent RL) 라이브러리로 훈련시킨 SMAC (StarCraft Multi-Agent Challenge) 미니 게임 제어
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div>
+                      <iframe src="https://www.youtube.com/embed/MIi-kOs5SK4"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          LINK 연구실 제작 다중 AGV 이동 및 충돌 제어 및 비교 시물레이션
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div>
+                      <iframe src="https://www.youtube.com/embed/V1UmPAgLx6U"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          한국기술교육대학교 30주년 미래기술전시회 행사에서 한연희 교수님 기술 발표 영상 (2021년 11월)
+                      </div>
+                  </div>
+              </div>
+             <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div>
+                      <iframe src="https://www.youtube.com/embed/7kGorLGhEJY"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          LINK 연구실 제작 MARL (Multi-Agent RL) 라이브러리로 훈련시킨 공장 자동화: 물류 분류 최적 경로 제어
+                      </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div>
+                      <iframe src="https://www.youtube.com/embed/1XD9OipE9c8"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          회전형 2단 도립 진자(Rotary Double Inverted Pendulum)에 대한 심층강화학습 기반 Swing Up & Balancing 제어
+                      </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div>
+                      <iframe src="https://www.youtube.com/embed/c_rCl-1RVCs"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          회전형 도립 진자(Rotary Inverted Pendulum) 3대를 활용한 엽합(Federated) 심층강화학습 기반 Swing Up & Balancing 제어 가속화
+                      </div>
+                  </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
 <script type="text/javascript">
 fetch('https://linklab.github.io/news/')
   .then(response => response.text())
