@@ -125,7 +125,7 @@ layout: page
 <br/>
 <div class="row">
     <div class="col-md-12">
-        <span class="title">■ 컴퓨터공학부 LINK Lab. 대학원생/예비 대학원생(학부연구생) 모집</span>
+        <span class="title">■ 컴퓨터공학부 LINK 연구실 대학원생/예비 대학원생(학부연구생) 모집</span>
         <div class="recruit">
             <div>
                 한국기술교육대학교 컴퓨터공학부 Link 연구실에서는 다음과 같은 연구 분야에서 함께 연구할 열정적이고 유능한 대학원생을 모집하고 있습니다.
