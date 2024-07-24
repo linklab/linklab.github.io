@@ -6,6 +6,19 @@ layout: page
 ---
 
 <style>
+    .page-content {
+        padding: 0px 0;
+        flex: 1;
+    }
+
+    .lab_title{
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        color: black;
+        font-size: 2.0em;
+        font-weight: bold;
+        padding-bottom: 1.0em;
+    }
+
     .title {
         font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         color: black;
@@ -68,7 +81,14 @@ layout: page
         }
     }
 </style>
-
+<div class="row lab_title">
+    <div class="col-md-12 text-center">
+      한국기술교육대학교 지능형네트워크 연구실
+    </div>
+    <div class="col-md-12 text-center" style="margin-top: 0.5em; font-size: 0.75em">
+      - Laboratory of Intelligent Networks (LINK) at KOREATECH - 
+    </div>
+</div>
 <div class="row">
     <div class="col-md-6">
         <span class="title">■ LINK 연구실 뉴스</span> 
