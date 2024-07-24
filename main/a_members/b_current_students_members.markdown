@@ -340,7 +340,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_woman.png"
+                                 src="/assets/images/members/anonymous_man.png"
                                  alt="이유찬">
                         </div>
                         <div class="card-body">
