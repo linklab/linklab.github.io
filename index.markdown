@@ -64,18 +64,22 @@ layout: page
     </div>
     <div class="col-md-6">
         <span class="title">■ LINK 연구원</span>
-        <div class="row solid_border" style="width: 102.5%">
-            <div class="col-md-6" style="padding: 0; margin: 0">
-                <img src="/assets/images/members/link_lab_member_2023.jpg" width="98%" height="96%"/>
+        <div class="solid_border">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="/assets/images/members/link_lab_member_2023.jpg" width="100%" height="96%"/>
+                </div>
+                <div class="col-md-6">
+                    <img src="/assets/images/members/link_lab_member_2008.jpg" width="100%" height="96%"/>
+                </div>
             </div>
-            <div class="col-md-6" style="padding: 0; margin: 0">
-                <img src="/assets/images/members/link_lab_member_2008.jpg" width="98%" height="96%"/>
-            </div>
-            <div class="col-md-6" style="padding: 0; margin: 0">
-                <img src="/assets/images/members/link_lab_member_2017.jpg" width="98%" height="99%"/>
-            </div>
-            <div class="col-md-6" style="padding: 0; margin: 0">
-                <img src="/assets/images/members/link_lab_member_2016.jpg" width="98%" height="99%"/>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="/assets/images/members/link_lab_member_2017.jpg" width="100%" height="99%"/>
+                </div>
+                <div class="col-md-6">
+                    <img src="/assets/images/members/link_lab_member_2016.jpg" width="100%" height="99%"/>
+                </div>
             </div>
         </div>
     </div>
