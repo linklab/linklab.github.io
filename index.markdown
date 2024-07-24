@@ -8,17 +8,25 @@ layout: page
 <style>
     .title {
         font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        color: black;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    .news {
+        font-size: 1em;
+        font-weight: bold;
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        word-break: keep-all;
     }
 
     .date {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         color: darkorange;
         text-align: right;
         width: 20%;
     }
 
     .desc {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         color: darkslategray;
         width: 80%;
     }
@@ -26,8 +34,11 @@ layout: page
 
 <div class="row">
     <div class="col-md-6">
-    <span class="title">LINK 연구실 뉴스</span>
-    <table class="table">
+    <span class="title">LINK 연구실 뉴스</span> 
+    <span>
+        (<a href="/news/">더 많은 뉴스 보기 <i class="fa fa-solid fa-plus"></i></a>)
+    </span>
+    <table class="table news">
     </table>
     </div>
     <div class="col-md-6">

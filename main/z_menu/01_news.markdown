@@ -16,6 +16,7 @@ permalink: /news/
 
     .news .desc {
         color: darkslategray;
+        word-break: keep-all;
     }
 
     @media (min-width: 1200px) {
