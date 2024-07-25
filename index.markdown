@@ -104,7 +104,7 @@ layout: page
 
         .third_image {
             margin-bottom: 0.6em !important;
-        }    
+        }
     }
 
     @media (min-width: 768px) {
