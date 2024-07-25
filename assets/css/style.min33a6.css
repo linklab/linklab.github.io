@@ -21776,7 +21776,7 @@ body {
     line-height: 26px;
     font-weight: 400;
     background: #fff;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'S-CoreDream-3Light', sans-serif;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
@@ -21821,7 +21821,7 @@ a {
     text-decoration: none;
     position: relative;
     font-size: 15px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'S-CoreDream-3Light', sans-serif;
     line-height: 26px;
     font-weight: 400;
     cursor: pointer;
@@ -21836,7 +21836,7 @@ a:hover {
 }
 
 input, button, select, textarea {
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'S-CoreDream-3Light', sans-serif;
     font-weight: 400;
     font-size: 15px
 }
@@ -21860,7 +21860,7 @@ button:focus, input:focus, textarea:focus {
 p {
     position: relative;
     font-size: 15px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'S-CoreDream-3Light', sans-serif;
     line-height: 26px;
     font-weight: 400;
     color: #848484;
@@ -21871,7 +21871,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
     position: relative;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'S-CoreDream-3Light', sans-serif;
     font-weight: 400;
     margin-bottom: 0;
     color: #222;

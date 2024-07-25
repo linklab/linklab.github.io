@@ -13,7 +13,7 @@ layout: page
 
     @media (max-width: 767px) {
       .lab_title, .lab_sub_title{
-          font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          font-family: 'S-CoreDream-3Light', "Courier New", monospace;
           color: black;
           font-size: 1.0em;
           font-weight: bold;
@@ -30,7 +30,7 @@ layout: page
 
     @media (min-width: 768px) {
       .lab_title, .lab_sub_title {
-          font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          font-family: 'S-CoreDream-3Light', "Courier New", monospace;
           color: black;
           font-size: 2.0em;
           font-weight: bold;
@@ -44,7 +44,7 @@ layout: page
     }
 
     .title {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-family: 'S-CoreDream-3Light', "Courier New", monospace;
         color: black;
         font-size: 1.2em;
         font-weight: bold;
@@ -53,7 +53,7 @@ layout: page
     .news {
         font-size: 1em;
         font-weight: bold;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-family: 'S-CoreDream-3Light', "Courier New", monospace;
         word-break: keep-all;
     }
 
