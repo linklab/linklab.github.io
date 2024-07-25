@@ -11,12 +11,32 @@ layout: page
         flex: 1;
     }
 
-    .lab_title{
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-        color: black;
-        font-size: 2.0em;
-        font-weight: bold;
-        padding-bottom: 1.0em;
+    @media (max-width: 767px) {
+      .lab_title, .lab_sub_title{
+          font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          color: black;
+          font-size: 1.0em;
+          font-weight: bold;
+          padding-bottom: 0.0em;
+      }
+      .lab_sub_title {
+          margin-top: 0.0em;
+          font-size: 0.6em
+      }
+    }
+
+    @media (min-width: 768px) {
+      .lab_title, .lab_sub_title {
+          font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          color: black;
+          font-size: 2.0em;
+          font-weight: bold;
+          padding-bottom: 1.0em;
+      }
+      .lab_sub_title {
+          margin-top: 0.5em;
+          font-size: 0.75em
+      }
     }
 
     .title {
@@ -63,29 +83,49 @@ layout: page
         width: 80%;
     }
 
-    .right_padding {
-        padding: 0;
-        padding-right: 1.0em !important;
-        margin: 0 !important;
+    @media (max-width: 767px) {
+        .right_padding {
+            padding: 0;
+            padding-right: 1.0em !important;
+            padding-left: 1.0em !important;
+            margin: 0 !important;
+        }
+    
+        .left_padding {
+            padding: 0;
+            padding-right: 1.0em !important;
+            padding-left: 1.0em !important;
+            margin: 0 !important;
+        }
+
+        .youtube_div {
+            margin-left: -1.1em !important;            
+        }
     }
 
-    .left_padding {
-        padding: 0;
-        padding-left: 1.0em !important;
-        margin: 0 !important;
-    }
+    @media (min-width: 768px) {
+        .right_padding {
+            padding: 0;
+            padding-right: 1.0em !important;
+            margin: 0 !important;
+        }
+    
+        .left_padding {
+            padding: 0;
+            padding-left: 1.0em !important;
+            margin: 0 !important;
+        }
 
-    @media (min-width: 1200px) {
         .second_label_photos {
             margin-top: -0.6em;
         }
     }
 </style>
-<div class="row lab_title">
-    <div class="col-md-12 text-center">
+<div class="row">
+    <div class="col-md-12 text-center lab_title">
       한국기술교육대학교 지능형네트워크 연구실
     </div>
-    <div class="col-md-12 text-center" style="margin-top: 0.5em; font-size: 0.75em">
+    <div class="col-md-12 text-center lab_sub_title">
       - Laboratory of Intelligent Networks (LINK) at KOREATECH - 
     </div>
 </div>
@@ -190,7 +230,7 @@ layout: page
         <div class="recruit">
           <div class="row">
               <div class="col-lg-4 col-md-4 col-sm-12">
-                  <div>
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/ijdO3UNL4Bs"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">
@@ -201,7 +241,7 @@ layout: page
                   </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-12">
-                  <div>
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/MIi-kOs5SK4"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">
@@ -212,7 +252,7 @@ layout: page
                   </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-12">
-                  <div>
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/V1UmPAgLx6U"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">
@@ -223,7 +263,7 @@ layout: page
                   </div>
               </div>
              <div class="col-lg-4 col-md-4 col-sm-12">
-                  <div>
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/7kGorLGhEJY"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">
@@ -234,7 +274,7 @@ layout: page
                   </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12">
-                  <div>
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/1XD9OipE9c8"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">
@@ -245,7 +285,7 @@ layout: page
                   </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12">
-                  <div>
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/c_rCl-1RVCs"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">

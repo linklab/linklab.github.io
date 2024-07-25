@@ -264,13 +264,15 @@
             font-stretch: semi-condensed;
         }
 
-        .wrapper {
-            max-width: -webkit-calc(1800px - (120px* 2));
-            max-width: calc(1800px - 120px* 2);
+        @media (min-width: 1200px) {
+          .wrapper {
+            max-width: -webkit-calc(1800px - (120px * 2));
+            max-width: calc(1800px - 120px * 2);
             margin-right: auto;
             margin-left: auto;
             padding-right: 120px;
             padding-left: 120px;
+          }
         }
 
         .site-title {
