@@ -90,7 +90,7 @@ layout: page
             padding-left: 1.0em !important;
             margin: 0 !important;
         }
-    
+
         .left_padding {
             padding: 0;
             padding-right: 1.0em !important;
@@ -101,6 +101,10 @@ layout: page
         .youtube_div {
             margin-left: -1.1em !important;            
         }
+
+        .third_image {
+            margin-bottom: 0.6em !important;
+        }    
     }
 
     @media (min-width: 768px) {
@@ -152,7 +156,7 @@ layout: page
                 </div>
             </div>
             <div class="row second_label_photos">
-                <div class="col-md-6 left_padding">
+                <div class="col-md-6 left_padding third_image">
                     <img src="/assets/images/members/link_lab_member_2017.jpg" width="100%" height="99%"/>
                 </div>
                 <div class="col-md-6 right_padding">
