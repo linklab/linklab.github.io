@@ -56,7 +56,7 @@ permalink: /publication/papers
                                             </p>
                                             <p>J. Youn, and Y‑H. Han,
                                                 "<strong>Intelligent Task Dispatching and Scheduling Using a Deep Q-Network in a Cluster Edge Computing System,</strong>"
-                                                Sensors, vol. 22, no. 11, 28 May 2022, DOI: <a href=https://doi.org/10.3390/s22114098 target="_blank">10.3390/s22114098</a>.
+                                                Sensors, vol. 22, no. 11, 28 May 2022, DOI: <a href="https://doi.org/10.3390/s22114098" target="_blank">10.3390/s22114098</a>.
                                             </p>
                                             <p>I. Ullah, J.‑B. Kim, and Y‑H. Han,
                                                 "<strong>Compound Context-Aware Bayesian Inference Scheme for Smart IoT Environment,</strong>"
