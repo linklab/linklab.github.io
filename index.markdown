@@ -34,11 +34,12 @@ layout: page
           color: black;
           font-size: 2.0em;
           font-weight: bold;
-          padding-bottom: 1.0em;
+          padding-bottom: 0.5em;
       }
       .lab_sub_title {
           margin-top: 0.5em;
-          font-size: 0.75em
+          font-size: 1.5em;
+          margin-bottom: 0.7em;
       }
     }
 
