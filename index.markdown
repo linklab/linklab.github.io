@@ -185,13 +185,13 @@ layout: page
                     <li>- 양자 기계학습 (Quantum Machine Learning)</li>
                     <li>- 양자 강화학습 (Quantum Reinforcement Learning)</li>
                 </ul>
-                <li>지능형 네트워킹 및 조합 최적화</li>
+                <li>강화학습 기반 지능형 네트워킹 및 조합 최적화</li>
                 <ul> 
                     <li>- 5G/6G 네트워크 자원 최적화 (Resource Optimization)</li>
                     <li>- 조합 최적화 (Combinatorial Optimization)</li>
                     <li>- 양자 네트워크 (Quantum Network) 자원 최적화</li>
                 </ul>
-                <li>자율 시스템 제어</li>
+                <li>강화학습 기반 자율 시스템 제어</li>
                 <ul>
                     <li>- 무인기 제어 (Unmanned Ground/Aerial Vehicle Control)</li>
                     <li>- 로봇 제어 (Robotics Control)</li>
