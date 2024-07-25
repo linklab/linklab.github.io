@@ -21,7 +21,7 @@ layout: page
       }
       .lab_sub_title {
           margin-top: 0.0em;
-          font-size: 0.6em
+          font-size: 0.65em
       }
     }
 
