@@ -31,7 +31,6 @@ permalink: /awards/
                                 </li>
                                 <br>
                             </ul>
-                            <br/>
                             <h3 class = "title-level-3 year"> 2022 </h3>
                             <h4>The 3th Korea Artificial Intelligence Conference, Best Paper, KICS</h4>
                             <ul>
@@ -41,7 +40,6 @@ permalink: /awards/
                                 </li>
                                 <br>
                             </ul>
-                            <br/>
                             <h3 class = "title-level-3 year"> 2019 </h3>
                             <h4>The 2019 Fall Conference of the KIPS, Best Paper, Korea Information Processing
                                 Society</h4>

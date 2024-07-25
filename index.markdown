@@ -23,6 +23,9 @@ layout: page
           margin-top: 0.0em;
           font-size: 0.65em
       }
+      .lab_member {
+          margin-top: 2.0em;          
+      }
     }
 
     @media (min-width: 768px) {
@@ -144,7 +147,7 @@ layout: page
             </table>
         </div>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 lab_member">
         <span class="title">■ LINK 연구원</span>
         <div class="solid_border">
             <div class="row">
