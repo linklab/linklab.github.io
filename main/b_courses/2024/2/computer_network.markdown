@@ -1,6 +1,9 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: page
-permalink: /courses/2023/2/dl
+permalink: /courses/2024/2/computer_network
 ---
 
 <section style="overflow-wrap: anywhere; word-wrap: anywhere;">
@@ -21,7 +24,7 @@ permalink: /courses/2023/2/dl
                                             <div class="row content">
                                                 <div class="content-wrapper">
                                                     <h2 class="title-level-2">
-                                                        Deep Learning and Practice (딥러닝및실습) - CSE533, Fall Semester, 2023 </h2>
+                                                        Computer Networks (컴퓨터 네트워크) - CSE133, Fall Semester, 2024 </h2>
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">1. Course Schedule &amp; Lecture Notes</h3>
                                                     <br/>
