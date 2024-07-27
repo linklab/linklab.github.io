@@ -42,7 +42,7 @@ permalink: /courses/2024/2/dl
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">1주차</th>
                                                             <th scope="row">01</th>
-                                                            <td>08월 28일(월)</td>
+                                                            <td>09월 02일(월)</td>
                                                             <td>
                                                                 - 00. 강의 소개<br/>
                                                                 - 00. 딥러닝 소개
@@ -60,7 +60,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">02</th>
-                                                            <td>08월 30일(수)</td>
+                                                            <td>09월 04일(수)</td>
                                                             <td>
                                                                 - 00. 딥러닝 소개<br/>
                                                                 - 01. 개발 환경 구축
@@ -79,7 +79,7 @@ permalink: /courses/2024/2/dl
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">2주차</th>
                                                             <th scope="row">03</th>
-                                                            <td>09월 04일(월)</td>
+                                                            <td>09월 09일(월)</td>
                                                             <td>
                                                                 - 01. 개발 환경 구축<br/>
                                                                 - 02. 텐서 구조체
@@ -96,7 +96,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">04</th>
-                                                            <td>09월 06일(수)</td>
+                                                            <td>09월 11일(수)</td>
                                                             <td>
                                                                 - 02. 텐서 구조체
                                                             </td>
@@ -109,13 +109,25 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">3주차</th>
-                                                            <th scope="row">05</th>
-                                                            <td>09월 11일(월)</td>
+                                                            <th scope="row">-</th>
+                                                            <td>09월 16일(월)</td>
                                                             <td>
+                                                                휴강 (추석)
+                                                            </td>
+                                                            <td>
+                                                                -
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">05</th>
+                                                            <td>09월 18일(수)</td>
+                                                            <td>
+                                                                휴강 (추석)<br/>
                                                                 - 03. 다양한 데이터의 텐서 표현 및 다루기
                                                                 <a href="https://www.dropbox.com/scl/fi/904hepgjv795hm4xqslhx/03.real_world_data_to_tensors.pdf?rlkey=65ogxa409dkn7w6d5017kwzuo&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a> 
+                                                                <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
@@ -126,8 +138,9 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
                                                             <th scope="row">06</th>
-                                                            <td>09월 13일(수)</td>
+                                                            <td>09월 23일(월)</td>
                                                             <td>
                                                                 - 03. 다양한 데이터의 텐서 표현 및 다루기
                                                             </td>
@@ -135,9 +148,8 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
                                                             <th scope="row">07</th>
-                                                            <td>09월 18일(월)</td>
+                                                            <td>09월 25일(수)</td>
                                                             <td>
                                                                 - 04. 학습과 자동미분
                                                                 <a href="https://www.dropbox.com/scl/fi/zseoyran89bax3x8phe3e/04.learning_and_autograd.pdf?rlkey=jtuec3j2dnls2i4y8uoubq00f&dl=0" target="_blank">
@@ -148,18 +160,9 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">08</th>
-                                                            <td>09월 20일(수)</td>
-                                                            <td>
-                                                                - 04. 학습과 자동미분
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
-                                                            <th scope="row">09</th>
-                                                            <td>09월 25일(월)</td>
+                                                            <th scope="row">08</th>
+                                                            <td>09월 30일(월)</td>
                                                             <td>
                                                                 - 04. 학습과 자동미분
                                                             </td>
@@ -171,45 +174,42 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">10</th>
-                                                            <td>09월 27일(수)</td>
+                                                            <th scope="row">09</th>
+                                                            <td>10월 02일(수)</td>
                                                             <td>
-                                                                - 05. 심층 신경망 모델과 학습
-                                                                <a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                - 04. 학습과 자동미분
                                                             </td>
                                                             <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
-                                                            <th scope="row">11</th>
-                                                            <td>10월 02일(월)</td>
-                                                            <td class="centred" colspan="2">
-                                                                대체 공휴일
+                                                            <th scope="row">10</th>
+                                                            <td>10월 07일(월)</td>
+                                                            <td>
+                                                                - 05. 심층 신경망 모델과 학습
+                                                            </td>
+                                                            <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">12</th>
-                                                            <td>10월 04일(수)</td>
+                                                            <th scope="row">111</th>
+                                                            <td>10월 09일(수)</td>
                                                             <td>
+                                                                휴강 (한글날)<br/>
                                                                 - 05. 심층 신경망 모델과 학습
+                                                                <a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                                <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
                                                             </td>
                                                             <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
-                                                            <th scope="row">13</th>
-                                                            <td>10월 09일(월)</td>
-                                                            <td class="centred" colspan="2">
-                                                                한글날 (공휴일)
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">14</th>
-                                                            <td>10월 11일(수)</td>
+                                                            <th scope="row">12</th>
+                                                            <td>10월 14일(월)</td>
                                                             <td>
                                                                 - 05. 심층 신경망 모델과 학습
                                                             </td>
@@ -217,9 +217,8 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
-                                                            <th scope="row">15</th>
-                                                            <td>10월 16일(월)</td>
+                                                            <th scope="row">13</th>
+                                                            <td>10월 16일(수)</td>
                                                             <td>
                                                                 - 06. 심층 신경망 학습 - Best Practice
                                                                 <a href="https://www.dropbox.com/scl/fi/8046i4gedjb6as55xjog3/06.fcn_best_practice.pdf?rlkey=18rn1uty02kw42f5xt865cn5m&dl=0" target="_blank">
@@ -230,18 +229,17 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">16</th>
-                                                            <td>10월 18일(수)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
+                                                            <th scope="row">14</th>
+                                                            <td>10월 21일(월)</td>
                                                             <td>
                                                                 - 06. 심층 신경망 학습 - Best Practice
                                                             </td>
-                                                            <td>
-                                                            </td>
+                                                            <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
-                                                            <th scope="row">17</th>
-                                                            <td>10월 23일(월)</td>
+                                                            <th scope="row">15</th>
+                                                            <td>10월 23일(수)</td>
                                                             <td>
                                                                 - 07. 합성곱 신경망 (CNN)
                                                                 <a href="https://www.dropbox.com/scl/fi/7n9vyireqx22ionc10i1x/07.cnn_1.pdf?rlkey=zj5kf88ztbupb2rely8ap5k0w&dl=0" target="_blank">
@@ -252,8 +250,9 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">18</th>
-                                                            <td>10월 25일(수)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
+                                                            <th scope="row">16</th>
+                                                            <td>10월 28일(월)</td>
                                                             <td>
                                                                 - 07. 합성곱 신경망 (CNN)
                                                                 <a href="https://www.dropbox.com/scl/fi/kmgmk8usmkwy8h4p55aqd/07.cnn_2.pdf?rlkey=4zopud98hv9s5ri59kn85r0mq&dl=0" target="_blank">
@@ -264,29 +263,27 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
-                                                            <th scope="row">19</th>
-                                                            <td>10월 30일(월)</td>
-                                                            <td class="centred" colspan="2">
+                                                            <th scope="row">17</th>
+                                                            <td>10월 30일(수)</td>
+                                                            <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">20</th>
-                                                            <td>11월 01일(수)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
+                                                            <th scope="row">18</th>
+                                                            <td>11월 04일(월)</td>
                                                             <td>
                                                                 - 08. 다양한 최적화 및 정규화 기법
                                                                 <a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
-                                                            <td>
-                                                            </td>
+                                                            <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
-                                                            <th scope="row">21</th>
-                                                            <td>11월 06일(월)</td>
+                                                            <th scope="row">19</th>
+                                                            <td>11월 06일(수)</td>
                                                             <td>
                                                                 - 08. 다양한 최적화 및 정규화 기법
                                                             </td>
@@ -298,8 +295,9 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">22</th>
-                                                            <td>11월 08일(수)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
+                                                            <th scope="row">20</th>
+                                                            <td>11월 11일(월)</td>
                                                             <td>
                                                                 - 08. 다양한 최적화 및 정규화 기법
                                                                 <a href="https://www.dropbox.com/scl/fi/icalz2s9l3ljlt765nnfv/08.diverse_techniques_2.pdf?rlkey=gxa04s2mbjhc1otx9iazqlvze&dl=0" target="_blank">
@@ -310,9 +308,8 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
-                                                            <th scope="row">23</th>
-                                                            <td>11월 13일(월)</td>
+                                                            <th scope="row">21</th>
+                                                            <td>11월 13일(수)</td>
                                                             <td>
                                                                 - 09. 다양한 CNN 모델
                                                                 <a href="https://www.dropbox.com/scl/fi/h3eofzqo25uc0uquly4q6/09.modern_cnns.pdf?rlkey=5a4shn95edxw90k2jnfij6vri&dl=0" target="_blank">
@@ -323,24 +320,18 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">24</th>
-                                                            <td>11월 15일(수)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
+                                                            <th scope="row">22</th>
+                                                            <td>11월 18일(월)</td>
                                                             <td>
                                                                 - 09. 다양한 CNN 모델
                                                             </td>
                                                             <td>
-<!--
-                                                                <span class="font-weight-bold">
-                                                                    Homework #2 <span style="font-size: 7px">(기한: 4월 30일 오후 23시 59분)</span>
-                                                                </span><br/>
-                                                                - 암과 싸워 이기기 위한 파이토치 활용 (강의 교재 9장 및 10장~14장) 요약 보고서 제출<br/>
--->
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
-                                                            <th scope="row">25</th>
-                                                            <td>11월 20일(월)</td>
+                                                            <th scope="row">23</th>
+                                                            <td>11월 20일(수)</td>
                                                             <td>
                                                                 - 10. 순환 신경망 (RNN)
                                                                 <a href="https://www.dropbox.com/scl/fi/86aoo11wyr66ux1wv2y2p/10.rnn.pdf?rlkey=2nn4s6ncifpcoiidxq2bcmizz&dl=0" target="_blank">
@@ -351,16 +342,9 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">26</th>
-                                                            <td>11월 22일(수)</td>
-                                                            <td class="centred" colspan="2">
-                                                                학교 공식 휴강 (논술고사)
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
-                                                            <th scope="row">27</th>
-                                                            <td>11월 27일(월)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
+                                                            <th scope="row">24</th>
+                                                            <td>11월 25일(월)</td>
                                                             <td>
                                                                 - 10. 순환 신경망 (RNN)
                                                             </td>
@@ -372,8 +356,8 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">28</th>
-                                                            <td>11월 29일(수)</td>
+                                                            <th scope="row">25</th>
+                                                            <td>11월 27일(수)</td>
                                                             <td>
                                                                 - 11. LSTM과 시계열 데이터 예측
                                                                 <a href="https://www.dropbox.com/scl/fi/mpyxzics43ejtcrnn56sa/11.lstm_and_applications.pdf?rlkey=9yqrfh54cwcw8yz4ry84kgwk8&dl=0" target="_blank">
@@ -388,9 +372,9 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
-                                                            <th scope="row">29</th>
-                                                            <td>12월 04일(월)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
+                                                            <th scope="row">26</th>
+                                                            <td>12월 02일(월)</td>
                                                             <td>
                                                                 - 11. LSTM과 시계열 데이터 예측
                                                             </td>
@@ -403,10 +387,10 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">30</th>
-                                                            <td>12월 06일(수)</td>
+                                                            <th scope="row">27</th>
+                                                            <td>12월 04일(수)</td>
                                                             <td>
-                                                                - 12. 전이 학습
+                                                                - 12. 전이 학습(Transfer Learning)
                                                                 <a href="https://www.dropbox.com/scl/fi/amfrooqswgq8bikmowsyz/12.transfer_learning.pdf?rlkey=xxjeyhgos6mruzsyzhput80iq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -415,11 +399,11 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
-                                                            <th scope="row">31</th>
-                                                            <td>12월 11일(월)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
+                                                            <th scope="row">28</th>
+                                                            <td>12월 09일(월)</td>
                                                             <td>
-                                                                - 13. 오토인코더
+                                                                - 13. 오토인코더(Auto-encoder)
                                                                 <a href="https://www.dropbox.com/scl/fi/i2d5u3i9w2jhe0xi2n6dc/13.autoencoders.pdf?rlkey=7z10sj6cmmw0ty3bcu3piu3f5&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -428,8 +412,27 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">32</th>
-                                                            <td>12월 13일(수)</td>
+                                                            <th scope="row">29</th>
+                                                            <td>12월 11일(수)</td>
+                                                            <td>
+                                                                - 14. 어텐션(Attention)과 트랜스포머(Transformer)
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
+                                                            <th scope="row">30</th>
+                                                            <td>12월 16일(월)</td>
+                                                            <td>
+                                                                - 14. 어텐션(Attention)과 트랜스포머(Transformer)
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">31</th>
+                                                            <td>12월 18일(수)</td>
                                                             <td class="centred" colspan="2">
                                                                 <strong>기말 고사</strong> <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분
                                                             </td>
@@ -444,16 +447,14 @@ permalink: /courses/2024/2/dl
                                                             - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
                                                         </li>
                                                         <li>
-                                                            - Classes: 월요일 (8, 9교시 - 16:00 ~ 18:50), 수요일 (3, 4교시 - 11:00 ~ 12:50)
+                                                            - Classes: 월요일 (3, 4교시 - 11:00 ~ 12:50), 수요일 (1, 2교시 - 09:00 ~ 10:50)
                                                         </li>
                                                         <li>
                                                             - Lecture Room: 2공학관 408호
                                                         </li>
-<!--
                                                         <li>
-                                                            - Prerequisites: PyTorch/Tensorflow 기본 코딩 경험
+                                                            - Prerequisites: Python (필수), 인공지능기초및싱습, 기계학습및실습
                                                         </li>
--->
                                                     </ul>
                                                     <br/>
                                                     <h3 class="title-level-3">3. Homework Guide</h3>
@@ -536,38 +537,38 @@ permalink: /courses/2024/2/dl
                                                     <br/>
                                                     <h3 class="title-level-3">4. References</h3>
                                                     <br/>
-                                                    <div class="row">
+                                                    <div class="row" style="padding-left: 2.0em">
                                                         <div class="col-12">
                                                             <h4>[강의 노트]</h4>
                                                             <ul>
                                                                 <li>
                                                                     - 수업 시간 PDF로 제공
                                                                     <ul>
-                                                                        <li>강의 노트 철하기
-                                                                            <a href="https://shopping.interpark.com/product/productInfo.do?prdNo=5239338152" target="_blank">
+                                                                        <li>강의 노트 프린트 및 서류철/서류집 활용하여 정리하기 
+                                                                            <a href="https://shopping.interpark.com/product/productInfo.do?prdNo=15900644272&dispNo=008001083&smid1=common_prd" target="_blank">
                                                                                 <i class="fa fa-link" aria-hidden="true"></i>
                                                                             </a>
                                                                         </li>
                                                                     </ul>
                                                                 </li>
                                                             </ul>
-                                                            <h4>[참고 교재]</h4>
+                                                            <h4>[참고 강의 노트]</h4>
                                                             <ul>
                                                                 <li>
-                                                                    - 텐초의 파이토치 딥러닝 특강
-                                                                    <a href="https://product.kyobobook.co.kr/detail/S000061550445" target="_blank">
-                                                                        <i class="fa fa-link" aria-hidden="true"></i>
-                                                                    </a>
-                                                                </li>
-                                                                <li>
-                                                                    - <span class="badge badge-info">Recommended</span> Deep Learning with PyTorch
+                                                                    - Deep Learning with PyTorch
                                                                     <a href="https://www.manning.com/books/deep-learning-with-pytorch" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
                                                                 </li>
                                                                 <li>
-                                                                    - <span class="badge badge-info">Recommended</span> Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville. (Free electronic copy available at that website)
+                                                                    - Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville. (Free electronic copy available at that website)
                                                                     <a href="https://www.deeplearningbook.org/" target="_blank">
+                                                                        <i class="fa fa-link" aria-hidden="true"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    - 텐초의 파이토치 딥러닝 특강
+                                                                    <a href="https://product.kyobobook.co.kr/detail/S000061550445" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
                                                                 </li>
