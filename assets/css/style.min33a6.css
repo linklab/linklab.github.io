@@ -21880,7 +21880,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     position: relative;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 400;
     margin-bottom: 0;
     color: #222;
@@ -21980,7 +21980,7 @@ td.empty-result {
     position: relative;
     display: inline-block;
     font-size: 15px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 700 !important;
     padding: 10px 39px;
     background: #ff7f00;
@@ -22007,7 +22007,7 @@ td.empty-result {
     position: relative;
     display: inline-block;
     font-size: 16px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     padding: 13px 52px 13px 53px;
     background: transparent;
     color: #222;
@@ -22034,7 +22034,7 @@ td.empty-result {
     position: relative;
     display: inline-block;
     font-size: 16px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     padding: 12px 41px;
     background: #fff;
     color: #222;
@@ -22417,7 +22417,7 @@ td.empty-result {
     display: inline-block;
     font-size: 17px;
     line-height: 26px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 600;
     color: #182345;
     background: #f2be00;
@@ -22461,7 +22461,7 @@ td.empty-result {
     display: block;
     font-size: 15px;
     font-weight: 500;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #FFF;
     line-height: 30px;
     opacity: 1;
@@ -22501,7 +22501,7 @@ td.empty-result {
 .main-menu .navigation > li > ul > li > a {
     position: relative;
     display: inline-block;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     padding: 6px 0;
     line-height: 24px;
     font-size: 1.1em;
@@ -22950,7 +22950,7 @@ td.empty-result {
 .event-section .event-title {
     position: relative;
     font-size: 26px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #fff;
     line-height: 35px;
     font-weight: 500;
@@ -23320,7 +23320,7 @@ td.empty-result {
 .footer-title {
     position: relative;
     font-size: 20px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 500;
     letter-spacing: 1px;
     line-height: 30px;
@@ -23374,7 +23374,7 @@ td.empty-result {
     display: inline-block;
     font-size: 15px;
     line-height: 24px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #d4dae3;
     margin-bottom: 3px
 }
@@ -23814,7 +23814,7 @@ td.empty-result {
     position: relative;
     font-size: 48px;
     line-height: 55px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 400;
     color: #fff;
     margin-bottom: 11px
@@ -24491,7 +24491,7 @@ td.empty-result {
     position: relative;
     display: block;
     font-size: 42px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #fff;
     line-height: 52px;
     font-weight: 500;
@@ -24573,7 +24573,7 @@ td.empty-result {
     position: relative;
     display: inline-block;
     font-size: 18px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 600;
     color: #222;
     margin-bottom: 1px
@@ -24690,7 +24690,7 @@ td.empty-result {
     position: relative;
     display: inline-block;
     font-size: 14px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #222;
     line-height: 18px;
     background: #ebe8e8;
@@ -25136,7 +25136,7 @@ td.empty-result {
     display: block;
     background: #ffd6d6;
     font-size: 24px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #222;
     font-weight: 500;
     padding: 34px 40px 31px 40px
@@ -25306,7 +25306,7 @@ td.empty-result {
 .cta-style-two .content-box .cta-title {
     position: relative;
     font-size: 45px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     line-height: 54px;
     color: #fff;
     font-weight: 700;
@@ -25346,7 +25346,7 @@ td.empty-result {
     position: relative;
     font-size: 30px;
     line-height: 36px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 600;
     color: #fff;
     margin-bottom: 33px
@@ -25486,7 +25486,7 @@ td.empty-result {
 .testimonial-style-two .testimonial-content .author .name {
     position: relative;
     font-size: 18px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 500;
     color: #fff;
     margin-bottom: 1px
@@ -25550,7 +25550,7 @@ td.empty-result {
     text-transform: uppercase;
     font-size: 26px;
     line-height: 40px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #fff;
     font-weight: 500;
     padding-bottom: 6px;
@@ -25664,7 +25664,7 @@ td.empty-result {
     position: relative;
     display: inline-block;
     font-size: 15px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 600;
     color: #222;
     border: 1px solid #e5e5e5;
@@ -25725,7 +25725,7 @@ td.empty-result {
     display: inline-block;
     font-size: 15px;
     font-weight: 500;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #ff7f00;
     border: 1px solid #ff7f00;
     background: #FFF;
@@ -25753,7 +25753,7 @@ td.empty-result {
     display: inline-block;
     font-size: 200px;
     line-height: 200px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #ff7f00;
     font-weight: 700;
     margin-bottom: 30px
@@ -25803,7 +25803,7 @@ td.empty-result {
     position: relative;
     font-size: 36px;
     line-height: 45px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #222;
     font-weight: 600;
     margin-bottom: 20px
@@ -25971,7 +25971,7 @@ td.empty-result {
     background-repeat: no-repeat;
     font-size: 42px;
     font-weight: 600;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     color: #fff;
     padding: 34px 0 20px 0;
     z-index: 1
@@ -25999,7 +25999,7 @@ td.empty-result {
     font-weight: 500;
     color: #fff;
     font-size: 15px;
-    font-family: 'Apple SD Gothic Neo', sans-serif
+    font-family: 'NotoSansKR-Regular', sans-serif
 }
 
 .single-event-content h4 a {
@@ -26050,7 +26050,7 @@ td.empty-result {
     display: block;
     font-size: 36px;
     line-height: 45px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 500;
     color: #222;
     margin-bottom: 6px
@@ -26240,7 +26240,7 @@ td.empty-result {
     position: relative;
     display: block;
     font-size: 36px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     line-height: 45px;
     color: #222;
     font-weight: 500;
@@ -26551,7 +26551,7 @@ td.empty-result {
     display: block;
     font-size: 36px;
     line-height: 45px;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 500;
     color: #222;
     margin-bottom: 16px
@@ -27432,7 +27432,7 @@ td.empty-result {
 .page-location .contact-section .title {
     position: relative;
     display: block;
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     font-weight: 500;
     background: #ff7f00;
     padding: 13px 10px;
@@ -28167,7 +28167,7 @@ td.empty-result {
 }
 
 .board-list > table td {
-    font-family: 'Apple SD Gothic Neo', sans-serif;
+    font-family: 'NotoSansKR-Regular', sans-serif;
     padding: 25px 0;
     text-align: center;
     border-bottom: 1px solid #ddd
@@ -31184,12 +31184,12 @@ td.empty-result {
 }
 
 .page-seminar .seminar-block .inner .con, .inner-content .main-content {
-    font-family: 'Apple SD Gothic Neo' !important;
+    font-family: 'NotoSansKR-Regular' !important;
     font-size: 14px !important
 }
 
 .page-seminar .seminar-block .inner .con div, .inner-content .main-content div, .page-seminar .seminar-block .inner .con p, .inner-content .main-content p {
-    font-family: 'Apple SD Gothic Neo' !important;
+    font-family: 'NotoSansKR-Regular' !important;
     font-size: 14px !important
 }
 
