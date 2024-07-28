@@ -21821,7 +21821,7 @@ a {
     text-decoration: none;
     position: relative;
     font-size: 15px;
-    font-family: "NotoSansKR-Regular", sans-serif
+    font-family: "NotoSansKR-Regular", sans-serif;
     line-height: 26px;
     font-weight: 400;
     cursor: pointer;
@@ -21860,7 +21860,7 @@ button:focus, input:focus, textarea:focus {
 p {
     position: relative;
     font-size: 15px;
-    font-family: "NotoSansKR-Regular", sans-serif
+    font-family: "NotoSansKR-Regular", sans-serif;
     line-height: 26px;
     font-weight: 400;
     color: #848484;
@@ -24074,7 +24074,7 @@ td.empty-result {
 .main-slider .content-box .text {
     position: relative;
     font-size: 17px;
-    font-family: 'Lato', sans-serif;
+    font-family: "NotoSansKR-Regular", sans-serif;
     line-height: 26px;
     font-weight: 600;
     color: #fff;
