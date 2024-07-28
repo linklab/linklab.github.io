@@ -34,6 +34,14 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 <li><b>Email</b>: <a href="mailto:ihsan@koreatech.ac.kr">ihsan@koreatech.ac.kr</a>
                                 </li>
                             </ul>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>Current Job</b>: <br/>
+                                Assistant Professor, Yuan Ze University, Taiwan
+                                <a href="https://www.cse.yzu.edu.tw/en/people/professor?name=Ihsan%20Ullah" target="_blank">
+                                    <i class="fa fa-link" aria-hidden="true"></i>
+                                </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -63,6 +71,9 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 <li><b>Email</b>: <a href="mailto:glenn89@koreatech.ac.kr">glenn89@koreatech.ac.kr</a>
                                 </li>
                             </ul>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -86,6 +97,9 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 </li>
                                 <li><b>Email</b>: <a href="mailto:glenn89@koreatech.ac.kr">glenn89@koreatech.ac.kr</a>
                                 </li>
+                            </ul>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
                             </ul>
                         </div>
                     </div>
