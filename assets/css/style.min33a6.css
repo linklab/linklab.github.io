@@ -21776,7 +21776,7 @@ body {
     line-height: 26px;
     font-weight: 400;
     background: #fff;
-    font-family: "NotoSansKR-Regular", sans-serif
+    font-family: "NotoSansKR-Regular", sans-serif;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
