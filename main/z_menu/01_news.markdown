@@ -5,7 +5,7 @@ permalink: /news/
 ---
 <style>
     .news {
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-family: "NotoSansKR-Regular", sans-serif
         font-size: 1em;
         font-weight: bold;
     }
