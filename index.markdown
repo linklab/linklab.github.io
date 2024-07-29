@@ -319,7 +319,7 @@ fetch('https://linklab.github.io/news/')
     const rows = doc.querySelectorAll('tr');
     
     // Extract the latest 5 <tr> elements
-    let latestFiveRows = Array.from(rows).slice(0, 5);
+    let latestFiveRows = Array.from(rows).slice(0, 6);
     
     // Select the table in the current page where the data will be inserted
     const table = document.querySelector('table');
