@@ -335,7 +335,7 @@ fetch('https://linklab.github.io/news/')
       
       // Create and populate the date <td> element
       const dateCell = document.createElement('td');
-      dateCell.className = 'date';
+      dateCell.className = 'date text-center';
       dateCell.textContent = `${year}-${month}-${day}`;
       newRow.appendChild(dateCell);
       
