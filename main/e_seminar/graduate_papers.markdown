@@ -303,7 +303,17 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
-              <li>07월 15일 (월) 논문 세미나 – 아셀
+                <li>07월 30일 (화) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Y. Gao, S. Yang, F. Li and X. Fu, "Adaptive and Efficient Qubit Allocation Using Reinforcement Learning in Quantum Networks," in IEEE Network, vol. 36, no. 5, pp. 48-54, September/October 2022
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9964011" target="_blank">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>07월 15일 (월) 논문 세미나 – 아셀
                     <br/>
                     <strong>
                         Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio. "Neural Combinatorial Optimization with Reinforcement Learning", ICLR, 2017.
