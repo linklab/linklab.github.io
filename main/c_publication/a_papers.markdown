@@ -24,14 +24,10 @@ permalink: /publication/papers
                                                 "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning,</strong>"
                                                 Neural Networks, Vol. 172, 106149, Jan. 2024, DOI: <a href="https://doi.org/10.1016/j.neunet.2024.106149" target="_blank">10.1016/j.neunet.2024.106149</a>.
                                             </p>
-{#                                                <p>J.-B. Kim, H.-B. Choi, and Y.-H. Han,#}
-{#                                                    "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning,</strong>"#}
-{#                                                    Neural Networks, Vol. 172, 106149, April 2024, DOI: <a href="https://doi.org/10.1016/j.neunet.2024.106149" target="_blank">10.1016/j.neunet.2024.106149</a>.#}
-{#                                                </p>#}
-{#                                                <p>H.-K. Lim, I. Ullah, J.-B. Kim, and Y.-H. Han,#}
-{#                                                    "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning,</strong>"#}
-{#                                                    IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>.#}
-{#                                                </p>#}
+                                            <p>H.-K. Lim, I. Ullah, J.-B. Kim, and Y.-H. Han,
+                                                "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning,</strong>"
+                                                IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>.
+                                            </p>
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p>H.-K. Lim, I. Ullah, J.-B. Kim, and Y.-H. Han,
                                                 "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning,</strong>"
