@@ -70,7 +70,10 @@ permalink: /publication/patents
                             <button class="accordion">Domestic Patents</button>
                             <div class="panel article-content-1">
                                 <h4 class="title-level-4 year">2023</h4>
-                                <p> 한연희, 석영준, 최요한, "<strong>심층 강화학습 기반 최적화 기법을 통한 양자키 자원 관리 시스템 및 그 방법,</strong>" 대한민국, 출원번호 10-2023-0185526, 2023.12.19 </p>
+                                <p> 한연희, 최호빈, 김주봉, 임현교, 지창훈, "<strong>다중 에이전트 강화학습 기반 다중 무인운반차 최적 경로 제어 시스템,</strong>" 대한민국, 등록번호 10-2691631, 2024.07.31</p>
+                                <br/>
+                                <h4 class="title-level-4 year">2023</h4>
+                                <p> 한연희, 석영준, 최요한, "<strong>심층 강화학습 기반 최적화 기법을 통한 양자키 자원 관리 시스템 및 그 방법,</strong>" 대한민국, 출원번호 10-2023-0185526, 2023.12.19</p>
                                 <br/>
                                 <h4 class="title-level-4 year">2022</h4>
                                 <p> 강혜영, 김상연, 한연희, "<strong>뇌파 분석을 이용한 상담환경 제어시스템, 제어 방법 및 제어 프로그램을 기록한 기록 매체,</strong>" 대한민국, 등록번호 10-2401311, 2022.05.19 </p>

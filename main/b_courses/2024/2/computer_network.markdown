@@ -162,7 +162,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">12</th>
                                                             <td>10월 15일(월)</td>
                                                             <td>
-                                                                - Chapter 4 네트워크 계층: 데이터 평면
+                                                                - Chapter 3 트랜스포트 계층
                                                             </td>
                                                             <td>
                                                             </td>
@@ -247,7 +247,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">21</th>
                                                             <td>11월 14일(목)</td>
                                                             <td>
-                                                                - Chapter 5 네트워크 계층:제어 평면
+                                                                - Chapter 6 링크 계층과 근거리 네트워크
                                                             </td>
                                                             <td>
                                                             </td>

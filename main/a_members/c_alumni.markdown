@@ -704,7 +704,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2020 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                </li>
+                                진학: 독일 파사우대학 ai엔지니어링
                             </ul>
                         </div>
                     </div>
@@ -1072,7 +1072,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: </li>
+                                <li style="font-size: 1.1em"><b>취업</b>: (주)루미르</li>
                             </ul>
                         </div>
                     </div>

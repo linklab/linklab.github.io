@@ -26,8 +26,10 @@ permalink: /courses/2024/2/dl
                                                     <h2 class="title-level-2">
                                                         Deep Learning and Practice (딥러닝및실습) - CSE533, Fall Semester, 2024 </h2>
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
-                                                    <h3 class="title-level-3">1. Course Schedule &amp; Lecture Notes</h3>
-                                                    <br/>
+                                                    <h3 class="title-level-3">
+                                                    1. Course Schedule &amp; Lecture Notes
+                                                    <span><a style="color: blue; font-size: 0.6em" href="git@github.com:linklab/link_dl.git">[수업 실습 코드]</a></span>
+                                                    </h3>
                                                     <table class="table table-bordered">
                                                         <thead class="thead-light">
                                                         <tr>
@@ -46,9 +48,9 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - 00. 강의 소개<br/>
                                                                 - 00. 딥러닝 소개
-                                                                <a href="https://www.dropbox.com/s/b5s2ivsjopsweu8/00.dl_101.pdf" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/s/b5s2ivsjopsweu8/00.dl_101.pdf" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 - _01_code 로컬 디렉토리 및 _02_homeworks 로컬 디렉토리 변경 사항 초기화<br/>

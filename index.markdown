@@ -153,7 +153,7 @@ layout: page
         <div class="solid_border">
             <div class="row">
                 <div class="col-md-6 left_padding">
-                    <img src="/assets/images/members/link_lab_member_2023.jpg" width="100%" height="96%"/>
+                    <img src="/assets/images/members/link_lab_member_2021.jpg" width="100%" height="96%"/>
                 </div>
                 <div class="col-md-6 right_padding">
                     <img src="/assets/images/members/link_lab_member_2008.jpg" width="100%" height="96%"/>
