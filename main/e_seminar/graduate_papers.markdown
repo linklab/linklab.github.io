@@ -303,6 +303,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>08월 06일 (화) 논문 세미나 – 최호빈
+                    <br/>
+                    <strong>
+                        Ma, Xiao, and Li, Wu-Jun, "Weighting Online Decision Transformer with Episodic Memory for Offline-to-Online Reinforcement Learning," ICRA, 2024.
+                    </strong>
+                    <a href="https://events.infovaya.com/uploads/documents/pdfviewer/1d/8e/132760-2282.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>07월 30일 (화) 논문 세미나 – 석영준
                     <br/>
                     <strong>
