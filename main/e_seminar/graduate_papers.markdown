@@ -319,6 +319,7 @@ permalink: /seminar/graduate
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
+                <br/>
                 <li>08월 06일 (화) 논문 세미나 – 최호빈
                     <br/>
                     <strong>
