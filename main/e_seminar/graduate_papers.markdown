@@ -311,6 +311,7 @@ permalink: /seminar/graduate
                     <a href="https://arxiv.org/abs/2211.15183">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
+                    <br/>
                     <strong>
                         Kuznetsov, Igor, and Andrey Filchenkov. "Solving continuous control with episodic memory." IJCAI, 2021.
                     </strong>
