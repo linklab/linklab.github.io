@@ -303,6 +303,21 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>08월 14일 (수) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Yang, Zhao, et al. "Continuous episodic control." 2023 IEEE Conference on Games (CoG). IEEE, 2023.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2211.15183">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <strong>
+                        Kuznetsov, Igor, and Andrey Filchenkov. "Solving continuous control with episodic memory." IJCAI, 2021.
+                    </strong>
+                    <a href="https://www.ijcai.org/proceedings/2021/0365.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
                 <li>08월 06일 (화) 논문 세미나 – 최호빈
                     <br/>
                     <strong>
