@@ -8,6 +8,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>08월 20일 (화) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Sferrazza, Carmelo, et al. "Body Transformer: Leveraging Robot Embodiment for Policy Learning." RSS Workshop, 2024.
+                    </strong>
+                    <a href="https://sferrazza.cc/bot_site/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>08월 14일 (수) 논문 세미나 – 지창훈
                     <br/>
                     <strong>
