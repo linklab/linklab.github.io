@@ -28,6 +28,11 @@ permalink: /courses/2024/2/computer_network
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">1. Course Schedule &amp; Lecture Notes</h3>
                                                     <br/>
+                                                    - 보조 자료: 
+                                                    <a href="/courses/common/computer_network_supplement" target="_blank">
+                                                        <i class="fa fa-link" aria-hidden="true"></i>
+                                                    </a>
+                                                    <br/>
                                                     <table class="table table-bordered">
                                                         <thead class="thead-light">
                                                         <tr>
