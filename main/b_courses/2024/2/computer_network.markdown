@@ -48,6 +48,10 @@ permalink: /courses/2024/2/computer_network
                                                                 - Chapter 1. 컴퓨터와 네트워크 인터넷
                                                             </td>
                                                             <td>
+                                                                - Student Resources:
+                                                                <a href="https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/" target="_blank">
+                                                                    <i class="fa fa-link" aria-hidden="true"></i>
+                                                                </a>
                                                                 - 보조 자료: 
                                                                 <a href="/courses/common/computer_network_supplement" target="_blank">
                                                                     <i class="fa fa-link" aria-hidden="true"></i>
