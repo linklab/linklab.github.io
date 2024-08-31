@@ -27,7 +27,7 @@ permalink: /courses/common/computer_network_supplement
                                                         Computer Networks (컴퓨터 네트워크) - CSE133
                                                     </h2>
                                                 </div>
-                                                <br/>
+                                                <br/><br/>
                                                 <div>
                                                      <strong>대역폭(bandwidth)</strong>
                                                     <br/>
@@ -50,7 +50,6 @@ permalink: /courses/common/computer_network_supplement
                                                         3.	네트워크 계층 (Network Layer): 전송 계층에서 받은 세그먼트에 IP 주소와 같은 정보를 포함한 헤더를 추가하여 패킷을 생성하고, 이를 데이터 링크 계층으로 전달한다.<br/>
                                                         4.	데이터 링크 계층 (Data Link Layer): 네트워크 계층에서 받은 패킷을 프레임(frame)으로 변환하고, MAC 주소와 같은 정보를 추가한 후 물리 계층으로 전달한다.<br/>
                                                         5.	물리 계층 (Physical Layer): 데이터를 실제로 전송할 수 있도록 비트(bit) 스트림으로 변환하여 전송 매체를 통해 상대방에게 전달한다.<br/>
-                                                    <br/>
                                                     이러한 캡슐화 과정은 데이터가 발신지에서 수신지로 이동하는 동안 안전하고 일관되게 전달되도록 보장한다. 수신 측에서는 이 과정을 <strong>역캡슐화(decapsulation)</strong>라고 하며, 각 계층에서 추가된 정보를 제거하고 원래의 데이터를 복원한다.
                                                     </div>
                                             </div>
