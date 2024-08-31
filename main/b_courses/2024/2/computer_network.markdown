@@ -46,6 +46,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>
                                                                 - 강의 소개<br/>
                                                                 - Chapter 1. 컴퓨터와 네트워크 인터넷
+                                                                <a href="https://www.dropbox.com/scl/fi/i4kwxqhfgnz4gpjxvf7pi/Chapter_1_v8.0.pdf?rlkey=tszwnekqhkz9gbfkb72lop6hi&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - Student Resources:
