@@ -95,7 +95,9 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">-</th>
                                                             <td>09월 17일(화)</td>
                                                             <td>
-                                                                휴강 (추석)
+                                                                휴강 (추석)<br/>
+                                                            	- Chapter 2. 애플리케이션 계층
+                                                                <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
                                                             </td>
                                                             <td>
                                                                 -
