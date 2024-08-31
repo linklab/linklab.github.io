@@ -27,6 +27,7 @@ permalink: /courses/common/computer_network_supplement
                                                         Computer Networks (컴퓨터 네트워크) - CSE133
                                                     </h2>
                                                 </div>
+                                                <br/>
                                                 <div>
                                                     “대역폭(bandwidth)“이라는 용어는 실제로 두 가지 맥락에서 사용될 수 있다. 이로 인해 혼동이 생길 수 있지만, 두 경우 모두 특정한 맥락에서 적절하게 사용된다.
                                                     <br/>
@@ -34,6 +35,7 @@ permalink: /courses/common/computer_network_supplement
                                                     <br/>
                                                     2.     전송률의 동의어로서의 대역폭: 디지털 통신에서 대역폭은 종종 데이터 전송률(transmission rate) 또는 처리 속도와 동의어로 사용된다. 이 경우 대역폭은 네트워크가 초당 전송할 수 있는 데이터의 양을 의미하며, 비트 퍼 세컨드(bps) 단위로 측정된다. 예를 들어, 인터넷 연결의 대역폭이 100Mbps라고 하면, 이는 네트워크가 초당 100메가비트의 데이터를 전송할 수 있음을 의미한다.
                                                 </div>
+                                                <br/>
                                             </div>
                                             <div class="clear"></div>
                                             <!--End Content Grid-->

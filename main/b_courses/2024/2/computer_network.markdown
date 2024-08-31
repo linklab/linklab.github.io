@@ -52,6 +52,7 @@ permalink: /courses/2024/2/computer_network
                                                                 <a href="https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/" target="_blank">
                                                                     <i class="fa fa-link" aria-hidden="true"></i>
                                                                 </a>
+                                                                <br/>
                                                                 - 보조 자료: 
                                                                 <a href="/courses/common/computer_network_supplement" target="_blank">
                                                                     <i class="fa fa-link" aria-hidden="true"></i>
