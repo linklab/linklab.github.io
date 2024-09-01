@@ -66,9 +66,9 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - 00. 딥러닝 소개<br/>
                                                                 - 01. 개발 환경 구축
-                                                                <a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span> (개정: 2023.09.03)
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 - windows에서 cuda 호환 torch 설치 방법<br/>
@@ -85,15 +85,15 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - 01. 개발 환경 구축<br/>
                                                                 - 02. 텐서 구조체
-                                                                <a href="https://www.dropbox.com/scl/fi/72fgim0fbmvjhunv6z0vm/02.tensors.pdf?rlkey=jhblgbsyz4eewti8juyfkeszr&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/72fgim0fbmvjhunv6z0vm/02.tensors.pdf?rlkey=jhblgbsyz4eewti8juyfkeszr&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 - Tensor Shape, Dimension, and Rank
-                                                                <a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트 (추가)</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -103,10 +103,12 @@ permalink: /courses/2024/2/dl
                                                                 - 02. 텐서 구조체
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - Homework #1 (기한: 9월 19일)
                                                                 <a href="https://www.dropbox.com/scl/fi/byzi3ohacvw1nsm8f4rlh/HW_1.pdf?rlkey=jtrqgo7nbb2wb3q9a3zhe8wua&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -126,17 +128,19 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 휴강 (추석)<br/>
                                                                 - 03. 다양한 데이터의 텐서 표현 및 다루기
-                                                                <a href="https://www.dropbox.com/scl/fi/904hepgjv795hm4xqslhx/03.real_world_data_to_tensors.pdf?rlkey=65ogxa409dkn7w6d5017kwzuo&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/904hepgjv795hm4xqslhx/03.real_world_data_to_tensors.pdf?rlkey=65ogxa409dkn7w6d5017kwzuo&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a> 
+                                                                </a>--> 
                                                                 <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - 데이터 (zip 파일)
                                                                 <a href="https://drive.google.com/file/d/11Wp9q99jTBUG7zx4rgAl0rRZ9wKK99Bb/view?usp=sharing" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
                                                                 - zip 파일을 해제하여 _00_data 폴더 얻음 --> link_dl 폴더 하위에 _00_data 폴더 위치 시킴
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -154,9 +158,9 @@ permalink: /courses/2024/2/dl
                                                             <td>09월 25일(수)</td>
                                                             <td>
                                                                 - 04. 학습과 자동미분
-                                                                <a href="https://www.dropbox.com/scl/fi/zseoyran89bax3x8phe3e/04.learning_and_autograd.pdf?rlkey=jtuec3j2dnls2i4y8uoubq00f&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/zseoyran89bax3x8phe3e/04.learning_and_autograd.pdf?rlkey=jtuec3j2dnls2i4y8uoubq00f&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -169,10 +173,12 @@ permalink: /courses/2024/2/dl
                                                                 - 04. 학습과 자동미분
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - Homework #2 (기한: 10월 15일)
                                                                 <a href="https://www.dropbox.com/scl/fi/e7kdyuuxknmnxim4q2zrb/HW_2.pdf?rlkey=ylw5btfmsseheshhqnrstz30p&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -200,9 +206,9 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 휴강 (한글날)<br/>
                                                                 - 05. 심층 신경망 모델과 학습
-                                                                <a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                                 <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
                                                             </td>
                                                             <td>
@@ -223,9 +229,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 16일(수)</td>
                                                             <td>
                                                                 - 06. 심층 신경망 학습 - Best Practice
-                                                                <a href="https://www.dropbox.com/scl/fi/8046i4gedjb6as55xjog3/06.fcn_best_practice.pdf?rlkey=18rn1uty02kw42f5xt865cn5m&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/8046i4gedjb6as55xjog3/06.fcn_best_practice.pdf?rlkey=18rn1uty02kw42f5xt865cn5m&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -244,9 +250,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 23일(수)</td>
                                                             <td>
                                                                 - 07. 합성곱 신경망 (CNN)
-                                                                <a href="https://www.dropbox.com/scl/fi/7n9vyireqx22ionc10i1x/07.cnn_1.pdf?rlkey=zj5kf88ztbupb2rely8ap5k0w&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/7n9vyireqx22ionc10i1x/07.cnn_1.pdf?rlkey=zj5kf88ztbupb2rely8ap5k0w&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -257,9 +263,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 28일(월)</td>
                                                             <td>
                                                                 - 07. 합성곱 신경망 (CNN)
-                                                                <a href="https://www.dropbox.com/scl/fi/kmgmk8usmkwy8h4p55aqd/07.cnn_2.pdf?rlkey=4zopud98hv9s5ri59kn85r0mq&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/kmgmk8usmkwy8h4p55aqd/07.cnn_2.pdf?rlkey=4zopud98hv9s5ri59kn85r0mq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -277,9 +283,9 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 04일(월)</td>
                                                             <td>
                                                                 - 08. 다양한 최적화 및 정규화 기법
-                                                                <a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -290,10 +296,12 @@ permalink: /courses/2024/2/dl
                                                                 - 08. 다양한 최적화 및 정규화 기법
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - Homework #3 (기한: 11월 18일 (일))
                                                                 <a href="https://www.dropbox.com/scl/fi/1o7w3qa3ge0odvydko1px/HW_3.pdf?rlkey=kf40ihpelh8zoaa28kpx96b05&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -302,9 +310,9 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 11일(월)</td>
                                                             <td>
                                                                 - 08. 다양한 최적화 및 정규화 기법
-                                                                <a href="https://www.dropbox.com/scl/fi/icalz2s9l3ljlt765nnfv/08.diverse_techniques_2.pdf?rlkey=gxa04s2mbjhc1otx9iazqlvze&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/icalz2s9l3ljlt765nnfv/08.diverse_techniques_2.pdf?rlkey=gxa04s2mbjhc1otx9iazqlvze&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -314,9 +322,9 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 13일(수)</td>
                                                             <td>
                                                                 - 09. 다양한 CNN 모델
-                                                                <a href="https://www.dropbox.com/scl/fi/h3eofzqo25uc0uquly4q6/09.modern_cnns.pdf?rlkey=5a4shn95edxw90k2jnfij6vri&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/h3eofzqo25uc0uquly4q6/09.modern_cnns.pdf?rlkey=5a4shn95edxw90k2jnfij6vri&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -336,9 +344,9 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 20일(수)</td>
                                                             <td>
                                                                 - 10. 순환 신경망 (RNN)
-                                                                <a href="https://www.dropbox.com/scl/fi/86aoo11wyr66ux1wv2y2p/10.rnn.pdf?rlkey=2nn4s6ncifpcoiidxq2bcmizz&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/86aoo11wyr66ux1wv2y2p/10.rnn.pdf?rlkey=2nn4s6ncifpcoiidxq2bcmizz&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -351,10 +359,6 @@ permalink: /courses/2024/2/dl
                                                                 - 10. 순환 신경망 (RNN)
                                                             </td>
                                                             <td>
-                                                                - Time Series Data
-                                                                <a href="https://www.dropbox.com/scl/fi/gt2c3xkl6r3hjhc6gnh3i/03-1.real_world_data_to_tensors.pdf?rlkey=4samhl3r996fdzduux3xins3o&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트 (추가)</span>
-                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -362,15 +366,17 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 27일(수)</td>
                                                             <td>
                                                                 - 11. LSTM과 시계열 데이터 예측
-                                                                <a href="https://www.dropbox.com/scl/fi/mpyxzics43ejtcrnn56sa/11.lstm_and_applications.pdf?rlkey=9yqrfh54cwcw8yz4ry84kgwk8&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/mpyxzics43ejtcrnn56sa/11.lstm_and_applications.pdf?rlkey=9yqrfh54cwcw8yz4ry84kgwk8&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - Homework #4 (기한: 12월 15일 (금))
                                                                 <a href="https://www.dropbox.com/scl/fi/u56oozhiikfc2ptsx1jr0/HW_4.pdf?rlkey=ufn8ntdiq00wewp3bdi4owrfq&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -381,11 +387,13 @@ permalink: /courses/2024/2/dl
                                                                 - 11. LSTM과 시계열 데이터 예측
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2023.10.31)
                                                                 <a href="https://drive.google.com/file/d/1s0Tfx79rHsp5P5BLSU8Fqxlpz9Zy0JNd/view?usp=sharing" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
                                                                 &nbsp;&nbsp;: _00_data/k_cryptocurrency 폴더 내에 BTC_KRW.csv 파일 저장
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -393,9 +401,9 @@ permalink: /courses/2024/2/dl
                                                             <td>12월 04일(수)</td>
                                                             <td>
                                                                 - 12. 전이 학습(Transfer Learning)
-                                                                <a href="https://www.dropbox.com/scl/fi/amfrooqswgq8bikmowsyz/12.transfer_learning.pdf?rlkey=xxjeyhgos6mruzsyzhput80iq&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/amfrooqswgq8bikmowsyz/12.transfer_learning.pdf?rlkey=xxjeyhgos6mruzsyzhput80iq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -406,9 +414,9 @@ permalink: /courses/2024/2/dl
                                                             <td>12월 09일(월)</td>
                                                             <td>
                                                                 - 13. 오토인코더(Auto-encoder)
-                                                                <a href="https://www.dropbox.com/scl/fi/i2d5u3i9w2jhe0xi2n6dc/13.autoencoders.pdf?rlkey=7z10sj6cmmw0ty3bcu3piu3f5&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/i2d5u3i9w2jhe0xi2n6dc/13.autoencoders.pdf?rlkey=7z10sj6cmmw0ty3bcu3piu3f5&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -436,7 +444,8 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">31</th>
                                                             <td>12월 18일(수)</td>
                                                             <td class="centred" colspan="2">
-                                                                <strong>기말 고사</strong> <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분
+                                                                <strong>기말 고사</strong>
+                                                                <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
                                                             </td>
                                                         </tr>
                                                         </tbody>
@@ -455,7 +464,7 @@ permalink: /courses/2024/2/dl
                                                             - Lecture Room: 2공학관 408호
                                                         </li>
                                                         <li>
-                                                            - Prerequisites: Python (필수), 인공지능기초및싱습, 기계학습및실습
+                                                            - Prerequisites: Python (필수), 인공지능기초및실습, 기계학습및실습
                                                         </li>
                                                     </ul>
                                                     <br/>
