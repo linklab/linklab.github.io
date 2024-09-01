@@ -48,9 +48,9 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - 00. 강의 소개<br/>
                                                                 - 00. 딥러닝 소개
-                                                                <!--<a href="https://www.dropbox.com/s/b5s2ivsjopsweu8/00.dl_101.pdf" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/q0eb623e2riltpa9ett36/00.dl_101.pdf?rlkey=9fkldqi4cdlc1pt00yug7xdfc&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - _01_code 로컬 디렉토리 및 _02_homeworks 로컬 디렉토리 변경 사항 초기화<br/>
