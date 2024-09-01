@@ -90,10 +90,11 @@ permalink: /courses/2024/2/dl
                                                                 </a>-->
                                                             </td>
                                                             <td>
-                                                                - Tensor Shape, Dimension, and Rank
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
+                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
+                                                                <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
+                                                                <!-- <a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트 (추가)</span>
-                                                                </a>-->
+                                                                </a> -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -119,7 +120,6 @@ permalink: /courses/2024/2/dl
                                                                 휴강 (추석)
                                                             </td>
                                                             <td>
-                                                                -
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -139,7 +139,7 @@ permalink: /courses/2024/2/dl
                                                                 <a href="https://drive.google.com/file/d/11Wp9q99jTBUG7zx4rgAl0rRZ9wKK99Bb/view?usp=sharing" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
-                                                                - zip 파일을 해제하여 _00_data 폴더 얻음 --> link_dl 폴더 하위에 _00_data 폴더 위치 시킴
+                                                                - zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
                                                                 -->
                                                             </td>
                                                         </tr>
