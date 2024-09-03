@@ -28,7 +28,7 @@ permalink: /courses/2024/2/dl
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule &amp; Lecture Notes
-                                                    <span><a style="color: blue; font-size: 0.6em" href="git@github.com:linklab/link_dl.git">[수업 실습 코드]</a></span>
+                                                    <span><a style="color: blue; font-size: 0.6em" href="https://github.com/linklab/link_dl">[수업 실습 코드]</a></span>
                                                     </h3>
                                                     <table class="table table-bordered">
                                                         <thead class="thead-light">
