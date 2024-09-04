@@ -66,9 +66,9 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - 00. 딥러닝 소개<br/>
                                                                 - 01. 개발 환경 구축
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span> (개정: 2023.09.03)
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - windows에서 cuda 호환 torch 설치 방법<br/>
