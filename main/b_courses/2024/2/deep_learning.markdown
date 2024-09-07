@@ -85,9 +85,9 @@ permalink: /courses/2024/2/dl
                                                             <td>09월 09일(월)</td>
                                                             <td>
                                                                 - 03. Real-World Data to Tensors
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/72fgim0fbmvjhunv6z0vm/02.tensors.pdf?rlkey=jhblgbsyz4eewti8juyfkeszr&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/1s5oagxiun81c675u6q0u/03.real_world_data_to_tensors.pdf?rlkey=gu4j5tl833s9hvsfbnol0s6gi&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
