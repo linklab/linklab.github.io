@@ -72,7 +72,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
-                                                                <a href="https://drive.google.com/file/d/11Wp9q99jTBUG7zx4rgAl0rRZ9wKK99Bb/view?usp=sharing" target="_blank">
+                                                                <a href="https://drive.google.com/file/d/1aUO7ca_cc8UoaJ_EAZZ9wmcbqV8HF_RM/view?usp=sharing" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
                                                                 : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
