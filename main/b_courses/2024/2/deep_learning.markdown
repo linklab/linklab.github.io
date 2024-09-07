@@ -75,7 +75,7 @@ permalink: /courses/2024/2/dl
                                                                 <a href="https://drive.google.com/file/d/11Wp9q99jTBUG7zx4rgAl0rRZ9wKK99Bb/view?usp=sharing" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
-                                                                - zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
+                                                                : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
                                                             </td>
                                                         </tr>
                                                         <tr>
