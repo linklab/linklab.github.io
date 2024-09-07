@@ -46,8 +46,8 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">01</th>
                                                             <td>09월 02일(월)</td>
                                                             <td>
-                                                                - 00. 강의 소개<br/>
-                                                                - 00. 딥러닝 소개
+                                                                - 00. Course Introduction<br/>
+                                                                - 00. Introduction to Deep Learning
                                                                 <a href="https://www.dropbox.com/scl/fi/q0eb623e2riltpa9ett36/00.dl_101.pdf?rlkey=9fkldqi4cdlc1pt00yug7xdfc&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -64,8 +64,8 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">02</th>
                                                             <td>09월 04일(수)</td>
                                                             <td>
-                                                                - 00. 딥러닝 소개<br/>
-                                                                - 01. 개발 환경 구축
+                                                                - 00. Introduction to Deep Learning<br/>
+                                                                - 01. Development Environment
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span> (개정: 2023.09.03)
                                                                 </a>-->
@@ -83,14 +83,13 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">03</th>
                                                             <td>09월 09일(월)</td>
                                                             <td>
-                                                                - 01. 개발 환경 구축<br/>
-                                                                - 02. 텐서 구조체
+                                                                - 03. Real-World Data to Tensors
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/72fgim0fbmvjhunv6z0vm/02.tensors.pdf?rlkey=jhblgbsyz4eewti8juyfkeszr&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
                                                             </td>
                                                             <td>
-                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
+                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)x
                                                                 <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트 (추가)</span>
@@ -101,7 +100,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">04</th>
                                                             <td>09월 11일(수)</td>
                                                             <td>
-                                                                - 02. 텐서 구조체
+                                                                - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
                                                                 <!--
