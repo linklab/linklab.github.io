@@ -76,6 +76,7 @@ permalink: /courses/2024/2/dl
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
                                                                 : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
+                                                                <img src="/assets/images/courses/_00_data.png" alt="" width="100%"/>
                                                             </td>
                                                         </tr>
                                                         <tr>
