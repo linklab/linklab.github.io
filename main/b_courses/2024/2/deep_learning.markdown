@@ -71,11 +71,6 @@ permalink: /courses/2024/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                - windows에서 cuda 호환 torch 설치 방법<br/>
-                                                                : <strong>pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118</strong><br/>
-                                                                : https://pytorch.org/ 참고 <br/>
-                                                                - 이미 torch가 설치되어 있는 경우 아래와 같이 먼저 설치된 torch 제거 필요<br/>
-                                                                : <strong>pip uninstall torch torchvision</strong>
                                                             </td>
                                                         </tr>
                                                         <tr>
