@@ -28,7 +28,7 @@ permalink: /courses/2024/2/dl
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule &amp; Lecture Notes
-                                                    <span><a style="color: blue; font-size: 0.6em" href="git@github.com:linklab/link_dl.git">[수업 실습 코드]</a></span>
+                                                    <span><a style="color: blue; font-size: 0.6em" href="https://github.com/linklab/link_dl">[수업 실습 코드]</a></span>
                                                     </h3>
                                                     <table class="table table-bordered">
                                                         <thead class="thead-light">
@@ -47,7 +47,7 @@ permalink: /courses/2024/2/dl
                                                             <td>09월 02일(월)</td>
                                                             <td>
                                                                 - 00. Course Introduction<br/>
-                                                                - 00. Introduction to Deep Learning
+                                                                - 01. Introduction to Deep Learning
                                                                 <a href="https://www.dropbox.com/scl/fi/q0eb623e2riltpa9ett36/00.dl_101.pdf?rlkey=9fkldqi4cdlc1pt00yug7xdfc&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -64,11 +64,11 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">02</th>
                                                             <td>09월 04일(수)</td>
                                                             <td>
-                                                                - 00. Introduction to Deep Learning<br/>
-                                                                - 01. Development Environment
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span> (개정: 2023.09.03)
-                                                                </a>-->
+                                                                - 01. Introduction to Deep Learning<br/>
+                                                                - 02. Development Environment
+                                                                <a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - windows에서 cuda 호환 torch 설치 방법<br/>
@@ -89,7 +89,7 @@ permalink: /courses/2024/2/dl
                                                                 </a>-->
                                                             </td>
                                                             <td>
-                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)x
+                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
                                                                 <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트 (추가)</span>
@@ -126,7 +126,7 @@ permalink: /courses/2024/2/dl
                                                             <td>09월 18일(수)</td>
                                                             <td>
                                                                 휴강 (추석)<br/>
-                                                                - 03. 다양한 데이터의 텐서 표현 및 다루기
+                                                                - 04. Artificial Neuron & Gradient Descent
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/904hepgjv795hm4xqslhx/03.real_world_data_to_tensors.pdf?rlkey=65ogxa409dkn7w6d5017kwzuo&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>--> 
@@ -147,7 +147,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">06</th>
                                                             <td>09월 23일(월)</td>
                                                             <td>
-                                                                - 03. 다양한 데이터의 텐서 표현 및 다루기
+                                                                - 04. Artificial Neuron & Gradient Descent
                                                             </td>
                                                             <td>
                                                             </td>
@@ -156,7 +156,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">07</th>
                                                             <td>09월 25일(수)</td>
                                                             <td>
-                                                                - 04. 학습과 자동미분
+                                                                - 05. Backpropagation & Autograd
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/zseoyran89bax3x8phe3e/04.learning_and_autograd.pdf?rlkey=jtuec3j2dnls2i4y8uoubq00f&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -169,7 +169,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">08</th>
                                                             <td>09월 30일(월)</td>
                                                             <td>
-                                                                - 04. 학습과 자동미분
+                                                                - 05. Backpropagation & Autograd
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -184,7 +184,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">09</th>
                                                             <td>10월 02일(수)</td>
                                                             <td>
-                                                                - 04. 학습과 자동미분
+                                                                - 06. FCN (Fully-Connected Network) & Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
@@ -194,7 +194,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">10</th>
                                                             <td>10월 07일(월)</td>
                                                             <td>
-                                                                - 05. 심층 신경망 모델과 학습
+                                                                - 06. FCN & Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
@@ -204,7 +204,7 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 09일(수)</td>
                                                             <td>
                                                                 휴강 (한글날)<br/>
-                                                                - 05. 심층 신경망 모델과 학습
+                                                                - 07. Learning & Optimization
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -218,7 +218,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">12</th>
                                                             <td>10월 14일(월)</td>
                                                             <td>
-                                                                - 05. 심층 신경망 모델과 학습
+                                                                - 08. FCN Best Practice
                                                             </td>
                                                             <td>
                                                             </td>
@@ -227,7 +227,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">13</th>
                                                             <td>10월 16일(수)</td>
                                                             <td>
-                                                                - 06. 심층 신경망 학습 - Best Practice
+                                                                - 09. Convolutional Neural Network (CNN)
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/8046i4gedjb6as55xjog3/06.fcn_best_practice.pdf?rlkey=18rn1uty02kw42f5xt865cn5m&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -240,7 +240,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">14</th>
                                                             <td>10월 21일(월)</td>
                                                             <td>
-                                                                - 06. 심층 신경망 학습 - Best Practice
+                                                                - 09. Convolutional Neural Network (CNN)
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -248,7 +248,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">15</th>
                                                             <td>10월 23일(수)</td>
                                                             <td>
-                                                                - 07. 합성곱 신경망 (CNN)
+                                                                - 10. CNN Architectures
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/7n9vyireqx22ionc10i1x/07.cnn_1.pdf?rlkey=zj5kf88ztbupb2rely8ap5k0w&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -261,7 +261,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">16</th>
                                                             <td>10월 28일(월)</td>
                                                             <td>
-                                                                - 07. 합성곱 신경망 (CNN)
+                                                                - 10. CNN Architectures
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/kmgmk8usmkwy8h4p55aqd/07.cnn_2.pdf?rlkey=4zopud98hv9s5ri59kn85r0mq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -281,7 +281,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">18</th>
                                                             <td>11월 04일(월)</td>
                                                             <td>
-                                                                - 08. 다양한 최적화 및 정규화 기법
+                                                                - 11. Advanced Techniques in Deep Learning - I
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -292,7 +292,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">19</th>
                                                             <td>11월 06일(수)</td>
                                                             <td>
-                                                                - 08. 다양한 최적화 및 정규화 기법
+                                                                - 12. Advanced Techniques in Deep Learning - II
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -308,7 +308,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">20</th>
                                                             <td>11월 11일(월)</td>
                                                             <td>
-                                                                - 08. 다양한 최적화 및 정규화 기법
+                                                                - 12. Advanced Techniques in Deep Learning - II
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/icalz2s9l3ljlt765nnfv/08.diverse_techniques_2.pdf?rlkey=gxa04s2mbjhc1otx9iazqlvze&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -320,7 +320,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">21</th>
                                                             <td>11월 13일(수)</td>
                                                             <td>
-                                                                - 09. 다양한 CNN 모델
+                                                                - 13. Modern CNNs
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/h3eofzqo25uc0uquly4q6/09.modern_cnns.pdf?rlkey=5a4shn95edxw90k2jnfij6vri&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -333,7 +333,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 18일(월)</td>
                                                             <td>
-                                                                - 09. 다양한 CNN 모델
+                                                                - 13. Modern CNNs
                                                             </td>
                                                             <td>
                                                             </td>
@@ -342,7 +342,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 20일(수)</td>
                                                             <td>
-                                                                - 10. 순환 신경망 (RNN)
+                                                                - 14. Recurrent Neural Network (RNN)
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/86aoo11wyr66ux1wv2y2p/10.rnn.pdf?rlkey=2nn4s6ncifpcoiidxq2bcmizz&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -355,7 +355,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">24</th>
                                                             <td>11월 25일(월)</td>
                                                             <td>
-                                                                - 10. 순환 신경망 (RNN)
+                                                                - 14. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -364,7 +364,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">25</th>
                                                             <td>11월 27일(수)</td>
                                                             <td>
-                                                                - 11. LSTM과 시계열 데이터 예측
+                                                                - 15. LSTM and Its Application
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/mpyxzics43ejtcrnn56sa/11.lstm_and_applications.pdf?rlkey=9yqrfh54cwcw8yz4ry84kgwk8&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -383,7 +383,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">26</th>
                                                             <td>12월 02일(월)</td>
                                                             <td>
-                                                                - 11. LSTM과 시계열 데이터 예측
+                                                                - 15. LSTM and Its Application
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -399,7 +399,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">27</th>
                                                             <td>12월 04일(수)</td>
                                                             <td>
-                                                                - 12. 전이 학습(Transfer Learning)
+                                                                - 16. Transfer Learning
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/amfrooqswgq8bikmowsyz/12.transfer_learning.pdf?rlkey=xxjeyhgos6mruzsyzhput80iq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -412,7 +412,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">28</th>
                                                             <td>12월 09일(월)</td>
                                                             <td>
-                                                                - 13. 오토인코더(Auto-encoder)
+                                                                - 17. Autoencoders
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/i2d5u3i9w2jhe0xi2n6dc/13.autoencoders.pdf?rlkey=7z10sj6cmmw0ty3bcu3piu3f5&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -424,7 +424,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 11일(수)</td>
                                                             <td>
-                                                                - 14. 어텐션(Attention)과 트랜스포머(Transformer)
+                                                                - 18. Attention & Transformer
                                                             </td>
                                                             <td>
                                                             </td>
@@ -434,7 +434,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">30</th>
                                                             <td>12월 16일(월)</td>
                                                             <td>
-                                                                - 14. 어텐션(Attention)과 트랜스포머(Transformer)
+                                                                - 18. Attention & Transformer
                                                             </td>
                                                             <td>
                                                             </td>

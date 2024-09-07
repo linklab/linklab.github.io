@@ -8,6 +8,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>09월 10일 (화) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Luo, Fu, et al. "Neural combinatorial optimization with heavy decoder: Toward large scale generalization." Advances in Neural Information Processing Systems 36 (2023): 8845-8864.
+                    </strong>
+                    <a href="https://neurips.cc/virtual/2023/poster/71671">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>08월 20일 (화) 논문 세미나 – 최요한
                     <br/>
                     <strong>
