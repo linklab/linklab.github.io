@@ -105,7 +105,7 @@ permalink: /courses/2024/2/dl
                                                                 - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
-                                                                - <strong>Homework #1 (기한: 9월 22일 11시 59분)</strong>
+                                                                - <strong>Homework #1 (기한: 9월 24일 11시 59분)</strong>
                                                                 <a href="https://www.dropbox.com/scl/fi/nwzmqe2k821xw68alcc50/HW_1.pdf?rlkey=vzuz70oam6m4xgl2v55n6o2bh&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
