@@ -92,9 +92,10 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
                                                                 <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
-                                                                <!-- <a href="https://www.dropbox.com/scl/fi/zyaxraee2a8gdomr3hpbm/02-1.tensors_addition.pdf?rlkey=fuz3tot7tizx2u6ise4o4w4tg&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트 (추가)</span>
-                                                                </a> -->
+                                                                <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a><br/>
+                                                                - Zoom URL은 EL2 공지사항에 올려 놓았으며, 개별 문자로 발송하였습니다.
                                                             </td>
                                                         </tr>
                                                         <tr>
