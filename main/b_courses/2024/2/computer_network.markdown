@@ -85,10 +85,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">04</th>
                                                             <td>09월 12일(목)</td>
                                                             <td>
-                                                                - Chapter 2. 애플리케이션 계층
-                                                                <a href="https://www.dropbox.com/scl/fi/5pus6d2ft3cwm2ceycate/Chapter_2_v8.0_1.pdf?rlkey=kluzy3oputca9yw84bp7zr0n2&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                - Chapter 1. 컴퓨터와 네트워크 인터넷
                                                             </td>
                                                             <td>
                                                             </td>
@@ -111,6 +108,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>09월 19일(목)</td>
                                                             <td>
                                                                 - Chapter 2. 애플리케이션 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/5pus6d2ft3cwm2ceycate/Chapter_2_v8.0_1.pdf?rlkey=kluzy3oputca9yw84bp7zr0n2&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -139,7 +139,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">08</th>
                                                             <td>10월 01일(화)</td>
                                                             <td>
-                                                                - Chapter 3 트랜스포트 계층
+                                                                - Chapter 2. 애플리케이션 계층
                                                             </td>
                                                             <td>
                                                             </td>
