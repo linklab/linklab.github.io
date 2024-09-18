@@ -55,11 +55,11 @@ permalink: /courses/2024/2/computer_network
                                                                 <a href="https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/" target="_blank">
                                                                     <i class="fa fa-link" aria-hidden="true"></i>
                                                                 </a>
-                                                                <br/>
+                                                                <!-- <br/>
                                                                 - 보조 자료: 
                                                                 <a href="/courses/common/computer_network_supplement" target="_blank">
                                                                     <i class="fa fa-link" aria-hidden="true"></i>
-                                                                </a>
+                                                                </a> -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -86,6 +86,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>09월 12일(목)</td>
                                                             <td>
                                                                 - Chapter 2. 애플리케이션 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/5pus6d2ft3cwm2ceycate/Chapter_2_v8.0_1.pdf?rlkey=kluzy3oputca9yw84bp7zr0n2&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
