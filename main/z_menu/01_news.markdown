@@ -35,6 +35,14 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2024" month="09" day="27">
+                                    <td class="text-md-right" style="width: 20%">
+                                        September 27, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        최요한 박사과정생, 제5회 한국인공지능학술대회에서 논문 발표: 논문 제목 - '순환 신경망과 트랜스포머 모델을 활용한 POMDP환경에서의 강화학습 성능 개선에 관한 연구'
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2024" month="09" day="01">
                                     <td class="text-md-right" style="width: 20%">
                                         September 01, 2024
