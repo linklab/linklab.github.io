@@ -40,7 +40,10 @@ permalink: /news/
                                         September 27, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        최요한 박사과정생, 제5회 한국인공지능학술대회에서 논문 발표: 논문 제목 - '순환 신경망과 트랜스포머 모델을 활용한 POMDP환경에서의 강화학습 성능 개선에 관한 연구'
+                                        최요한 박사과정생, 제5회 한국인공지능학술대회에서 논문 발표: 논문 제목 - '순환 신경망과 트랜스포머모델을 활용한 POMDP환경에서의 강화학습 성능 개선에 관한 연구'
+                                        <a href="https://koreaai.org/" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
                                     </td>
                                 </tr>
                                 <tr class="news" year="2024" month="09" day="01">
