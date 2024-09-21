@@ -177,7 +177,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">09</th>
                                                             <td>10월 02일(수)</td>
                                                             <td>
-                                                                - 05. Autograd
+                                                                - 06. FCN (Fully-Connected Network) & Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
