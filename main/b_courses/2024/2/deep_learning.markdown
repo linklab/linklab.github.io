@@ -144,7 +144,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">05</th>
                                                             <td>09월 23일(월)</td>
                                                             <td>
-                                                                - 04. Artificial Neuron, Gradient Descent & Backpropagation
+                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
                                                                 <a href="https://www.dropbox.com/scl/fi/61c2ixt4ewzl9avx9d34i/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=fv5toi194bt7y86ytavdaq0bl&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -156,7 +156,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">06</th>
                                                             <td>09월 25일(수)</td>
                                                             <td>
-                                                                - 04. Artificial Neuron, Gradient Descent & Backpropagation
+                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
                                                             </td>
                                                             <td>
                                                             </td>
@@ -181,7 +181,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">08</th>
                                                             <td>10월 02일(수)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) & Loss Functions
+                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
@@ -191,7 +191,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">09</th>
                                                             <td>10월 07일(월)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) & Loss Functions
+                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
@@ -201,7 +201,7 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 09일(수)</td>
                                                             <td>
                                                                 휴강 (한글날)<br/>
-                                                                - 07. Learning & Optimization
+                                                                - 07. Learning and Optimization
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -421,7 +421,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">28</th>
                                                             <td>12월 11일(수)</td>
                                                             <td>
-                                                                - 18. Attention & Transformer
+                                                                - 18. Attention and Transformer
                                                             </td>
                                                             <td>
                                                             </td>
@@ -431,7 +431,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 16일(월)</td>
                                                             <td>
-                                                                - 18. Attention & Transformer
+                                                                - 18. Attention and Transformer
                                                             </td>
                                                             <td>
                                                             </td>
