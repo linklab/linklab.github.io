@@ -122,7 +122,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">05</th>
+                                                            <th scope="row">-</th>
                                                             <td>09월 18일(수)</td>
                                                             <td>
                                                                 휴강 (추석)<br/>
@@ -137,7 +137,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
-                                                            <th scope="row">06</th>
+                                                            <th scope="row">05</th>
                                                             <td>09월 23일(월)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent & Backpropagation
@@ -149,7 +149,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">07</th>
+                                                            <th scope="row">06</th>
                                                             <td>09월 25일(수)</td>
                                                             <td>
                                                                 - 05. Artificial Neuron, Gradient Descent & Backpropagation
@@ -159,7 +159,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
-                                                            <th scope="row">08</th>
+                                                            <th scope="row">07</th>
                                                             <td>09월 30일(월)</td>
                                                             <td>
                                                                 - 05. Autograd
@@ -174,7 +174,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">09</th>
+                                                            <th scope="row">08</th>
                                                             <td>10월 02일(수)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) & Loss Functions
@@ -184,7 +184,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
-                                                            <th scope="row">10</th>
+                                                            <th scope="row">09</th>
                                                             <td>10월 07일(월)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) & Loss Functions
@@ -193,7 +193,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">111</th>
+                                                            <th scope="row">10</th>
                                                             <td>10월 09일(수)</td>
                                                             <td>
                                                                 휴강 (한글날)<br/>
@@ -208,7 +208,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
-                                                            <th scope="row">12</th>
+                                                            <th scope="row">11</th>
                                                             <td>10월 14일(월)</td>
                                                             <td>
                                                                 - 08. FCN Best Practice
@@ -217,7 +217,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">13</th>
+                                                            <th scope="row">12</th>
                                                             <td>10월 16일(수)</td>
                                                             <td>
                                                                 - 09. Convolutional Neural Network (CNN)
@@ -230,7 +230,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
-                                                            <th scope="row">14</th>
+                                                            <th scope="row">13</th>
                                                             <td>10월 21일(월)</td>
                                                             <td>
                                                                 - 09. Convolutional Neural Network (CNN)
@@ -238,7 +238,7 @@ permalink: /courses/2024/2/dl
                                                             <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">15</th>
+                                                            <th scope="row">14</th>
                                                             <td>10월 23일(수)</td>
                                                             <td>
                                                                 - 10. CNN Architectures
@@ -251,7 +251,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
-                                                            <th scope="row">16</th>
+                                                            <th scope="row">15</th>
                                                             <td>10월 28일(월)</td>
                                                             <td>
                                                                 - 10. CNN Architectures
@@ -263,7 +263,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">17</th>
+                                                            <th scope="row">16</th>
                                                             <td>10월 30일(수)</td>
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
@@ -271,7 +271,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
-                                                            <th scope="row">18</th>
+                                                            <th scope="row">17</th>
                                                             <td>11월 04일(월)</td>
                                                             <td>
                                                                 - 11. Advanced Techniques in Deep Learning - I
@@ -282,7 +282,7 @@ permalink: /courses/2024/2/dl
                                                             <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">19</th>
+                                                            <th scope="row">18</th>
                                                             <td>11월 06일(수)</td>
                                                             <td>
                                                                 - 12. Advanced Techniques in Deep Learning - II
@@ -298,7 +298,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
-                                                            <th scope="row">20</th>
+                                                            <th scope="row">19</th>
                                                             <td>11월 11일(월)</td>
                                                             <td>
                                                                 - 12. Advanced Techniques in Deep Learning - II
@@ -310,7 +310,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">21</th>
+                                                            <th scope="row">20</th>
                                                             <td>11월 13일(수)</td>
                                                             <td>
                                                                 - 13. Modern CNNs
@@ -323,7 +323,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
-                                                            <th scope="row">22</th>
+                                                            <th scope="row">21</th>
                                                             <td>11월 18일(월)</td>
                                                             <td>
                                                                 - 13. Modern CNNs
@@ -332,7 +332,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">23</th>
+                                                            <th scope="row">22</th>
                                                             <td>11월 20일(수)</td>
                                                             <td>
                                                                 - 14. Recurrent Neural Network (RNN)
@@ -345,7 +345,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
-                                                            <th scope="row">24</th>
+                                                            <th scope="row">23</th>
                                                             <td>11월 25일(월)</td>
                                                             <td>
                                                                 - 14. Recurrent Neural Network (RNN)
@@ -354,7 +354,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">25</th>
+                                                            <th scope="row">24</th>
                                                             <td>11월 27일(수)</td>
                                                             <td>
                                                                 - 15. LSTM and Its Application
@@ -373,7 +373,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
-                                                            <th scope="row">26</th>
+                                                            <th scope="row">25</th>
                                                             <td>12월 02일(월)</td>
                                                             <td>
                                                                 - 15. LSTM and Its Application
@@ -389,7 +389,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">27</th>
+                                                            <th scope="row">26</th>
                                                             <td>12월 04일(수)</td>
                                                             <td>
                                                                 - 16. Transfer Learning
@@ -402,7 +402,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
-                                                            <th scope="row">28</th>
+                                                            <th scope="row">27</th>
                                                             <td>12월 09일(월)</td>
                                                             <td>
                                                                 - 17. Autoencoders
@@ -414,7 +414,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">29</th>
+                                                            <th scope="row">28</th>
                                                             <td>12월 11일(수)</td>
                                                             <td>
                                                                 - 18. Attention & Transformer
@@ -424,7 +424,7 @@ permalink: /courses/2024/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
-                                                            <th scope="row">30</th>
+                                                            <th scope="row">29</th>
                                                             <td>12월 16일(월)</td>
                                                             <td>
                                                                 - 18. Attention & Transformer
@@ -433,7 +433,7 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">31</th>
+                                                            <th scope="row">30</th>
                                                             <td>12월 18일(수)</td>
                                                             <td class="centred" colspan="2">
                                                                 <strong>기말 고사</strong>
