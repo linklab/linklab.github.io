@@ -46,8 +46,8 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">01</th>
                                                             <td>09월 02일(월)</td>
                                                             <td>
-                                                                - 00. Course Introduction<br/>
-                                                                - 01. Introduction to Deep Learning
+                                                                - Course Introduction<br/>
+                                                                - 00. Introduction to Deep Learning
                                                                 <a href="https://www.dropbox.com/scl/fi/q0eb623e2riltpa9ett36/00.dl_101.pdf?rlkey=9fkldqi4cdlc1pt00yug7xdfc&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -64,8 +64,8 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">02</th>
                                                             <td>09월 04일(수)</td>
                                                             <td>
-                                                                - 01. Introduction to Deep Learning<br/>
-                                                                - 02. Development Environment
+                                                                - 00. Introduction to Deep Learning<br/>
+                                                                - 01. Development Environment
                                                                 <a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -84,6 +84,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">03</th>
                                                             <td>09월 09일(월)</td>
                                                             <td>
+                                                                - 02. Tensors
+                                                                <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a><br/>
                                                                 - 03. Real-World Data to Tensors
                                                                 <a href="https://www.dropbox.com/scl/fi/1s5oagxiun81c675u6q0u/03.real_world_data_to_tensors.pdf?rlkey=gu4j5tl833s9hvsfbnol0s6gi&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
@@ -152,7 +156,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">06</th>
                                                             <td>09월 25일(수)</td>
                                                             <td>
-                                                                - 05. Artificial Neuron, Gradient Descent & Backpropagation
+                                                                - 04. Artificial Neuron, Gradient Descent & Backpropagation
                                                             </td>
                                                             <td>
                                                             </td>
