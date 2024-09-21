@@ -140,7 +140,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">06</th>
                                                             <td>09월 23일(월)</td>
                                                             <td>
-                                                                - 04. Artificial Neuron & Gradient Descent
+                                                                - 04. Artificial Neuron, Gradient Descent & Backpropagation
                                                                 <a href="https://www.dropbox.com/scl/fi/61c2ixt4ewzl9avx9d34i/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=fv5toi194bt7y86ytavdaq0bl&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -152,10 +152,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">07</th>
                                                             <td>09월 25일(수)</td>
                                                             <td>
-                                                                - 05. Backpropagation & Autograd
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/zseoyran89bax3x8phe3e/04.learning_and_autograd.pdf?rlkey=jtuec3j2dnls2i4y8uoubq00f&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                - 05. Artificial Neuron, Gradient Descent & Backpropagation
                                                             </td>
                                                             <td>
                                                             </td>
@@ -165,7 +162,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">08</th>
                                                             <td>09월 30일(월)</td>
                                                             <td>
-                                                                - 05. Backpropagation & Autograd
+                                                                - 05. Autograd
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -180,7 +177,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">09</th>
                                                             <td>10월 02일(수)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) & Loss Functions
+                                                                - 05. Autograd
                                                             </td>
                                                             <td>
                                                             </td>
@@ -190,7 +187,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">10</th>
                                                             <td>10월 07일(월)</td>
                                                             <td>
-                                                                - 06. FCN & Loss Functions
+                                                                - 06. FCN (Fully-Connected Network) & Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
