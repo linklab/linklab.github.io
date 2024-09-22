@@ -123,8 +123,15 @@ permalink: /courses/2024/2/computer_network
                                                             <td>09월 24일(화)</td>
                                                             <td>
                                                                 - Chapter 2. 애플리케이션 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/ep6jhs5xan6ydbuk4ccwe/Chapter_2_v8.0_2.pdf?rlkey=ktd2t46k5y47aede0i78zgdae&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #1 (기한: 10월 11일 11시 59분)</strong>
+                                                                <a href="https://docs.google.com/document/d/1GBmPdxmvAGfnyrQm1JmQyS-pM-9cTmEH/edit?usp=sharing&ouid=116724166856316111720&rtpof=true&sd=true" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
