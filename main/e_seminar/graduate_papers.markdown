@@ -8,6 +8,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>09월 23일 (월) 논문 세미나 – 최호빈
+                    <br/>
+                    <strong>
+                        Xie, Zhihui, et al., "Future-conditioned unsupervised pretraining for decision transformer," ICML, 2023.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v202/xie23b/xie23b.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>09월 10일 (화) 논문 세미나 – 최요한
                     <br/>
                     <strong>
