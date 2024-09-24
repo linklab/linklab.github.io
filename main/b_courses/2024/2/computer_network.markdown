@@ -128,7 +128,7 @@ permalink: /courses/2024/2/computer_network
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                - <strong>Homework #1 (기한: 10월 11일 11시 59분)</strong>
+                                                                - <strong>Homework #1 (기한: 10월 11일 금요일 17시 59분)</strong>
                                                                 <a href="https://docs.google.com/document/d/1GBmPdxmvAGfnyrQm1JmQyS-pM-9cTmEH/edit?usp=sharing&ouid=116724166856316111720&rtpof=true&sd=true" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
@@ -181,6 +181,10 @@ permalink: /courses/2024/2/computer_network
                                                                 - Chapter 3 트랜스포트 계층
                                                             </td>
                                                             <td>
+                                                                - 10월 11일 금요일 오후 8시 ~ 10시: Homework #1에 관한 정답 설명 (조교)
+                                                                <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
+                                                                <br/>
+                                                                - Zoom URL은 EL2 공지사항에 공지 예정
                                                             </td>
                                                         </tr>
                                                         <tr>
