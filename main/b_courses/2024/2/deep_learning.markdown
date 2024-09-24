@@ -157,6 +157,10 @@ permalink: /courses/2024/2/dl
                                                             <td>09월 25일(수)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation
+                                                                - 05. Autograd
+                                                                <a href="https://www.dropbox.com/scl/fi/sghovvt6b3w795aqujg62/05.autograd.pdf?rlkey=vbwe2p0w45bw1fyt9bxeyisah&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
