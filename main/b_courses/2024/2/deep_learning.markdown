@@ -182,6 +182,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 02일(수)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                                <a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
