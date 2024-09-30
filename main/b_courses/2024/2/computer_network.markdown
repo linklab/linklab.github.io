@@ -157,8 +157,10 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">09</th>
                                                             <td>10월 03일(목)</td>
                                                             <td>
-                                                                휴강 (한글날)<br/>
                                                                 - Chapter 3 트랜스포트 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/u7frxhwxgg57xfogcz6ki/Chapter_3_v8.0_1.pdf?rlkey=rjoyxywi2k22scynhlg1sem6a&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a><br/>
                                                                 <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
                                                             </td>
                                                             <td>
