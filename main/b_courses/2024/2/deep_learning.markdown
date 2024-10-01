@@ -185,6 +185,10 @@ permalink: /courses/2024/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - Homework #2 (기한: 10월 18일 23시 59분)
+                                                                <a href="https://www.dropbox.com/scl/fi/qvothe8meamsrlqmw5bmp/HW_2.pdf?rlkey=h3zt9ddbs3khfjwdpbo86pqz1&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -195,12 +199,6 @@ permalink: /courses/2024/2/dl
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - Homework #2 (기한: 10월 15일 23시 59분)
-                                                                <a href="https://www.dropbox.com/scl/fi/qvothe8meamsrlqmw5bmp/HW_2.pdf?rlkey=h3zt9ddbs3khfjwdpbo86pqz1&dl=0" target="_blank">
-                                                                    <span class="badge badge-primary">숙제 설명</span>
-                                                                </a>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
