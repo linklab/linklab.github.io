@@ -20,6 +20,10 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2024</h4>
+                                            <p>C.-H. Ji, G. Lim, Y.-H. Han, S. Moon,
+                                                "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer,</strong>"
+                                                IEEE Access, 2024 (Accepted).
+                                            </p>
                                             <p>J.-B. Kim, H.-B. Choi, and Y.-H. Han,
                                                 "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning,</strong>"
                                                 Neural Networks, Vol. 172, 106149, Jan. 2024, DOI: <a href="https://doi.org/10.1016/j.neunet.2024.106149" target="_blank">10.1016/j.neunet.2024.106149</a>.

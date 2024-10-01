@@ -15,7 +15,7 @@ permalink: /seminar/graduate
                     </strong>
                     <a href="https://proceedings.mlr.press/v100/allevato20a.html">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
-                    </a>
+                    </a><br/>
                     <strong>
                         Du, Yuqing, et al. "Auto-tuned sim-to-real transfer." ICRA, 2021.
                     </strong>

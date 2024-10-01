@@ -35,6 +35,14 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2024" month="10" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        October 10, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        지창훈 박사과정생, IEEE Access 제출 논문 Accept, 논문 제목 - 'Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer'
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2024" month="09" day="27">
                                     <td class="text-md-right" style="width: 20%">
                                         September 27, 2024
