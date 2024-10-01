@@ -8,6 +8,22 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>10월 1일 (화) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Allevato, Adam, et al. "Tunenet: One-shot residual tuning for system identification and sim-to-real robot task transfer." Conference on Robot Learning. PMLR, 2020.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v100/allevato20a.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <strong>
+                        Du, Yuqing, et al. "Auto-tuned sim-to-real transfer." ICRA, 2021.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9562091">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>09월 23일 (월) 논문 세미나 – 최호빈
                     <br/>
                     <strong>
