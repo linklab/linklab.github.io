@@ -170,15 +170,6 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">07</th>
                                                             <td>09월 30일(월)</td>
                                                             <td>
-                                                                - 05. Autograd
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">08</th>
-                                                            <td>10월 02일(수)</td>
-                                                            <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
                                                                 <a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
@@ -188,11 +179,23 @@ permalink: /courses/2024/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row">08</th>
+                                                            <td>10월 02일(수)</td>
+                                                            <td>
+                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
                                                             <th scope="row">09</th>
                                                             <td>10월 07일(월)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                                - 07. Learning and Optimization
+                                                                <a href="https://www.dropbox.com/scl/fi/8orrnjc0dtzkx69qb0tyw/07.learning_and_optimization.pdf?rlkey=h8avhs2lz5n8qh0xdd5q9iajb&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 <!--
