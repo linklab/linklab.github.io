@@ -40,7 +40,7 @@ permalink: /news/
                                         October 01, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <img src="/assets/images/new.png" width="36"/>
+                                        <span class="badge bg-danger-subtle border border-danger-subtle text-danger-emphasis rounded-pill">NEW</span>
                                         지창훈 박사과정생, [축] IEEE Access 제출 논문 Accept, 논문 제목 - 'Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer' 
                                         <a href="https://ieeexplore.ieee.org/document/10705302" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
