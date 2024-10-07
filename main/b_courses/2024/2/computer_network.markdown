@@ -167,7 +167,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차 </th>
                                                             <th scope="row">10</th>
                                                             <td>10월 08일(화)</td>
                                                             <td>
