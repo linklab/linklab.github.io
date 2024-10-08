@@ -180,7 +180,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">11</th>
                                                             <td>10월 10일(목)</td>
                                                             <td>
-                                                                - Chapter 3 트랜스포트 계층!!
+                                                                - Chapter 3 트랜스포트 계층
                                                             </td>
                                                             <td>
                                                                 - 10월 11일 금요일 오후 8시 ~ 10시: Homework #1에 관한 정답 설명 (조교)
