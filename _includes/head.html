@@ -1,0 +1,309 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/earlyaccess/notosanskr.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+
+  <meta property="og:url" content="http://link.koreatech.ac.kr/"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="한국기술교육대학교 LINK 연구실"/>
+  <meta property="og:description" content="한국기술교육대학교 지능네트워크 연구실"/>
+  <meta property="og:image" content="/assets/images/og_image.jpg"/>
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="300"/>
+  <meta property="og:image:height" content="200"/>
+
+  <meta name="description" content="한국기술교육대학교 지능네트워크 연구실">
+  <link rel="canonical" href="http://link.koreatech.ac.kr/">
+
+  <link rel='stylesheet' type='text/css' href='/assets/css/style.min33a6.css?ver=4.9'>
+
+  <link rel="stylesheet" type="text/css"
+        href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons"/>
+
+  <script src="https://kit.fontawesome.com/bb03b84c4a.js" crossorigin="anonymous"></script>
+  <link href="/assets/themify-icons/themify-icons.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/dataTables.bootstrap5.css">
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file://-->
+  <!--[if lt IE 9]>
+  <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.js"></script>
+  <![endif]-->
+  <style>
+    @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+        .title-level-1{color:#4c4c4c; font-size:48px; font-weight:bold;}
+        .title-level-2{color:#4c4c4c; font-size:32px; font-weight:bold;}
+        .title-level-3{color:#22449c; font-size:28px;}
+        .title-level-4{color:#22449c; font-size:24px;}
+        p, .article-content-1, div.article-content-1{
+            color:#101010;
+            font-size:18px;
+            text-align: justify;
+            text-justify: inter-word;
+        }
+        .article-content-2{
+            color:#b3b3aa; font-size:14px;
+        }
+        .main-slider .content-box .text {font-size: 1.5em;font-weight: bold}
+        .devison{width:50%;float: left;}
+        .accordion {
+            background-color:#183072;
+            color:#ffffff; cursor:pointer;  padding:22px;
+            width:100%;  border:none;  text-align:left;  outline:none;  font-size:22px;  font-weight:bold;
+        }
+
+        .acc_active, .accordion:hover {
+            background-color:#22449c;
+            color:#ffffff;
+        }
+
+        .accordion:after {
+          content:'\002B';  color:#a28a3d;  font-weight:bold;  float:right;  margin-left:6px;
+        }
+
+        .acc_active:after {
+          content:"\2212";
+        }
+
+        .panel {
+          padding: 10px 0px 0px 24px;  background-color:white;  max-height:0;  overflow:hidden;
+          transition: max-height 0.4s ease-out;
+        }
+
+        .title-section {
+            padding:30px;
+            width:100%
+        }
+
+        .year {
+            margin-top: 1.0em;
+            margin-bottom: 1.0em;
+        }
+
+        .main-menu .navigation > li > a {
+            font-size: 1.2em;
+        }
+
+        .research-content {
+            padding: 10px 0px 0px 0px;
+        }
+
+        ol.study {
+            list-style : inside;
+            padding-top: 1.0em;
+        }
+
+        ol.study > li {
+            padding-left: 0.5em;
+            padding-top: 0.5em;
+            padding-bottom: 0.5em;
+        }
+
+        img.pdf_icon {
+            vertical-align: text-bottom;
+            width: 5%;
+        }
+
+        ul.inner_study {
+            padding-left: 1.0em;
+        }
+
+        ul.inner_study > li {
+            font-size: 0.9em;
+        }
+
+        .page-title .content-box .bread-crumb li {
+            font-size: 1.1em !important;
+        }
+
+        .page-title .content-box .bread-crumb li a {
+            font-size: 1.1em !important;
+        }
+
+        .image-column {
+            width: 100% !important;
+            margin: auto !important;
+            text-align: center !important;
+            vertical-align: middle !important;
+        }
+
+        .service-style-five .single-tab-content .image-box {
+            margin-right: 0px !important;
+        }
+
+        .service-style-five .single-tab-content .content-box .title {
+            margin-top: 0px !important;
+        }
+
+        .service-style-five .single-tab-content .content-box {
+            margin: 1.5em 1.5em 1.5em 1.5em !important;
+        }
+
+        table.acknowledgement {
+            margin: auto;
+            margin-bottom: 2.5em;
+            width:95%
+        }
+
+        div.content-box > ul.bread-crumb {
+            margin-bottom: 0em !important;
+        }
+
+        ol ul {
+            list-style-type: circle !important;
+        }
+
+        a {
+            text-decoration: none;
+            position: relative;
+            font-size: 1.0em;
+            font-family: 'NotoSansKR-Regular', sans-serif;
+            line-height: 26px;
+            font-weight: 400;
+            cursor: pointer;
+            color: #22449c;
+            transition: all 500ms ease;
+        }
+
+
+        .service-style-five .single-tab-content .image-box img {
+            width: 100%;
+            border-radius: 0px;
+        }
+
+        .course_year {
+            margin-left: 0.3em;
+            margin-top: 0.3em;
+            margin-bottom: -0.5em;
+            color: #a28a3d;
+        }
+
+        .course_season {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0.3em;
+            margin-bottom: -0.5em;
+            color: #a28a3d;
+        }
+
+        .topic_email {
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+
+        .tab-content {
+            padding-right: 1.0em;
+            width: 100%;
+            -webkit-box-shadow: 0 5px 25px 0 rgba(204, 204, 204, .75);
+            box-shadow: 0 5px 25px 0 rgba(204, 204, 204, .75);
+            display: inline-block;
+            border-radius: 15px;
+            background: #FFF;
+        }
+
+        .single-blog-post .wrapper-img-holder-2 {
+        }
+
+        .single-blog-post .img-holder-2 {
+            display: block;
+            width: 90%;
+            margin: auto;
+            text-align: center;
+        }
+
+        .single-blog-post .text-holder-2 {
+            display: block;
+            padding: 20px 30px 20px;
+        }
+
+        .single-blog-post .text-holder-2 .blog-title a {
+            color: #303030;
+            transition: all 500ms ease;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 24px;
+            height: 50px;
+        }
+
+        .header-style-two .main-menu .navigation > li > a {
+            font-weight: bolder;
+        }
+
+        .header-style-two .sticky-header .main-menu .navigation > li > a {
+            padding: 14px 26px 16px 26px;
+        }
+
+        @media (min-width: 1200px) {
+          .wrapper {
+            max-width: -webkit-calc(1800px - (120px * 2));
+            max-width: calc(1800px - 120px * 2);
+            margin-right: auto;
+            margin-left: auto;
+            padding-right: 120px;
+            padding-left: 120px;
+          }
+        }
+
+        .site-title {
+          font-weight: bold;
+        }
+
+        .site-nav {
+            float: right;
+            line-height: 1em;
+        }
+
+        .site-nav .page-link {
+            color: #111;
+            line-height: 1.5;
+            font-weight: bolder;
+            font-size: large;
+        }
+
+        .post-title {
+            font-size: 2em;
+            line-height: 1;
+        }
+
+        .content-fluid {
+          padding: 0.5em;
+        }
+
+        .article-content-1 > ul, ol {
+            margin-top: 1em;
+            margin-left: 0px;
+        }
+
+        @media (max-width: 767px) {
+          body:not(.page-home) {
+              padding-top: 0px;
+          }
+      }
+  </style>
+</head>

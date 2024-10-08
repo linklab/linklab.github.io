@@ -1,0 +1,114 @@
+---
+layout: page
+permalink: /seminar/undergraduate/fall_2021
+---
+
+<section>
+    <div class="cw-content container-fluid">
+        <div class="cyw-container">
+            <div class="container">
+                <!--Start Container Div-->
+                <div style="background-color:white;" class="container-fluid">
+                    <!--Start Content Grid-->
+                    <section class="row content" style="padding-bottom:100px">
+                        <section class="content-wrapper title-section">
+                        <!-- <h2 class="title-level-1">Projects</h2> -->
+                        </section>
+                        <section style="width:100%" class="content-wrapper">
+                            <article>
+                                <button class="accordion">세미나 교재</button>
+                                <div class="panel article-content-1">
+                                    <ul>
+                                        <li>
+                                            <strong>케라스 창시자에게 배우는 딥러닝, 프랑소와 숄레 지음 | 박해선 옮김 | 길벗 | 2018년 10월 22일 출간</strong>,
+                                            국내서: <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791160505979" target="_blank">
+                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                            </a>,
+                                            원서: <a href="https://www.manning.com/books/deep-learning-with-python" target="_blank">
+                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li>
+                                            <strong>교재 Github (Tensorflow 2.6 기준 업데이트)</strong>: <a href="https://github.com/rickiepark/deep-learning-with-python-notebooks/tree/tf2" target="_blank">
+                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </article>
+                        </section>
+                        <section style="width:100%" class="content-wrapper">
+                            <article>
+                                <button class="accordion">세미나 참석자</button>
+                                <div class="panel article-content-1">
+                                    <ul>발표자: 노현승, 고다혜, 장용연, 홍유준, 이준수, 홍유준</ul>
+                                    <ul>멘토: 지창훈 (석사과정), 최요한 (석사과정)</ul>
+                                </div>
+                            </article>
+                        </section>
+                        <section style="width:100%" class="content-wrapper">
+                            <article>
+                                <button class="accordion">세미나 일정 (매주 수요일 오후 4시)</button>
+                                <div class="panel article-content-1">
+                                    <ul>
+                                        <li>09월 08일 (수): <strong>1장. 딥러닝이란 무엇인가?, 세미나 스케줄 공유, 발표 자료 (Colab) 준비 방법</strong>
+{#                                                <a href="https://colab.research.google.com/drive/12yyjsdACgRBZc2qSzW_J03-7h1awKHoC?usp=sharing" target="_blank">#}
+{#                                                <img src="/assets/images/colab.png" width="5%" /></a>#}
+                                        </li></br>
+                                        <li>09월 15일 (수): <strong>2장. 시작하기 전에: 신경망의 수학적 구성 요소</strong> – 권동욱 (발표) / 지창훈 (멘토)
+                                            <a href="https://colab.research.google.com/drive/1O3nJXtMZ1pwDO2wXAvWpTBobHjEBVyaN?usp=sharing" target="_blank">
+                                                <img src="/assets/images/colab.png" width="5%" />
+                                            </a>
+                                        </li></br>
+                                        <li>09월 22일 (수): (추석)</li><br/>
+                                        <li>09월 29일 (수): <strong>3장. 신경망 시작하기 (1/2)</strong> – 고다혜 (발표) / 최요한 (멘토)
+                                            <a href="https://colab.research.google.com/drive/11cne-kTtUhQqB23vbEUOaEQk6Z21BWlY#scrollTo=neoK18F7cD7f" target="_blank">
+                                            <img src="/assets/images/colab.png" width="5%" /></a>
+                                        </li></br>
+                                        <li>10월 06일 (수): <strong>3장. 신경망 시작하기 (2/2)</strong> – 장용연 (발표) / 최요한 (멘토)
+                                        </li></br>
+                                        <li>10월 13일 (수): <strong>4장. 머신 러닝의 기본 요소 (1/2)</strong> – 이준수 (발표) / 지창훈 (멘토)</li></br>
+                                        <li>10월 20일 (수): (중간고사)</li></br>
+                                        <li>10월 27일 (수): <strong>4장. 머신 러닝의 기본 요소 (2/2)</strong> – 노현승 (발표) / 지창훈 (멘토)</li></br>
+                                        <li>11월 03일 (수): <strong>5장. 컴퓨터 비전을 위한 딥러닝 (1/2)</strong> – 홍유준 (발표) / 최요한 (멘토)</li></br>
+                                        <li>11월 10일 (수): <strong>5장. 컴퓨터 비전을 위한 딥러닝 (2/2)</strong> – 권동욱 (발표) / 최요한 (멘토)</li></br>
+                                        <li>11월 17일 (수): <strong>6장. 텍스트와 시퀀스를 위한 딥러닝 (1/2)</strong> – 고다혜 (발표) / 지창훈 (멘토)</li></br>
+                                        <li>11월 24일 (수): <strong>6장. 텍스트와 시퀀스를 위한 딥러닝 (2/2)</strong> – 장용연 (발표) / 지창훈 (멘토)</li></br>
+                                        <li>12월 01일 (수): <strong>7장. 딥러닝을 위한 고급 도구</strong> – 이준수 (발표) / 최요한 (멘토)</li></br>
+                                        <li>12월 08일 (수): (기말고사))</li></br>
+                                        <li>12월 15일 (수): <strong>8장. 생성 모델을 위한 딥러닝 (1/2)</strong> – 노현승 (발표) / 지창훈 (멘토)</li></br>
+                                        <li>12월 22일 (수): <strong>8장. 생성 모델을 위한 딥러닝 (2/2)</strong> – 홍유준 (발표) / 지창훈 (멘토)</li></br>
+                                    </ul>
+                                </div>
+                            </article>
+                            <br/>
+                        </section>
+                    </section>
+                </div>
+                <!--End Content Grid-->
+            </div>
+        </div>
+    </div>
+</section>
+
+<script type="text/javascript">
+    var acc = document.getElementsByClassName("accordion");
+
+    for (var i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+            this.classList.toggle("acc_active");
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+            } else {
+                panel.style.maxHeight = panel.scrollHeight + "px";
+            }
+        });
+    }
+
+    for (var i = 0; i < acc.length; i++) {
+        acc[i].click();
+    }
+</script>
