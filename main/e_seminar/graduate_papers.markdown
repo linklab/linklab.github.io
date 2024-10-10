@@ -15,6 +15,7 @@ permalink: /seminar/graduate
                     </strong>
                     <a href="https://extreme-parkour.github.io/">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
                     <a href="https://ieeexplore.ieee.org/document/10610200">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
