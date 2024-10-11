@@ -8,6 +8,29 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>10월 15일 (화) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Cheng, Xuxin and Shi, Kexin and Agarwal, Ananye and Pathak, Deepak, "Extreme Parkour with Legged Robots", ICRA, 2024.
+                    </strong>
+                    <a href="https://extreme-parkour.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <a href="https://ieeexplore.ieee.org/document/10610200">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>10월 8일 (화) 논문 세미나 – 한연희
+                    <br/>
+                    <strong>
+                        Aviral Kumar, Aurick Zhou, George Tucker, Sergey Levine, "Conservative Q-Learning for Offline Reinforcement Learning" NIPS, 2020.
+                    </strong>
+                    <a href="https://sites.google.com/view/cql-offline-rl">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>10월 1일 (화) 논문 세미나 – 지창훈
                     <br/>
                     <strong>

@@ -34,6 +34,10 @@ url: "https://linklab.github.io" # the base hostname & protocol for your site, e
 
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 
 #theme: jekyll-theme-minimal
 
