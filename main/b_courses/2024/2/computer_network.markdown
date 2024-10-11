@@ -197,6 +197,10 @@ permalink: /courses/2024/2/computer_network
                                                                 - Chapter 3 트랜스포트 계층
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #2 (기한: 10월 23일 수요일 17시 59분)</strong>
+                                                                <a href="https://docs.google.com/document/d/1VdIzTmSCfh_75Tl3yLgw28CDyvitdhhG/edit?usp=sharing&ouid=116724166856316111720&rtpof=true&sd=true" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
