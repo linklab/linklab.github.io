@@ -264,7 +264,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">19</th>
                                                             <td>11월 07일(목)</td>
                                                             <td>
-                                                                - Chapter 5 네트워크 계층:제어 평면
+                                                                - Chapter 4 네트워크 계층: 데이터 평면
                                                             </td>
                                                             <td>
                                                             </td>
