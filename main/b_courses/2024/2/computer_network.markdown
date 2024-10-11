@@ -194,7 +194,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">12</th>
                                                             <td>10월 15일(월)</td>
                                                             <td>
-                                                                - Chapter 3 트랜스포트 계층
+                                                                - Chapter 3 트랜스포트 계층 
                                                             </td>
                                                             <td>
                                                                 - <strong>Homework #2 (기한: 10월 23일 수요일 17시 59분)</strong>
