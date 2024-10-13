@@ -194,7 +194,10 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">12</th>
                                                             <td>10월 15일(월)</td>
                                                             <td>
-                                                                - Chapter 3 트랜스포트 계층 
+                                                                - Chapter 3 트랜스포트 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/pcyloq4asueg0kztkncc3/Chapter_3_v8.0_2.pptx?rlkey=5a2ljqkrkaqt08uy1f7m1ek1d&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - <strong>Homework #2 (기한: 10월 23일 수요일 17시 59분)</strong>
