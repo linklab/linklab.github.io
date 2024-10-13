@@ -270,6 +270,8 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 28일(월)</td>
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
+                                                                <br/>
+                                                                장소: 2공학관 408/?, 시간: 11시 ~ 12시 50분
                                                             </td>
                                                         </tr>
                                                         <tr>
