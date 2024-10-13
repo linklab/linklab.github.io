@@ -224,6 +224,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 14일(월)</td>
                                                             <td>
                                                                 - 08. FCN Best Practice
+                                                                <a href="https://www.dropbox.com/scl/fi/2mq7ztetczb3y17ronghm/08.fcn_best_practice.pdf?rlkey=muqaps2bbcu9mvtlr0ntzph9a&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
