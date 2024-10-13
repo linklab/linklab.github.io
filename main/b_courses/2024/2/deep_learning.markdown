@@ -236,9 +236,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 16일(수)</td>
                                                             <td>
                                                                 - 09. Convolutional Neural Network (CNN)
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/8046i4gedjb6as55xjog3/06.fcn_best_practice.pdf?rlkey=18rn1uty02kw42f5xt865cn5m&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/ffdva9hqtb7z5tl4dmq42/09.cnn.pdf?rlkey=ul9hrs5qdl8c5ffwkbrlhvlv0&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
