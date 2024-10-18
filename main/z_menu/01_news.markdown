@@ -110,7 +110,6 @@ permalink: /news/
                                         April 01, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         김주봉 박사, [축] Neural Network 저널 논문 게재, 논문 제목 - 'Strangeness-driven exploration in multi-agent reinforcement learning' 
                                         <a href="https://www.sciencedirect.com/science/article/pii/S089360802400073X" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
