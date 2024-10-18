@@ -37,6 +37,18 @@ permalink: /news/
                             <table class="table">
                                 <tr class="news" year="2024" month="10" day="01">
                                     <td class="text-md-right" style="width: 20%">
+                                        October 15, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        LINK랩 4학년 지도학생 (대표: 곽재우), 한국기술교육대학교 졸업작품 경진대회 은상 수상 (작품 제목: 생성형 AI기반 스터디멘토 서비스)
+                                        <a href="https://www.koreatech.ac.kr/notice/view.es?mid=a10604010000&board_id=14&post_seq=33228&prefix_id=5" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2024" month="10" day="01">
+                                    <td class="text-md-right" style="width: 20%">
                                         October 01, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
@@ -90,6 +102,18 @@ permalink: /news/
                                         LINK 연구실 4학년 학부생 (곽재우 외 4인) 졸업작품: <strong>ChatGPT 기반 스터디멘토 서비스</strong>, 2024년 컴퓨터공학부 최우수 졸업작품으로 선정
                                         <a href="https://www.youtube.com/watch?v=k7lPh06q0qw" target="_blank">
                                             <i class="fa fa-youtube" style="color: red"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2024" month="04" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        April 01, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        김주봉 박사, [축] Neural Network 저널 논문 게재, 논문 제목 - 'Strangeness-driven exploration in multi-agent reinforcement learning' 
+                                        <a href="https://www.sciencedirect.com/science/article/pii/S089360802400073X" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
                                     </td>
                                 </tr>
