@@ -149,6 +149,35 @@ layout: page
         </div>
     </div>
     <div class="col-md-6 lab_member">
+        <span class="title">■ Current OPTREALing...</span>
+        <div class="solid_border">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul>
+                        <li>[인공지능] 정책기반 강화학습 PPO 기반 4족 보행 로봇 파쿠르 (Legged Robot Parkour using PPO) 
+                            <a href="https://www.youtube.com/watch?v=M7lDCSF0KP0" target="_blank">
+                                <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li>[인공지능] 가치기반 강화학습 DQN 기반 6G 양자 네트워크 종단간 Entanglement 요청 최적화 (6G End-to-End Entanglement Request Optimization in Quantum Networks)
+                            <a href="https://www.icloud.com/sharedalbum/ko-kr/#B0dG6XBubJtre2f;4941F7C5-6BE0-4F4C-9240-14A5171A970A" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li>[인공지능] 오프라인 강화학습 Decision Transformer 기반 드론 장애물 회피 최적 운항 (Optimal Drone Navigation for Obstacle Avoidance using Decision Transformer)
+                            <a href="https://www.youtube.com/watch?v=6t0Kw68pjOY" target="_blank">
+                                <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li>[인공지능] 메타강화학습 VeriBad 기반 국가 조세 정책 최적화 (Optimization of National Tax Policy using Meta-Reinforcement Learning based on VeriBad)
+                            <a href="https://www.youtube.com/watch?v=6t0Kw68pjOY" target="_blank">
+                                <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
         <span class="title">■ LINK 연구원</span>
         <div class="solid_border">
             <div class="row">
