@@ -131,10 +131,10 @@ layout: page
 </style>
 <div class="row">
     <div class="col-md-12 text-center lab_title">
-      한국기술교육대학교 지능형네트워크 연구실
+      옵트리얼 x 한국기술교육대학교 지능형네트워크 연구실
     </div>
     <div class="col-md-12 text-center lab_sub_title">
-      - Laboratory of Intelligent Networks (LINK) at KOREATECH - 
+      - OPTREAL x Laboratory of Intelligent Networks at KOREATECH - 
     </div>
 </div>
 <div class="row">
