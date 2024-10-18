@@ -170,8 +170,8 @@ layout: page
                             </a>
                         </li>
                         <li>[인공지능] 메타강화학습 VeriBad 기반 국가 조세 정책 최적화 (Optimization of National Tax Policy using Meta-Reinforcement Learning based on VeriBad)
-                            <a href="https://www.youtube.com/watch?v=6t0Kw68pjOY" target="_blank">
-                                <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                            <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002966640" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
                     </ul>
