@@ -248,7 +248,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">13</th>
                                                             <td>10월 21일(월)</td>
                                                             <td>
-                                                                - 09. Convolutional Neural Network (CNN)
+                                                                - 10. CNN Architectures
+                                                                <a href="https://www.dropbox.com/scl/fi/xz0uvjvhkb10lol1neo5o/10.cnn_architectures.pdf?rlkey=4orcw0ngbbbhc3sh6xy75hcta&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -257,9 +260,6 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 23일(수)</td>
                                                             <td>
                                                                 - 10. CNN Architectures
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/7n9vyireqx22ionc10i1x/07.cnn_1.pdf?rlkey=zj5kf88ztbupb2rely8ap5k0w&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
