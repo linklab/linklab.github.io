@@ -219,7 +219,8 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">13</th>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
+                                                            <th scope="row">14</th>
                                                             <td>10월 22일(화)</td>
                                                             <td>
                                                                 - Chapter 3 트랜스포트 계층
