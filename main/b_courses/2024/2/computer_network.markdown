@@ -167,7 +167,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차 </th>
                                                             <th scope="row">10</th>
                                                             <td>10월 08일(화)</td>
                                                             <td>
@@ -192,11 +192,18 @@ permalink: /courses/2024/2/computer_network
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
                                                             <th scope="row">12</th>
-                                                            <td>10월 15일(월)</td>
+                                                            <td>10월 15일(화)</td>
                                                             <td>
                                                                 - Chapter 3 트랜스포트 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/pcyloq4asueg0kztkncc3/Chapter_3_v8.0_2.pptx?rlkey=5a2ljqkrkaqt08uy1f7m1ek1d&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #2 (기한: 10월 23일 수요일 17시 59분)</strong>
+                                                                <a href="https://docs.google.com/document/d/1VdIzTmSCfh_75Tl3yLgw28CDyvitdhhG/edit?usp=sharing&ouid=116724166856316111720&rtpof=true&sd=true" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -204,16 +211,21 @@ permalink: /courses/2024/2/computer_network
                                                             <td>10월 17일(목)</td>
                                                             <td>
                                                                 - Chapter 3 트랜스포트 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/6qv1ir0nk4dqdozg07euy/Chapter_3_v8.0_3.pptx?rlkey=wcfbtfwnkv1aszbc1ieqp8drw&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
-                                                            <th scope="row">14</th>
+                                                            <th scope="row">13</th>
                                                             <td>10월 22일(화)</td>
                                                             <td>
                                                                 - Chapter 3 트랜스포트 계층
+                                                                <a href="https://www.dropbox.com/scl/fi/no43y916d0jqrmnk652sd/Chapter_3_v8.0_4.pptx?rlkey=zr35rxyv2qiq17tibdj8suvu4&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -223,6 +235,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>10월 24일(목)</td>
                                                             <td>
                                                                 - Chapter 4 네트워크 계층: 데이터 평면
+                                                                <a href="https://www.dropbox.com/scl/fi/oklrdgqzwwpxlxfuk4x7n/Chapter_4_v8.0_1.pptx?rlkey=80kz3r3m65acu2ww7ku41autg&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -241,7 +256,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">17</th>
                                                             <td>10월 31일(목)</td>
                                                             <td>
-                                                                - Chapter 5 네트워크 계층:제어 평면
+                                                                - Chapter 4 네트워크 계층: 데이터 평면
                                                             </td>
                                                             <td>
                                                             </td>
@@ -251,7 +266,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">18</th>
                                                             <td>11월 05일(화)</td>
                                                             <td>
-                                                                - Chapter 5 네트워크 계층:제어 평면
+                                                                - Chapter 4 네트워크 계층: 데이터 평면
                                                             </td>
                                                             <td>
                                                             </td>
@@ -260,7 +275,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">19</th>
                                                             <td>11월 07일(목)</td>
                                                             <td>
-                                                                - Chapter 5 네트워크 계층:제어 평면
+                                                                - Chapter 4 네트워크 계층: 데이터 평면
                                                             </td>
                                                             <td>
                                                             </td>
@@ -279,7 +294,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">21</th>
                                                             <td>11월 14일(목)</td>
                                                             <td>
-                                                                - Chapter 6 링크 계층과 근거리 네트워크
+                                                                - Chapter 5 네트워크 계층:제어 평면
                                                             </td>
                                                             <td>
                                                             </td>
@@ -289,7 +304,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">22</th>
                                                             <td>11월 19일(화)</td>
                                                             <td>
-                                                                - Chapter 6 링크 계층과 근거리 네트워크
+                                                                - Chapter 5 네트워크 계층:제어 평면
                                                             </td>
                                                             <td>
                                                             </td>
@@ -327,7 +342,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">26</th>
                                                             <td>12월 03일(화)</td>
                                                             <td>
-                                                                - Chapter 7 무선 및 이동 네트워크
+                                                                - Chapter 6 링크 계층과 근거리 네트워크
                                                             </td>
                                                             <td>
                                                             </td>

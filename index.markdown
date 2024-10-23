@@ -131,10 +131,10 @@ layout: page
 </style>
 <div class="row">
     <div class="col-md-12 text-center lab_title">
-      한국기술교육대학교 지능형네트워크 연구실
+      옵트리얼 x 한국기술교육대학교 지능형네트워크 연구실
     </div>
     <div class="col-md-12 text-center lab_sub_title">
-      - Laboratory of Intelligent Networks (LINK) at KOREATECH - 
+      - OPTREAL x Laboratory of Intelligent Networks at KOREATECH - 
     </div>
 </div>
 <div class="row">
@@ -149,6 +149,41 @@ layout: page
         </div>
     </div>
     <div class="col-md-6 lab_member">
+        <span class="title">■ Current OPTREALing...</span>
+        <div class="solid_border">
+            <div class="row">
+              <div class="col-md-12" style="margin-left: 2em;">
+                <ol class="desc" style="width: 90%; font-weight: bold">
+                    <li><u>정책기반 강화학습 PPO 기반 4족 보행 로봇 파쿠르</u> (Legged Robot Parkour using PPO) 
+                        <a href="https://www.youtube.com/watch?v=M7lDCSF0KP0" target="_blank">
+                            <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li><u>가치기반 강화학습 DQN 기반 6G 양자 네트워크 종단간 Entanglement 요청 최적화</u> (6G End-to-End Entanglement Request Optimization in Quantum Networks)
+                        <a href="https://www.icloud.com/sharedalbum/ko-kr/#B0dG6XBubJtre2f;4941F7C5-6BE0-4F4C-9240-14A5171A970A" target="_blank">
+                            <i class="fa fa-link" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li><u>오프라인 강화학습 Decision Transformer 기반 드론 장애물 회피 최적 운항</u> (Optimal Drone Navigation for Obstacle Avoidance using Decision Transformer)
+                        <a href="https://www.youtube.com/watch?v=6t0Kw68pjOY" target="_blank">
+                            <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li><u>다분야 최적화 실험을 통한 비동기 PPO 검증</u> (Validation of Asynchronous PPO through Multi-Domain Optimization Experiments)
+                        <a href="https://spinningup.openai.com/en/latest/algorithms/ppo.html" target="_blank">
+                            <i class="fa fa-link" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li><u>메타강화학습 VeriBad 기반 국가 조세 정책 최적화</u> (Optimization of National Tax Policy using Meta-Reinforcement Learning based on VeriBad)
+                        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002966640" target="_blank">
+                            <i class="fa fa-link" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                </ol>
+            </div>
+            </div>
+        </div>
+        <br/>
         <span class="title">■ LINK 연구원</span>
         <div class="solid_border">
             <div class="row">
@@ -320,7 +355,7 @@ fetch('https://linklab.github.io/news/')
     const rows = doc.querySelectorAll('tr');
     
     // Extract the latest 5 <tr> elements
-    let latestFiveRows = Array.from(rows).slice(0, 6);
+    let latestFiveRows = Array.from(rows).slice(0, 8);
     
     // Select the table in the current page where the data will be inserted
     const table = document.querySelector('table');

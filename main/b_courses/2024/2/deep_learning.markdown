@@ -224,6 +224,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 14일(월)</td>
                                                             <td>
                                                                 - 08. FCN Best Practice
+                                                                <a href="https://www.dropbox.com/scl/fi/2mq7ztetczb3y17ronghm/08.fcn_best_practice.pdf?rlkey=muqaps2bbcu9mvtlr0ntzph9a&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -233,9 +236,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 16일(수)</td>
                                                             <td>
                                                                 - 09. Convolutional Neural Network (CNN)
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/8046i4gedjb6as55xjog3/06.fcn_best_practice.pdf?rlkey=18rn1uty02kw42f5xt865cn5m&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/ffdva9hqtb7z5tl4dmq42/09.cnn.pdf?rlkey=ul9hrs5qdl8c5ffwkbrlhvlv0&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -245,7 +248,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">13</th>
                                                             <td>10월 21일(월)</td>
                                                             <td>
-                                                                - 09. Convolutional Neural Network (CNN)
+                                                                - 10. CNN Architectures
+                                                                <a href="https://www.dropbox.com/scl/fi/xz0uvjvhkb10lol1neo5o/10.cnn_architectures.pdf?rlkey=4orcw0ngbbbhc3sh6xy75hcta&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -254,9 +260,6 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 23일(수)</td>
                                                             <td>
                                                                 - 10. CNN Architectures
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/7n9vyireqx22ionc10i1x/07.cnn_1.pdf?rlkey=zj5kf88ztbupb2rely8ap5k0w&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -265,28 +268,29 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
                                                             <th scope="row">15</th>
                                                             <td>10월 28일(월)</td>
-                                                            <td>
-                                                                - 10. CNN Architectures
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/kmgmk8usmkwy8h4p55aqd/07.cnn_2.pdf?rlkey=4zopud98hv9s5ri59kn85r0mq&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
-                                                            </td>
-                                                            <td>
+                                                            <td colspan="2" class="centred">
+                                                                <strong>중간 고사</strong>
+                                                                <br/>
+                                                                장소: 2공학관 314, 시간: 11시 ~ 12시 50분
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">16</th>
                                                             <td>10월 30일(수)</td>
-                                                            <td colspan="2" class="centred">
-                                                                <strong>중간 고사</strong>
+                                                            <td>
+                                                                - 11. Advanced Techniques in Deep Learning
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>-->
                                                             </td>
+                                                            <td></td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
                                                             <th scope="row">17</th>
                                                             <td>11월 04일(월)</td>
                                                             <td>
-                                                                - 11. Advanced Techniques in Deep Learning - I
+                                                                - 11. Advanced Techniques in Deep Learning
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -297,7 +301,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">18</th>
                                                             <td>11월 06일(수)</td>
                                                             <td>
-                                                                - 12. Advanced Techniques in Deep Learning - II
+                                                                - 12. Advanced Techniques in Deep Learning
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -313,7 +317,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">19</th>
                                                             <td>11월 11일(월)</td>
                                                             <td>
-                                                                - 12. Advanced Techniques in Deep Learning - II
+                                                                - 12. Advanced Techniques in Deep Learning
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/icalz2s9l3ljlt765nnfv/08.diverse_techniques_2.pdf?rlkey=gxa04s2mbjhc1otx9iazqlvze&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
