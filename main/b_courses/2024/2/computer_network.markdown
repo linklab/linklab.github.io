@@ -192,7 +192,7 @@ permalink: /courses/2024/2/computer_network
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
                                                             <th scope="row">12</th>
-                                                            <td>10월 15일(월)</td>
+                                                            <td>10월 15일(화)</td>
                                                             <td>
                                                                 - Chapter 3 트랜스포트 계층
                                                                 <a href="https://www.dropbox.com/scl/fi/pcyloq4asueg0kztkncc3/Chapter_3_v8.0_2.pptx?rlkey=5a2ljqkrkaqt08uy1f7m1ek1d&dl=0" target="_blank">
@@ -235,7 +235,10 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">15</th>
                                                             <td>10월 24일(목)</td>
                                                             <td>
-                                                                - Chapter 3 트랜스포트 계층
+                                                                - Chapter 4 네트워크 계층: 데이터 평면
+                                                                <a href="https://www.dropbox.com/scl/fi/oklrdgqzwwpxlxfuk4x7n/Chapter_4_v8.0_1.pptx?rlkey=80kz3r3m65acu2ww7ku41autg&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
