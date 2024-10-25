@@ -250,7 +250,7 @@ permalink: /courses/2024/2/computer_network
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
                                                                 <br/>
-                                                                장소: 2공학관 313/314, 시간: 09시 ~ 11시 50분
+                                                                장소: 2공학관 313/314, 시간: 09시 ~ 10시 50분
                                                             </td>
                                                         </tr>
                                                         <tr>
