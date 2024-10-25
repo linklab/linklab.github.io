@@ -20,9 +20,13 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2024</h4>
+                                            <p>I. Ullah and Y.-H. Han,
+                                                "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading,</strong>"
+                                                The Journal of Supercomputing, Vol. 81, 76, Oct. 2024, DOI: <a href="https://doi.org/10.1007/s11227-024-06599-4" target="_blank">10.1007/s11227-024-06599-4</a>.
+                                            </p>
                                             <p>C.-H. Ji, G. Lim, Y.-H. Han, S. Moon,
                                                 "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer,</strong>"
-                                                IEEE Access, 2024 (Accepted).
+                                                IEEE Access, Oct. 2024, DOI: <a href="https://ieeexplore.ieee.org/document/10705302" target="_blank">10.1109/ACCESS.2024.3473935</a>.
                                             </p>
                                             <p>J.-B. Kim, H.-B. Choi, and Y.-H. Han,
                                                 "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning,</strong>"
