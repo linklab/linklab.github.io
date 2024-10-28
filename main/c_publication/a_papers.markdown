@@ -20,9 +20,13 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2024</h4>
+                                            <p>I. Ullah and Y.-H. Han,
+                                                "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading,</strong>"
+                                                The Journal of Supercomputing, Vol. 81, 76, Oct. 2024, DOI: <a href="https://doi.org/10.1007/s11227-024-06599-4" target="_blank">10.1007/s11227-024-06599-4</a>.
+                                            </p>
                                             <p>C.-H. Ji, G. Lim, Y.-H. Han, S. Moon,
                                                 "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer,</strong>"
-                                                IEEE Access, 2024 (Accepted).
+                                                IEEE Access, Oct. 2024, DOI: <a href="https://ieeexplore.ieee.org/document/10705302" target="_blank">10.1109/ACCESS.2024.3473935</a>.
                                             </p>
                                             <p>J.-B. Kim, H.-B. Choi, and Y.-H. Han,
                                                 "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning,</strong>"
@@ -1236,9 +1240,8 @@ permalink: /publication/papers
                                                 1998년 10월 </p>
                                             <br/>
                                             <h4 class="title-level-4 year">1997</h4>
-                                            <p> 한연희, 이종민, 황종선, "<strong>객체 지향 데이터베이스에서 시스템 감지 회복가능성을 이용하는 동시성
-                                                제어,</strong>" 한국정보과학회 학술발표논문집 1997년도 가을(l), 제1권, pp. 403-406, 1997년
-                                                10월</p>
+                                            <p> 한연희, 이종민, 황종선, "<strong>객체 지향 데이터베이스에서 시스템 감지 회복가능성을 이용하는 동시성 제어,</strong>" 한국정보과학회 학술발표논문집 1997년도 가을(l), 제1권, pp. 403-406, 1997년 10월.
+                                            </p>
                                         </div>
                                     </article>
                                 </div>
