@@ -279,9 +279,9 @@ permalink: /courses/2024/2/dl
                                                             <td>10월 30일(수)</td>
                                                             <td>
                                                                 - 11. Advanced Techniques in Deep Learning
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/hovcupyt9581m1k9l0hgv/08.diverse_techniques_1.pdf?rlkey=1vinvoq7gsf3bs1zv31nzlvj6&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/mbtta0ps49i84l7904yhs/11.diverse_techniques_1.pdf?rlkey=riilwiz9o2v34fck57gm1hi27&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
