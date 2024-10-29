@@ -18,6 +18,16 @@ permalink: /seminar/graduate
                     </a>
                 </li>
                 <br/>
+                <li>10월 22일 (화) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        T. Islam, M. Arifuzzaman and E. Arslan, "Reinforcement Learning Based Proactive Entanglement Swapping for Quantum Networks", IEEE, 2024.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/document/10628215">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>10월 15일 (화) 논문 세미나 – 최요한
                     <br/>
                     <strong>
