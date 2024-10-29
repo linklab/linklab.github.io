@@ -8,6 +8,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>10월 29일 (화) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        H.-K. Lim, J.-B. Kim, I. Ullah, J.-S. Heo, and Y.-H. Han, "Federated Reinforcement Learning Acceleration Method for Precise Control of Multiple Devices", IEEE, 2021.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9439484">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>10월 15일 (화) 논문 세미나 – 최요한
                     <br/>
                     <strong>
