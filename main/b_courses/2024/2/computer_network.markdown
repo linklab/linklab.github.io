@@ -258,6 +258,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>10월 31일(목)</td>
                                                             <td>
                                                                 - Chapter 4 네트워크 계층: 데이터 평면
+                                                                <a href="https://www.dropbox.com/scl/fi/1zvucfq7fsngtl3b8vfw2/Chapter_4_v8.0_2.pptx?rlkey=nussseo4280pjmp8lq7j3ds31&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
