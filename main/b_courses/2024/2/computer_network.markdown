@@ -320,7 +320,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">23</th>
                                                             <td>11월 21일(목)</td>
                                                             <td>
-                                                                - Chapter 6 링크 계층과 근거리 네트워크
+                                                                - Chapter 5 네트워크 계층:제어 평면
                                                             </td>
                                                             <td>
                                                             </td>
