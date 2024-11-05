@@ -304,12 +304,10 @@ permalink: /courses/2024/2/dl
                                                                 - 12. Advanced Techniques in Deep Learning
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - Homework #3 (기한: 11월 18일 (일))
-                                                                <a href="https://www.dropbox.com/scl/fi/1o7w3qa3ge0odvydko1px/HW_3.pdf?rlkey=kf40ihpelh8zoaa28kpx96b05&dl=0" target="_blank">
+                                                                - Homework #3 (기한: 11월 23일 (토))
+                                                                <a href="https://www.dropbox.com/scl/fi/s37k1lujp0ssb4zub0k0n/HW_3.pdf?rlkey=4nzyrkyuuny80nbenw8c1v4je&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
