@@ -42,7 +42,7 @@ permalink: /news/
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
                                         GISC 2024 행사에서 한연희 교수님 "<b>가상과 현실의 연결: 네트워크 디지털 트윈 표준 최신 동향과 AI의 역할</b>" 주제로 기술 세션 발표
-                                        <a href="https://gisc.or.kr/theme/grape/mobile/sub02_02.php" target="_blank">
+                                        <a href="https://www.icloud.com/sharedalbum/ko-kr/#B0dG6XBubJtre2f;EFBF55B1-7C8A-42BC-B8DB-1995AACC89AA" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
                                     </td>
