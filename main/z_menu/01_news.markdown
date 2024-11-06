@@ -35,6 +35,18 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2024" month="11" day="04">
+                                    <td class="text-md-right" style="width: 20%">
+                                        November 04, 2024
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        GISC 2024 행사에서 한연희 교수님 "<b>가상과 현실의 연결: 네트워크 디지털 트윈 표준 최신 동향과 AI의 역할</b>" 주제로 기술 세션 발표
+                                        <a href="https://gisc.or.kr/theme/grape/mobile/sub02_02.php" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2024" month="10" day="01">
                                     <td class="text-md-right" style="width: 20%">
                                         October 15, 2024

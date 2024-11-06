@@ -14,6 +14,7 @@ permalink: /invited_talks/
                     <div class="content-wrapper">
                         <div style="padding:1.0em" class="content-wrapper">
                             <h3 class = "title-level-3 year"> 2024 </h3>
+                            <p>가상과 현실의 연결: 네트워크 디지털 트윈 표준 최신 동향과 AI의 역할, <a href="https://gisc.or.kr/theme/grape/mobile/sub02_02.php" target="_blank">GISC 2024</a>, 30 Minutes, 2024년 11월 04일</p>
                             <p>심층강화학습과 조합최적화 실전 응용 기초, <a href="https://www.osia.or.kr/board/board.php?task=view&db=event&no=505&page=1&search=&searchKey=&category=&pageID=ID12832167411" target="_blank">OSIA 단기강좌</a>, 6 Hours, 2024년 08월 27일</p>
                             <p>IETF 네트워크 디지털 트윈 및 양자 인터넷 표준화 현황, <a href="https://www.osia.or.kr/board/board.php?task=view&db=event&no=499&page=1&search=&searchKey=&category=&pageID=ID12832167411" target="_blank">KRNER 2024</a>, 40 Minutes, 2024년 06월 25일</p>
                             <br/>
