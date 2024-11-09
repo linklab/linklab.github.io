@@ -315,10 +315,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">19</th>
                                                             <td>11월 11일(월)</td>
                                                             <td>
-                                                                - 12. Advanced Techniques in Deep Learning
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/icalz2s9l3ljlt765nnfv/08.diverse_techniques_2.pdf?rlkey=gxa04s2mbjhc1otx9iazqlvze&dl=0" target="_blank">
+                                                                - 13. Modern CNNs
+                                                                <a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -328,9 +328,6 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 13일(수)</td>
                                                             <td>
                                                                 - 13. Modern CNNs
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/h3eofzqo25uc0uquly4q6/09.modern_cnns.pdf?rlkey=5a4shn95edxw90k2jnfij6vri&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
