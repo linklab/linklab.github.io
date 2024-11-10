@@ -321,6 +321,10 @@ permalink: /courses/2024/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - CPU vs. GPU
+                                                                <a href="https://colab.research.google.com/drive/1ERTiVfsKDnzBLRT9AH-6SFmuD-uKL_db?usp=sharing" target="_blank">
+                                                                    <img src="/assets/images/colab.png" width="10%">
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
