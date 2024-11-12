@@ -8,6 +8,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>11월 12일 (화) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Yu, Wenhao, et al. "Pathrl: An end-to-end path generation method for collision avoidance via deep reinforcement learning," ICRA, 2024.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/10610107">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>11월 05일 (화) 논문 세미나 – 최호빈
                     <br/>
                     <strong>
