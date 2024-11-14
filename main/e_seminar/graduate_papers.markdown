@@ -8,6 +8,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>11월 19일 (화) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Zhuang, Ziwen, et al. "Robot parkour learning." CoRL, 2023.
+                    </strong>
+                    <a href="https://robot-parkour.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>11월 12일 (화) 논문 세미나 – 지창훈
                     <br/>
                     <strong>
