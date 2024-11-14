@@ -307,6 +307,10 @@ permalink: /courses/2024/2/computer_network
                                                                 - Chapter 5 네트워크 계층:제어 평면
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #3 (기한: 11월 27일 수요일 17시 59분)</strong>
+                                                                <a href="https://docs.google.com/document/d/10cQyJUIO-SOM6EEXmfyD0U5Uij8OxDaChPLGeTo8cIU/edit?usp=sharing" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
