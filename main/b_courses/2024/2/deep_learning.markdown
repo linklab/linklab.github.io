@@ -353,10 +353,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 20일(수)</td>
                                                             <td>
-                                                                - 14. Recurrent Neural Network (RNN)
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/86aoo11wyr66ux1wv2y2p/10.rnn.pdf?rlkey=2nn4s6ncifpcoiidxq2bcmizz&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                - 휴강
                                                             </td>
                                                             <td>
                                                             </td>
