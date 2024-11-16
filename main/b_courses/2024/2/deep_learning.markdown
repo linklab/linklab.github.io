@@ -341,7 +341,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">21</th>
                                                             <td>11월 18일(월)</td>
                                                             <td>
-                                                                - 13. Modern CNNs
+                                                                - 14. Recurrent Neural Network (RNN)
+                                                                <a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
