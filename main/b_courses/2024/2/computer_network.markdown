@@ -328,6 +328,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>11월 21일(목)</td>
                                                             <td>
                                                                 - Chapter 5 네트워크 계층:제어 평면
+                                                                <a href="https://www.dropbox.com/scl/fi/tsggwkeiidsf3dpwgh5c7/Chapter_5_v8.0_2.pptx?rlkey=khbl9vrtdgmu1yawhsdca9efi&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
