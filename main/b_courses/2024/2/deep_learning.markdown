@@ -363,10 +363,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 25일(월)</td>
                                                             <td>
-                                                                - 15. LSTM and Its Application
-                                                                <a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                - 14. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -376,6 +373,9 @@ permalink: /courses/2024/2/dl
                                                             <td>11월 27일(수)</td>
                                                             <td>
                                                                 - 15. LSTM and Its Application
+                                                                <a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 <!--
