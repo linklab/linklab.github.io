@@ -441,8 +441,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
                                                             <th scope="row">29</th>
                                                             <td>12월 16일(월)</td>
-                                                            <td>
-                                                                <td class="centred" colspan="2">
+                                                            <td class="centred" colspan="2">
                                                                 <strong>기말 고사</strong>
                                                                 <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
                                                             </td>
