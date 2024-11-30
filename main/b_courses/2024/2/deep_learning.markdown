@@ -391,7 +391,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">25</th>
                                                             <td>12월 02일(월)</td>
                                                             <td>
-                                                                - 15. LSTM and Its Application
+                                                                - 16. Transfer Learning
+                                                                <a href="https://www.dropbox.com/scl/fi/duaxe567iqkdsmnksvemr/16.transfer_learning.pdf?rlkey=q8k4ackml39mh1cwou5e39ig1&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -407,10 +410,10 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">26</th>
                                                             <td>12월 04일(수)</td>
                                                             <td>
-                                                                - 16. Transfer Learning
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/amfrooqswgq8bikmowsyz/12.transfer_learning.pdf?rlkey=xxjeyhgos6mruzsyzhput80iq&dl=0" target="_blank">
+                                                                - 17. Autoencoders
+                                                                <a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -420,10 +423,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">27</th>
                                                             <td>12월 09일(월)</td>
                                                             <td>
-                                                                - 17. Autoencoders
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/i2d5u3i9w2jhe0xi2n6dc/13.autoencoders.pdf?rlkey=7z10sj6cmmw0ty3bcu3piu3f5&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                - 18. Attention and Transformer
                                                             </td>
                                                             <td>
                                                             </td>
@@ -442,15 +442,7 @@ permalink: /courses/2024/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 16일(월)</td>
                                                             <td>
-                                                                - 18. Attention and Transformer
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">30</th>
-                                                            <td>12월 18일(수)</td>
-                                                            <td class="centred" colspan="2">
+                                                                <td class="centred" colspan="2">
                                                                 <strong>기말 고사</strong>
                                                                 <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
                                                             </td>
