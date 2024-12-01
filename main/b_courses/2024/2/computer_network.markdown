@@ -340,10 +340,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">24</th>
                                                             <td>11월 26일(화)</td>
                                                             <td>
-                                                                - Chapter 6 링크 계층과 근거리 네트워크
-                                                                <a href="https://www.dropbox.com/scl/fi/1pwa2lav1rxitj3rusj1s/Chapter_6_v8.0_1.pptx?rlkey=flfky08bfvkaxst3lmyn3hxb7&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                - Chapter 5 네트워크 계층:제어 평면
                                                             </td>
                                                             <td>
                                                             </td>
@@ -353,6 +350,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>11월 28일(목)</td>
                                                             <td>
                                                                 - Chapter 6 링크 계층과 근거리 네트워크
+                                                                <a href="https://www.dropbox.com/scl/fi/1pwa2lav1rxitj3rusj1s/Chapter_6_v8.0_1.pptx?rlkey=flfky08bfvkaxst3lmyn3hxb7&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -363,6 +363,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>12월 03일(화)</td>
                                                             <td>
                                                                 - Chapter 6 링크 계층과 근거리 네트워크
+                                                                <a href="https://www.dropbox.com/scl/fi/0md1qizl91u8wpaolmwt2/Chapter_6_v8.0_2.pptx?rlkey=wz0v2hpxcx3bmkpotbi416vik&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -371,7 +374,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">27</th>
                                                             <td>12월 05일(목)</td>
                                                             <td>
-                                                                - Chapter 7 무선 및 이동 네트워크
+                                                                - Chapter 6 링크 계층과 근거리 네트워크
                                                             </td>
                                                             <td>
                                                             </td>
@@ -381,7 +384,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">28</th>
                                                             <td>12월 10일(화)</td>
                                                             <td>
-                                                                - Chapter 7 무선 및 이동 네트워크
+                                                                - Chapter 6 링크 계층과 근거리 네트워크
                                                             </td>
                                                             <td>
                                                             </td>
@@ -390,7 +393,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">29</th>
                                                             <td>12월 12일(목)</td>
                                                             <td>
-                                                                - Chapter 7 무선 및 이동 네트워크
+                                                                - Chapter 6 링크 계층과 근거리 네트워크
                                                             </td>
                                                             <td>
                                                             </td>
@@ -400,7 +403,7 @@ permalink: /courses/2024/2/computer_network
                                                             <th scope="row">30</th>
                                                             <td>12월 17일(화)</td>
                                                             <td class="centred" colspan="2">
-                                                                    <strong>기말 고사</strong> <br/>장소: 2공학관 313/314, 시간: 09시 ~ 11시 50분
+                                                                <strong>기말 고사</strong> <br/>장소: 2공학관 313/314, 시간: 09시 ~ 11시 50분
                                                             </td>
                                                         </tr>
                                                         <tr>
