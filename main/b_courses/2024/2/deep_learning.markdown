@@ -378,12 +378,6 @@ permalink: /courses/2024/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - Homework #4 (기한: 12월 15일 (금))
-                                                                <a href="https://www.dropbox.com/scl/fi/u56oozhiikfc2ptsx1jr0/HW_4.pdf?rlkey=ufn8ntdiq00wewp3bdi4owrfq&dl=0" target="_blank">
-                                                                    <span class="badge badge-primary">숙제 설명</span>
-                                                                </a>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -397,13 +391,14 @@ permalink: /courses/2024/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2023.10.31)
-                                                                <a href="https://drive.google.com/file/d/1s0Tfx79rHsp5P5BLSU8Fqxlpz9Zy0JNd/view?usp=sharing" target="_blank">
+                                                                - Homework #4 (기한: 12월 20일 (금))
+                                                                <a href="https://www.dropbox.com/scl/fi/3nlqw9qtbpl00vkm4dl5z/HW_4.pdf?rlkey=i8ladgdlx7ytx80ut5k0yw00n&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a><br/>
+                                                                - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2024.11.30)
+                                                                <a href="https://www.dropbox.com/scl/fi/8slq7xt57867z35pq39sr/BTC_KRW.csv?rlkey=43z2fitbjh5kwsitz9tnoyji9&dl=0" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
-                                                                &nbsp;&nbsp;: _00_data/k_cryptocurrency 폴더 내에 BTC_KRW.csv 파일 저장
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
