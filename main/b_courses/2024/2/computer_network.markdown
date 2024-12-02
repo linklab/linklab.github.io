@@ -368,6 +368,10 @@ permalink: /courses/2024/2/computer_network
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #4 (기한: 12월 15일 일요일 17시 59분)</strong>
+                                                                <a href="https://docs.google.com/document/d/1FE4xFdYYc49l8ztaDJProg1hKR_61oJRXodKDj6eAoY/edit?usp=sharing" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
