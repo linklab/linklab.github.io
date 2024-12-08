@@ -389,6 +389,9 @@ permalink: /courses/2024/2/computer_network
                                                             <td>12월 10일(화)</td>
                                                             <td>
                                                                 - Chapter 6 링크 계층과 근거리 네트워크
+                                                                <a href="https://www.dropbox.com/scl/fi/mk25524di0s0u8qu24fcy/Chapter_6_v8.0_3.pptx?rlkey=0lfvigva8r26orcrpmvg3gf7i&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
