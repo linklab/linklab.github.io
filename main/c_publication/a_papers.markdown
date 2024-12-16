@@ -37,10 +37,6 @@ permalink: /publication/papers
                                                 IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>.
                                             </p>
                                             <h4 class="title-level-4 year">2023</h4>
-                                            <p>H.-K. Lim, I. Ullah, J.-B. Kim, and Y.-H. Han,
-                                                "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning,</strong>"
-                                                IEEE Internet of Things Journal, Oct. 2023, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>.
-                                            </p>
                                             <p>H.-U Ko, I. Yoon, B. Kim, Y.-H. Han, S. J. Park, H.-J. Hwang, and S.-Y. Kim,
                                                 "<strong>A Haptic Knob Based on the Combination of Shear Mode and Flow Mode Magnetorheological Behaviors,</strong>"
                                                 Smart Materials and Structures, June 2023, DOI: <a href="https://doi.org/10.1088/1361-665X/acd971" target="_blank">10.1088/1361-665X/acd971</a>.
@@ -991,6 +987,12 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2024</h4>
+                                            <p> 최요한, 지창훈, 석영준, 김평수, 한연희, "<strong>순환신경망과 트랜스포머 모델을 활용한 POMDP 환경에서의 강화학습 성능 개선에 관한 연구</strong>," 2024 제5회 한국인공지능학술대회, 2024. 09.
+                                            </p>
+                                            <p> 석영준, 김주봉, 허주성, NurlanbekkyzyAsel, 한연희, "<strong>QKD 네트워크에서 세션 블록 최소화를 위한 심층강화학습 기반 랜덤키 생성 최적화</strong>," 2024 한국통신학회 하계종합학술대회, 2024. 06.
+                                            </p>
+                                            <p> 지창훈, 최호빈, 최요한, 이재원, 한연희, "<strong>제로-샷 Sim-to-Real 강화학습 기반 최적 경로 생성을 위한 최대 속도 및 최대 가속도 결정 알고리즘</strong>," 2024 한국통신학회 하계종합학술대회, 2024. 06.
+                                            </p>
                                             <p> 석영준, 최요한, 최호빈, 한연희, 임현교, 이찬균, "<strong>그래프 어텐션 네트워크 기반 심층강화학습을 통한 QKD 최적화 연구</strong>," 2024 한국통신학회 동계종합학술대회, 2024. 01.
                                             </p>
                                             <p> 이재원, 지창훈, 김주봉, 한연희, "<strong>노이즈 환경에서 거대 언어 모델 기반 보상 함수를 활용한 강화학습 에이전트 성능 평가</strong>," 2024 한국통신학회 동계종합학술대회, 2024. 01.
