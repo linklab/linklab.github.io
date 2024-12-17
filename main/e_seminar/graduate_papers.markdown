@@ -8,6 +8,62 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>12월 24일 (화) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        A. Nair, P. Srinivasan, S. Blackwell, C. Alcicek, R. Fearon, A. De Maria, V. Panneershelvam, M. Suleyman, 
+                        C. Beattie, S. Petersen, S. Legg, V. Mnih, K. Kavukcuoglu, D. Silver, et al. "Massively Parallel Methods for Deep Reinforcement Learning." International Conference on Machine Learning, 2015.
+                    </strong>
+                    <a href="https://arxiv.org/abs/1507.04296">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a><br/>
+                    <strong>
+                        I. Adamski, R. Adamski, T. Grel, A. Jędrych, K. Kaczmarek, H. Michalewski, et al. "Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes." High Performance Computing (ISC High Performance)
+                        2018 – 33rd International Conference, 2018.
+                    </strong>
+                    <a href="https://arxiv.org/abs/1801.02852">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>12월 13일 (화) 논문 세미나 – 김주봉
+                    <br/>
+                    <strong>
+                        Alin-Bogdan Popa, Pantelimon George Popescu, et al. "The Future of QKD Networks." arXiv:2407.00877v1, 2024.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2407.00877">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a><br/>
+                    <strong>
+                        Johann T., Kühl S., & Pachnicke S., et al. "Deep Reinforcement Learning based Decentralized Routing and Load-Balancing in Meshed QKD-Networks." ECOC, 2024.
+                    </strong>
+                    <a href="https://www.ecoc2024.org/wp-content/uploads/2024/09/240908_ECOC-2024_Programm_8_WEB.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>12월 3일 (화) 논문 세미나 – 최호빈
+                    <br/>
+                    <strong>
+                        CX. Gao, C. Wu, M. Cao, R. Kong, Z. Zhang, Y. Yu, et al. "ACT: Empowering Decision Transformer with Dynamic Programming via
+                        Advantage Conditioning." AAAI, 2024.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2309.05915">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>11월 26일 (화) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Z. Zheng, C. Zhou, X. Tong, M. Yuan, Z. Wang, et al. "UDC: A Unified Neural Divide-and-Conquer Framework for Large-Scale Combinatorial
+                        Optimization Problems." NIPS, 2024.
+                    </strong>
+                    <a href="https://arxiv.org/pdf/2407.00312">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>11월 19일 (화) 논문 세미나 – 최요한
                     <br/>
                     <strong>
