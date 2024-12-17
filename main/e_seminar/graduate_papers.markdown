@@ -26,7 +26,7 @@ permalink: /seminar/graduate
                     </a>
                 </li>
                 <br/>
-                <li>12월 13일 (화) 논문 세미나 – 김주봉
+                <li>12월 13일 (금) 논문 세미나 – 김주봉
                     <br/>
                     <strong>
                         Alin-Bogdan Popa, Pantelimon George Popescu, et al. "The Future of QKD Networks." arXiv:2407.00877v1, 2024.
