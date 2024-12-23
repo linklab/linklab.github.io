@@ -24,7 +24,7 @@ permalink: /seminar/undergraduate/winter_2024_2025
                                             링크: <a href="https://huggingface.co/learn/deep-rl-course/unit0/introduction"
                                                target="_blank">
                                                 <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
-                                            </a>,
+                                            </a>
                                         </li>
                                     </ul>
                                 </div>
