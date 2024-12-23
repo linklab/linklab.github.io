@@ -40,30 +40,30 @@ permalink: /seminar/undergraduate/winter_2024_2025
                         </section>
                         <section style="width:100%" class="content-wrapper">
                             <article>
-                                <button class="accordion">세미나 일정(가안)</button>
+                                <button class="accordion">세미나 일정</button>
                                 <div class="panel article-content-1">
                                     <ul>
-                                        <li>12월 30일 (월): <strong>CHAPTER 1 Introduction to Deep Reinforcement Learning</strong></li>
+                                        <li>12월 30일 (월): <strong>CHAPTER 1 Introduction to Deep Reinforcement Learning</strong> - 김진성</li>
                                         <br/>
                                         <li> 1월  6일 (월): <strong>CES 2025</strong></li>
                                         <br/>
-                                        <li> 1월  13일 (월): <strong>CHAPTER 2 Introduction to Q-Learning</strong></li>
+                                        <li> 1월  14일 (화): <strong>CHAPTER 2 Introduction to Q-Learning</strong> - 전효석</li>
                                         <br/>
-                                        <li> 1월  20일 (월): <strong>CHAPTER 3 Deep Q-Learning with Atari Games</strong></li>
+                                        <li> 1월  20일 (월): <strong>CHAPTER 3 Deep Q-Learning with Atari Games</strong> - 강대건</li>
                                         <br/>
-                                        <li> 1월  23일 (목): <strong>CHAPTER 4 Policy Gradient with PyTorch</strong></li>                    
+                                        <li> 1월  23일 (목): <strong>CHAPTER 4 Policy Gradient with PyTorch</strong> - 김성재</li>                    
                                         <br/>
                                         <li> 1월  27일 (월): <strong>설날</strong></li>
                                         <br/>
-                                        <li> 2월  3일 (월): <strong>CHAPTER 5 Introduction to Unity ML-Agents</strong></li>
+                                        <li> 2월  3일 (월): <strong>CHAPTER 5 Introduction to Unity ML-Agents</strong> - 윤정민</li>
                                         <br/>
-                                        <li> 2월  10일 (월): <strong>CHAPTER 6 Actor Critic methods with Robotics environments</strong></li>
+                                        <li> 2월  10일 (월): <strong>CHAPTER 6 Actor Critic methods with Robotics environments</strong> - 김민준</li>
                                         <br/>
-                                        <li> 2월  13일 (목): <strong>CHAPTER 7 Introduction to Multi-Agents and AI vs AI</strong></li>
+                                        <li> 2월  13일 (목): <strong>CHAPTER 7 Introduction to Multi-Agents and AI vs AI</strong> - 김진성, 전효석</li>
                                         <br/>                                        
-                                        <li> 2월  17일 (월): <strong>CHAPTER 8 Part 1 Proximal Policy Optimization (PPO)</strong></li>
+                                        <li> 2월  17일 (월): <strong>CHAPTER 8 Part 1 Proximal Policy Optimization (PPO)</strong> - 강대건, 김성재</li>
                                         <br/>
-                                        <li> 2월  24일 (월): <strong>CHAPTER 9 Part 2 Proximal Policy Optimization (PPO) with Doom</strong></li>
+                                        <li> 2월  24일 (월): <strong>CHAPTER 9 Part 2 Proximal Policy Optimization (PPO) with Doom</strong> - 김민준, 윤정민</li>
                                     </ul>
                                 </div>
                             </article>
