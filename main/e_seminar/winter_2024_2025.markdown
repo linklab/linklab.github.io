@@ -45,7 +45,7 @@ permalink: /seminar/undergraduate/winter_2024_2025
                                     <ul>
                                         <li>12월 30일 (월): <strong>CHAPTER 1 Introduction to Deep Reinforcement Learning</strong></li>
                                         <br/>
-                                        <li> 1월  6일 (월): <strong>CES</strong></li>
+                                        <li> 1월  6일 (월): <strong>CES 2025</strong></li>
                                         <br/>
                                         <li> 1월  13일 (월): <strong>CHAPTER 2 Introduction to Q-Learning</strong></li>
                                         <br/>
