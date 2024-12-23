@@ -40,6 +40,12 @@ permalink: /seminar/
                 </a>
             </h4>
             <br/>
+            <h4 class="title-level-4">2024 ~ 2025 Winter School: 심층 강화학습
+                <a href="/seminar/undergraduate/winter_2024_2025">
+                    <i class="fa fa-link" aria-hidden="true"></i>
+                </a>
+            </h4>
+            <br/>            
         </div>
     </article>
     <br/>
