@@ -8,7 +8,7 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
-                <li>12월 24일 (화) 논문 세미나 – 아셀
+                <li>12월 23일 (월) 논문 세미나 – 아셀
                     <br/>
                     <strong>
                         A. Nair, P. Srinivasan, S. Blackwell, C. Alcicek, R. Fearon, A. De Maria, V. Panneershelvam, M. Suleyman, 
