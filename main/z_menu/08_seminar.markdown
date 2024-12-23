@@ -22,6 +22,12 @@ permalink: /seminar/
         <button class="accordion">Undergraduate</button>
         <div class="panel article-content-1">
             <br/>
+            <h4 class="title-level-4">2024 ~ 2025 Winter School: 심층 강화학습
+                <a href="/seminar/undergraduate/winter_2024_2025">
+                    <i class="fa fa-link" aria-hidden="true"></i>
+                </a>
+            </h4>        
+            <br/>
             <h4 class="title-level-4">2021 ~ 2022 Winter School: 만들면서 배우는 파이토치 딥러닝
                 <a href="/seminar/undergraduate/winter_2021_2022">
                     <i class="fa fa-link" aria-hidden="true"></i>
@@ -39,13 +45,7 @@ permalink: /seminar/
                     <i class="fa fa-link" aria-hidden="true"></i>
                 </a>
             </h4>
-            <br/>
-            <h4 class="title-level-4">2024 ~ 2025 Winter School: 심층 강화학습
-                <a href="/seminar/undergraduate/winter_2024_2025">
-                    <i class="fa fa-link" aria-hidden="true"></i>
-                </a>
-            </h4>
-            <br/>            
+            <br/>        
         </div>
     </article>
     <br/>
