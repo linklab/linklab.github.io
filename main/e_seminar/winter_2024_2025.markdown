@@ -40,17 +40,6 @@ permalink: /seminar/undergraduate/winter_2024_2025
                         </section>
                         <section style="width:100%" class="content-wrapper">
                             <article>
-                                <button class="accordion">발표 자료 업로드 링크</button>
-                                <div class="panel article-content-1">
-                                    링크: <a href="https://huggingface.co/learn/deep-rl-course/unit0/introduction"
-                                        target="_blank">
-                                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
-                                    </a>
-                                </div>
-                            </article>
-                        </section>
-                        <section style="width:100%" class="content-wrapper">
-                            <article>
                                 <button class="accordion">세미나 일정(가안)</button>
                                 <div class="panel article-content-1">
                                     <ul>
