@@ -16,13 +16,6 @@ permalink: /seminar/graduate
                     </strong>
                     <a href="https://arxiv.org/abs/1507.04296">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
-                    </a><br/>
-                    <strong>
-                        I. Adamski, R. Adamski, T. Grel, A. Jędrych, K. Kaczmarek, H. Michalewski, et al. "Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes." High Performance Computing (ISC High Performance)
-                        2018 – 33rd International Conference, 2018.
-                    </strong>
-                    <a href="https://arxiv.org/abs/1801.02852">
-                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
                 <br/>
