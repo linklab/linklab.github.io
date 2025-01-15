@@ -5,6 +5,21 @@ permalink: /seminar/graduate
 
 <section class="content-wrapper">
     <article>
+    <button class="accordion">2025</button>
+        <div class="panel article-content-1">
+            <ul>
+                <li>1월 15일 (수) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Rocha, Lidia, et al. "Enhancing Safety via Deep Reinforcement Learning in Trajectory Planning for Agile Flights in Unknown Environments." IROS, 2024.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/10801910">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+            </ul>
+        </div>
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
