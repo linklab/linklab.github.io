@@ -35,12 +35,29 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="01" day="16">
+                                    <td class="text-md-right" style="width: 20%">
+                                        January 16, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        지창훈, 최요한, 석영준 박사과정생, [축] 2025년 한국통신학회 동계학술대회에서 해동우수논문상 장려상 수상 (논문제목: Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율)
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2025" month="01" day="07">
+                                    <td class="text-md-right" style="width: 20%">
+                                        January 07, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        세계 최고의 전자기기 국제전시회인 CES 2025 행사에 한연희 교수외 학생 3인 참석
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2024" month="11" day="04">
                                     <td class="text-md-right" style="width: 20%">
                                         November 04, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         GISC 2024 행사에서 한연희 교수님 "<b>가상과 현실의 연결: 네트워크 디지털 트윈 표준 최신 동향과 AI의 역할</b>" 주제로 기술 세션 발표
                                         <a href="https://www.icloud.com/sharedalbum/ko-kr/#B0dG6XBubJtre2f;EFBF55B1-7C8A-42BC-B8DB-1995AACC89AA" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
@@ -52,7 +69,6 @@ permalink: /news/
                                         October 15, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         LINK랩 4학년 지도학생 (대표: 곽재우), 한국기술교육대학교 졸업작품 경진대회 은상 수상 (작품 제목: 생성형 AI기반 스터디멘토 서비스)
                                         <a href="https://www.koreatech.ac.kr/notice/view.es?mid=a10604010000&board_id=14&post_seq=33228&prefix_id=5" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
@@ -64,7 +80,6 @@ permalink: /news/
                                         October 01, 2024
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         지창훈 박사과정생, [축] IEEE Access 제출 논문 Accept, 논문 제목 - 'Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer' 
                                         <a href="https://ieeexplore.ieee.org/document/10705302" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
