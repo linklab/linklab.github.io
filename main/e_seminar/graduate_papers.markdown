@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>1월 21일 (화) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        Gabriel B. Margolis, Pulkit Agrawal. "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior." Conference on Robot Learning (CoRL), 2022.
+                    </strong>
+                    <a href="https://arxiv.org/pdf/2212.03238">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>1월 15일 (수) 논문 세미나 – 지창훈
                     <br/>
                     <strong>
