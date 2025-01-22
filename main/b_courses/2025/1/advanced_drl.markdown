@@ -1,0 +1,390 @@
+---
+layout: page
+permalink: /courses/2025/1/advanced_drl
+---
+
+<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+    <div class="cw-content container-fluid">
+        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
+            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+                <!--Start Container Div-->
+                <div style="background-color:white;" class="container-fluid">
+                    <!--Start Content Grid-->
+                    <div class="row content">
+                        <div class="content-fluid">
+                            <div class="cw-content container-fluid">
+                                <div class="cyw-container">
+                                    <div class="container">
+                                        <!--Start Container Div-->
+                                        <div style="background-color:white;color:black" class="container-fluid">
+                                            <!--Start Content Grid-->
+                                            <div class="row content">
+                                                <div class="content-wrapper">
+                                                    <h2 class="title-level-2">
+                                                        Advanced Deep Reinforcement Learning (고급심층강화학습 [240222], Spring Semester, 2025) </h2>
+                                                    <p><em><br>“Student-professor relationships are based on trust. Acts,
+                                                        which violate this trust, undermine the educational process.
+                                                        Your classmates and the professor will not tolerate violations
+                                                        of academic integrity.”
+                                                    </em></p><br>
+                                                    <h3 class="title-level-3">1. Course Schedule &amp; Lecture Notes</h3>
+                                                    <br/>
+                                                    <div>
+                                                        <h3>[공지사항 - 2025.03.04]</h3>
+                                                        <i class="fas fa-bullhorn"></i> 본 수업을 수강하는 학생들에게 공지합니다. 본 수업은 심층강화학습(Deep Reinforcement Learning)에 대한 공부를 어느 정도 수행한 학생들을 대상으로 하는 수업입니다.
+                                                        <br/>
+                                                        <i class="fas fa-bullhorn"></i> 특히 본 수업은 최신 강화학습 연구 주제인 <strong><u>오프라인 강화학습(Offline Reinforcement Learning)</u></strong>에 대하여 함께 공부할 예정입니다.
+                                                        <br/>
+                                                        <i class="fas fa-bullhorn"></i> 모든 학생들은<br/>
+                                                        &nbsp;&nbsp;&nbsp;1) 본 수업에서 제시하는 오프라인 강화학습과 관련된 유명 논문들을 직접읽고 발표를 해야 하며,<br/>
+                                                        &nbsp;&nbsp;&nbsp;2) 수업에서 소개하는 오프라인 심층강화학습 코드를 이해하고 이를 기반으로 숙제와 텀프로젝트를 리포트와 함께 제출해야 하며,<br/>
+                                                        &nbsp;&nbsp;&nbsp;3) 기말고사를 통하여 본 수업에서 다룬 오프라인 강화학습 알고리즘 전반에 걸친 이해도를 평가받게 됩니다.
+                                                        <br/>
+                                                        <i class="fas fa-bullhorn"></i> 본 수업을 수강하기 위하여 꼭 필요한 선수 지식<br/>
+                                                        &nbsp;&nbsp;&nbsp;1) 학부과정에서의 자료구조 및 알고리즘 교과목 이수<br/>
+                                                        &nbsp;&nbsp;&nbsp;2) 파이썬을 활용한 가상 환경 구축 및 다양한 패키지/모 활용 경험<br/>
+                                                        &nbsp;&nbsp;&nbsp;3) 파이썬을 활용한 Tensorflow 또는 Pytorch 기반으로 딥러닝 관련 코딩 수행 경험<br/>
+                                                        &nbsp;&nbsp;&nbsp;4) 심층강화학습에 대한 기초 지식<br/>
+                                                        <i class="fas fa-bullhorn"></i> 학점은 A+/A, B+/B, C+/C, F 이렇게 총 4개의 그룹으로 나누어 부여할 예정이며, F로 평가될 학생이 없다면 A+/A, B+/B, C+/C 그룹에 대한 학점 분포는 40%, 40%, 20%로 나누어 부여할 예정이지만 강의가 종료된 이후 전반적인 학업성취도를 가늠하여 변경될 수 있습니다.<br/>
+                                                        <i class="fas fa-bullhorn"></i> 본 수업에서 참고하는 Github Repositories<br/>
+                                                        &nbsp;&nbsp;&nbsp;1) <strong>Data-Driven Deep Reinforcement Learning Library for Python (d3rlpy)</strong> <a href="https://github.com/takuseno/d3rlpy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
+                                                        &nbsp;&nbsp;&nbsp;2) <strong>Clean Offline Reinforcement Learning (CORL)</strong> <a href="https://github.com/corl-team/CORL" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
+                                                    </div>
+                                                    <table class="table table-responsive table-hover">
+                                                        <thead class="thead-light">
+                                                        <tr>
+                                                            <th scope="col" style="width:4%">#</th>
+                                                            <th scope="col" style="width:10%">Date</th>
+                                                            <th scope="col" style="width:32%">Book Presentation</th>
+                                                            <th scope="col" style="width:32%">Paper Presentation</th>
+                                                            <th scope="col" style="width:22%">Notice</th>
+                                                        </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                        <tr>
+                                                            <th scope="row">01</th>
+                                                            <td>03월 03일(월)</td>
+                                                            <td>
+                                                                - 강의 소개<br/>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">02</th>
+                                                            <td>03월 10일(월)</td>
+                                                            <td colspan="2">
+                                                                - Deep Q Network (DQN) <br/>
+                                                                - Double DQN (DDQN)
+                                                                <!-- <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a> -->
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">03</th>
+                                                            <td>03월 17일(월)</td>
+                                                            <td colspan="2">
+                                                                - Deep Deterministic Policy Gradient (DDPG)<br/>
+                                                                - Twin Delayed Deep Deterministic Policy Gradient (TD3)
+                                                                <!-- <a href="https://www.dropbox.com/scl/fi/2nm6gt3fbzphxpjn567as/03.DQN.pdf?rlkey=mwwfnqnqzxbi6sn00x32c89jc&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a> -->
+                                                            </td>
+                                                            <td>
+                                                                <!-- <span class="font-weight-bold">
+                                                                    Homework #1.
+                                                                    <a href="https://www.dropbox.com/scl/fi/iyat052w8oous1p148f9g/HW_1.pdf?rlkey=qggwkbwvkz7ihbutnk247nvrq&dl=0" target="_blank">
+                                                                        <span class="badge badge-primary">숙제 설명</span>
+                                                                    </a>
+                                                                    <br/>
+                                                                    기한: 2024년 3월 31일 23시 59분
+                                                                </span> -->
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">04</th>
+                                                            <td>03월 24일(월)</td>
+                                                            <td colspan="2">
+                                                                - Soft Actor-Critic (SAC)
+                                                                <!-- <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a> -->
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">05</th>
+                                                            <td>03월 31일(월)</td>
+                                                            <td>
+                                                                - Behavioral Cloning (BC) <span class="badge badge-warning">Offline only</span><br/>
+                                                                - Implicit Behavioral Cloning (IBC) <span class="badge badge-warning">Offline only</span>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 01: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
+                                                                - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">06</th>
+                                                            <td>04월 07일(월)</td>
+                                                            <td>
+                                                                - Batch Constrained Q-learning (BCQ)<br/>
+                                                                - Bootstrapping Error Accumulation Reduction (BEAR)
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 03: <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a><br/>
+                                                                - 논문 발표 04: <a href="https://arxiv.org/abs/1906.00949" target="_blank">Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction</a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">07</th>
+                                                            <td>04월 14일(월)</td>
+                                                            <td>
+                                                                - Conservative Q-Learning (CQL) <span class="badge badge-warning">Offline and Offline-to-Online</span><br/>
+                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 05: <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a><br/>
+                                                                - 논문 발표 06: <a href="https://arxiv.org/abs/2006.09359" target="_blank">AWAC: Accelerating Online Reinforcement Learning with Offline Datasets</a><br/>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">08</th>
+                                                            <td>04월 21일(월)</td>
+                                                            <td>
+                                                                - Critic Reguralized Regression (CRR) <br/>
+                                                                - Policy in Latent Action Space (PLAS)
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 07: <a href="https://arxiv.org/abs/2006.15134" target="_blank">Critic Regularized Regression</a><br/>
+                                                                - 논문 발표 08: <a href="https://arxiv.org/abs/2011.07213" target="_blank">PLAS: Latent Action Space for Offline Reinforcement Learning</a>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">09</th>
+                                                            <td>04월 28일(월)</td>
+                                                            <td>
+                                                                - TD3+BC <span class="badge badge-warning">Offline only</span><br/>
+                                                                - ReBRAC <span class="badge badge-warning">Offline only</span>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 09: <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a><br/>
+                                                                - 논문 발표 10: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">10</th>
+                                                            <td>05월 05일(월)</td>
+                                                            <td colspan="3" class="center">공휴일 (휴강)</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">11</th>
+                                                            <td>05월 12일(월)</td>
+                                                            <td>
+                                                                - Policy Regularization with Dataset Constraint (PRDC)<br/>
+                                                                - Implicit Q-Learning (IQL) <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 11: <a href="https://arxiv.org/abs/2306.06569" target="_blank">Policy Regularization with Dataset Constraint for Offline Reinforcement Learning</a><br/>
+                                                                - 논문 발표 12: <a href="https://arxiv.org/abs/2110.06169" target="_blank">Offline Reinforcement Learning with Implicit Q-Learning</a>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">12</th>
+                                                            <td>05월 19일(월)</td>
+                                                            <td>
+                                                                - Supported Policy OpTimizatio (SPOT) <span class="badge badge-warning">Offline-to-Online only</span><br/>
+                                                                - Calibrated Q-Learning (Cal-QL) <span class="badge badge-warning">Offline-to-Online only</span>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 13: <a href="https://arxiv.org/abs/2202.06239" target="_blank">Supported Policy Optimization for Offline Reinforcement Learning</a><br/>
+                                                                - 논문 발표 14: <a href="https://arxiv.org/abs/2303.05479" target="_blank">Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning</a>
+                                                            </td>
+                                                            <td>
+                                                                <!--Homework #2.
+                                                                    <a href="https://www.dropbox.com/scl/fi/wdas1lo3l3bsx1hhp2x6z/HW_2.pdf?rlkey=8atvaerw5mydoitb4a34x5mne&dl=0" target="_blank">
+                                                                        <span class="badge badge-primary">숙제 설명</span>
+                                                                    </a>
+                                                                    <br/>
+                                                                    기한: 2024년 6월 9일 일요일 23시 59분
+                                                                -->
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">13</th>
+                                                            <td>05월 26일(월)</td>
+                                                            <td>
+                                                                - Ensemble-Diversified Actor Critic (EDAC) <span class="badge badge-warning">Offline only</span><br/>
+                                                                - Large-Batch SAC (LB-SAC) <span class="badge badge-warning">Offline only</span>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 15: <a href="https://arxiv.org/abs/2110.01548" target="_blank">Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble</a><br/>
+                                                                - 논문 발표 16: <a href="https://arxiv.org/abs/2211.11092" target="_blank">Q-Ensemble for Offline RL: Don't Scale the Ensemble, Scale the Batch Size</a>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">14</th>
+                                                            <td>06월 02일(월)</td>
+                                                            <td>
+                                                                - Decision Transformer (DT) <span class="badge badge-warning">Offline only</span><br/>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 17: <a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer: Reinforcement Learning via Sequence Modeling</a><br/>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">15</th>
+                                                            <td>06월 09일(월)</td>
+                                                            <td>
+                                                                - Gato <br/>
+                                                            </td>
+                                                            <td>
+                                                                - 논문 발표 18: <a href="https://arxiv.org/abs/2205.06175" target="_blank">A Generalist Agent</a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">16</th>
+                                                            <td>06월 16일(월)</td>
+                                                            <td COLSPAN="2">기말 고사</td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <br/>
+                                                    <h3 class="title-level-3">2. Course Information</h3>
+                                                    <br/>
+                                                    <ul>
+                                                        <li>
+                                                            - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
+                                                        </li>
+                                                        <li>
+                                                            - Classes: 월요일 (16:00 ~ 16:50)
+                                                        </li>
+                                                        <li>
+                                                            - Lecture Room: 2공학관 317호
+                                                        </li>
+                                                        <li>
+                                                            - Prerequisites: 머신러닝 및 딥러닝 기본 지식, 파이썬 기반의 PyTorch/Tensorflow 기본 코딩 경험
+                                                        </li>
+                                                    </ul>
+                                                    <br/>
+                                                    <h3 class="title-level-3">3. Presentation Evaluation</h3>
+                                                    <br/>
+                                                    <ul>
+                                                        <li>
+                                                            - BOOK: 내용 이해도 (60%), 발표 자료 충실도 (40%) - 반드시 모든 팀원이 모두 골고루 발표, 팀원들에게 동일한 점수 부여
+                                                        </li>
+                                                        <li>
+                                                            - PAPER: 내용 이해도 (50%), 발표 자료 충실도 (30%), 발표 역량 (20%)
+                                                        </li>
+                                                    </ul>
+                                                    <br/>
+                                                    <h3 class="title-level-3">4. Home Work Guide</h3>
+                                                    <br/>
+                                                    <ul>
+                                                        <li>
+                                                            - 추후 구체적인 숙제 가이드 라인 제공
+                                                        </li>
+                                                        <li>
+                                                            - 교재를 기반으로 강화학습 코딩 및 실험 결과 담은 리포트 제출
+                                                        </li>
+                                                    </ul>
+                                                    <br/>
+                                                    <h3 class="title-level-3">5. References</h3>
+                                                    <br/>
+                                                    <div class="row">
+                                                        <div class="col-12">
+                                                            <h4>[주교재]</h4>
+                                                            <ul>
+                                                                <li>- 밑바닥부터 시작하는 딥러닝 4 (파이썬으로 직접 구현하며 배우는 강화 학습 알고리즘
+)
+                                                                    <a href="https://product.kyobobook.co.kr/detail/S000212020531" target="_blank">
+                                                                        <i class="fa fa-link" aria-hidden="true"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li>- 수업 시간 PDF로 제공</li>
+                                                                <li>- 심층강화학습 핵심 논문</li>
+                                                            </ul>
+                                                            <h4>[부교재]</h4>
+                                                            <ul>
+                                                                <li>
+                                                                    - 심층 강화학습 인 액션 : 기본 개념부터 파이썬 기반의 최신 알고리즘 구현까지
+                                                                    <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791190665612" target="_blank">
+                                                                        <i class="fa fa-link" aria-hidden="true"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    - 파이썬 기반 강화학습 알고리듬 DP, Q-Learning, AC, DQN, TRPO, PPO, DDPG, TD3 | Imitation Learning, ESBAS 알아보기
+                                                                    <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161755571&orderClick=LAH&Kc=#N" target="_blank">
+                                                                        <i class="fa fa-link" aria-hidden="true"></i>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    - 심층강화학습 주요 논문 모음: <a href="https://spinningup.openai.com/en/latest/spinningup/keypapers.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                </li>
+                                                                <li>
+                                                                    - PyTorch 튜토리얼: <a href="https://github.com/MorvanZhou/PyTorch-Tutorial" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <br/>
+                                                    <h3 class="title-level-3">6. Logistics</h3>
+                                                    <br/>
+                                                    <ul>
+                                                        <li>- <span class="font-weight-bold">Attendance</span>: one class absence will result in the deduction
+                                                            of two points out of 100 points. Five absences will not
+                                                            result in ten points deduction, but “failure” (i.e., grade
+                                                            ‘F’) in this course.
+                                                        </li>
+                                                        <li>- <span class="font-weight-bold">Homework</span>: much intensive homework will be set. Any cheating
+                                                            (or copying) will result in grade ‘F’.
+                                                        </li>
+                                                        <li>- <span class="font-weight-bold">Exam</span>: there will be the final examination for the
+                                                            evaluation of the knowledge learned from the class.
+                                                        </li>
+                                                    </ul>
+                                                    <br>
+                                                    <h3 class="title-level-3">7. Lecture Evaluation</h3>
+                                                    <br/>
+                                                    <ul>
+                                                        <li>Attendance (10%), Book Presentation (20%), Paper Presentation (20%), Homework Reports (20%), Final Exam. (30%)</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="clear"></div>
+                                            <!--End Content Grid-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--End Container Div-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <!--End Content Grid-->
+                </div>
+            </div>
+        </div>
+        <!--End Container Div-->
+    </div>
+</section>
