@@ -162,7 +162,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">08</th>
                                                             <td>04월 21일(월)</td>
                                                             <td>
-                                                                - Critic Reguralized Regression (CRR) <br/>
+                                                                - Critic Regularized Regression (CRR) <br/>
                                                                 - Policy in Latent Action Space (PLAS)
                                                             </td>
                                                             <td>
