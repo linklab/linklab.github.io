@@ -125,7 +125,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - Implicit Behavioral Cloning (IBC) <span class="badge badge-warning">Offline only</span>
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 01: <a href="https://proceedings.mlr.press/v9/ross10a.html" target="_blank">Efficient Reductions for Imitation Learning</a><br/>
+                                                                - 논문 발표 01: <a href="https://ieeexplore.ieee.org/document/6284849" target="_blank">High Performance Outdoor Navigation from Overhead Data using Imitation Learning</a><br/>
                                                                 - 논문 발표 02: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
                                                                 - 논문 발표 03: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
                                                             </td>
