@@ -130,6 +130,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
                                                             </td>
                                                             <td>
+                                                            Imitation Learning의 목표
+                                                            <ul>
+                                                                <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
+                                                                <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
+                                                            </ul>
                                                             </td>
                                                         </tr>
                                                         <tr>
