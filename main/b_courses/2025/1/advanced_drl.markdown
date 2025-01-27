@@ -130,18 +130,18 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
                                                             </td>
                                                             <td>
-                                                                Imitation Learning의 목표
-                                                                <ul>
+                                                                <strong>Imitation Learning의 목표</strong>
+                                                                <ol>
                                                                     <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
                                                                     <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
-                                                                </ul>
-                                                                Imitation Learning의 종류
-                                                                <ul>
-                                                                    <li>행동 복제(Behavioral Cloning, BC)</li>
-                                                                    <li>역강화학습(Inverse Reinforcement Learning, IRL)</li>
-                                                                    <li>적대적 모방 학습(Adversarial Imitation Learning, AIL)</li>
-                                                                    <li>관찰 기반 모방 학습(Imitation from Observation, IfO)</li>
-                                                                </ul>
+                                                                </ol>
+                                                                <strong>Imitation Learning의 종류</strong>
+                                                                <ol>
+                                                                    <li>행동 복제 (Behavioral Cloning, BC)</li>
+                                                                    <li>역강화학습 (Inverse Reinforcement Learning, IRL)</li>
+                                                                    <li>적대적 모방 학습 (Adversarial Imitation Learning, AIL)</li>
+                                                                    <li>관찰 기반 모방 학습 (Imitation from Observation, IfO)</li>
+                                                                </ol>
                                                             </td>
                                                         </tr>
                                                         <tr>
