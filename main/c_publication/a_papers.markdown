@@ -19,6 +19,11 @@ permalink: /publication/papers
                                     <article>
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
+                                           <h4 class="title-level-4 year">2024</h4>
+                                            <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee  
+                                                "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems,</strong>"
+                                                Journal of Network and Systems Management, 2025, DOI: TBD.
+                                            </p>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p>I. Ullah and Y.-H. Han,
                                                 "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading,</strong>"
