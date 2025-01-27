@@ -50,7 +50,7 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        지창훈, 최요한, 석영준 박사과정생, [축] 2025년 한국통신학회 동계학술대회에서 해동우수논문상 장려상 수상 (논문제목: Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율)
+                                        지창훈, 최요한, 석영준 박사과정생, [축] 2025년 한국통신학회 동계학술대회에서 해동우수논문상 장려상 수상 (상금 1백만원, 논문제목: Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율)
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="01" day="07">
