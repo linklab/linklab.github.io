@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>2월 4일 (화) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        I. Adamski, R. Adamski, T. Grel, A. Jędrych, K. Kaczmarek, H. Michalewski, et al. "Distributed Deep Reinforcement Learning: Learn how to play Atari games in 21 minutes." High Performance Computing (ISC High Performance)
+                        2018 – 33rd International Conference, 2018.
+                    </strong>
+                    <a href="https://arxiv.org/abs/1801.02852">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>1월 21일 (화) 논문 세미나 – 김민준
                     <br/>
                     <strong>
