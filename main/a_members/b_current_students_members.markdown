@@ -129,7 +129,7 @@ permalink: /members/students_and_members
                 <div class="item-student">
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
-                            <img class="img" src="/assets/images/members/anonymous_woman.png"
+                            <img class="img" src="/assets/images/members/Asel.jpg"
                                  alt="">
                         </div>
                         <div class="card-body">
