@@ -156,8 +156,8 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">06</th>
                                                             <td>04월 07일(월)</td>
                                                             <td>
-                                                                - Batch Constrained Q-learning (BCQ)<br/>
-                                                                - Bootstrapping Error Accumulation Reduction (BEAR)
+                                                                - Batch Constrained Q-learning (BCQ) <span class="badge badge-warning">Offline only</span><br/>
+                                                                - Bootstrapping Error Accumulation Reduction (BEAR) <span class="badge badge-warning">Offline only</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 01: <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a><br/>
