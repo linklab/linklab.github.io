@@ -148,7 +148,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                         <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
                                                                         <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
                                                                     </ol>
-                                                                </div><br/>
+                                                                </div>
                                                                 - <a href="https://optreal.github.io/blog/2025/imitation_learning/" target="_blank">참고 자료</a>
                                                             </td>
                                                         </tr>
