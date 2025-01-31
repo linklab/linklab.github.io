@@ -31,7 +31,6 @@ permalink: /members/professor
                                     class="Normal"
                                     href="mailto:yhhan@koreatech.ac.kr">yhhan@koreatech.ac.kr</a>,
                                 <a class="Normal" href="mailto:yh21.han@gmail.com">yh21.han@gmail.com</a>
-                                </a>
                                 <br>Google Scholar: <a
                                     href="https://scholar.google.com/citations?user=pysOrMsAAAAJ&hl=ko&oi=sra"
                                     target="_blank">Click</a>
