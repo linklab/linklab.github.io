@@ -22,6 +22,15 @@ permalink: /awards/
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div style="padding:1.0em" class="content-wrapper">
+                            <h3 class = "title-level-3 year"> 2025 </h3>
+                            <h4>2025년도 한국통신학회 동계종합학술발표회, 해동우수논문 장려상 (상금: 1백만원)</h4>
+                            <ul>
+                                <li>Date: 2025.02.05</li>
+                                <li>Title: Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율<br/>
+                                    - 지창훈(한국기술교육대학교), 최요한(한국기술교육대학교), 석영준(한국기술교육대학교), 한연희(한국기술교육대학교), 문성태(충북대학교)
+                                </li>
+                                <br>
+                            </ul>
                             <h3 class = "title-level-3 year"> 2023 </h3>
                             <h4>The 4th Korea Artificial Intelligence Conference, Best Paper, KICS</h4>
                             <ul>
