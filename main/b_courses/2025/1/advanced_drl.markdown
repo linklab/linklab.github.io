@@ -171,11 +171,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>04월 14일(월)</td>
                                                             <td>
                                                                 - Conservative Q-Learning (CQL) <span class="badge badge-warning">Offline and Offline-to-Online</span><br/>
-                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                                - Policy in Latent Action Space (PLAS)
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 03: <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 04: <a href="https://arxiv.org/abs/2006.09359" target="_blank">AWAC: Accelerating Online Reinforcement Learning with Offline Datasets</a><br/>
+                                                                - 논문 발표 04: <a href="https://arxiv.org/abs/2011.07213" target="_blank">PLAS: Latent Action Space for Offline Reinforcement Learning</a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -185,11 +185,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>04월 21일(월)</td>
                                                             <td>
                                                                 - Critic Regularized Regression (CRR) <br/>
-                                                                - Policy in Latent Action Space (PLAS)
+                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-warning">Offline and Offline-to-Online</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 05: <a href="https://arxiv.org/abs/2006.15134" target="_blank">Critic Regularized Regression</a><br/>
-                                                                - 논문 발표 06: <a href="https://arxiv.org/abs/2011.07213" target="_blank">PLAS: Latent Action Space for Offline Reinforcement Learning</a>
+                                                                - 논문 발표 06: <a href="https://arxiv.org/abs/2006.09359" target="_blank">AWAC: Accelerating Online Reinforcement Learning with Offline Datasets</a><br/>
                                                             </td>
                                                             <td></td>
                                                         </tr>
