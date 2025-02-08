@@ -22,7 +22,7 @@ permalink: /publication/papers
                                            <h4 class="title-level-4 year">2025</h4>
                                             <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee  
                                                 "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems,</strong>"
-                                                Journal of Network and Systems Management, 2025, DOI: TBD.
+                                                Journal of Network and Systems Management, Vol. 33, No. 30, Feb. 2025, DOI: <a href="https://doi.org/10.1007/s10922-025-09902-7" target="_blank">10.1007/s10922-025-09902-7</a>.
                                             </p>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p>I. Ullah and Y.-H. Han,
