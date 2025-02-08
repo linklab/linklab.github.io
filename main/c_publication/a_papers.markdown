@@ -992,7 +992,7 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2024</h4>
-                                            <p> Nurlanbek kyzy Asel,지창훈, 최요한, 허주성, 한연희, "<strong>Enhancing Training Performance and Stability using Asynchronous Proximal Policy Optimization</strong>," 2025 한국통신학회 동계종합학술대회, 2025. 02.
+                                            <p> Nurlanbek kyzy Asel, 지창훈, 최요한, 허주성, 한연희, "<strong>Enhancing Training Performance and Stability using Asynchronous Proximal Policy Optimization</strong>," 2025 한국통신학회 동계종합학술대회, 2025. 02.
                                             </p>
                                             <p> 지창훈, 최요한, 석영준, 한연희, 문성태, "<strong>Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율</strong>," 2025 한국통신학회 동계종합학술대회, 2025. 02.
                                             </p>
