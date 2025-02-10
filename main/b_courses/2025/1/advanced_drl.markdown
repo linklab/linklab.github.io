@@ -49,7 +49,7 @@ permalink: /courses/2025/1/advanced_drl
                                                         <i class="fas fa-bullhorn"></i> 본 수업에서 참고하는 Github Repositories<br/>
                                                         &nbsp;&nbsp;&nbsp;1) <strong>Data-Driven Deep Reinforcement Learning Library for Python (d3rlpy)</strong> <a href="https://github.com/takuseno/d3rlpy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                         &nbsp;&nbsp;&nbsp;2) <strong>Clean Offline Reinforcement Learning (CORL)</strong> <a href="https://github.com/corl-team/CORL" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
-                                                        <i class="fas fa-bullhorn"></i> 본 수업에서 참고하는 강화학습 기본 & 최적화 이론<br/>
+                                                        <i class="fas fa-bullhorn"></i> 본 수업을 이수하기 위하여 참고하면 좋은 강화학습 기본 & 최적화 이론 강의<br/>
                                                         &nbsp;&nbsp;&nbsp;1) <strong>력펜하임의 강화학습 강의</strong> <a href="https://www.youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                         &nbsp;&nbsp;&nbsp;2) <strong>혁펜하임의 최적화 강의</strong> <a href="https://www.youtube.com/playlist?list=PL_iJu012NOxeMJ5TPPW1JZKec7rhjKXUy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                     </div>
