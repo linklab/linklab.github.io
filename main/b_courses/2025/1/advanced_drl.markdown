@@ -173,8 +173,8 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">07</th>
                                                             <td>04월 14일(월)</td>
                                                             <td>
-                                                                - Conservative Q-Learning (CQL) <span class="badge badge-warning">Offline and Offline-to-Online</span><br/>
-                                                                - Policy in Latent Action Space (PLAS)
+                                                                - Conservative Q-Learning (CQL) <span class="badge badge-info">NIPS2020</span> <span class="badge badge-warning">Offline and Offline-to-Online</span><br/>
+                                                                - Policy in Latent Action Space (PLAS) <span class="badge badge-info">CoRL2020</span> <span class="badge badge-warning">Offline only</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 03: <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a><br/>
@@ -187,8 +187,8 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">08</th>
                                                             <td>04월 21일(월)</td>
                                                             <td>
-                                                                - Critic Regularized Regression (CRR) <br/>
-                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                                - Critic Regularized Regression (CRR) <span class="badge badge-info">NIPS2020</span> <span class="badge badge-warning">Offline only</span> <br/>
+                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-info">ICLR2021</span> <span class="badge badge-warning">Offline and Offline-to-Online</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 05: <a href="https://arxiv.org/abs/2006.15134" target="_blank">Critic Regularized Regression</a><br/>
@@ -200,7 +200,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">09</th>
                                                             <td>04월 28일(월)</td>
                                                             <td>
-                                                                - TD3+BC <span class="badge badge-warning">Offline only</span><br/>
+                                                                - TD3+BC <span class="badge badge-info">NIPS2021</span> <span class="badge badge-warning">Offline only</span><br/>
                                                                 - ReBRAC <span class="badge badge-warning">Offline only</span>
                                                             </td>
                                                             <td>
