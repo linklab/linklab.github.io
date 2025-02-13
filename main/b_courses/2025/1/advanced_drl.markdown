@@ -79,7 +79,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>03월 10일(월)</td>
                                                             <td>
                                                                 - Deep Q Network (DQN) <br/>
-                                                                - Double DQN (DDQN)
+                                                                - Double DQN (DDQN) <br/>
                                                                 - Implicit Quantile Networks (QR-DQN)
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
