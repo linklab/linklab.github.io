@@ -219,11 +219,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">11</th>
                                                             <td>05월 12일(월)</td>
                                                             <td>
-                                                                - ReBRAC <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline and Offline-to-Online</span> 
+                                                                - ReBRAC <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline and Offline-to-Online</span><br/> 
                                                                 - Policy Regularization with Dataset Constraint (PRDC)<br/>
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 09: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a>
+                                                                - 논문 발표 09: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a><br/>
                                                                 - 논문 발표 10: <a href="https://arxiv.org/abs/2306.06569" target="_blank">Policy Regularization with Dataset Constraint for Offline Reinforcement Learning</a><br/>
                                                             </td>
                                                             <td></td>
