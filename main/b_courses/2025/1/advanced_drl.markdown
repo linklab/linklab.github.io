@@ -201,11 +201,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>04월 28일(월)</td>
                                                             <td>
                                                                 - TD3+BC <span class="badge badge-info">NIPS2021</span> <span class="badge badge-warning">Offline only</span><br/>
-                                                                - ReBRAC <span class="badge badge-warning">Offline only</span>
+                                                                - Implicit Q-Learning (IQL) <span class="badge badge-info">ICLR2022</span> <span class="badge badge-warning">Offline and Offline-to-Online</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 07: <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 08: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a>
+                                                                - 논문 발표 08: <a href="https://arxiv.org/abs/2110.06169" target="_blank">Offline Reinforcement Learning with Implicit Q-Learning</a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -219,12 +219,12 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">11</th>
                                                             <td>05월 12일(월)</td>
                                                             <td>
+                                                                - ReBRAC <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline and Offline-to-Online</span> 
                                                                 - Policy Regularization with Dataset Constraint (PRDC)<br/>
-                                                                - Implicit Q-Learning (IQL) <span class="badge badge-warning">Offline and Offline-to-Online</span>
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 09: <a href="https://arxiv.org/abs/2306.06569" target="_blank">Policy Regularization with Dataset Constraint for Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 10: <a href="https://arxiv.org/abs/2110.06169" target="_blank">Offline Reinforcement Learning with Implicit Q-Learning</a>
+                                                                - 논문 발표 09: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a>
+                                                                - 논문 발표 10: <a href="https://arxiv.org/abs/2306.06569" target="_blank">Policy Regularization with Dataset Constraint for Offline Reinforcement Learning</a><br/>
                                                             </td>
                                                             <td></td>
                                                         </tr>
