@@ -80,13 +80,15 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>
                                                                 - Deep Q Network (DQN) <br/>
                                                                 - Double DQN (DDQN)
+                                                                - Implicit Quantile Networks (QR-DQN)
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a> -->
                                                             </td>
                                                             <td>
-                                                                - <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-                                                                - <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+                                                                - <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a><br/>
+                                                                - <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a><br/>
+                                                                - <a href="https://arxiv.org/abs/1806.06923" target="_blank">Implicit Quantile Networks for Distributional Reinforcement Learning</a>
                                                             </td>
                                                             <td>
                                                             </td>
