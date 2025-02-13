@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>2월 12일 (수) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Hoeller, David, et al. "Anymal parkour: Learning agile navigation for quadrupedal robots." Science Robotics, 2024.
+                    </strong>
+                    <a href="https://www.science.org/doi/full/10.1126/scirobotics.adi7566">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>2월 4일 (화) 논문 세미나 – 아셀
                     <br/>
                     <strong>
@@ -44,6 +54,16 @@ permalink: /seminar/graduate
         <button class="accordion">2024</button>
         <div class="panel article-content-1">
             <ul>
+                <li>12월 30일 (월) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Kumar, Ashish, et al. "RMA: Adapting rapid motor adaptation for bipedal robots." 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2022.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9981091">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>12월 23일 (월) 논문 세미나 – 아셀
                     <br/>
                     <strong>
