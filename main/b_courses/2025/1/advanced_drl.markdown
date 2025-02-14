@@ -190,7 +190,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>04월 21일(월)</td>
                                                             <td>
                                                                 - Critic Regularized Regression (CRR) <span class="badge badge-info">NIPS2020</span> <span class="badge badge-warning">Offline only</span> <br/>
-                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-info">ICLR2021</span> <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-info">Rejected from ICLR2021</span> <span class="badge badge-warning">Offline and Offline-to-Online</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 05: <a href="https://arxiv.org/abs/2006.15134" target="_blank">Critic Regularized Regression</a><br/>
@@ -222,7 +222,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>05월 12일(월)</td>
                                                             <td>
                                                                 - ReBRAC <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline and Offline-to-Online</span><br/> 
-                                                                - Policy Regularization with Dataset Constraint (PRDC)<br/>
+                                                                - Policy Regularization with Dataset Constraint (PRDC) <span class="badge badge-info">ICML2023</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 09: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a><br/>
