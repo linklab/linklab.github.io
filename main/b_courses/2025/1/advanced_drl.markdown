@@ -234,8 +234,8 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">12</th>
                                                             <td>05월 19일(월)</td>
                                                             <td>
-                                                                - Supported Policy OpTimizatio (SPOT) <span class="badge badge-warning">Offline-to-Online only</span><br/>
-                                                                - Calibrated Q-Learning (Cal-QL) <span class="badge badge-warning">Offline-to-Online only</span>
+                                                                - Supported Policy OpTimizatio (SPOT) <span class="badge badge-info">NIPS2022</span> <span class="badge badge-warning">Offline-to-Online only</span><br/>
+                                                                - Calibrated Q-Learning (Cal-QL) <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline-to-Online only</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 11: <a href="https://arxiv.org/abs/2202.06239" target="_blank">Supported Policy Optimization for Offline Reinforcement Learning</a><br/>
