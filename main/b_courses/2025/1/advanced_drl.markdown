@@ -255,9 +255,9 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">13</th>
                                                             <td>05월 26일(월)</td>
                                                             <td>
-                                                                - SAC-N <span class="badge badge-warning">Offline only</span><br/>
-                                                                - Ensemble-Diversified Actor Critic (EDAC) <span class="badge badge-warning">Offline only</span><br/>
-                                                                - Large-Batch SAC (LB-SAC) <span class="badge badge-warning">Offline only</span>
+                                                                - SAC-N <span class="badge badge-info">NIPS2021</span> <span class="badge badge-warning">Offline only</span><br/>
+                                                                - Ensemble-Diversified Actor Critic (EDAC) <span class="badge badge-info">NIPS2022</span> <span class="badge badge-warning">Offline only</span><br/>
+                                                                - Large-Batch SAC (LB-SAC) <span class="badge badge-info">NIPS2022</span> <span class="badge badge-warning">Offline only</span>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표 13: <a href="https://arxiv.org/abs/2110.01548" target="_blank">Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble</a><br/>
