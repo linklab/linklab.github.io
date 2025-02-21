@@ -286,8 +286,8 @@ permalink: /courses/2025/1/advanced_drl
                                                     </table>
                                                     <br/>
 <div>
-<h2>4족보행 로봇 제어 관련 논문 (2021 ~)</h2>
-<ol>
+<h3>4족보행 로봇 제어 관련 논문</h3>
+<ol style="margin-left: 2.0em">
     <li><strong>Learning Agile Robotic Locomotion Skills by Imitating Animals</strong><br>
         Xue Bin Peng, et al. - RSS, 2020<br>
         <a href="https://roboticsconference.org/2020/program/papers/64.html">논문 링크</a>
@@ -322,8 +322,8 @@ permalink: /courses/2025/1/advanced_drl
     </li>
 </ol>
 
-<h2>휴머노이드 (이족보행) 로봇 제어 관련 논문 (2023 ~)</h2>
-<ol>
+<h3>휴머노이드 (이족보행) 로봇 제어 관련 논문</h3>
+<ol style="margin-left: 2.0em">
     <li><strong>Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</strong><br>
         Xie, Zhaoming, et al. - PMLR, 2020<br>
         <a href="https://proceedings.mlr.press/v100/xie20a.html">논문 링크</a>
@@ -338,8 +338,8 @@ permalink: /courses/2025/1/advanced_drl
     </li>
 </ol>
 
-<h2>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h2>
-<ol>
+<h3>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h3>
+<ol style="margin-left: 2.0em">
     <li><strong>RT-1: Robotics Transformer for Real-World Control at Scale</strong><br>
         Brohan, Anthony, et al. - CoRL, 2022<br>
         <a href="https://arxiv.org/abs/2212.06817">논문 링크</a>
