@@ -33,12 +33,12 @@ permalink: /courses/2025/1/advanced_drl
                                                         <h3>[공지사항 - 2025.03.04]</h3>
                                                         <i class="fas fa-bullhorn"></i> 본 수업을 수강하는 학생들에게 공지합니다. 본 수업은 심층강화학습(Deep Reinforcement Learning)에 대한 공부를 어느 정도 수행한 학생들을 대상으로 하는 수업입니다.
                                                         <br/>
-                                                        <i class="fas fa-bullhorn"></i> 특히 본 수업은 최신 강화학습 연구 주제인 <strong><u>오프라인 강화학습(Offline Reinforcement Learning)</u></strong>에 대하여 함께 공부할 예정입니다.
+                                                        <i class="fas fa-bullhorn"></i> 특히 본 수업은 최신 심층강화학습 기반 <strong><u>4족 보행 로봇</u></strong>, <strong><u>2족 보행 로봇(휴머노이드)</u></strong> 및 <strong><u>기본 모델 (Foundation Model) 기반 로봇</u></strong>에 대하여 함께 공부할 예정입니다.
                                                         <br/>
                                                         <i class="fas fa-bullhorn"></i> 모든 학생들은<br/>
-                                                        &nbsp;&nbsp;&nbsp;1) 본 수업에서 제시하는 오프라인 강화학습과 관련된 유명 논문들을 직접읽고 발표를 해야 하며,<br/>
-                                                        &nbsp;&nbsp;&nbsp;2) 수업에서 소개하는 오프라인 심층강화학습 코드를 이해하고 이를 기반으로 숙제와 텀프로젝트를 리포트와 함께 제출해야 하며,<br/>
-                                                        &nbsp;&nbsp;&nbsp;3) 기말고사를 통하여 본 수업에서 다룬 오프라인 강화학습 알고리즘 전반에 걸친 이해도를 평가받게 됩니다.
+                                                        &nbsp;&nbsp;&nbsp;1) 본 수업에서 강의하는 내용을 심도있게 공부해야 하며,<br/>
+                                                        &nbsp;&nbsp;&nbsp;2) 본 수업에서 제시하는 논문들을 직접읽고 발표를 해야 하며,<br/>
+                                                        &nbsp;&nbsp;&nbsp;3) 기말고사를 통하여 본 수업에서 다룬 논문들 전반에 걸친 이해도를 평가받게 됩니다.
                                                         <br/>
                                                         <i class="fas fa-bullhorn"></i> 본 수업을 수강하기 위하여 꼭 필요한 선수 지식<br/>
                                                         &nbsp;&nbsp;&nbsp;1) 학부과정에서의 자료구조 및 알고리즘 교과목 이수<br/>
@@ -46,9 +46,11 @@ permalink: /courses/2025/1/advanced_drl
                                                         &nbsp;&nbsp;&nbsp;3) 파이썬을 활용한 Tensorflow 또는 Pytorch 기반으로 딥러닝 관련 코딩 수행 경험<br/>
                                                         &nbsp;&nbsp;&nbsp;4) 심층강화학습에 대한 기초 지식<br/>
                                                         <i class="fas fa-bullhorn"></i> 학점은 A+/A, B+/B, C+/C, F 이렇게 총 4개의 그룹으로 나누어 부여할 예정이며, F로 평가될 학생이 없다면 A+/A, B+/B, C+/C 그룹에 대한 학점 분포는 40%, 40%, 20%로 나누어 부여할 예정이지만 강의가 종료된 이후 전반적인 학업성취도를 가늠하여 변경될 수 있습니다.<br/>
+<!--
                                                         <i class="fas fa-bullhorn"></i> 본 수업에서 참고하는 Github Repositories<br/>
                                                         &nbsp;&nbsp;&nbsp;1) <strong>Data-Driven Deep Reinforcement Learning Library for Python (d3rlpy)</strong> <a href="https://github.com/takuseno/d3rlpy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                         &nbsp;&nbsp;&nbsp;2) <strong>Clean Offline Reinforcement Learning (CORL)</strong> <a href="https://github.com/corl-team/CORL" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
+-->
                                                         <i class="fas fa-bullhorn"></i> 본 수업을 이수하기 위하여 참고하면 좋은 강화학습 기본 & 최적화 이론 강의<br/>
                                                         &nbsp;&nbsp;&nbsp;1) <strong>혁펜하임의 강화학습 강의</strong> <a href="https://www.youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                         &nbsp;&nbsp;&nbsp;2) <strong>혁펜하임의 최적화 강의</strong> <a href="https://www.youtube.com/playlist?list=PL_iJu012NOxeMJ5TPPW1JZKec7rhjKXUy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
@@ -161,12 +163,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">06</th>
                                                             <td>04월 07일(월)</td>
                                                             <td>
-                                                                - Batch Constrained Q-learning (BCQ) <span class="badge badge-info">ICML2019</span> <span class="badge badge-warning">Offline only</span><br/>
-                                                                - Bootstrapping Error Accumulation Reduction (BEAR) <span class="badge badge-info">NIPS2019</span> <span class="badge badge-warning">Offline only</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 01: <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a><br/>
-                                                                - 논문 발표 02: <a href="https://arxiv.org/abs/1906.00949" target="_blank">Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction</a>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td>
                                                             </td>
@@ -175,12 +175,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">07</th>
                                                             <td>04월 14일(월)</td>
                                                             <td>
-                                                                - Conservative Q-Learning (CQL) <span class="badge badge-info">NIPS2020</span> <span class="badge badge-warning">Offline and Offline-to-Online</span><br/>
-                                                                - Policy in Latent Action Space (PLAS) <span class="badge badge-info">CoRL2020</span> <span class="badge badge-warning">Offline only</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 03: <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 04: <a href="https://arxiv.org/abs/2011.07213" target="_blank">PLAS: Latent Action Space for Offline Reinforcement Learning</a>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td>
                                                             </td>
@@ -189,12 +187,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">08</th>
                                                             <td>04월 21일(월)</td>
                                                             <td>
-                                                                - Critic Regularized Regression (CRR) <span class="badge badge-info">NIPS2020</span> <span class="badge badge-warning">Offline only</span> <br/>
-                                                                - Advantage Weighted Actor-Critic (AWAC) <span class="badge badge-info">Rejected from ICLR2021</span> <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 05: <a href="https://arxiv.org/abs/2006.15134" target="_blank">Critic Regularized Regression</a><br/>
-                                                                - 논문 발표 06: <a href="https://arxiv.org/abs/2006.09359" target="_blank">AWAC: Accelerating Online Reinforcement Learning with Offline Datasets</a><br/>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -202,12 +198,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">09</th>
                                                             <td>04월 28일(월)</td>
                                                             <td>
-                                                                - TD3+BC <span class="badge badge-info">NIPS2021</span> <span class="badge badge-warning">Offline only</span><br/>
-                                                                - Implicit Q-Learning (IQL) <span class="badge badge-info">ICLR2022</span> <span class="badge badge-warning">Offline and Offline-to-Online</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 07: <a href="https://arxiv.org/abs/2106.06860" target="_blank">A Minimalist Approach to Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 08: <a href="https://arxiv.org/abs/2110.06169" target="_blank">Offline Reinforcement Learning with Implicit Q-Learning</a>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td>
                                                             </td>
@@ -221,12 +215,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">11</th>
                                                             <td>05월 12일(월)</td>
                                                             <td>
-                                                                - ReBRAC <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline and Offline-to-Online</span><br/> 
-                                                                - Policy Regularization with Dataset Constraint (PRDC) <span class="badge badge-info">ICML2023</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 09: <a href="https://arxiv.org/abs/2305.09836" target="_blank">Revisiting the Minimalist Approach to Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 10: <a href="https://arxiv.org/abs/2306.06569" target="_blank">Policy Regularization with Dataset Constraint for Offline Reinforcement Learning</a><br/>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -234,12 +226,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">12</th>
                                                             <td>05월 19일(월)</td>
                                                             <td>
-                                                                - Supported Policy OpTimizatio (SPOT) <span class="badge badge-info">NIPS2022</span> <span class="badge badge-warning">Offline-to-Online only</span><br/>
-                                                                - Calibrated Q-Learning (Cal-QL) <span class="badge badge-info">NIPS2023</span> <span class="badge badge-warning">Offline-to-Online only</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 11: <a href="https://arxiv.org/abs/2202.06239" target="_blank">Supported Policy Optimization for Offline Reinforcement Learning</a><br/>
-                                                                - 논문 발표 12: <a href="https://arxiv.org/abs/2303.05479" target="_blank">Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning</a>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td>
                                                                 <!--Homework #2.
@@ -255,13 +245,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">13</th>
                                                             <td>05월 26일(월)</td>
                                                             <td>
-                                                                - SAC-N <span class="badge badge-info">NIPS2021</span> <span class="badge badge-warning">Offline only</span><br/>
-                                                                - Ensemble-Diversified Actor Critic (EDAC) <span class="badge badge-info">NIPS2022</span> <span class="badge badge-warning">Offline only</span><br/>
-                                                                - Large-Batch SAC (LB-SAC) <span class="badge badge-info">NIPS2022</span> <span class="badge badge-warning">Offline only</span>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 13: <a href="https://arxiv.org/abs/2110.01548" target="_blank">Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble</a><br/>
-                                                                - 논문 발표 14: <a href="https://arxiv.org/abs/2211.11092" target="_blank">Q-Ensemble for Offline RL: Don't Scale the Ensemble, Scale the Batch Size</a>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -269,10 +256,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">14</th>
                                                             <td>06월 02일(월)</td>
                                                             <td>
-                                                                - Decision Transformer (DT) <span class="badge badge-warning">Offline only</span><br/>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 15: <a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer: Reinforcement Learning via Sequence Modeling</a><br/>
+                                                                - 논문 발표:
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -280,10 +267,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">15</th>
                                                             <td>06월 09일(월)</td>
                                                             <td>
-                                                                - Gato <br/>
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 16: <a href="https://arxiv.org/abs/2205.06175" target="_blank">A Generalist Agent</a>
+                                                                - 논문 발표: 
                                                             </td>
                                                             <td>
                                                             </td>
@@ -299,127 +286,105 @@ permalink: /courses/2025/1/advanced_drl
                                                     </table>
                                                     <br/>
 <div>
-### **4족보행 로봇 제어 관련 논문 (2021 ~. )**
-  
-[1] **Learning Agile Robotic Locomotion Skills by Imitating Animals**  
-    - Xue Bin Peng, et al.
-    - RSS, 2020
-    - [논문 링크](https://roboticsconference.org/2020/program/papers/64.html)  
+<h2>4족보행 로봇 제어 관련 논문 (2021 ~)</h2>
+<ol>
+    <li><strong>Learning Agile Robotic Locomotion Skills by Imitating Animals</strong><br>
+        Xue Bin Peng, et al. - RSS, 2020<br>
+        <a href="https://roboticsconference.org/2020/program/papers/64.html">논문 링크</a>
+    </li>
+    <li><strong>RMA: Rapid Motor Adaptation for Legged Robots</strong><br>
+        Kumar, Ashish, et al. - RSS, 2021<br>
+        <a href="https://arxiv.org/abs/2107.04034">논문 링크</a>
+    </li>
+    <li><strong>Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</strong><br>
+        Miki, Takuma, et al. - Science Robotics, 2022<br>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.abk2822">논문 링크</a>
+    </li>
+    <li><strong>Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</strong><br>
+        Yang, Ruihan, et al. - ICLR, 2022<br>
+        <a href="https://arxiv.org/abs/2107.03996">논문 링크</a>
+    </li>
+    <li><strong>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</strong><br>
+        Feng, Gilbert, et al. - CoRL, 2022<br>
+        <a href="https://arxiv.org/abs/2209.05309">논문 링크</a>
+    </li>
+    <li><strong>DribbleBot: Dynamic Quadrupedal Manipulation in the Wild</strong><br>
+        Ji, Yandong, et al. - ICRA, 2023<br>
+        <a href="https://arxiv.org/abs/2304.01159">논문 링크</a>
+    </li>
+    <li><strong>Learning Quadrupedal Locomotion on Deformable Terrain</strong><br>
+        Choi, Sehoon, et al. - Science Robotics, 2023<br>
+        <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256">논문 링크</a>
+    </li>
+    <li><strong>DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</strong><br>
+        Nahrendra, I Made Aswin, et al. - ICRA, 2023<br>
+        <a href="https://arxiv.org/abs/2301.10602">논문 링크</a>
+    </li>
+</ol>
 
-[2] **RMA: Rapid Motor Adaptation for Legged Robots**  
-    - Kumar, Ashish, et al. 
-    - Robotics: Science and Systems (RSS), 2021  
-    - [논문 링크](https://arxiv.org/abs/2107.04034)  
+<h2>휴머노이드 (이족보행) 로봇 제어 관련 논문 (2023 ~)</h2>
+<ol>
+    <li><strong>Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</strong><br>
+        Xie, Zhaoming, et al. - PMLR, 2020<br>
+        <a href="https://proceedings.mlr.press/v100/xie20a.html">논문 링크</a>
+    </li>
+    <li><strong>Adapting Rapid Motor Adaptation for Bipedal Robots</strong><br>
+        Kumar, Ashish, et al. - IROS, 2022<br>
+        <a href="https://ashish-kmr.github.io/a-rma/">논문 링크</a>
+    </li>
+    <li><strong>Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</strong><br>
+        Li, Zhongyu, et al. - 2024<br>
+        <a href="https://arxiv.org/abs/2106.02149">논문 링크</a>
+    </li>
+</ol>
 
-[3] **Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild**  
-    - Miki, Takuma, et al. 
-    - Science Robotics, 2022  
-    - [논문 링크](https://www.science.org/doi/10.1126/scirobotics.abk2822)  
-
-[4] **Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers**  
-    - Yang, Ruihan, et al. 
-    - ICLR, 2022
-    - [논문 링크](https://arxiv.org/abs/2107.03996)  
-
-[5] **GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots**  
-    - Feng, Gilbert, et al. 
-    - Conference on Robot Learning (CoRL), 2022
-    - [논문 링크](https://arxiv.org/abs/2209.05309)  
-
-[6] **DribbleBot: Dynamic Quadrupedal Manipulation in the Wild**  
-    - Ji, Yandong, et al.
-    - ICRA, 2023 
-    - [논문 링크](https://arxiv.org/abs/2304.01159)  
-
-[7] **Learning Quadrupedal Locomotion on Deformable Terrain**
-    - Choi, Sehoon, et al. 
-    - Science Robotics, 2023
-    - [논문 링크](https://www.science.org/doi/10.1126/scirobotics.ade2256)
-
-[8] **DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination**
-    - Nahrendra, I Made Aswin, et al. 
-    - ICRA, 2023
-    - [논문 링크](https://arxiv.org/abs/2301.10602)
-
-
----
-
-### **휴머노이드 (이족보행) 로봇 제어 관련 논문 (2023 ~ )**
-
-
-[1] **Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real**  
-    - Xie, Zhaoming, et al. 
-    - PMLR, 2020  
-    - [논문 링크](https://proceedings.mlr.press/v100/xie20a.html)  
-
-[2] **Adapting Rapid Motor Adaptation for Bipedal Robots**  
-    - Kumar, Ashish, et al. 
-    - IROS, 2022  
-    - [논문 링크](https://ashish-kmr.github.io/a-rma/)  
-
-[3] **Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control**  
-    - Li, Zhongyu, et al. 
-    - 2024
-    - [논문 링크](https://arxiv.org/abs/2106.02149)  
-
----
-
-### **기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문**
-
-[1] **RT-1: Robotics Transformer for Real-World Control at Scale**  
-    - Brohan, Anthony, et al. 
-    - CoRL, 2022  
-    - [논문 링크](https://arxiv.org/abs/2212.06817)  
-
-[2] **GATO: A Generalist Agent**  
-    - Reed, Scott, et al. 
-    - DeepMind, 2022
-    - [논문 링크](https://arxiv.org/abs/2205.06175)  
-
-[3] **DayDreamer: World Models for Physical Robot Learning**  
-    - Wu, Philipp, et al. 
-    - CoRL, 2022
-    - [논문 링크](https://arxiv.org/abs/2206.14176)  
-
-[4] **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**
-    - Baker, Bowen, et al. 
-    - NIPS, 2022  
-    - [논문 링크](https://arxiv.org/abs/2206.11795)
-
-[5] **RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation**  
-    - Google DeepMind Team 
-    - Google DeepMind, 2023  
-    - [논문 링크](https://arxiv.org/abs/2306.11706)  
-
-[6] **ViNT: A Foundation Model for Visual Navigation**
-    - Shah, Dhruv, et al. 
-    - CoRL, 2023  
-    - [논문 링크](https://arxiv.org/abs/2306.14846) 
-
-[7] **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**
-    - Brohan, Anthony, et al. 
-    - CoRL, 2023
-    - [논문 링크](https://arxiv.org/abs/2307.15818)      
-
-[8] **LIV: Language-Image Representations and Rewards for Robotic Control**
-    - Yecheng Jason Ma, et al. 
-    - ICML, 2023
-    - [논문 링크](https://arxiv.org/abs/2306.00958)      
-
-[9] **RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
-    - Brohan, Anthony, et al. 
-    - *
-    - [논문 링크](https://arxiv.org/abs/2310.08864)      
-
-[10] **COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems**
-    - Ma, Shuang, et al. 
-    - IROS, 2022
-    - [논문 링크](https://arxiv.org/abs/2203.15788)      
-
-[11] **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**
-    - Bonatti, Rogerio, et al. 
-    - IROS, 2023
-    - [논문 링크](https://arxiv.org/abs/2209.11133)
+<h2>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h2>
+<ol>
+    <li><strong>RT-1: Robotics Transformer for Real-World Control at Scale</strong><br>
+        Brohan, Anthony, et al. - CoRL, 2022<br>
+        <a href="https://arxiv.org/abs/2212.06817">논문 링크</a>
+    </li>
+    <li><strong>GATO: A Generalist Agent</strong><br>
+        Reed, Scott, et al. - DeepMind, 2022<br>
+        <a href="https://arxiv.org/abs/2205.06175">논문 링크</a>
+    </li>
+    <li><strong>DayDreamer: World Models for Physical Robot Learning</strong><br>
+        Wu, Philipp, et al. - CoRL, 2022<br>
+        <a href="https://arxiv.org/abs/2206.14176">논문 링크</a>
+    </li>
+    <li><strong>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</strong><br>
+        Baker, Bowen, et al. - NIPS, 2022<br>
+        <a href="https://arxiv.org/abs/2206.11795">논문 링크</a>
+    </li>
+    <li><strong>RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</strong><br>
+        Google DeepMind Team - Google DeepMind, 2023<br>
+        <a href="https://arxiv.org/abs/2306.11706">논문 링크</a>
+    </li>
+    <li><strong>ViNT: A Foundation Model for Visual Navigation</strong><br>
+        Shah, Dhruv, et al. - CoRL, 2023<br>
+        <a href="https://arxiv.org/abs/2306.14846">논문 링크</a>
+    </li>
+    <li><strong>RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</strong><br>
+        Brohan, Anthony, et al. - CoRL, 2023<br>
+        <a href="https://arxiv.org/abs/2307.15818">논문 링크</a>
+    </li>
+    <li><strong>LIV: Language-Image Representations and Rewards for Robotic Control</strong><br>
+        Yecheng Jason Ma, et al. - ICML, 2023<br>
+        <a href="https://arxiv.org/abs/2306.00958">논문 링크</a>
+    </li>
+    <li><strong>RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</strong><br>
+        Brohan, Anthony, et al.<br>
+        <a href="https://arxiv.org/abs/2310.08864">논문 링크</a>
+    </li>
+    <li><strong>COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</strong><br>
+        Ma, Shuang, et al. - IROS, 2022<br>
+        <a href="https://arxiv.org/abs/2203.15788">논문 링크</a>
+    </li>
+    <li><strong>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</strong><br>
+        Bonatti, Rogerio, et al. - IROS, 2023<br>
+        <a href="https://arxiv.org/abs/2209.11133">논문 링크</a>
+    </li>
+</ol>
 </div>
                                                     <br/>
                                                     <h3 class="title-level-3">2. Course Information</h3>
