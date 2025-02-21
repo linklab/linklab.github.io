@@ -298,6 +298,130 @@ permalink: /courses/2025/1/advanced_drl
                                                         </tbody>
                                                     </table>
                                                     <br/>
+<div>
+### **4족보행 로봇 제어 관련 논문 (2021 ~. )**
+  
+[1] **Learning Agile Robotic Locomotion Skills by Imitating Animals**  
+    - Xue Bin Peng, et al.
+    - RSS, 2020
+    - [논문 링크](https://roboticsconference.org/2020/program/papers/64.html)  
+
+[2] **RMA: Rapid Motor Adaptation for Legged Robots**  
+    - Kumar, Ashish, et al. 
+    - Robotics: Science and Systems (RSS), 2021  
+    - [논문 링크](https://arxiv.org/abs/2107.04034)  
+
+[3] **Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild**  
+    - Miki, Takuma, et al. 
+    - Science Robotics, 2022  
+    - [논문 링크](https://www.science.org/doi/10.1126/scirobotics.abk2822)  
+
+[4] **Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers**  
+    - Yang, Ruihan, et al. 
+    - ICLR, 2022
+    - [논문 링크](https://arxiv.org/abs/2107.03996)  
+
+[5] **GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots**  
+    - Feng, Gilbert, et al. 
+    - Conference on Robot Learning (CoRL), 2022
+    - [논문 링크](https://arxiv.org/abs/2209.05309)  
+
+[6] **DribbleBot: Dynamic Quadrupedal Manipulation in the Wild**  
+    - Ji, Yandong, et al.
+    - ICRA, 2023 
+    - [논문 링크](https://arxiv.org/abs/2304.01159)  
+
+[7] **Learning Quadrupedal Locomotion on Deformable Terrain**
+    - Choi, Sehoon, et al. 
+    - Science Robotics, 2023
+    - [논문 링크](https://www.science.org/doi/10.1126/scirobotics.ade2256)
+
+[8] **DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination**
+    - Nahrendra, I Made Aswin, et al. 
+    - ICRA, 2023
+    - [논문 링크](https://arxiv.org/abs/2301.10602)
+
+
+---
+
+### **휴머노이드 (이족보행) 로봇 제어 관련 논문 (2023 ~ )**
+
+
+[1] **Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real**  
+    - Xie, Zhaoming, et al. 
+    - PMLR, 2020  
+    - [논문 링크](https://proceedings.mlr.press/v100/xie20a.html)  
+
+[2] **Adapting Rapid Motor Adaptation for Bipedal Robots**  
+    - Kumar, Ashish, et al. 
+    - IROS, 2022  
+    - [논문 링크](https://ashish-kmr.github.io/a-rma/)  
+
+[3] **Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control**  
+    - Li, Zhongyu, et al. 
+    - 2024
+    - [논문 링크](https://arxiv.org/abs/2106.02149)  
+
+---
+
+### **기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문**
+
+[1] **RT-1: Robotics Transformer for Real-World Control at Scale**  
+    - Brohan, Anthony, et al. 
+    - CoRL, 2022  
+    - [논문 링크](https://arxiv.org/abs/2212.06817)  
+
+[2] **GATO: A Generalist Agent**  
+    - Reed, Scott, et al. 
+    - DeepMind, 2022
+    - [논문 링크](https://arxiv.org/abs/2205.06175)  
+
+[3] **DayDreamer: World Models for Physical Robot Learning**  
+    - Wu, Philipp, et al. 
+    - CoRL, 2022
+    - [논문 링크](https://arxiv.org/abs/2206.14176)  
+
+[4] **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**
+    - Baker, Bowen, et al. 
+    - NIPS, 2022  
+    - [논문 링크](https://arxiv.org/abs/2206.11795)
+
+[5] **RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation**  
+    - Google DeepMind Team 
+    - Google DeepMind, 2023  
+    - [논문 링크](https://arxiv.org/abs/2306.11706)  
+
+[6] **ViNT: A Foundation Model for Visual Navigation**
+    - Shah, Dhruv, et al. 
+    - CoRL, 2023  
+    - [논문 링크](https://arxiv.org/abs/2306.14846) 
+
+[7] **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**
+    - Brohan, Anthony, et al. 
+    - CoRL, 2023
+    - [논문 링크](https://arxiv.org/abs/2307.15818)      
+
+[8] **LIV: Language-Image Representations and Rewards for Robotic Control**
+    - Yecheng Jason Ma, et al. 
+    - ICML, 2023
+    - [논문 링크](https://arxiv.org/abs/2306.00958)      
+
+[9] **RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models**
+    - Brohan, Anthony, et al. 
+    - *
+    - [논문 링크](https://arxiv.org/abs/2310.08864)      
+
+[10] **COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems**
+    - Ma, Shuang, et al. 
+    - IROS, 2022
+    - [논문 링크](https://arxiv.org/abs/2203.15788)      
+
+[11] **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**
+    - Bonatti, Rogerio, et al. 
+    - IROS, 2023
+    - [논문 링크](https://arxiv.org/abs/2209.11133)
+</div>
+                                                    <br/>
                                                     <h3 class="title-level-3">2. Course Information</h3>
                                                     <br/>
                                                     <ul>
