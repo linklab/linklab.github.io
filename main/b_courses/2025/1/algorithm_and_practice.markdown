@@ -94,9 +94,10 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 03. 11
                                                             </td>
                                                             <td>
+<!--
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a href="https://www.dropbox.com/s/z052nb5fwnfcl91/homework_1.pdf?dl=0" target="_blank" class="font-weight-bold">[Practice & Homework #1]</a><br/>Due Date: 03월 21일 (월요일), 23시 59분
-                                                                <br/>
+-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -161,11 +162,12 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 04. 01
                                                             </td>
                                                             <td>
+<!--
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/s/wvslqexbnawu9s4/homework_2.pdf?dl=0" target="_blank">[Practice & Homework #2]</a>
                                                                 <br/>
                                                                 Due Date: 04월 05일 (화요일), 23시 59분
-<!--                                                                    10. 리스트, 스택, 큐 (생략)-->
+-->
                                                                 <br/>
                                                             </td>
                                                         </tr>
@@ -212,10 +214,12 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 04. 15
                                                             </td>
                                                             <td>
+<!--
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/s/rzml0icytd01hnc/homework_3.pdf?dl=0" target="_blank">[Practice & Homework #3]</a>
                                                                 <br/>
                                                                 Due Date: 04월 21일 (목요일), 23시 59분
+-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -235,11 +239,13 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 04. 22
                                                             </td>
                                                             <td>
+<!--
                                                                 <strong>
                                                                 <i class="fas fa-bookmark"></i>[중간고사 공지]<br/>
                                                                 - 일시: 2022년 4월 22일(금) 오후 7시~9시<br/>
                                                                 - 장소: 1분반 - 408호, 2분반 - 409호
                                                                 </strong>
+-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -322,10 +328,12 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 05. 20
                                                             </td>
                                                             <td>
+<!--
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/s/0fayu84hsnlji2i/homework_4.pdf?dl=0" target="_blank">[Practice & Homework #4]</a>
                                                                 <br/>
                                                                 Due Date: 06월 03일 (금요일), 23시 59분
+-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -369,10 +377,12 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 06. 10
                                                             </td>
                                                             <td>
+<!--
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/s/blxdc9v22clhhdl/homework_5.pdf?dl=0" target="_blank">[Practice & Homework #5]</a>
                                                                 <br/>
                                                                 Due Date: 06월 15일 (수요일), 23시 59분
+-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -422,18 +432,16 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <li>
                                                             Classes:
                                                             <ul style="margin-left: 2em">
-                                                                <li>1분반: 월요일 (16:00 ~ 17:50, 월08A ~ 09B), 목요일 (16:00 ~ 17:50, 목08A ~ 09B)</li>
-                                                                <li>2분반: 화요일 (14:00 ~ 15:50, 화06A ~ 07B), 수요일 (14:00 ~ 15:50, 수06A ~ 07B), </li>
+                                                                <li>화요일 (14:00 ~ 15:50, 화06A ~ 07B), 목요일 (09:00 ~ 10:50, 목09A ~ 10B)</li>
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            Lecture Room: 409호
+                                                            Lecture Room: 403호
                                                         </li>
                                                         <li>
                                                             수업조교(TA):
                                                             <ul style="margin-left: 2em">
-                                                                <li>1분반: 석영준 석사과정 (Email: dsb04163@koreatech.ac.kr)</li>
-                                                                <li>2분반: 최요한 석사과정 (Email: yoweif@koreatech.ac.kr)</li>
+                                                                <li>김민준 석사과정 (Email: june573166@koreatech.ac.kr)</li>
                                                             </ul>
                                                         </li>
                                                         <li>
@@ -446,7 +454,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             질의 응답: <a href="http://el.koreatech.ac.kr" target="_blank">http://el.koreatech.ac.kr</a> 질의응답 메뉴 활용 (이메일 질문은 받지 않음)
                                                         </li>
                                                         <li>
-                                                            숙제 제출: <a href="http://el.koreatech.ac.kr" target="_blank">http://el.koreatech.ac.kr</a> 과제 메뉴 (4~5번 과제 출제 예정)
+                                                            숙제 제출: <a href="http://el.koreatech.ac.kr" target="_blank">http://el.koreatech.ac.kr</a> 과제 메뉴 (5번 과제 출제 예정)
                                                         </li>
                                                         <br/>
                                                     </ul>
