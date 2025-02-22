@@ -21,7 +21,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                             <div class="row content">
                                                 <div class="content-wrapper">
                                                     <h2 class="title-level-2">
-                                                        Algorithm & Practice (알고리즘 및 실습 [CSE130-01/02], Spring Semester, 2025) </h2>
+                                                        Algorithm & Practice (알고리즘 및 실습 [CSE130-01], Spring Semester, 2025) </h2>
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts,
                                                         which violate this trust, undermine the educational process.
                                                         Your classmates and the professor will not tolerate violations
@@ -45,9 +45,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">01</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 03월 04일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 03월 03일(수)
+                                                                [1분반]<br/> In-class: 03월 04일(화)<br/>In-class: 03월 06일(목)
                                                             </td>
                                                             <td>
                                                                 00. 수업 소개 & 알고리즘이란?
@@ -74,9 +72,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">02</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 03월 07일(월)<br/>Online-class: 03월 10일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 03월 08일(화)<br/>Online-class: 03월 09일(수)
+                                                                [1분반]<br/> In-class: 03월 11일(화)<br/>Online-class: 03월 13일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 알고리즘 효율 분석 방법 기초
@@ -108,9 +104,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">03</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 03월 14일(월)<br/>Online-class: 03월 17일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 03월 15일(화)<br/>Online-class: 03월 16일(수)
+                                                                [1분반]<br/> In-class: 03월 18일(화)<br/>Online-class: 03월 20일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 알고리즘의 점근적 효율 분석
@@ -136,9 +130,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">04</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 03월 21일(월)<br/>Online-class: 03월 24일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 03월 22일(화)<br/>Online-class: 03월 23일(수)
+                                                                [1분반]<br/> In-class: 03월 25일(화)<br/>Online-class: 03월 27일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 다양한 기본 정렬 알고리즘
@@ -163,9 +155,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">05</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 03월 28일(월)<br/>Online-class: 03월 31일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 03월 29일(화)<br/>Online-class: 03월 30일(수)
+                                                                [1분반]<br/> In-class: 04월 01일(화)<br/>Online-class: 04월 03일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 합병 정렬/퀵 정렬 알고리즘
@@ -192,9 +182,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">06</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 04월 04일(월)<br/>Online-class: 04월 07일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 04월 05일(화)<br/>Online-class: 04월 06일(수)
+                                                                [1분반]<br/> In-class: 04월 08일(화)<br/>Online-class: 04월 10일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 선형 시간 선택 알고리즘
@@ -218,9 +206,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">07</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 04월 11일(월)<br/>Online-class: 04월 14일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 04월 12일(화)<br/>Online-class: 04월 13일(수)
+                                                                [1분반]<br/> In-class: 04월 15일(화)<br/>Online-class: 04월 17일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 이진검색트리 & B-트리
@@ -249,9 +235,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">08</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 04월 18일(월)<br/>Online-class: 04월 21일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 04월 19일(화)<br/>Online-class: 04월 20일(수)
+                                                                [1분반]<br/> In-class: 04월 22일(화)<br/>Online-class: 04월 24일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 해시 테이블
@@ -276,9 +260,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">09</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 04월 25일(월)<br/>Online-class: 04월 28일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 04월 26일(화)<br/>Online-class: 04월 27일(수)
+                                                                [1분반]<br/> In-class: 04월 29일(화)<br/>Online-class: 05월 01일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 상호 배타적 집합 구현
@@ -301,9 +283,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">10</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 05월 02일(월)<br/>Online-class: 05월 05일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 05월 03일(화)<br/>Online-class: 05월 04일(수)
+                                                                [1분반]<br/> In-class: 05월 06일(화)<br/>Online-class: 05월 08일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 동적 프로그래밍 - I
@@ -323,9 +303,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">11</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 05월 09일(월)<br/>Online-class: 05월 12일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 05월 10일(화)<br/>Online-class: 05월 11일(수)
+                                                                [1분반]<br/> In-class: 05월 13일(화)<br/>Online-class: 05월 15일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 동적 프로그래밍 - II
@@ -359,9 +337,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">12</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 05월 16일(월)<br/>Online-class: 05월 19일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 05월 17일(화)<br/>Online-class: 05월 18일(수)
+                                                                [1분반]<br/> In-class: 05월 20일(화)<br/>Online-class: 05월 22일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 그래프 알고리즘 - I
@@ -389,9 +365,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">13</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 05월 23일(월)<br/>Online-class: 05월 26일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 05월 24일(화)<br/>Online-class: 05월 25일(수)
+                                                                [1분반]<br/> In-class: 05월 27일(화)<br/>Online-class: 05월 29일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 그래프 알고리즘 - II
@@ -416,9 +390,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">14</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 05월 30일(월)<br/>Online-class: 06월 02일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 05월 31일(화)<br/>Online-class: 06월 01일(수)
+                                                                [1분반]<br/> In-class: 06월 03일(화)<br/>Online-class: 06월 05일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] 상태 공간 트리의 탐색
@@ -441,9 +413,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">15</th>
                                                             <td>
-                                                                [1분반]<br/> <strong>In-class: 06월 09일(목)</strong><br/>Online-class: 06월 09일(목)
-                                                                <br/>
-                                                                [2분반]<br/> In-class: 06월 07일(화)<br/>Online-class: 06월 08일(수)
+                                                                [1분반]<br/> <strong>In-class: 06월 10일(화)</strong><br/>Online-class: 06월 12일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] P문제/NP문제/NP-완비 문제
@@ -461,7 +431,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 <strong>
                                                                 <i class="fas fa-bookmark"></i>[기말고사 공지]<br/>
-                                                                - 일시: 2022년 6월 13일(월) 오후 7시 ~ 9시 30분<br/>
+                                                                - 일시: 2022년 6월 13일(화) 오후 7시 ~ 9시 30분<br/>
                                                                 - 장소: 1분반 - 408호, 2분반 - 409호
 <!--                                                                    [질의응답 주제] Java와 Python에서의 해시 테이블에서는 충돌 해결을 어떤 방식으로 할까요?-->
                                                                 </strong>
@@ -472,9 +442,7 @@ permalink: /courses/2025/1/algorithm_and_practice
 <!--                                                            <tr>
                                                                 <th scope="row">16</th>
                                                                 <td>
-                                                                    [1분반]<br/> In-class: 06월 13일(월)
-                                                                    <br/>
-                                                                    [2분반]<br/> In-class: 06월 14일(화)
+                                                                    [1분반]<br/> In-class: 06월 17일(화)
                                                                 </td>
                                                                 <td>
                                                                     [주제] P문제/NP문제/NP-완비 문제
