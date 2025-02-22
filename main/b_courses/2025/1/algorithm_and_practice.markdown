@@ -50,7 +50,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 [01] 수업 소개 & 알고리즘이란?
                                                                 <a href="https://www.dropbox.com/s/oji4vwyizmwrksc/01_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
                                                             <td>
@@ -77,7 +77,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 [02] 알고리즘 효율 분석 방법 기초
                                                                 <a href="https://www.dropbox.com/s/gy8i99969fntop2/02_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%84%A4%EA%B3%84%EC%99%80%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EA%B8%B0%EC%B4%88.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
+                                                                    <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                                 <br/>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
@@ -459,7 +459,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <h4># 온라인 강의 교재</h4>
                                                             <ul>
                                                                 <li>알고리즘, 한국기술교육대학교 온라인 평생교육원 e-KoreaTech
-                                                                    <a href="https://e-koreatech.step.or.kr/page/lms?m1=course%25&m2=course_detail%25&course_id=66740%25&filter_list=query%3D%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%26sort%3Dcreation_day%2FDESC%25&btn_mode=AlbumList%25" target="_blank"><img src="/assets/images/external_link.png" width="3%"/></a> </li>
+                                                                    <a href="https://www.step.or.kr/home/integrateMng/cmmSys?subRedirect_url=https%3A%2F%2Fekt23.step.or.kr%2FcrsDetailForm.do%3Fcrscd%3D902%26crsseqId%3D219867" target="_blank"><img src="/assets/images/external_link.png" width="3%"/></a> </li>
                                                             </ul>
                                                             <h4># 오프라인 강의 교재 (구매 필수)</h4>
                                                             <ul>
