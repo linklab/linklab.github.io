@@ -34,11 +34,11 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:19%">Date</th>
-                                                            <th scope="col" style="width:26%">In-class (오프라인 강의)</th>
-                                                            <th scope="col" style="width:25%">Online-class (E-Learning 학습)</th>
-                                                            <th scope="col" style="width:26%">Notice</th>
+                                                            <th scope="col" style="width:3%">#</th>
+                                                            <th scope="col" style="width:17%">Date</th>
+                                                            <th scope="col" style="width:29%">In-class (오프라인 강의)</th>
+                                                            <th scope="col" style="width:24%">Online-class (E-Learning 학습)</th>
+                                                            <th scope="col" style="width:27%">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
@@ -462,7 +462,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                     <h3 class="title-level-3">3. References</h3>
                                                     <br/>
                                                     <div class="row">
-                                                        <div class="col-8">
+                                                        <div class="col-8" style="margin-left: 2.0em">
                                                             <h4># 온라인 강의 교재</h4>
                                                             <ul>
                                                                 <li>알고리즘, 한국기술교육대학교 온라인 평생교육원 e-KoreaTech
