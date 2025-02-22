@@ -239,7 +239,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 <strong>
                                                                 <i class="fas fa-bookmark"></i> 중간 고사<br/>
-                                                                - 일시: 2025년 4월 24일(금) 오전 9시 ~ 9시 50분<br/>
+                                                                - 일시: 2025년 4월 24일(목) 오전 2시 ~ 3시 50분<br/>
                                                                 - 장소: 미정
                                                                 </strong>
                                                             </td>
@@ -407,7 +407,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <td>
                                                                 <strong>
                                                                     <i class="fas fa-bookmark"></i> 기말 고사<br/>
-                                                                    - 일시: 2025년 4월 24일(금) 오전 9시 ~ 9시 50분<br/>
+                                                                    - 일시: 2025년 6월 17일(화) 오후 2시 ~ 3시 50분<br/>
                                                                     - 장소: 미정<br/>
                                                                 </strong>
                                                                 </td>
