@@ -54,11 +54,17 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - 개발 환경 구축
+                                                                <a href="https://www.dropbox.com/scl/fi/z40k3n8uxjwncmctqizsp/00.development_environment.pdf?rlkey=t1k1kyz86iohzteff1kuzew1k&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
+                                                                </a>
+                                                                <br/>
                                                                 1.알고리즘의 정의와 필요성 (46:08)
                                                                 <br/> - 학습인정기한: 2025. 03. 14
                                                                 <br/> - 출석인정날짜: 2025. 03. 06
                                                             </td>
                                                             <td>
+                                                                [개발환경 구축 참고자료]<br/>
                                                                 <a href="https://yunwoong.tistory.com/2" target="_blank">
                                                                     파이썬 설치하기 (아나콘다 배포판 설치 권장)
                                                                 </a><br/>
@@ -66,6 +72,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/>
                                                                 <a href="https://dora-guide.com/pycharm-install/" target="_blank">Pycharm 설치 및 설정</a>
                                                                 <br/>
+                                                                [파이썬 언어 참고자료]<br/>
                                                                 <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/16.%20%EB%B6%80%EB%A1%9D%20A_B.ipynb" target="_blank">파이썬 내장 함수</a><br/>
                                                             </td>
                                                         </tr>
