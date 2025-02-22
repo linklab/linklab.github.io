@@ -120,11 +120,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 03. 18
                                                             </td>
                                                             <td>
-                                                                    [질의응답 주제] 점근적 복잡도 분석에 사용되는 집합 기호 각각의 실제적인 쓰임새는 어떻게 되나요?
-                                                                    <i class="fas fa-book-reader"></i>
-                                                                    <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-1.ipynb" target="_blank">Homework #1</a>
-                                                                    <br/>
-                                                                    Due Date: 2021년 09월 24일, 23시 59분
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -148,8 +143,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 <a href="/assets/materials/algorithms/merge.mov">병합 정렬 동영상</a><br/>
                                                                 <a href="/assets/materials/algorithms/quick.mov">퀵 정렬 동영상</a>
-                                                                <br/>
-<!--                                                                    [질의응답 주제] 병합 정렬의 점근적 복잡도를 마스터 정리를 사용하여 쉽게 산출할 수 있나요?-->
+
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -176,7 +170,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 Due Date: 04월 05일 (화요일), 23시 59분
 <!--                                                                    10. 리스트, 스택, 큐 (생략)-->
                                                                 <br/>
-<!--                                                                    [질의응답 주제] 입력 데이터의 형태가 어떠할 때 퀵 정렬의 효율이 좋지 않은 가요?-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -198,9 +191,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 04. 08
                                                             </td>
                                                             <td>
-                                                                다차원검색트리 (생략)
-{#                                                                    <br/>#}
-{#                                                                    [질의응답 주제] 최악의 경우에도 선형시간을 보장하는 선택 알고리즘의 핵심 아이디어는 무엇인가요?#}
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -229,7 +219,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/s/rzml0icytd01hnc/homework_3.pdf?dl=0" target="_blank">[Practice & Homework #3]</a>
                                                                 <br/>
                                                                 Due Date: 04월 21일 (목요일), 23시 59분
-{#                                                                    [질의응답 주제] 레드블랙트리와 B-트리는 기존 이진검색트리의 어떠한 단점을 극복하려고 하였는가?#}
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -253,7 +242,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <i class="fas fa-bookmark"></i>[중간고사 공지]<br/>
                                                                 - 일시: 2022년 4월 22일(금) 오후 7시~9시<br/>
                                                                 - 장소: 1분반 - 408호, 2분반 - 409호
-<!--                                                                    [질의응답 주제] Java와 Python에서의 해시 테이블에서는 충돌 해결을 어떤 방식으로 할까요?-->
                                                                 </strong>
                                                             </td>
                                                         </tr>
@@ -274,16 +262,15 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 04. 29
                                                             </td>
                                                             <td>
-<!--                                                                    [질의응답 주제] 트리를 이용한 상호 배타적 집합 처리 알고리즘에서 랭크(Rank)를 이용할 때 Union 연산의 효율이 증가하는 이유는 무엇일까요?
-                                                                    <br/>-->
+                                                                <!--
                                                                 [참고자료] <a href="https://gazelle-and-cs.tistory.com/87" target="_blank">Amortized Analysis (상각분석 or 분할상환분석)</a>
-<!--                                                                    [Advanced] [정리 8-1], [정리 8-4], [정리 8-5] -->
+                                                                    [Advanced] [정리 8-1], [정리 8-4], [정리 8-5] -->
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">10</th>
                                                             <td>
-                                                                [1분반]<br/> In-class: 05월 06일(화)<br/>Online-class: 05월 08일(목)
+                                                                [1분반]<br/><strong>Online-class: 05월 06일(화)<br/>In-class: 05월 08일(목)</strong>
                                                             </td>
                                                             <td>
                                                                 [주제] 동적 프로그래밍 - I
@@ -297,7 +284,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 05. 06
                                                             </td>
                                                             <td>
-<!--                                                                    [질의응답 주제] 동적 프로그래밍의 중요한 특징을 설명할 수 있나요?-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -316,22 +302,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 05. 13
                                                             </td>
                                                             <td>
-<!--                                                                    [질의응답 주제] 행렬 곱셈 순서 문제에 대한 동적 프로그램 재귀적 관계식을 제시하고 설명할 수 있나요?
-                                                                    <i class="fas fa-book-reader"></i>
-                                                                    <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-4.ipynb" target="_blank">Homework #4</a>
-                                                                    <br/>
-                                                                    Due Date: 2021년 11월 27일(토), 23시 59분
-                                                                    <br/><br/>
-                                                                    <div class="text-center">
-                                                                        <strong>
-                                                                            11월 10일 (수), 오후 19시 ~ 21시 30분 - 오프라인 중간 고사 <br/>
-                                                                            [시험 범위]<br/>
-                                                                            <i class="fas fa-bookmark"></i> 온라인 강의: 01. 파이썬 시작하기 ~ 11. 파이썬 함수의 활용과 람다 함수<br/>
-                                                                            <i class="fas fa-bookmark"></i> 오프라인 강의: 수업 진도 까지<br/>
-                                                                            <i class="fas fa-bookmark"></i> 시험 장소: 2공학관 315호(1분반), 316호(1분반)
-                                                                        </strong>
-                                                                    </div>
--->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -359,7 +329,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/s/0fayu84hsnlji2i/homework_4.pdf?dl=0" target="_blank">[Practice & Homework #4]</a>
                                                                 <br/>
                                                                 Due Date: 06월 03일 (금요일), 23시 59분
-<!--                                                                    [질의응답 주제] 프림 알고리즘과 크루스컬 알고리즘의 점근적 복잡도를 비교 설명할 수 있나요?-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -384,7 +353,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 06. 10
                                                             </td>
                                                             <td>
-<!--                                                                    [질의응답 주제] 다익스트라 알고리즘과 벨만 포트 알고리즘의 의사 코드 상에서의 중요한 차이점은 무엇인가요?-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -413,7 +381,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="row">15</th>
                                                             <td>
-                                                                [1분반]<br/> <strong>In-class: 06월 10일(화)</strong><br/>Online-class: 06월 12일(목)
+                                                                [1분반]<br/>In-class: 06월 10일(화)<br/>Online-class: 06월 12일(목)
                                                             </td>
                                                             <td>
                                                                 [주제] P문제/NP문제/NP-완비 문제
@@ -429,42 +397,27 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2022. 06. 03
                                                             </td>
                                                             <td>
-                                                                <strong>
-                                                                <i class="fas fa-bookmark"></i>[기말고사 공지]<br/>
-                                                                - 일시: 2022년 6월 13일(화) 오후 7시 ~ 9시 30분<br/>
-                                                                - 장소: 1분반 - 408호, 2분반 - 409호
-<!--                                                                    [질의응답 주제] Java와 Python에서의 해시 테이블에서는 충돌 해결을 어떤 방식으로 할까요?-->
-                                                                </strong>
-                                                                &nbsp;
-<!--                                                                    [질의응답 주제] 본인이 해결해야 할 문제가 매우 어렵다는 것을 어떻게 설명할 수 있나요?-->
                                                             </td>
                                                         </tr>
-<!--                                                            <tr>
+                                                        <tr>
                                                                 <th scope="row">16</th>
                                                                 <td>
                                                                     [1분반]<br/> In-class: 06월 17일(화)
                                                                 </td>
                                                                 <td>
-                                                                    [주제] P문제/NP문제/NP-완비 문제
+                                                                <strong><i class="fas fa-bookmark"> 기말 고사</strong>
+<!--
+                                                                <i class="fas fa-bookmark"></i>[기말고사 공지]<br/>
+                                                                - 일시: 2025년 6월 17일(화) 오후 7시 ~ 9시 30분<br/>
+                                                                - 장소: 1분반 - 408호, 2분반 - 409호
+-->
                                                                 </td>
                                                                 <td>
                                                                     -
                                                                 </td>
                                                                 <td>
-                                                                    &nbsp;
-                                                                    [질의응답 주제] 간단한 TSP 문제 (전체 노드가 5개 이하)를 한정 분기 방법으로 해결하는 과정을 스스로 따라가며 설명할 수 있나요?
-<div class="text-center">
-                                                                        <strong>
-                                                                            12월 15일(수), 오후 19시 30분 ~ 21시 00분 - 온라인 기말 고사 <br/>
-                                                                            [시험 범위]<br/>
-                                                                            <i class="fas fa-bookmark"></i> 온라인 강의: 12. 파이썬의 모듈 ~ 16. 파이썬의 예외 처리<br/>
-                                                                            <i class="fas fa-bookmark"></i> 오프라인 강의: 08. 텍스트와 바이너리 파일 ~ 수업 진도 까지<br/>
-                                                                            <i class="fas fa-bookmark"></i> 시험 방법: EL 시스템 활용한 비대면 온라인 시험 (학교 제시 가이드 준수)
-                                                                        </strong>
-    &nbsp;
                                                                 </td>
                                                             </tr>
--->
                                                         </tbody>
                                                     </table>
                                                     <br/>
