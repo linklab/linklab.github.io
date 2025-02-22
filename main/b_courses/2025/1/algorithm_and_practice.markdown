@@ -55,14 +55,14 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 1.알고리즘의 정의와 필요성 (46:08)
-                                                                <br/> - 학습인정기한: 2022. 03. 11
-                                                                <br/> - 출석인정날짜: 2022. 03. 04
+                                                                <br/> - 학습인정기한: 2025. 03. 14
+                                                                <br/> - 출석인정날짜: 2025. 03. 06
                                                             </td>
                                                             <td>
                                                                 <a href="https://yunwoong.tistory.com/2" target="_blank">
                                                                     파이썬 설치하기 (아나콘다 배포판 설치 권장)
                                                                 </a><br/>
-                                                                <a href="https://yganalyst.github.io/pythonic/anaconda_env_1/" target="_blank">콘다 가상환경 다루기</a>
+                                                                <a href="https://sdc-james.gitbook.io/onebook/2./2.1./2.1.1./2-conda-virtual-environments" target="_blank">콘다 가상환경 다루기</a>
                                                                 <br/>
                                                                 <a href="https://dora-guide.com/pycharm-install/" target="_blank">Pycharm 설치 및 설정</a>
                                                                 <br/>
@@ -90,8 +90,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 2.알고리즘의 설계와 분석의 기초 (59:19)
                                                                 <br/>
                                                                 3.점화식과 점근적 복잡도 분석 (55:43)
-                                                                <br/> - 학습인정기한: 2022. 03. 18
-                                                                <br/> - 출석인정날짜: 2022. 03. 11
+                                                                <br/> - 학습인정기한: 2025. 03. 21
+                                                                <br/> - 출석인정날짜: 2025. 03. 13
                                                             </td>
                                                             <td>
 <!--
@@ -115,8 +115,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 5.정렬 알고리즘의 개요 및 선택 정렬과 버블 정렬 (28:11)
                                                                 <br/>
                                                                 6.삽입 정렬, 병합 정렬, 셸 정렬 (41:19)
-                                                                <br/> - 학습인정기한: 2022. 03. 25
-                                                                <br/> - 출석인정날짜: 2022. 03. 18
+                                                                <br/> - 학습인정기한: 2025. 03. 28
+                                                                <br/> - 출석인정날짜: 2025. 03. 20
                                                             </td>
                                                             <td>
                                                             </td>
@@ -134,10 +134,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 7.퀵 정렬, 힙 정렬, 트리 정렬 (51:33)
-                                                                    <!--<br/>
-                                                                    8.계수 정렬과 기수 정렬, 정렬 간 효율성 비교 (29:34)-->
-                                                                <br/> - 학습인정기한: 2022. 04. 01
-                                                                <br/> - 출석인정날짜: 2022. 03. 25
+                                                                <br/> - 학습인정기한: 2025. 04. 04
+                                                                <br/> - 출석인정날짜: 2025. 03. 27
                                                             </td>
                                                             <td>
                                                                 <a href="/assets/materials/algorithms/merge.mov">병합 정렬 동영상</a><br/>
@@ -158,8 +156,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 9.선택 알고리즘 (47:17)
-                                                                <br/> - 학습인정기한: 2022. 04. 08
-                                                                <br/> - 출석인정날짜: 2022. 04. 01
+                                                                <br/> - 학습인정기한: 2025. 04. 11
+                                                                <br/> - 출석인정날짜: 2025. 04. 03
                                                             </td>
                                                             <td>
 <!--
@@ -185,9 +183,9 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 11.검색트리(이진검색트리, 레드블랙트리) (44:54)
                                                                 <br/>
-                                                                12.검색트리(외부검색트리) (18:20)
-                                                                <br/> - 학습인정기한: 2022. 04. 15
-                                                                <br/> - 출석인정날짜: 2022. 04. 08
+                                                                12.검색트리(외부검색트리, 다차원검색트리) (45:25)
+                                                                <br/> - 학습인정기한: 2025. 04. 18
+                                                                <br/> - 출석인정날짜: 2025. 04. 00
                                                             </td>
                                                             <td>
                                                             </td>
@@ -210,8 +208,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 13.해시 테이블 (35:01)
                                                                 14.해시 테이블의 충돌 해결 방법 (46:57)
-                                                                <br/> - 학습인정기한: 2022. 04. 22
-                                                                <br/> - 출석인정날짜: 2022. 04. 15
+                                                                <br/> - 학습인정기한: 2025. 04. 25
+                                                                <br/> - 출석인정날짜: 2025. 04. 17
                                                             </td>
                                                             <td>
 <!--
@@ -235,17 +233,15 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 15.상호 배타적 집합의 처리 (39:51)
-                                                                <br/> - 학습인정기한: 2022. 04. 29
-                                                                <br/> - 출석인정날짜: 2022. 04. 22
+                                                                <br/> - 학습인정기한: 2025. 05. 02
+                                                                <br/> - 출석인정날짜: 2025. 04. 24
                                                             </td>
                                                             <td>
-<!--
                                                                 <strong>
-                                                                <i class="fas fa-bookmark"></i>[중간고사 공지]<br/>
-                                                                - 일시: 2025년 4월 22일(금) 오후 7시~9시<br/>
-                                                                - 장소: 408호
+                                                                <i class="fas fa-bookmark"></i> 중간 고사<br/>
+                                                                - 일시: 2025년 4월 24일(금) 오전 9시 ~ 9시 50분<br/>
+                                                                - 장소: 미정
                                                                 </strong>
--->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -261,8 +257,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 16.동적 프로그래밍의 원리 (37:13)
-                                                                <br/> - 학습인정기한: 2022. 05. 06
-                                                                <br/> - 출석인정날짜: 2022. 04. 29
+                                                                <br/> - 학습인정기한: 2025. 05. 09
+                                                                <br/> - 출석인정날짜: 2025. 05. 01
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -283,8 +279,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 17.동적 프로그래밍의 활용 (43:45)
-                                                                <br/> - 학습인정기한: 2022. 05. 13
-                                                                <br/> - 출석인정날짜: 2022. 05. 06
+                                                                <br/> - 학습인정기한: 2025. 05. 16
+                                                                <br/> - 출석인정날짜: 2025. 05. 08
                                                             </td>
                                                             <td>
                                                             </td>
@@ -301,8 +297,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 18.그래프 알고리즘의 원리 (47:41)
                                                                 <br/>
                                                                 19.그래프 알고리즘(신장트리, 위상 정렬) (37:37)
-                                                                <br/> - 학습인정기한: 2022. 05. 20
-                                                                <br/> - 출석인정날짜: 2022. 05. 13
+                                                                <br/> - 학습인정기한: 2025. 05. 23
+                                                                <br/> - 출석인정날짜: 2025. 05. 15
                                                             </td>
                                                             <td>
                                                             </td>
@@ -324,8 +320,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 20.그래프 알고리즘(최단경로, 강연결요소) (56:03)
-                                                                <br/> - 학습인정기한: 2022. 05. 27
-                                                                <br/> - 출석인정날짜: 2022. 05. 20
+                                                                <br/> - 학습인정기한: 2025. 05. 29
+                                                                <br/> - 출석인정날짜: 2025. 05. 22
                                                             </td>
                                                             <td>
 <!--
@@ -353,9 +349,11 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                26.상태 공간 트리의 탐색 (62:29)
-                                                                <br/> - 학습인정기한: 2022. 06. 17
-                                                                <br/> - 출석인정날짜: 2022. 06. 10
+              23.P와 NP문제 (44:36)
+                                                                <br/>
+                                                                24.NP-완비 문제 (44:22)
+                                                                <br/> - 학습인정기한: 2025. 06. 06
+                                                                <br/> - 출석인정날짜: 2025. 05. 29
                                                             </td>
                                                             <td>
                                                             </td>
@@ -373,8 +371,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 26.상태 공간 트리의 탐색 (62:29)
-                                                                <br/> - 학습인정기한: 2022. 06. 17
-                                                                <br/> - 출석인정날짜: 2022. 06. 10
+                                                                <br/> - 학습인정기한: 2025. 06. 13
+                                                                <br/> - 출석인정날짜: 2025. 06. 05
                                                             </td>
                                                             <td>
 <!--
@@ -397,12 +395,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                23.P와 NP문제 (44:36)
-                                                                <br/>
-                                                                24.NP-완비 문제 (44:22)
-                                                                <br/> - 학습인정기한: 2022. 06. 10
-                                                                <br/> - 출석인정날짜: 2022. 06. 03
-                                                            </td>
+                                                                                                               </td>
                                                             <td>
                                                             </td>
                                                         </tr>
@@ -412,7 +405,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                     [1분반]<br/> In-class: 06월 17일(화)
                                                                 </td>
                                                                 <td>
-                                                                <strong><i class="fas fa-bookmark"></i>기말 고사</strong>
+                                                                <strong><i class="fas fa-bookmark"></i> 기말 고사</strong>
                                                                 </td>
                                                                 <td>
                                                                     -
