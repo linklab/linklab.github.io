@@ -97,8 +97,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a href="https://www.dropbox.com/s/z052nb5fwnfcl91/homework_1.pdf?dl=0" target="_blank" class="font-weight-bold">[Practice & Homework #1]</a><br/>Due Date: 03월 21일 (월요일), 23시 59분
                                                                 <br/>
-                                                                    <!-- 4. 수열 알고리즘 (생략) -->
-                                                                <br/>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -143,7 +141,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 <a href="/assets/materials/algorithms/merge.mov">병합 정렬 동영상</a><br/>
                                                                 <a href="/assets/materials/algorithms/quick.mov">퀵 정렬 동영상</a>
-
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -405,12 +402,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                     [1분반]<br/> In-class: 06월 17일(화)
                                                                 </td>
                                                                 <td>
-                                                                <strong><i class="fas fa-bookmark"> 기말 고사</strong>
-<!--
-                                                                <i class="fas fa-bookmark"></i>[기말고사 공지]<br/>
-                                                                - 일시: 2025년 6월 17일(화) 오후 7시 ~ 9시 30분<br/>
-                                                                - 장소: 1분반 - 408호, 2분반 - 409호
--->
+                                                                <strong><i class="fas fa-bookmark"></i>기말 고사</strong>
                                                                 </td>
                                                                 <td>
                                                                     -
