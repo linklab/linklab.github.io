@@ -102,7 +102,6 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - Information & Entropy
                                                             </td>
                                                             <td>
-                                                                - 
                                                             </td>
                                                             <td>
                                                                 <!-- <span class="font-weight-bold">
@@ -122,7 +121,6 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - Information & Entropy
                                                             </td>
                                                             <td>
-                                                                -
                                                             </td>
                                                             <td>
                                                             </td>
@@ -134,7 +132,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - Autoencoder & VAE
                                                             </td>
                                                             <td>
-                                                                - 
+                                                                - 논문 발표:
                                                             </td>
                                                             <td>
                                                             </td>
@@ -168,9 +166,17 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>04월 21일(월)</td>
                                                             <td>
                                                                 - Deep Q Network (DQN) <br/>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+                                                                    </li>
+                                                                </ul>
                                                                 - Double DQN (DDQN) <br/>
-                                                                - <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a><br/>
-                                                                - <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a><br/>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+                                                                    </li>
+                                                                </ul>                    
                                                                 <!-- - <a href="https://arxiv.org/abs/1806.06923" target="_blank">Implicit Quantile Networks for Distributional Reinforcement Learning</a> -->
                                                                 <!-- - Implicit Quantile Networks (QR-DQN)
                                                                  <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
@@ -187,12 +193,20 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>04월 28일(월)</td>
                                                             <td>
                                                                 - Deep Deterministic Policy Gradient (DDPG)<br/>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
+                                                                    </li>
+                                                                </ul>
                                                                 - Twin Delayed Deep Deterministic Policy Gradient (TD3)
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/2nm6gt3fbzphxpjn567as/03.DQN.pdf?rlkey=mwwfnqnqzxbi6sn00x32c89jc&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a> --><br/>
-                                                                - <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a><br/>
-                                                                - <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                    </li>
+                                                                </ul>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -213,7 +227,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a> -->
-                                                                - <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+                                                                    </li>
+                                                                </ul>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -225,7 +243,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>05월 19일(월)</td>
                                                             <td>
                                                                 - Imitation Learning<br/>
-                                                                - <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a><br/>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a>
+                                                                    </li>
+                                                                </ul>
 <!--
                                                                 - 논문 발표 01: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
                                                                 - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
