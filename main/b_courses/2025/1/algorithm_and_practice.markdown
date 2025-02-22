@@ -84,7 +84,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 [02] 알고리즘 효율 분석 방법 기초
                                                                 <a href="https://www.dropbox.com/s/gy8i99969fntop2/02_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%84%A4%EA%B3%84%EC%99%80%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EA%B8%B0%EC%B4%88.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <br/>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
