@@ -84,22 +84,13 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">02</th>
                                                             <td>03월 10일(월)</td>
                                                             <td>
-                                                                - Neural Networks, Loss Functions, and Optimization
+                                                                - Neural Networks, Loss Functions, and Optimization<br/>
                                                                 - Information & Entropy
                                                                     <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
                                                                         <span class="badge badge-warning">강의 노트</span>
                                                                     </a>
-                                                                - Deep Q Network (DQN) <br/>
-                                                                - Double DQN (DDQN) <br/>
-                                                                <!-- - Implicit Quantile Networks (QR-DQN)
-                                                                 <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> -->
                                                             </td>
                                                             <td>
-                                                                - <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a><br/>
-                                                                - <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a><br/>
-                                                                <!-- - <a href="https://arxiv.org/abs/1806.06923" target="_blank">Implicit Quantile Networks for Distributional Reinforcement Learning</a> -->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -108,7 +99,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">03</th>
                                                             <td>03월 17일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Information & Entropy
                                                             </td>
                                                             <td>
                                                                 - 
@@ -128,7 +119,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">04</th>
                                                             <td>03월 24일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Information & Entropy
                                                             </td>
                                                             <td>
                                                                 -
@@ -140,7 +131,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">05</th>
                                                             <td>03월 31일(월)</td>
                                                             <td>
-                                                                - Imitation Learning (IL)
+                                                                - Autoencoder
                                                             </td>
                                                             <td>
                                                                 - 
@@ -152,7 +143,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">06</th>
                                                             <td>04월 07일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Variational Autoencoder
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -164,7 +155,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">07</th>
                                                             <td>04월 14일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Variational Autoencoder
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -176,7 +167,15 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">08</th>
                                                             <td>04월 21일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Deep Q Network (DQN) <br/>
+                                                                - Double DQN (DDQN) <br/>
+                                                                - <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a><br/>
+                                                                - <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a><br/>
+                                                                <!-- - <a href="https://arxiv.org/abs/1806.06923" target="_blank">Implicit Quantile Networks for Distributional Reinforcement Learning</a> -->
+                                                                <!-- - Implicit Quantile Networks (QR-DQN)
+                                                                 <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a> -->
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
