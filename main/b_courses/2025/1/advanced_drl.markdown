@@ -517,7 +517,7 @@ permalink: /courses/2025/1/advanced_drl
                                                     <h3 class="title-level-3">7. Lecture Evaluation</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>Attendance (10%), Book Presentation (20%), Paper Presentation (20%), Homework Reports (20%), Final Exam. (30%)</li>
+                                                        <li>Attendance (10%), Paper Presentation (30%), Homework Reports (20%), Final Exam. (40%)</li>
                                                     </ul>
                                                 </div>
                                             </div>
