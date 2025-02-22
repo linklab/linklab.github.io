@@ -36,7 +36,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                         <tr>
                                                             <th scope="col" style="width:4%">#</th>
                                                             <th scope="col" style="width:19%">Date</th>
-                                                            <th scope="col" style="width:26%">In-class (오프라인/Zoom 실시간 강의)</th>
+                                                            <th scope="col" style="width:26%">In-class (오프라인 강의)</th>
                                                             <th scope="col" style="width:25%">Online-class (E-Learning 학습)</th>
                                                             <th scope="col" style="width:26%">Notice</th>
                                                         </tr>
@@ -48,7 +48,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 03월 04일(화)<br/>In-class: 03월 06일(목)
                                                             </td>
                                                             <td>
-                                                                00. 수업 소개 & 알고리즘이란?
+                                                                [01] 수업 소개 & 알고리즘이란?
                                                                 <a href="https://www.dropbox.com/s/oji4vwyizmwrksc/01_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B4%EB%9E%80.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -75,7 +75,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 03월 11일(화)<br/>Online-class: 03월 13일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 알고리즘 효율 분석 방법 기초
+                                                                [02] 알고리즘 효율 분석 방법 기초
                                                                 <a href="https://www.dropbox.com/s/gy8i99969fntop2/02_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%84%A4%EA%B3%84%EC%99%80%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EA%B8%B0%EC%B4%88.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -106,7 +106,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 03월 18일(화)<br/>Online-class: 03월 20일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 알고리즘의 점근적 효율 분석
+                                                                [03] 알고리즘의 점근적 효율 분석
                                                                 <a href="https://www.dropbox.com/s/vej4rhelm07flvl/03_%EC%A0%90%ED%99%94%EC%8B%9D%EA%B3%BC%20%EC%A0%90%EA%B7%BC%EC%A0%81%20%EB%B3%B5%EC%9E%A1%EB%8F%84%20%EB%B6%84%EC%84%9D.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -127,7 +127,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 03월 25일(화)<br/>Online-class: 03월 27일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 다양한 기본 정렬 알고리즘
+                                                                [04] 다양한 기본 정렬 알고리즘
                                                                 <a href="https://www.dropbox.com/s/88wz8pea88vifff/04_%EC%A0%95%EB%A0%AC.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -150,7 +150,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 04월 01일(화)<br/>Online-class: 04월 03일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 합병 정렬/퀵 정렬 알고리즘
+                                                                [05] 합병 정렬/퀵 정렬 알고리즘
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/q0uixs4t5zqeiuc/merge_and_quick_sort.py?dl=0" target="_blank">merge_and_quick_sort.py</a>
@@ -177,7 +177,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 04월 08일(화)<br/>Online-class: 04월 10일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 선형 시간 선택 알고리즘
+                                                                [06] 선형 시간 선택 알고리즘
                                                                 <a href="https://www.dropbox.com/s/h4snbq9zx9et3fq/05_%EC%84%A0%ED%83%9D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -198,7 +198,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 04월 15일(화)<br/>Online-class: 04월 17일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 이진검색트리 & B-트리
+                                                                [07] 이진검색트리 & B-트리
                                                                 <a href="https://www.dropbox.com/s/yrbpvt7qke6s2xf/06_%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -228,7 +228,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 04월 22일(화)<br/>Online-class: 04월 24일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 해시 테이블
+                                                                [08] 해시 테이블
                                                                 <a href="https://www.dropbox.com/s/d8x92j4hvjq5s8n/07_%ED%95%B4%EC%8B%9C%20%ED%85%8C%EC%9D%B4%EB%B8%94.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -242,8 +242,8 @@ permalink: /courses/2025/1/algorithm_and_practice
 <!--
                                                                 <strong>
                                                                 <i class="fas fa-bookmark"></i>[중간고사 공지]<br/>
-                                                                - 일시: 2022년 4월 22일(금) 오후 7시~9시<br/>
-                                                                - 장소: 1분반 - 408호, 2분반 - 409호
+                                                                - 일시: 2025년 4월 22일(금) 오후 7시~9시<br/>
+                                                                - 장소: 408호
                                                                 </strong>
 -->
                                                             </td>
@@ -254,7 +254,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 04월 29일(화)<br/>Online-class: 05월 01일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 상호 배타적 집합 구현
+                                                                [09] 상호 배타적 집합 구현
                                                                 <a href="https://www.dropbox.com/s/5vmcduy1zxwardw/08_%EC%A7%91%ED%95%A9%EC%9D%98%20%EC%B2%98%EB%A6%AC.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -276,7 +276,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/><strong>Online-class: 05월 06일(화)<br/>In-class: 05월 08일(목)</strong>
                                                             </td>
                                                             <td>
-                                                                [주제] 동적 프로그래밍 - I
+                                                                [10] 동적 프로그래밍 - I
                                                                 <a href="https://www.dropbox.com/s/tn82qtb1zf5mw1w/09_%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -295,7 +295,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 05월 13일(화)<br/>Online-class: 05월 15일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 동적 프로그래밍 - II
+                                                                [11] 동적 프로그래밍 - II
                                                             </td>
                                                             <td>
                                                                 18.그래프 알고리즘의 원리 (47:41)
@@ -313,7 +313,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 05월 20일(화)<br/>Online-class: 05월 22일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 그래프 알고리즘 - I
+                                                                [12] 그래프 알고리즘 - I
                                                                 <a href="https://www.dropbox.com/s/u9yucsz4ynrpxtv/10_%EA%B7%B8%EB%9E%98%ED%94%84.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -342,7 +342,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 05월 27일(화)<br/>Online-class: 05월 29일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 그래프 알고리즘 - II
+                                                                [13] 그래프 알고리즘 - II
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/mysij8yoj2y73cj/shortest_path.py?dl=0" target="_blank">shortest_path.py</a>
@@ -366,7 +366,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 06월 03일(화)<br/>Online-class: 06월 05일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] 상태 공간 트리의 탐색
+                                                                [14] 상태 공간 트리의 탐색
                                                                 <a href="https://www.dropbox.com/s/yv78quoim5tw7z0/14_%EC%83%81%ED%83%9C%20%EA%B3%B5%EA%B0%84%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%ED%83%90%EC%83%89.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -391,7 +391,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/>In-class: 06월 10일(화)<br/>Online-class: 06월 12일(목)
                                                             </td>
                                                             <td>
-                                                                [주제] P문제/NP문제/NP-완비 문제
+                                                                [15] P문제/NP문제/NP-완비 문제
                                                                 <a href="https://www.dropbox.com/s/e7g5l893htzf7z2/13_NP-%EC%99%84%EB%B9%84.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -468,7 +468,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <li>알고리즘, 한국기술교육대학교 온라인 평생교육원 e-KoreaTech
                                                                     <a href="https://e-koreatech.step.or.kr/page/lms?m1=course%25&m2=course_detail%25&course_id=66740%25&filter_list=query%3D%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%26sort%3Dcreation_day%2FDESC%25&btn_mode=AlbumList%25" target="_blank"><img src="/assets/images/external_link.png" width="3%"/></a> </li>
                                                             </ul>
-                                                            <h4># 오프라인/Zoom 실시간 강의 교재 (구매 필수)</h4>
+                                                            <h4># 오프라인 강의 교재 (구매 필수)</h4>
                                                             <ul>
                                                                 <li>주교재: 쉽게 배우는 알고리즘 (개정판), 문병로 지음, 한빛아카데미
                                                                     <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753">
