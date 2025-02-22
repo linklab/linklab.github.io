@@ -131,7 +131,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">05</th>
                                                             <td>03월 31일(월)</td>
                                                             <td>
-                                                                - Autoencoder
+                                                                - Autoencoder & VAE
                                                             </td>
                                                             <td>
                                                                 - 
@@ -143,7 +143,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">06</th>
                                                             <td>04월 07일(월)</td>
                                                             <td>
-                                                                - Variational Autoencoder
+                                                                - Autoencoder & VAE
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -155,7 +155,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">07</th>
                                                             <td>04월 14일(월)</td>
                                                             <td>
-                                                                - Variational Autoencoder
+                                                                - Autoencoder & VAE
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -209,7 +209,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">11</th>
                                                             <td>05월 12일(월)</td>
                                                             <td>
-                                                                - Soft Actor-Critic (SAC)
+                                                                - Soft Actor-Critic (SAC)<br/>
                                                                 <!-- <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a> -->
@@ -224,7 +224,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">12</th>
                                                             <td>05월 19일(월)</td>
                                                             <td>
-                                                                - Imitation Learning
+                                                                - Imitation Learning<br/>
                                                                 - <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a><br/>
 <!--
                                                                 - 논문 발표 01: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
@@ -355,6 +355,10 @@ permalink: /courses/2025/1/advanced_drl
         Brohan, Anthony, et al. - CoRL, 2022<br>
         <a href="https://arxiv.org/abs/2212.06817">논문 링크</a>
     </li>
+    <li><strong>COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</strong><br>
+        Ma, Shuang, et al. - IROS, 2022<br>
+        <a href="https://arxiv.org/abs/2203.15788">논문 링크</a>
+    </li>
     <li><strong>GATO: A Generalist Agent</strong><br>
         Reed, Scott, et al. - DeepMind, 2022<br>
         <a href="https://arxiv.org/abs/2205.06175">논문 링크</a>
@@ -383,17 +387,13 @@ permalink: /courses/2025/1/advanced_drl
         Yecheng Jason Ma, et al. - ICML, 2023<br>
         <a href="https://arxiv.org/abs/2306.00958">논문 링크</a>
     </li>
-    <li><strong>RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</strong><br>
-        Brohan, Anthony, et al.<br>
-        <a href="https://arxiv.org/abs/2310.08864">논문 링크</a>
-    </li>
-    <li><strong>COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</strong><br>
-        Ma, Shuang, et al. - IROS, 2022<br>
-        <a href="https://arxiv.org/abs/2203.15788">논문 링크</a>
-    </li>
     <li><strong>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</strong><br>
         Bonatti, Rogerio, et al. - IROS, 2023<br>
         <a href="https://arxiv.org/abs/2209.11133">논문 링크</a>
+    </li>
+    <li><strong>RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models: Open X-Embodiment Collaboration</strong><br>
+        Brohan, Anthony, et al. - ICRA, 2024<br>
+        <a href="https://arxiv.org/abs/2310.08864">논문 링크</a>
     </li>
 </ol>
 </div>
