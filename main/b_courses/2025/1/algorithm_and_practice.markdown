@@ -405,7 +405,11 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                     [1분반]<br/> In-class: 06월 17일(화)
                                                                 </td>
                                                                 <td>
-                                                                <strong><i class="fas fa-bookmark"></i> 기말 고사</strong>
+                                                                <strong>
+                                                                    <i class="fas fa-bookmark"></i> 기말 고사<br/>
+                                                                    - 일시: 2025년 4월 24일(금) 오전 9시 ~ 9시 50분<br/>
+                                                                    - 장소: 미정<br/>
+                                                                </strong>
                                                                 </td>
                                                                 <td>
                                                                     -
