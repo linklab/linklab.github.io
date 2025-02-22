@@ -71,6 +71,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>03월 03일(월)</td>
                                                             <td>
                                                                 - 강의 소개<br/>
+                                                                - Neural Networks, Loss Functions, and Optimization
+                                                                    <a href="https://www.dropbox.com/scl/fi/yfwwspbmzmkejdz7npq6b/RL_0_nn_loss_functions_and_optimization.pdf?rlkey=81gxoln71dq16wo4kenjbwl9l&dl=0" target="_blank">
+                                                                        <span class="badge badge-warning">강의 노트</span>
+                                                                    </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -80,6 +84,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">02</th>
                                                             <td>03월 10일(월)</td>
                                                             <td>
+                                                                - Neural Networks, Loss Functions, and Optimization
+                                                                - Information & Entropy
+                                                                    <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
+                                                                        <span class="badge badge-warning">강의 노트</span>
+                                                                    </a>
                                                                 - Deep Q Network (DQN) <br/>
                                                                 - Double DQN (DDQN) <br/>
                                                                 <!-- - Implicit Quantile Networks (QR-DQN)
@@ -99,15 +108,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">03</th>
                                                             <td>03월 17일(월)</td>
                                                             <td>
-                                                                - Deep Deterministic Policy Gradient (DDPG)<br/>
-                                                                - Twin Delayed Deep Deterministic Policy Gradient (TD3)
-                                                                <!-- <a href="https://www.dropbox.com/scl/fi/2nm6gt3fbzphxpjn567as/03.DQN.pdf?rlkey=mwwfnqnqzxbi6sn00x32c89jc&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> -->
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
-                                                                - <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                - 
                                                             </td>
                                                             <td>
                                                                 <!-- <span class="font-weight-bold">
@@ -124,13 +128,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">04</th>
                                                             <td>03월 24일(월)</td>
                                                             <td>
-                                                                - Soft Actor-Critic (SAC)
-                                                                <!-- <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> -->
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                - <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+                                                                -
                                                             </td>
                                                             <td>
                                                             </td>
@@ -142,21 +143,9 @@ permalink: /courses/2025/1/advanced_drl
                                                                 - Imitation Learning (IL)
                                                             </td>
                                                             <td>
-                                                                - <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a><br/>
-<!--
-                                                                - 논문 발표 01: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
-                                                                - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
--->
+                                                                - 
                                                             </td>
                                                             <td>
-                                                                <div style="margin-left: 1.0em">
-                                                                    <strong>Imitation Learning의 목표</strong>
-                                                                    <ol>
-                                                                        <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
-                                                                        <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
-                                                                    </ol>
-                                                                </div>
-                                                                - <a href="https://optreal.github.io/blog/2025/imitation_learning/" target="_blank">참고 자료</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -198,7 +187,13 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">09</th>
                                                             <td>04월 28일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Deep Deterministic Policy Gradient (DDPG)<br/>
+                                                                - Twin Delayed Deep Deterministic Policy Gradient (TD3)
+                                                                <!-- <a href="https://www.dropbox.com/scl/fi/2nm6gt3fbzphxpjn567as/03.DQN.pdf?rlkey=mwwfnqnqzxbi6sn00x32c89jc&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a> --><br/>
+                                                                - <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a><br/>
+                                                                - <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -215,7 +210,11 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">11</th>
                                                             <td>05월 12일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Soft Actor-Critic (SAC)
+                                                                <!-- <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a> -->
+                                                                - <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -226,12 +225,25 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">12</th>
                                                             <td>05월 19일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Imitation Learning
+                                                                - <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a><br/>
+<!--
+                                                                - 논문 발표 01: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
+                                                                - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
+-->
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
                                                             </td>
                                                             <td>
+                                                                <div style="margin-left: 1.0em">
+                                                                    <strong>Imitation Learning의 목표</strong>
+                                                                    <ol>
+                                                                        <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
+                                                                        <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
+                                                                    </ol>
+                                                                </div>
+                                                                - <a href="https://optreal.github.io/blog/2025/imitation_learning/" target="_blank">참고 자료</a>
                                                                 <!--Homework #2.
                                                                     <a href="https://www.dropbox.com/scl/fi/wdas1lo3l3bsx1hhp2x6z/HW_2.pdf?rlkey=8atvaerw5mydoitb4a34x5mne&dl=0" target="_blank">
                                                                         <span class="badge badge-primary">숙제 설명</span>
@@ -245,7 +257,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">13</th>
                                                             <td>05월 26일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Offline RL 
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -256,7 +268,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">14</th>
                                                             <td>06월 02일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Offline RL 
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -267,7 +279,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">15</th>
                                                             <td>06월 09일(월)</td>
                                                             <td>
-                                                                - 
+                                                                - Offline RL 
                                                             </td>
                                                             <td>
                                                                 - 논문 발표: 
