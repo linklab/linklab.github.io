@@ -77,7 +77,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 [02] 알고리즘 효율 분석 방법 기초
                                                                 <a href="https://www.dropbox.com/s/gy8i99969fntop2/02_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%84%A4%EA%B3%84%EC%99%80%20%EB%B6%84%EC%84%9D%EC%9D%98%20%EA%B8%B0%EC%B4%88.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <br/>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
@@ -343,7 +343,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/mysij8yoj2y73cj/shortest_path.py?dl=0" target="_blank">shortest_path.py</a>
                                                                 </div>
-                                                                [주제] 그리디 알고리즘
+                                                                [14] 그리디 알고리즘
                                                                 <a href="https://www.dropbox.com/s/i7xtowa59if7rdd/11_%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -364,7 +364,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 06월 03일(화)<br/>Online-class: 06월 05일(목)
                                                             </td>
                                                             <td>
-                                                                [14] 상태 공간 트리의 탐색
+                                                                [15] 상태 공간 트리의 탐색
                                                                 <a href="https://www.dropbox.com/s/yv78quoim5tw7z0/14_%EC%83%81%ED%83%9C%20%EA%B3%B5%EA%B0%84%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%ED%83%90%EC%83%89.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -389,7 +389,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/>In-class: 06월 10일(화)<br/>Online-class: 06월 12일(목)
                                                             </td>
                                                             <td>
-                                                                [15] P문제/NP문제/NP-완비 문제
+                                                                [16] P문제/NP문제/NP-완비 문제
                                                                 <a href="https://www.dropbox.com/s/e7g5l893htzf7z2/13_NP-%EC%99%84%EB%B9%84.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
