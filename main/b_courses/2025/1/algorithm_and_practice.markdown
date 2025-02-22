@@ -29,7 +29,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                     <h3 class="title-level-3">1. Course Schedule &amp; Lecture Notes</h3>
                                                     <br/>
                                                     <div>
-                                                        <!-- <i class="fas fa-bullhorn"></i> Zoom 실시간/오프라인 강의 Jupyter Notebook 자료: <a href="https://github.com/linklab/supercharged_python/" target="_blank">Click</a>-->
+                                                        <i class="fas fa-bullhorn"></i> 과제 관련 파일 Repository: <a href="https://github.com/linklab/link_al.git" target="_blank">Click</a>
                                                     </div>
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
