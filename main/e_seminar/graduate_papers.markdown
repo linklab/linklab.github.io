@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>2월 25일 (화) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Tabish Rashid, Mikayel Samvelyan, et al. "QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning." Journal of Machine Learning Research, 2020.
+                    </strong>
+                    <a href="https://www.jmlr.org/papers/v21/20-081.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>2월 12일 (수) 논문 세미나 – 최요한
                     <br/>
                     <strong>
