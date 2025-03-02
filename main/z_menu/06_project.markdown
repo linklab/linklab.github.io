@@ -31,6 +31,61 @@ permalink: /projects/
                     <section class="row content" style="padding-bottom:100px">
                         <section style="padding: 0px 0px; width:100%" class="content-wrapper">
                             <article>
+                                <button class="accordion">2025</button>
+                                <div class="panel article-content-1">
+                                    <p>
+                                        <strong>Advanced Network Resource Optimization and Learning Model Generalization Using Combinatorial Optimization Techniques Based on Meta Reinforcement Learning  [3차년도/총4년]</strong><br/>
+                                        <strong>(메타강화학습 기반 조합 최적화 기술을 활용한 고도화된 네트워크 자원 최적화 및 학습 모델 일반화)</strong><br/>
+                                        - Duration: March. 1, 2025 ~ Feb. 28, 2026<br/>
+                                        - Sponsor: National Research Foundation of Korea (NRF, 중견연구)<br/>
+                                        - Role: Project manager (연구책임)
+                                        <table class="acknowledgement">
+                                            <thead>
+                                            <tr>
+                                                <th>[Acknowledgement]</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td>국문 - 이 논문은 2023년도 정부(교육부)의 재원으로 한국연구재단의 지원을 받아 수행된 기초연구사업임 (No. NRF-2023R1A2C1003143).</td>
+                                            </tr>
+                                            <tr>
+                                                <td>영문 - This research was supported by Basic Science Research Program through the
+                                                    National Research Foundation of Korea (NRF) funded by the Ministry of Education (No.
+                                                    NRF-2023R1A2C1003143).
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </p>
+                                    <p>
+                                        <strong>Interaction Virtual Reality based Immersive Training Platform [7차년도/총9년]</strong><br/>
+                                        <strong>(상호작용 가상현실 기반 몰입형 교육 훈련 플랫폼)</strong><br/>
+                                        - Duration: March. 1, 2025 ~ Feb. 28, 2026<br/>
+                                        - Sponsor: National Research Foundation of Korea (NRF, 중점연구소지원사업)<br/>
+                                        - Role: Researcher (참여연구원)
+                                        <table class="acknowledgement">
+                                            <thead>
+                                            <tr>
+                                                <th>[Acknowledgement]</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td>국문 - 이 논문은 2018년도 정부(교육부)의 재원으로 한국연구재단의 지원을 받아 수행된 기초연구사업임 (No.
+                                                    2018R1A6A1A03025526).
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>영문 - This research was supported by Basic Science Research Program through the
+                                                    National Research Foundation of Korea (NRF) funded by the Ministry of Education
+                                                    (2018R1A6A1A03025526).
+                                                </td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </p>
+                                </div>
                                 <button class="accordion">2024</button>
                                 <div class="panel article-content-1">
                                     <p>
