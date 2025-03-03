@@ -473,11 +473,15 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <h4># 온라인 강의 교재</h4>
                                                             <ul>
                                                                 <li>알고리즘, 한국기술교육대학교 온라인 평생교육원 e-KoreaTech
-                                                                    <a href="https://www.step.or.kr/home/integrateMng/cmmSys?subRedirect_url=https%3A%2F%2Fekt23.step.or.kr%2FcrsDetailForm.do%3Fcrscd%3D902%26crsseqId%3D219867" target="_blank"><img src="/assets/images/external_link.png" width="3%"/></a> </li>
+                                                                    <a href="https://www.step.or.kr/home/integrateMng/cmmSys?subRedirect_url=https%3A%2F%2Fekt23.step.or.kr%2FcrsDetailForm.do%3Fcrscd%3D902%26crsseqId%3D219867" target="_blank">
+                                                                        <img src="/assets/images/external_link.png" width="3%"/>
+                                                                    </a> 
+                                                                </li>
                                                             </ul>
                                                             <h4># 오프라인 강의 교재 (구매 필수)</h4>
                                                             <ul>
-                                                                <li>주교재: 쉽게 배우는 알고리즘 (개정판), 문병로 지음, 한빛아카데미
+                                                                <li>
+                                                                    주교재: 쉽게 배우는 알고리즘 (개정판), 문병로 지음, 한빛아카데미
                                                                     <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753">
                                                                         <img src="/assets/images/external_link.png" width="3%"/>
                                                                     </a>
@@ -485,7 +489,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </ul>
                                                         </div>
                                                         <div class="col-4">
-                                                            <img src="http://image.kyobobook.co.kr/images/book/xlarge/753/x9791156643753.jpg" width="70%"/>
+                                                            <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791156643753.jpg" width="70%"/>
                                                         </div>
                                                     </div>
                                                     <br/>
