@@ -452,16 +452,16 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            Prerequisites: 자료 구조 (필수), 자바프로그래밍 or 스크립트프로그래밍
+                                                            Prerequisites: 자료 구조 (필수), 파이썬프로그래밍
                                                         </li>
                                                         <li>
-                                                            퀴즈: <a href="http://el.koreatech.ac.kr" target="_blank">http://el.koreatech.ac.kr</a> 시험 메뉴 (매주 필수 2 문제 이상)
+                                                            퀴즈: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 시험 메뉴 (매주 필수 2 문제 이상)
                                                         </li>
                                                         <li>
-                                                            질의 응답: <a href="http://el.koreatech.ac.kr" target="_blank">http://el.koreatech.ac.kr</a> 질의응답 메뉴 활용 (이메일 질문은 받지 않음)
+                                                            질의 응답: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 질의응답 메뉴 활용 (이메일 질문은 받지 않음)
                                                         </li>
                                                         <li>
-                                                            숙제 제출: <a href="http://el.koreatech.ac.kr" target="_blank">http://el.koreatech.ac.kr</a> 과제 메뉴 (5번 과제 출제 예정)
+                                                            숙제 제출: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 과제 메뉴 (5번 과제 출제 예정)
                                                         </li>
                                                         <br/>
                                                     </ul>
@@ -481,8 +481,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <h4># 오프라인 강의 교재 (구매 필수)</h4>
                                                             <ul>
                                                                 <li>
-                                                                    주교재: 쉽게 배우는 알고리즘 (개정판), 문병로 지음, 한빛아카데미
-                                                                    <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156643753">
+                                                                    주교재: 쉽게 배우는 알고리즘 (3판), 문병로 지음, 한빛아카데미 (출간일: 2024년 01월 03일)
+                                                                    <a href="https://product.kyobobook.co.kr/detail/S000211830160">
                                                                         <img src="/assets/images/external_link.png" width="3%"/>
                                                                     </a>
                                                                 </li>
