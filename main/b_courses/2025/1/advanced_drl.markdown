@@ -115,9 +115,9 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>03월 24일(월)</td>
                                                             <td>
                                                                 - Information & Entropy
-                                                                    <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
+                                                                    <!-- <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
                                                                         <span class="badge badge-warning">강의 노트</span>
-                                                                    </a>
+                                                                    </a> -->
                                                             </td>
                                                             <td>
                                                             </td>
