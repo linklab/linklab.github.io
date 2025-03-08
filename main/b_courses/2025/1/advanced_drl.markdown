@@ -140,7 +140,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">06</th>
                                                             <td>04월 07일(월)</td>
                                                             <td>
-                                                                - Autoencoder & VAE
+                                                                - Autoencoder, VAE, and ELBO
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
@@ -152,7 +152,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">07</th>
                                                             <td>04월 14일(월)</td>
                                                             <td>
-                                                                - Autoencoder & VAE
+                                                                - Autoencoder, VAE, and ELBO
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
