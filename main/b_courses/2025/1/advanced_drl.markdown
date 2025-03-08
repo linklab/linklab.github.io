@@ -95,7 +95,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">03</th>
                                                             <td>03월 17일(월)</td>
                                                             <td>
-                                                                - Information & Entropy
+                                                                - Neural Networks, Loss Functions, and Optimization
                                                             </td>
                                                             <td>
                                                             </td>
@@ -128,7 +128,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">05</th>
                                                             <td>03월 31일(월)</td>
                                                             <td>
-                                                                - Autoencoder & VAE
+                                                                - Information & Entropy
                                                             </td>
                                                             <td>
                                                                 - 논문 발표:
