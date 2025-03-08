@@ -70,11 +70,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">01</th>
                                                             <td>03월 03일(월)</td>
                                                             <td>
-                                                                - 강의 소개<br/>
-                                                                - Neural Networks, Loss Functions, and Optimization
-                                                                    <a href="https://www.dropbox.com/scl/fi/yfwwspbmzmkejdz7npq6b/RL_0_nn_loss_functions_and_optimization.pdf?rlkey=81gxoln71dq16wo4kenjbwl9l&dl=0" target="_blank">
-                                                                        <span class="badge badge-warning">강의 노트</span>
-                                                                    </a>
+                                                                대체 공휴일
                                                             </td>
                                                             <td>
                                                             </td>
@@ -84,9 +80,9 @@ permalink: /courses/2025/1/advanced_drl
                                                             <th scope="row">02</th>
                                                             <td>03월 10일(월)</td>
                                                             <td>
-                                                                - Neural Networks, Loss Functions, and Optimization<br/>
-                                                                - Information & Entropy
-                                                                    <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
+                                                                - 강의 소개<br/>
+                                                                - Neural Networks, Loss Functions, and Optimization
+                                                                    <a href="https://www.dropbox.com/scl/fi/yfwwspbmzmkejdz7npq6b/RL_0_nn_loss_functions_and_optimization.pdf?rlkey=81gxoln71dq16wo4kenjbwl9l&dl=0" target="_blank">
                                                                         <span class="badge badge-warning">강의 노트</span>
                                                                     </a>
                                                             </td>
@@ -119,6 +115,9 @@ permalink: /courses/2025/1/advanced_drl
                                                             <td>03월 24일(월)</td>
                                                             <td>
                                                                 - Information & Entropy
+                                                                    <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
+                                                                        <span class="badge badge-warning">강의 노트</span>
+                                                                    </a>
                                                             </td>
                                                             <td>
                                                             </td>
