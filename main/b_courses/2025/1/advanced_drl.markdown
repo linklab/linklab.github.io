@@ -107,7 +107,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [RSS 2020] <a href="https://roboticsconference.org/2020/program/papers/64.html" target="_blank">Learning Agile Robotic Locomotion Skills by Imitating Animals</a><br/>
-                                                                    [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a>
+                                                                    [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a> (권성민)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -130,8 +130,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Autoencoder, VAE, and ELBO
                                                                 </td>
                                                                 <td>
-                                                                    [CoRL 2022] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a><br/>
-                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Quadrupedal Locomotion on Deformable Terrain</a>
+                                                                    [CoRL 2022] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a> (최요한)<br/>
+                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Quadrupedal Locomotion on Deformable Terrain</a> (조근우)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -154,7 +154,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a><br/>
-                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a><br/>
+                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
                                                                     [ICLR 2022] <a href="https://rchalyang.github.io/LocoTransformer/" target="_blank">Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</a>
                                                                 </td>
                                                                 <td></td>
@@ -178,8 +178,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a><br/>
-                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a><br/>
-                                                                    [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a>
+                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)<br/>
+                                                                    [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a> (장연재)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -217,8 +217,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     </ul>
                                                                 </td>
                                                                 <td>
-                                                                    [NIPS 2022] <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a><br/>
-                                                                    [ICRA 2023] <a href="https://arxiv.org/abs/2304.01159" target="_blank">DribbleBot: Dynamic Quadrupedal Manipulation in the Wild</a>
+                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a><br/>
+                                                                    [ICRA 2023] <a href="https://gmargo11.github.io/dribblebot/" target="_blank">DribbleBot: Dynamic Legged Manipulation in the Wild</a>
                                                                 </td>
                                                                 <td>
                                                                     <div style="margin-left: 1.0em">
@@ -250,8 +250,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Offline RL
                                                                 </td>
                                                                 <td>
-                                                                    [CoRL 2023] <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a><br/>
-                                                                    [ICML 2023] <a href="https://penn-pal-lab.github.io/LIV/" target="_blank">LIV: Language-Image Representations and Rewards for Robotic Control</a>
+                                                                    [CoRL 2023] <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> (남태민)<br/>
+                                                                    [ICML 2023] <a href="https://penn-pal-lab.github.io/LIV/" target="_blank">LIV: Language-Image Representations and Rewards for Robotic Control</a> (김재홍)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
