@@ -178,8 +178,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a><br/>
-                                                                    [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a><br/>
-                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)
+                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a><br/>
+                                                                    [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a>
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -200,8 +200,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     </ul>
                                                                 </td>
                                                                 <td>
-                                                                    [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a> (장연재)<br/>
-                                                                    [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a>
+                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)<br/>
+                                                                    [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a> (장연재)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -217,8 +217,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     </ul>
                                                                 </td>
                                                                 <td>
-                                                                    [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a><br/>
-                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a>
+                                                                    [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a><br/>
+                                                                    [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a>
                                                                 </td>
                                                                 <td>
                                                                     <div style="margin-left: 1.0em">
@@ -238,7 +238,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Offline RL
                                                                 </td>
                                                                 <td>
-                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a><br/>
+                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a><br/>
                                                                     [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a>
                                                                 </td>
                                                                 <td></td>
