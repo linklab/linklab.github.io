@@ -130,7 +130,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Autoencoder, VAE, and ELBO
                                                                 </td>
                                                                 <td>
-                                                                    [CoRL 2022] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a> (최요한)<br/>
+                                                                    [CoRL 2023] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a><br/>
                                                                     [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Quadrupedal Locomotion on Deformable Terrain</a> (조근우)
                                                                 </td>
                                                                 <td></td>
@@ -154,8 +154,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a><br/>
-                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
-                                                                    [ICLR 2022] <a href="https://rchalyang.github.io/LocoTransformer/" target="_blank">Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</a>
+                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.abk28226" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
+                                                                    [ICLR 2022] <a href="https://rchalyang.github.io/LocoTransformer/" target="_blank">Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</a> (최요한)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -285,7 +285,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                             <li><strong>RMA: Rapid Motor Adaptation for Legged Robots</strong><br>
                                                                 Kumar, Ashish, et al. - RSS, 2021<br>
-                                                                <a href="https://arxiv.org/abs/2107.04034">논문 링크</a>
+                                                                <a href="https://ashish-kmr.github.io/rma-legged-robots/">논문 링크</a>
                                                             </li>
                                                             <li><strong>Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</strong><br>
                                                                 Miki, Takuma, et al. - Science Robotics, 2022<br>
@@ -293,15 +293,15 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                             <li><strong>Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</strong><br>
                                                                 Yang, Ruihan, et al. - ICLR, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2107.03996">논문 링크</a>
+                                                                <a href="https://rchalyang.github.io/LocoTransformer/">논문 링크</a>
                                                             </li>
                                                             <li><strong>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</strong><br>
                                                                 Feng, Gilbert, et al. - CoRL, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2209.05309">논문 링크</a>
+                                                                <a href="https://xbpeng.github.io/projects/GenLoco/index.html">논문 링크</a>
                                                             </li>
-                                                            <li><strong>DribbleBot: Dynamic Quadrupedal Manipulation in the Wild</strong><br>
+                                                            <li><strong>DribbleBot: Dynamic Legged Manipulation in the Wild</strong><br>
                                                                 Ji, Yandong, et al. - ICRA, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2304.01159">논문 링크</a>
+                                                                <a href="https://gmargo11.github.io/dribblebot/">논문 링크</a>
                                                             </li>
                                                             <li><strong>Learning Quadrupedal Locomotion on Deformable Terrain</strong><br>
                                                                 Choi, Sehoon, et al. - Science Robotics, 2023<br>
@@ -309,7 +309,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                             <li><strong>DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</strong><br>
                                                                 Nahrendra, I Made Aswin, et al. - ICRA, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2301.10602">논문 링크</a>
+                                                                <a href="https://ieeexplore.ieee.org/document/10161144">논문 링크</a>
                                                             </li>
                                                         </ol>
                                                         <h3>휴머노이드 (이족보행) 로봇 제어 관련 논문</h3>
@@ -324,54 +324,54 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                             <li><strong>Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</strong><br>
                                                                 Li, Zhongyu, et al. - 2024<br>
-                                                                <a href="https://arxiv.org/abs/2106.02149">논문 링크</a>
+                                                                <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161">논문 링크</a>
                                                             </li>
                                                         </ol>
                                                         <h3>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h3>
                                                         <ol style="margin-left: 2.0em">
                                                             <li><strong>RT-1: Robotics Transformer for Real-World Control at Scale</strong><br>
                                                                 Brohan, Anthony, et al. - CoRL, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2212.06817">논문 링크</a>
+                                                                <a href="https://robotics-transformer1.github.io/">논문 링크</a>
                                                             </li>
                                                             <li><strong>COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</strong><br>
                                                                 Ma, Shuang, et al. - IROS, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2203.15788">논문 링크</a>
+                                                                <a href="https://ieeexplore.ieee.org/document/9982241">논문 링크</a>
                                                             </li>
                                                             <li><strong>GATO: A Generalist Agent</strong><br>
                                                                 Reed, Scott, et al. - DeepMind, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2205.06175">논문 링크</a>
+                                                                <a href="https://deepmind.google/discover/blog/a-generalist-agent/">논문 링크</a>
                                                             </li>
                                                             <li><strong>DayDreamer: World Models for Physical Robot Learning</strong><br>
                                                                 Wu, Philipp, et al. - CoRL, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2206.14176">논문 링크</a>
+                                                                <a href="https://danijar.com/project/daydreamer/">논문 링크</a>
                                                             </li>
                                                             <li><strong>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</strong><br>
                                                                 Baker, Bowen, et al. - NIPS, 2022<br>
-                                                                <a href="https://arxiv.org/abs/2206.11795">논문 링크</a>
+                                                                <a href="https://openai.com/index/vpt/">논문 링크</a>
                                                             </li>
                                                             <li><strong>RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</strong><br>
                                                                 Google DeepMind Team - Google DeepMind, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2306.11706">논문 링크</a>
+                                                                <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/">논문 링크</a>
                                                             </li>
                                                             <li><strong>ViNT: A Foundation Model for Visual Navigation</strong><br>
                                                                 Shah, Dhruv, et al. - CoRL, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2306.14846">논문 링크</a>
+                                                                <a href="https://general-navigation-models.github.io/vint/">논문 링크</a>
                                                             </li>
                                                             <li><strong>RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</strong><br>
                                                                 Brohan, Anthony, et al. - CoRL, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2307.15818">논문 링크</a>
+                                                                <a href="https://robotics-transformer2.github.io/">논문 링크</a>
                                                             </li>
                                                             <li><strong>LIV: Language-Image Representations and Rewards for Robotic Control</strong><br>
                                                                 Yecheng Jason Ma, et al. - ICML, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2306.00958">논문 링크</a>
+                                                                <a href="https://penn-pal-lab.github.io/LIV/">논문 링크</a>
                                                             </li>
                                                             <li><strong>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</strong><br>
                                                                 Bonatti, Rogerio, et al. - IROS, 2023<br>
-                                                                <a href="https://arxiv.org/abs/2209.11133">논문 링크</a>
+                                                                <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/">논문 링크</a>
                                                             </li>
                                                             <li><strong>RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models: Open X-Embodiment Collaboration</strong><br>
                                                                 Brohan, Anthony, et al. - ICRA, 2024<br>
-                                                                <a href="https://arxiv.org/abs/2310.08864">논문 링크</a>
+                                                                <a href="https://robotics-transformer-x.github.io/">논문 링크</a>
                                                             </li>
                                                         </ol>
                                                     </div>
