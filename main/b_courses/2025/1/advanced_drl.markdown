@@ -106,7 +106,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Information & Entropy
                                                                 </td>
                                                                 <td>
-                                                                    [RSS 2020] <a href="https://roboticsconference.org/2020/program/papers/64.html" target="_blank">Learning Agile Robotic Locomotion Skills by Imitating Animals</a><br/>
+                                                                    [RSS 2020] <a href="https://roboticsconference.org/2020/program/papers/64.html" target="_blank">Learning Agile Robotic Locomotion Skills by Imitating Animals</a> (사아밀러 밀러)<br/>
                                                                     [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a> (권성민)
                                                                 </td>
                                                                 <td></td>
@@ -218,7 +218,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a> (아셀)<br/>
-                                                                    [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a>
+                                                                    [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a> (윤호영)
                                                                 </td>
                                                                 <td>
                                                                     <div style="margin-left: 1.0em">
@@ -262,7 +262,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Offline RL
                                                                 </td>
                                                                 <td>
-                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a><br/>
+                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)<br/>
                                                                     [ICRA 2024] <a href="https://robotics-transformer-x.github.io/" target="_blank">RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a>
                                                                 </td>
                                                                 <td></td>
@@ -279,7 +279,7 @@ permalink: /courses/2025/1/advanced_drl
                                                     <div>
                                                         <h3>4족보행 로봇 제어 관련 논문</h3>
                                                         <ol style="margin-left: 2.0em">
-                                                            <li><strong>Learning Agile Robotic Locomotion Skills by Imitating Animals</strong><br>
+                                                            <li><del>Learning Agile Robotic Locomotion Skills by Imitating Animals</del><br>
                                                                 Xue Bin Peng, et al. - RSS, 2020<br>
                                                                 <a href="https://roboticsconference.org/2020/program/papers/64.html">논문 링크</a>
                                                             </li>
@@ -341,7 +341,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Reed, Scott, et al. - DeepMind, 2022<br>
                                                                 <a href="https://deepmind.google/discover/blog/a-generalist-agent/">논문 링크</a>
                                                             </li>
-                                                            <li><strong>DayDreamer: World Models for Physical Robot Learning</strong><br>
+                                                            <li><del>DayDreamer: World Models for Physical Robot Learning</del><br>
                                                                 Wu, Philipp, et al. - CoRL, 2022<br>
                                                                 <a href="https://danijar.com/project/daydreamer/">논문 링크</a>
                                                             </li>
@@ -365,7 +365,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Yecheng Jason Ma, et al. - ICML, 2023<br>
                                                                 <a href="https://penn-pal-lab.github.io/LIV/">논문 링크</a>
                                                             </li>
-                                                            <li><strong>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</strong><br>
+                                                            <li><del>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</del><br>
                                                                 Bonatti, Rogerio, et al. - IROS, 2023<br>
                                                                 <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/">논문 링크</a>
                                                             </li>
