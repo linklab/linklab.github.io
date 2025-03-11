@@ -217,7 +217,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                     </ul>
                                                                 </td>
                                                                 <td>
-                                                                    [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a><br/>
+                                                                    [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a> (아셀)<br/>
                                                                     [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a>
                                                                 </td>
                                                                 <td>
@@ -337,7 +337,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Ma, Shuang, et al. - IROS, 2022<br>
                                                                 <a href="https://ieeexplore.ieee.org/document/9982241">논문 링크</a>
                                                             </li>
-                                                            <li><strong>GATO: A Generalist Agent</strong><br>
+                                                            <li><del>GATO: A Generalist Agent</del><br>
                                                                 Reed, Scott, et al. - DeepMind, 2022<br>
                                                                 <a href="https://deepmind.google/discover/blog/a-generalist-agent/">논문 링크</a>
                                                             </li>
