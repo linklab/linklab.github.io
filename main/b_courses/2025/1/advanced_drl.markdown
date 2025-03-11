@@ -119,7 +119,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [RSS 2021] <a href="https://ashish-kmr.github.io/rma-legged-robots/" target="_blank">RMA: Rapid Motor Adaptation for Legged Robots</a><br/>
-                                                                    [IROS 2022] <a href="https://ashish-kmr.github.io/a-rma/" target="_blank">Adapting Rapid Motor Adaptation for Bipedal Robots</a>
+                                                                    [IROS 2022] <a href="https://ashish-kmr.github.io/a-rma/" target="_blank">Adapting Rapid Motor Adaptation for Bipedal Robots</a> (김중길)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
