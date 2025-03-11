@@ -154,7 +154,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://gmargo11.github.io/dribblebot/" target="_blank">DribbleBot: Dynamic Legged Manipulation in the Wild</a><br/>
-                                                                    [CoRL 2023] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a><br/>
+                                                                    [CoRL 2023] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a> (석영준)<br/>
                                                                     [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Quadrupedal Locomotion on Deformable Terrain</a> (조근우)
                                                                 </td>
                                                                 <td></td>
@@ -295,7 +295,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Yang, Ruihan, et al. - ICLR, 2022<br>
                                                                 <a href="https://rchalyang.github.io/LocoTransformer/">논문 링크</a>
                                                             </li>
-                                                            <li><strong>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</strong><br>
+                                                            <li><del>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</del><br>
                                                                 Feng, Gilbert, et al. - CoRL, 2022<br>
                                                                 <a href="https://xbpeng.github.io/projects/GenLoco/index.html">논문 링크</a>
                                                             </li>
