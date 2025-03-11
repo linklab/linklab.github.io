@@ -318,7 +318,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Xie, Zhaoming, et al. - PMLR, 2020<br>
                                                                 <a href="https://proceedings.mlr.press/v100/xie20a.html">논문 링크</a>
                                                             </li>
-                                                            <li><strong>Adapting Rapid Motor Adaptation for Bipedal Robots</strong><br>
+                                                            <li><del>Adapting Rapid Motor Adaptation for Bipedal Robots</del><br>
                                                                 Kumar, Ashish, et al. - IROS, 2022<br>
                                                                 <a href="https://ashish-kmr.github.io/a-rma/">논문 링크</a>
                                                             </li>
