@@ -130,7 +130,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Autoencoder, VAE, and ELBO
                                                                 </td>
                                                                 <td>
-                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.abk28226" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
+                                                                    [Science Robotics 2023] <a href="https://leggedrobotics.github.io/rl-perceptiveloco/" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
                                                                     [ICLR 2022] <a href="https://rchalyang.github.io/LocoTransformer/" target="_blank">Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</a> (최요한)
                                                                 </td>
                                                                 <td></td>
@@ -289,7 +289,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                             <li><del>Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</del><br>
                                                                 Miki, Takuma, et al. - Science Robotics, 2022<br>
-                                                                <a href="https://www.science.org/doi/10.1126/scirobotics.abk2822">논문 링크</a>
+                                                                <a href="https://leggedrobotics.github.io/rl-perceptiveloco/">논문 링크</a>
                                                             </li>
                                                             <li><del>Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</del><br>
                                                                 Yang, Ruihan, et al. - ICLR, 2022<br>
