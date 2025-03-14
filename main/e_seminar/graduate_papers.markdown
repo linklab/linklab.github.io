@@ -11,7 +11,7 @@ permalink: /seminar/graduate
                 <li>3월 14일 (금) 논문 세미나 – 지창훈
                     <br/>
                     <strong>
-                        Yu, Wenhao, et al. "Language to rewards for robotic skill synthesis." CORL, 2023.
+                        Yu, Wenhao, et al. "Language to rewards for robotic skill synthesis." Conference on Robot Learning (CoRL), 2023.
                     </strong>
                     <a href="https://proceedings.mlr.press/v229/yu23a.html">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
