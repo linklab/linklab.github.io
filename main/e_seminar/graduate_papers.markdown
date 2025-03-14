@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>3월 14일 (금) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Yu, Wenhao, et al. "Language to rewards for robotic skill synthesis." CORL, 2023.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v229/yu23a.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>2월 25일 (화) 논문 세미나 – 석영준
                     <br/>
                     <strong>
