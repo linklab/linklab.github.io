@@ -46,378 +46,335 @@ permalink: /courses/2025/1/advanced_drl
                                                         &nbsp;&nbsp;&nbsp;3) 파이썬을 활용한 Tensorflow 또는 Pytorch 기반으로 딥러닝 관련 코딩 수행 경험<br/>
                                                         &nbsp;&nbsp;&nbsp;4) 심층강화학습에 대한 기초 지식<br/>
                                                         <i class="fas fa-bullhorn"></i> 학점은 A+/A, B+/B, C+/C, F 이렇게 총 4개의 그룹으로 나누어 부여할 예정이며, F로 평가될 학생이 없다면 A+/A, B+/B, C+/C 그룹에 대한 학점 분포는 40%, 40%, 20%로 나누어 부여할 예정이지만 강의가 종료된 이후 전반적인 학업성취도를 가늠하여 변경될 수 있습니다.<br/>
-<!--
-                                                        <i class="fas fa-bullhorn"></i> 본 수업에서 참고하는 Github Repositories<br/>
-                                                        &nbsp;&nbsp;&nbsp;1) <strong>Data-Driven Deep Reinforcement Learning Library for Python (d3rlpy)</strong> <a href="https://github.com/takuseno/d3rlpy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
-                                                        &nbsp;&nbsp;&nbsp;2) <strong>Clean Offline Reinforcement Learning (CORL)</strong> <a href="https://github.com/corl-team/CORL" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
--->
                                                         <i class="fas fa-bullhorn"></i> 본 수업을 이수하기 위하여 참고하면 좋은 강화학습 기본 & 최적화 이론 강의<br/>
                                                         &nbsp;&nbsp;&nbsp;1) <strong>혁펜하임의 강화학습 강의</strong> <a href="https://www.youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                         &nbsp;&nbsp;&nbsp;2) <strong>혁펜하임의 최적화 강의</strong> <a href="https://www.youtube.com/playlist?list=PL_iJu012NOxeMJ5TPPW1JZKec7rhjKXUy" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a><br/>
                                                     </div>
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
-                                                        <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:10%">Date</th>
-                                                            <th scope="col" style="width:32%">Book Presentation</th>
-                                                            <th scope="col" style="width:32%">Paper Presentation</th>
-                                                            <th scope="col" style="width:22%">Notice</th>
-                                                        </tr>
+                                                            <tr>
+                                                                <th scope="col" style="width:4%">#</th>
+                                                                <th scope="col" style="width:10%">Date</th>
+                                                                <th scope="col" style="width:32%">Book Presentation</th>
+                                                                <th scope="col" style="width:32%">Paper Presentation</th>
+                                                                <th scope="col" style="width:22%">Notice</th>
+                                                            </tr>
                                                         </thead>
                                                         <tbody>
-                                                        <tr>
-                                                            <th scope="row">01</th>
-                                                            <td>03월 03일(월)</td>
-                                                            <td>
-                                                                대체 공휴일
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                            <td></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">02</th>
-                                                            <td>03월 10일(월)</td>
-                                                            <td>
-                                                                - 강의 소개<br/>
-                                                                - Neural Networks, Loss Functions, and Optimization
+                                                            <tr>
+                                                                <th scope="row">01</th>
+                                                                <td>03월 03일(월)</td>
+                                                                <td>대체 공휴일</td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">02</th>
+                                                                <td>03월 10일(월)</td>
+                                                                <td>
+                                                                    - 강의 소개<br/>
+                                                                    - Neural Networks, Loss Functions, and Optimization
                                                                     <a href="https://www.dropbox.com/scl/fi/yfwwspbmzmkejdz7npq6b/RL_0_nn_loss_functions_and_optimization.pdf?rlkey=81gxoln71dq16wo4kenjbwl9l&dl=0" target="_blank">
                                                                         <span class="badge badge-warning">강의 노트</span>
                                                                     </a>
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">03</th>
-                                                            <td>03월 17일(월)</td>
-                                                            <td>
-                                                                - Neural Networks, Loss Functions, and Optimization
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                            <td>
-                                                                <!-- <span class="font-weight-bold">
-                                                                    Homework #1.
-                                                                    <a href="https://www.dropbox.com/scl/fi/iyat052w8oous1p148f9g/HW_1.pdf?rlkey=qggwkbwvkz7ihbutnk247nvrq&dl=0" target="_blank">
-                                                                        <span class="badge badge-primary">숙제 설명</span>
-                                                                    </a>
-                                                                    <br/>
-                                                                    기한: 2024년 3월 31일 23시 59분
-                                                                </span> -->
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">04</th>
-                                                            <td>03월 24일(월)</td>
-                                                            <td>
-                                                                - Information & Entropy
-                                                                    <!-- <a href="https://www.dropbox.com/scl/fi/4da2swzn3bu7e2st25m20/RL_1_information_and_entropy.pdf?rlkey=aespgosnla94n0jkdqd4ftq33&dl=0" target="_blank">
-                                                                        <span class="badge badge-warning">강의 노트</span>
-                                                                    </a> -->
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">05</th>
-                                                            <td>03월 31일(월)</td>
-                                                            <td>
-                                                                - Information & Entropy
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">06</th>
-                                                            <td>04월 07일(월)</td>
-                                                            <td>
-                                                                - Autoencoder, VAE, and ELBO
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">07</th>
-                                                            <td>04월 14일(월)</td>
-                                                            <td>
-                                                                - Autoencoder, VAE, and ELBO
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">08</th>
-                                                            <td>04월 21일(월)</td>
-                                                            <td>
-                                                                - Deep Q Network (DQN) <br/>
-                                                                <ul>
-                                                                    <li>
-                                                                        <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-                                                                    </li>
-                                                                </ul>
-                                                                - Double DQN (DDQN) <br/>
-                                                                <ul>
-                                                                    <li>
-                                                                        <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
-                                                                    </li>
-                                                                </ul>                    
-                                                                <!-- - <a href="https://arxiv.org/abs/1806.06923" target="_blank">Implicit Quantile Networks for Distributional Reinforcement Learning</a> -->
-                                                                <!-- - Implicit Quantile Networks (QR-DQN)
-                                                                 <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> -->
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">09</th>
-                                                            <td>04월 28일(월)</td>
-                                                            <td>
-                                                                - Deep Deterministic Policy Gradient (DDPG)<br/>
-                                                                <ul>
-                                                                    <li>
-                                                                        <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
-                                                                    </li>
-                                                                </ul>
-                                                                - Twin Delayed Deep Deterministic Policy Gradient (TD3)
-                                                                <!-- <a href="https://www.dropbox.com/scl/fi/2nm6gt3fbzphxpjn567as/03.DQN.pdf?rlkey=mwwfnqnqzxbi6sn00x32c89jc&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> --><br/>
-                                                                <ul>
-                                                                    <li>
-                                                                        <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">10</th>
-                                                            <td>05월 05일(월)</td>
-                                                            <td colspan="3" class="center">공휴일 (휴강)</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">11</th>
-                                                            <td>05월 12일(월)</td>
-                                                            <td>
-                                                                - Soft Actor-Critic (SAC)<br/>
-                                                                <!-- <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> -->
-                                                                <ul>
-                                                                    <li>
-                                                                        <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
-                                                                    </li>
-                                                                </ul>
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">12</th>
-                                                            <td>05월 19일(월)</td>
-                                                            <td>
-                                                                - Imitation Learning<br/>
-                                                                <ul>
-                                                                    <li>
-                                                                        <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a>
-                                                                    </li>
-                                                                </ul>
-<!--
-                                                                - 논문 발표 01: <a href="https://arxiv.org/abs/1805.01954" target="_blank">Behavioral Cloning from Observation</a><br/>
-                                                                - 논문 발표 02: <a href="https://arxiv.org/abs/2109.00137" target="_blank">Implicit Behavioral Cloning</a>
--->
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td>
-                                                                <div style="margin-left: 1.0em">
-                                                                    <strong>Imitation Learning의 목표</strong>
-                                                                    <ol>
-                                                                        <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
-                                                                        <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
-                                                                    </ol>
-                                                                </div>
-                                                                - <a href="https://optreal.github.io/blog/2025/imitation_learning/" target="_blank">참고 자료</a>
-                                                                <!--Homework #2.
-                                                                    <a href="https://www.dropbox.com/scl/fi/wdas1lo3l3bsx1hhp2x6z/HW_2.pdf?rlkey=8atvaerw5mydoitb4a34x5mne&dl=0" target="_blank">
-                                                                        <span class="badge badge-primary">숙제 설명</span>
-                                                                    </a>
-                                                                    <br/>
-                                                                    기한: 2024년 6월 9일 일요일 23시 59분
-                                                                -->
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">13</th>
-                                                            <td>05월 26일(월)</td>
-                                                            <td>
-                                                                - Offline RL 
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">14</th>
-                                                            <td>06월 02일(월)</td>
-                                                            <td>
-                                                                - Offline RL 
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표:
-                                                            </td>
-                                                            <td></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">15</th>
-                                                            <td>06월 09일(월)</td>
-                                                            <td>
-                                                                - Offline RL 
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표: 
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">16</th>
-                                                            <td>06월 16일(월)</td>
-                                                            <td COLSPAN="2">기말 고사</td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
+                                                                </td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">03</th>
+                                                                <td>03월 17일(월)</td>
+                                                                <td>
+                                                                    - Neural Networks, Loss Functions, and Optimization
+                                                                </td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">04</th>
+                                                                <td>03월 24일(월)</td>
+                                                                <td>
+                                                                    - Information & Entropy
+                                                                </td>
+                                                                <td></td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">05</th>
+                                                                <td>03월 31일(월)</td>
+                                                                <td>
+                                                                    - Information & Entropy
+                                                                </td>
+                                                                <td>
+                                                                    [RSS 2020] <a href="https://roboticsconference.org/2020/program/papers/64.html" target="_blank">Learning Agile Robotic Locomotion Skills by Imitating Animals</a> (사아밀러 밀러)<br/>
+                                                                    [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a> (권성민)
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">06</th>
+                                                                <td>04월 07일(월)</td>
+                                                                <td>
+                                                                    - Autoencoder, VAE, and ELBO
+                                                                </td>
+                                                                <td>
+                                                                    [RSS 2021] <a href="https://ashish-kmr.github.io/rma-legged-robots/" target="_blank">RMA: Rapid Motor Adaptation for Legged Robots</a><br/>
+                                                                    [IROS 2022] <a href="https://ashish-kmr.github.io/a-rma/" target="_blank">Adapting Rapid Motor Adaptation for Bipedal Robots</a> (김중길)
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">07</th>
+                                                                <td>04월 14일(월)</td>
+                                                                <td>
+                                                                    - Autoencoder, VAE, and ELBO
+                                                                </td>
+                                                                <td>
+                                                                    [Science Robotics 2023] <a href="https://leggedrobotics.github.io/rl-perceptiveloco/" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
+                                                                    [ICLR 2022] <a href="https://rchalyang.github.io/LocoTransformer/" target="_blank">Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</a> (최요한)
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">08</th>
+                                                                <td>04월 21일(월)</td>
+                                                                <td>
+                                                                    - Deep Q Network (DQN) <br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    - Double DQN (DDQN) <br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </td>
+                                                                <td>
+                                                                    [ICRA 2023] <a href="https://gmargo11.github.io/dribblebot/" target="_blank">DribbleBot: Dynamic Legged Manipulation in the Wild</a><br/>
+                                                                    [CoRL 2023] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a> (석영준)<br/>
+                                                                    [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Quadrupedal Locomotion on Deformable Terrain</a> (조근우)
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">09</th>
+                                                                <td>04월 28일(월)</td>
+                                                                <td>
+                                                                    - Deep Deterministic Policy Gradient (DDPG)<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    - Twin Delayed Deep Deterministic Policy Gradient (TD3)<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </td>
+                                                                <td>
+                                                                    [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a><br/>
+                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a><br/>
+                                                                    [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a>
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">10</th>
+                                                                <td>05월 05일(월)</td>
+                                                                <td colspan="3" class="center">공휴일 (휴강)</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">11</th>
+                                                                <td>05월 12일(월)</td>
+                                                                <td>
+                                                                    - Soft Actor-Critic (SAC)<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </td>
+                                                                <td>
+                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)<br/>
+                                                                    [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a> (장연재)
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">12</th>
+                                                                <td>05월 19일(월)</td>
+                                                                <td>
+                                                                    - Imitation Learning<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </td>
+                                                                <td>
+                                                                    [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a> (아셀)<br/>
+                                                                    [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a> (윤호영)
+                                                                </td>
+                                                                <td>
+                                                                    <div style="margin-left: 1.0em">
+                                                                        <strong>Imitation Learning의 목표</strong>
+                                                                        <ol>
+                                                                            <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
+                                                                            <li>시연 데이터는 **관찰(observations)**과 **행동(actions)** 간의 매핑을 학습하는 데 사용.</li>
+                                                                        </ol>
+                                                                    </div>
+                                                                    - <a href="https://optreal.github.io/blog/2025/imitation_learning/" target="_blank">참고 자료</a>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">13</th>
+                                                                <td>05월 26일(월)</td>
+                                                                <td>
+                                                                    - Offline RL
+                                                                </td>
+                                                                <td>
+                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a><br/>
+                                                                    [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a>
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">14</th>
+                                                                <td>06월 02일(월)</td>
+                                                                <td>
+                                                                    - Offline RL
+                                                                </td>
+                                                                <td>
+                                                                    [CoRL 2023] <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> (남태민)<br/>
+                                                                    [ICML 2023] <a href="https://penn-pal-lab.github.io/LIV/" target="_blank">LIV: Language-Image Representations and Rewards for Robotic Control</a> (김재홍)
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">15</th>
+                                                                <td>06월 09일(월)</td>
+                                                                <td>
+                                                                    - Offline RL
+                                                                </td>
+                                                                <td>
+                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)<br/>
+                                                                    [ICRA 2024] <a href="https://robotics-transformer-x.github.io/" target="_blank">RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a>
+                                                                </td>
+                                                                <td></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">16</th>
+                                                                <td>06월 16일(월)</td>
+                                                                <td COLSPAN="2">기말 고사</td>
+                                                                <td></td>
+                                                            </tr>
                                                         </tbody>
                                                     </table>
                                                     <br/>
-<div>
-<h3>4족보행 로봇 제어 관련 논문</h3>
-<ol style="margin-left: 2.0em">
-    <li><strong>Learning Agile Robotic Locomotion Skills by Imitating Animals</strong><br>
-        Xue Bin Peng, et al. - RSS, 2020<br>
-        <a href="https://roboticsconference.org/2020/program/papers/64.html">논문 링크</a>
-    </li>
-    <li><strong>RMA: Rapid Motor Adaptation for Legged Robots</strong><br>
-        Kumar, Ashish, et al. - RSS, 2021<br>
-        <a href="https://arxiv.org/abs/2107.04034">논문 링크</a>
-    </li>
-    <li><strong>Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</strong><br>
-        Miki, Takuma, et al. - Science Robotics, 2022<br>
-        <a href="https://www.science.org/doi/10.1126/scirobotics.abk2822">논문 링크</a>
-    </li>
-    <li><strong>Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</strong><br>
-        Yang, Ruihan, et al. - ICLR, 2022<br>
-        <a href="https://arxiv.org/abs/2107.03996">논문 링크</a>
-    </li>
-    <li><strong>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</strong><br>
-        Feng, Gilbert, et al. - CoRL, 2022<br>
-        <a href="https://arxiv.org/abs/2209.05309">논문 링크</a>
-    </li>
-    <li><strong>DribbleBot: Dynamic Quadrupedal Manipulation in the Wild</strong><br>
-        Ji, Yandong, et al. - ICRA, 2023<br>
-        <a href="https://arxiv.org/abs/2304.01159">논문 링크</a>
-    </li>
-    <li><strong>Learning Quadrupedal Locomotion on Deformable Terrain</strong><br>
-        Choi, Sehoon, et al. - Science Robotics, 2023<br>
-        <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256">논문 링크</a>
-    </li>
-    <li><strong>DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</strong><br>
-        Nahrendra, I Made Aswin, et al. - ICRA, 2023<br>
-        <a href="https://arxiv.org/abs/2301.10602">논문 링크</a>
-    </li>
-</ol>
-
-<h3>휴머노이드 (이족보행) 로봇 제어 관련 논문</h3>
-<ol style="margin-left: 2.0em">
-    <li><strong>Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</strong><br>
-        Xie, Zhaoming, et al. - PMLR, 2020<br>
-        <a href="https://proceedings.mlr.press/v100/xie20a.html">논문 링크</a>
-    </li>
-    <li><strong>Adapting Rapid Motor Adaptation for Bipedal Robots</strong><br>
-        Kumar, Ashish, et al. - IROS, 2022<br>
-        <a href="https://ashish-kmr.github.io/a-rma/">논문 링크</a>
-    </li>
-    <li><strong>Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</strong><br>
-        Li, Zhongyu, et al. - 2024<br>
-        <a href="https://arxiv.org/abs/2106.02149">논문 링크</a>
-    </li>
-</ol>
-
-<h3>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h3>
-<ol style="margin-left: 2.0em">
-    <li><strong>RT-1: Robotics Transformer for Real-World Control at Scale</strong><br>
-        Brohan, Anthony, et al. - CoRL, 2022<br>
-        <a href="https://arxiv.org/abs/2212.06817">논문 링크</a>
-    </li>
-    <li><strong>COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</strong><br>
-        Ma, Shuang, et al. - IROS, 2022<br>
-        <a href="https://arxiv.org/abs/2203.15788">논문 링크</a>
-    </li>
-    <li><strong>GATO: A Generalist Agent</strong><br>
-        Reed, Scott, et al. - DeepMind, 2022<br>
-        <a href="https://arxiv.org/abs/2205.06175">논문 링크</a>
-    </li>
-    <li><strong>DayDreamer: World Models for Physical Robot Learning</strong><br>
-        Wu, Philipp, et al. - CoRL, 2022<br>
-        <a href="https://arxiv.org/abs/2206.14176">논문 링크</a>
-    </li>
-    <li><strong>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</strong><br>
-        Baker, Bowen, et al. - NIPS, 2022<br>
-        <a href="https://arxiv.org/abs/2206.11795">논문 링크</a>
-    </li>
-    <li><strong>RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</strong><br>
-        Google DeepMind Team - Google DeepMind, 2023<br>
-        <a href="https://arxiv.org/abs/2306.11706">논문 링크</a>
-    </li>
-    <li><strong>ViNT: A Foundation Model for Visual Navigation</strong><br>
-        Shah, Dhruv, et al. - CoRL, 2023<br>
-        <a href="https://arxiv.org/abs/2306.14846">논문 링크</a>
-    </li>
-    <li><strong>RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</strong><br>
-        Brohan, Anthony, et al. - CoRL, 2023<br>
-        <a href="https://arxiv.org/abs/2307.15818">논문 링크</a>
-    </li>
-    <li><strong>LIV: Language-Image Representations and Rewards for Robotic Control</strong><br>
-        Yecheng Jason Ma, et al. - ICML, 2023<br>
-        <a href="https://arxiv.org/abs/2306.00958">논문 링크</a>
-    </li>
-    <li><strong>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</strong><br>
-        Bonatti, Rogerio, et al. - IROS, 2023<br>
-        <a href="https://arxiv.org/abs/2209.11133">논문 링크</a>
-    </li>
-    <li><strong>RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models: Open X-Embodiment Collaboration</strong><br>
-        Brohan, Anthony, et al. - ICRA, 2024<br>
-        <a href="https://arxiv.org/abs/2310.08864">논문 링크</a>
-    </li>
-</ol>
-</div>
+                                                    <div>
+                                                        <h3>4족보행 로봇 제어 관련 논문</h3>
+                                                        <ol style="margin-left: 2.0em">
+                                                            <li><del>Learning Agile Robotic Locomotion Skills by Imitating Animals</del><br>
+                                                                Xue Bin Peng, et al. - RSS, 2020<br>
+                                                                <a href="https://roboticsconference.org/2020/program/papers/64.html">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>RMA: Rapid Motor Adaptation for Legged Robots</strong><br>
+                                                                Kumar, Ashish, et al. - RSS, 2021<br>
+                                                                <a href="https://ashish-kmr.github.io/rma-legged-robots/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</del><br>
+                                                                Miki, Takuma, et al. - Science Robotics, 2022<br>
+                                                                <a href="https://leggedrobotics.github.io/rl-perceptiveloco/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</del><br>
+                                                                Yang, Ruihan, et al. - ICLR, 2022<br>
+                                                                <a href="https://rchalyang.github.io/LocoTransformer/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</del><br>
+                                                                Feng, Gilbert, et al. - CoRL, 2022<br>
+                                                                <a href="https://xbpeng.github.io/projects/GenLoco/index.html">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>DribbleBot: Dynamic Legged Manipulation in the Wild</strong><br>
+                                                                Ji, Yandong, et al. - ICRA, 2023<br>
+                                                                <a href="https://gmargo11.github.io/dribblebot/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>Learning Quadrupedal Locomotion on Deformable Terrain</del><br>
+                                                                Choi, Sehoon, et al. - Science Robotics, 2023<br>
+                                                                <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</strong><br>
+                                                                Nahrendra, I Made Aswin, et al. - ICRA, 2023<br>
+                                                                <a href="https://ieeexplore.ieee.org/document/10161144">논문 링크</a>
+                                                            </li>
+                                                        </ol>
+                                                        <h3>휴머노이드 (이족보행) 로봇 제어 관련 논문</h3>
+                                                        <ol style="margin-left: 2.0em">
+                                                            <li><del>Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</del><br>
+                                                                Xie, Zhaoming, et al. - PMLR, 2020<br>
+                                                                <a href="https://proceedings.mlr.press/v100/xie20a.html">논문 링크</a>
+                                                            </li>
+                                                            <li><del>Adapting Rapid Motor Adaptation for Bipedal Robots</del><br>
+                                                                Kumar, Ashish, et al. - IROS, 2022<br>
+                                                                <a href="https://ashish-kmr.github.io/a-rma/">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</strong><br>
+                                                                Li, Zhongyu, et al. - 2024<br>
+                                                                <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161">논문 링크</a>
+                                                            </li>
+                                                        </ol>
+                                                        <h3>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h3>
+                                                        <ol style="margin-left: 2.0em">
+                                                            <li><del>RT-1: Robotics Transformer for Real-World Control at Scale</del><br>
+                                                                Brohan, Anthony, et al. - CoRL, 2022<br>
+                                                                <a href="https://robotics-transformer1.github.io/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</del><br>
+                                                                Ma, Shuang, et al. - IROS, 2022<br>
+                                                                <a href="https://ieeexplore.ieee.org/document/9982241">논문 링크</a>
+                                                            </li>
+                                                            <li><del>GATO: A Generalist Agent</del><br>
+                                                                Reed, Scott, et al. - DeepMind, 2022<br>
+                                                                <a href="https://deepmind.google/discover/blog/a-generalist-agent/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>DayDreamer: World Models for Physical Robot Learning</del><br>
+                                                                Wu, Philipp, et al. - CoRL, 2022<br>
+                                                                <a href="https://danijar.com/project/daydreamer/">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</strong><br>
+                                                                Baker, Bowen, et al. - NIPS, 2022<br>
+                                                                <a href="https://openai.com/index/vpt/">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</strong><br>
+                                                                Google DeepMind Team - Google DeepMind, 2023<br>
+                                                                <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>ViNT: A Foundation Model for Visual Navigation</strong><br>
+                                                                Shah, Dhruv, et al. - CoRL, 2023<br>
+                                                                <a href="https://general-navigation-models.github.io/vint/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</del><br>
+                                                                Brohan, Anthony, et al. - CoRL, 2023<br>
+                                                                <a href="https://robotics-transformer2.github.io/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>LIV: Language-Image Representations and Rewards for Robotic Control</del><br>
+                                                                Yecheng Jason Ma, et al. - ICML, 2023<br>
+                                                                <a href="https://penn-pal-lab.github.io/LIV/">논문 링크</a>
+                                                            </li>
+                                                            <li><del>PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</del><br>
+                                                                Bonatti, Rogerio, et al. - IROS, 2023<br>
+                                                                <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/">논문 링크</a>
+                                                            </li>
+                                                            <li><strong>RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models: Open X-Embodiment Collaboration</strong><br>
+                                                                Brohan, Anthony, et al. - ICRA, 2024<br>
+                                                                <a href="https://robotics-transformer-x.github.io/">논문 링크</a>
+                                                            </li>
+                                                        </ol>
+                                                    </div>
                                                     <br/>
                                                     <h3 class="title-level-3">2. Course Information</h3>
                                                     <br/>
@@ -426,10 +383,10 @@ permalink: /courses/2025/1/advanced_drl
                                                             - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
                                                         </li>
                                                         <li>
-                                                            - Classes: 월요일 (16:00 ~ 16:50)
+                                                            - Classes: 월요일 (19:00 ~ 21:50)
                                                         </li>
                                                         <li>
-                                                            - Lecture Room: 2공학관 317호
+                                                            - Lecture Room: 2공학관 121A호
                                                         </li>
                                                         <li>
                                                             - Prerequisites: 머신러닝 및 딥러닝 기본 지식, 파이썬 기반의 PyTorch/Tensorflow 기본 코딩 경험
@@ -464,8 +421,7 @@ permalink: /courses/2025/1/advanced_drl
                                                         <div class="col-12">
                                                             <h4>[주교재]</h4>
                                                             <ul>
-                                                                <li>- 밑바닥부터 시작하는 딥러닝 4 (파이썬으로 직접 구현하며 배우는 강화 학습 알고리즘
-)
+                                                                <li>- 밑바닥부터 시작하는 딥러닝 4 (파이썬으로 직접 구현하며 배우는 강화 학습 알고리즘)
                                                                     <a href="https://product.kyobobook.co.kr/detail/S000212020531" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
@@ -502,11 +458,11 @@ permalink: /courses/2025/1/advanced_drl
                                                     <ul>
                                                         <li>- <span class="font-weight-bold">Attendance</span>: one class absence will result in the deduction
                                                             of two points out of 100 points. Five absences will not
-                                                            result in ten points deduction, but “failure” (i.e., grade
-                                                            ‘F’) in this course.
+                                                            result in ten points deduction, but "failure" (i.e., grade
+                                                            'F') in this course.
                                                         </li>
                                                         <li>- <span class="font-weight-bold">Homework</span>: much intensive homework will be set. Any cheating
-                                                            (or copying) will result in grade ‘F’.
+                                                            (or copying) will result in grade 'F'.
                                                         </li>
                                                         <li>- <span class="font-weight-bold">Exam</span>: there will be the final examination for the
                                                             evaluation of the knowledge learned from the class.
