@@ -34,9 +34,9 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:3%">#</th>
+                                                            <th scope="col" style="width:4%">#</th>
                                                             <th scope="col" style="width:17%">Date</th>
-                                                            <th scope="col" style="width:29%">In-class (오프라인 강의)</th>
+                                                            <th scope="col" style="width:28%">In-class (오프라인 강의)</th>
                                                             <th scope="col" style="width:24%">Online-class (E-Learning 학습)</th>
                                                             <th scope="col" style="width:27%">Notice</th>
                                                         </tr>
@@ -101,10 +101,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2025. 03. 13
                                                             </td>
                                                             <td>
-<!--
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a href="https://www.dropbox.com/s/z052nb5fwnfcl91/homework_1.pdf?dl=0" target="_blank" class="font-weight-bold">[Practice & Homework #1]</a><br/>Due Date: 03월 21일 (월요일), 23시 59분
--->
+                                                                <a href="https://www.dropbox.com/scl/fi/xbreduirg4ebzuqs487qy/homework_1.pdf?rlkey=i4y5uz40z8ymkzqa4uu9piukq&dl=0" target="_blank" class="font-weight-bold">[Practice & Homework #1]</a><br/>Due Date: 03월 22일 (토요일), 23시 59분
                                                             </td>
                                                         </tr>
                                                         <tr>
