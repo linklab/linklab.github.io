@@ -180,8 +180,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     </ul>
                                                                 </td>
                                                                 <td>
-                                                                    [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a><br/>
-                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a><br/>
+                                                                    [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a> (김민준)<br/>
+                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a> (유연휘)<br/>
                                                                     [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a>
                                                                 </td>
                                                                 <td></td>
@@ -241,8 +241,8 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Offline RL
                                                                 </td>
                                                                 <td>
-                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a><br/>
-                                                                    [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a>
+                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a> (최대준)<br/>
+                                                                    [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a> (이태민)
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
@@ -310,7 +310,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Choi, Sehoon, et al. - Science Robotics, 2023<br>
                                                                 <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256">논문 링크</a>
                                                             </li>
-                                                            <li><strong>DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</strong><br>
+                                                            <li><del>DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</del><br>
                                                                 Nahrendra, I Made Aswin, et al. - ICRA, 2023<br>
                                                                 <a href="https://ieeexplore.ieee.org/document/10161144">논문 링크</a>
                                                             </li>
@@ -325,7 +325,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Kumar, Ashish, et al. - IROS, 2022<br>
                                                                 <a href="https://ashish-kmr.github.io/a-rma/">논문 링크</a>
                                                             </li>
-                                                            <li><strong>Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</strong><br>
+                                                            <li><del>Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</del><br>
                                                                 Li, Zhongyu, et al. - 2024<br>
                                                                 <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161">논문 링크</a>
                                                             </li>
@@ -348,11 +348,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                 Wu, Philipp, et al. - CoRL, 2022<br>
                                                                 <a href="https://danijar.com/project/daydreamer/">논문 링크</a>
                                                             </li>
-                                                            <li><strong>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</strong><br>
+                                                            <li><del>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</del><br>
                                                                 Baker, Bowen, et al. - NIPS, 2022<br>
                                                                 <a href="https://openai.com/index/vpt/">논문 링크</a>
                                                             </li>
-                                                            <li><strong>RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</strong><br>
+                                                            <li><del>RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</del><br>
                                                                 Google DeepMind Team - Google DeepMind, 2023<br>
                                                                 <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/">논문 링크</a>
                                                             </li>
