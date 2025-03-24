@@ -255,7 +255,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 04월 29일(화)<br/>Online-class: 05월 01일(목)
                                                             </td>
                                                             <td>
-                                                                [08] 상호 배타적 집합 구현
+                                                                [08] 집합의 처리
                                                                 <a href="https://www.dropbox.com/s/5vmcduy1zxwardw/08_%EC%A7%91%ED%95%A9%EC%9D%98%20%EC%B2%98%EB%A6%AC.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
