@@ -133,8 +133,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [04-1] 다양한 기본 정렬 알고리즘
-                                                                <a href="https://www.dropbox.com/s/88wz8pea88vifff/04_%EC%A0%95%EB%A0%AC.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/5zm38mmukc9ivn19l1v6k/04_-_1_.pdf?rlkey=f6hj74enkzhuz5bcmrcw71j6q&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
                                                             <td>
