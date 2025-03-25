@@ -112,7 +112,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [03] 알고리즘의 점근적 효율 분석
-                                                                <a href="https://www.dropbox.com/s/vej4rhelm07flvl/03_%EC%A0%90%ED%99%94%EC%8B%9D%EA%B3%BC%20%EC%A0%90%EA%B7%BC%EC%A0%81%20%EB%B3%B5%EC%9E%A1%EB%8F%84%20%EB%B6%84%EC%84%9D.pdf?dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/sbt85alst4ec3jpl2ryft/03_.pdf?rlkey=iduo0c3pijkot24rfs7xvh3ca&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
