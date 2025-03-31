@@ -114,6 +114,9 @@ permalink: /courses/2025/1/advanced_drl
                                                                         <span class="badge badge-category">발표 자료</span>
                                                                     </a><br/>
                                                                     [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a> (권성민)
+                                                                    <a href="https://www.dropbox.com/scl/fi/fd3k1fm2oyywg6u7yqxi4/_Learning-Locomotion-Skills-for-Cassie-Iterative-Design-and-Sim-to-Real.pptx?rlkey=kj0qee9094d8tdx1x2c9d815i&dl=0" target="_blank">
+                                                                        <span class="badge badge-category">발표 자료</span>
+                                                                    </a><br/>
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
