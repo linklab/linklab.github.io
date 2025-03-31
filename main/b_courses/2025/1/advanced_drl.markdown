@@ -111,7 +111,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <td>
                                                                     [RSS 2020] <a href="https://roboticsconference.org/2020/program/papers/64.html" target="_blank">Learning Agile Robotic Locomotion Skills by Imitating Animals</a> (사아밀러 밀러)
                                                                     <a href="https://www.dropbox.com/scl/fi/stz7n7o0d9z1bio2o4pj5/Sarmilah-Milah-2431036033.pptx?rlkey=nauk07sbt5drlh00y4ofo5f7j&dl=0" target="_blank">
-                                                                        <span class="badge badge-secondary">발표 자료</span>
+                                                                        <span class="badge badge-category">발표 자료</span>
                                                                     </a><br/>
                                                                     [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a> (권성민)
                                                                 </td>
