@@ -154,6 +154,9 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [04-2] 합병 정렬/퀵 정렬 알고리즘
+                                                                <a href="https://www.dropbox.com/scl/fi/0ja6w7rqwjfr9n4ljfjqm/04_-_2_.pdf?rlkey=7r0c23sq4jfafaxz2ti7mxucj&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
+                                                                </a>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/q0uixs4t5zqeiuc/merge_and_quick_sort.py?dl=0" target="_blank">merge_and_quick_sort.py</a>
