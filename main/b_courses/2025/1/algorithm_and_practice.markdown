@@ -159,7 +159,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 </a>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
-                                                                    - <a href="https://www.dropbox.com/s/q0uixs4t5zqeiuc/merge_and_quick_sort.py?dl=0" target="_blank">merge_and_quick_sort.py</a>
+                                                                    - <a href="https://www.dropbox.com/s/q0uixs4t5zqeiuc/merge_and_quick_sort.py?dl=0" target="_blank">merge_and_quick_sort.py</a><br/>
+                                                                    - <a href="https://www.dropbox.com/scl/fi/k6aszh9wsc16l0djmz9en/heap_sort.py?rlkey=m1didnkxp5hq7cdr9wke0f2nm&dl=0" target="_blank">heap_sort.py</a>
                                                                 </div>
                                                             </td>
                                                             <td>
