@@ -171,7 +171,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <i class="fas fa-book-reader"></i>
                                                                 <a style="font-weight: bold" href="https://www.dropbox.com/scl/fi/6l866ej58kov1881wy7as/homework_2.pdf?rlkey=948qedxmyc4w2wpju7hzoouow&dl=0" target="_blank">[Practice & Homework #2]</a>
                                                                 <br/>
-                                                                Due Date: 04월 05일 (화요일), 23시 59분
+                                                                Due Date: 04월 12일 (토요일), 23시 59분
                                                                 <br/>
                                                             </td>
                                                         </tr>
