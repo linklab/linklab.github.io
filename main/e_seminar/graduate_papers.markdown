@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>3월 26일 (수) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        I Made Aswin Nahrendra, et al. "DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning." ICRA, 2023.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2301.10602">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>3월 14일 (금) 논문 세미나 – 지창훈
                     <br/>
                     <strong>
