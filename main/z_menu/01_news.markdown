@@ -49,7 +49,6 @@ permalink: /news/
                                         January 27, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         석영준 박사과정생, [축] Q1 저널인 Journal of Network and Systems Management 저널에 연구실 최초 심층강화학습을 활용한 Quantum Network 자원 최적화 관련 논문 게재 확정 (논문제목: Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems)
                                     </td>
                                 </tr>
@@ -58,7 +57,6 @@ permalink: /news/
                                         January 16, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         지창훈, 최요한, 석영준 박사과정생, [축] 2025년 한국통신학회 동계학술대회에서 해동우수논문상 장려상 수상 (상금 1백만원, 논문제목: Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율)
                                     </td>
                                 </tr>
@@ -67,7 +65,6 @@ permalink: /news/
                                         January 07, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         세계 최고의 전자기기 국제전시회인 CES 2025 행사에 한연희 교수외 학생 3인 참석
                                     </td>
                                 </tr>
