@@ -124,7 +124,10 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">06</th>
                                                                 <td>04월 07일(월)</td>
                                                                 <td>
-                                                                    - Autoencoder, VAE, and ELBO
+                                                                    - Manifold Learning & Autoencoder
+                                                                    <a href="https://www.dropbox.com/scl/fi/l7halkiqbbvxbnqu9jaxl/RL_2_manifold_learning.pdf?rlkey=8it70x93pltxsy1xdspwcwyv0&dl=0" target="_blank">
+                                                                        <span class="badge badge-warning">강의 노트</span>
+                                                                    </a>
                                                                 </td>
                                                                 <td>
                                                                     [RSS 2021] <a href="https://ashish-kmr.github.io/rma-legged-robots/" target="_blank">RMA: Rapid Motor Adaptation for Legged Robots</a><br/>
@@ -136,7 +139,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">07</th>
                                                                 <td>04월 14일(월)</td>
                                                                 <td>
-                                                                    - Autoencoder, VAE, and ELBO
+                                                                    - Variational AE (VAE) and ELBO
                                                                 </td>
                                                                 <td>
                                                                     [Science Robotics 2023] <a href="https://leggedrobotics.github.io/rl-perceptiveloco/" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)<br/>
@@ -148,18 +151,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">08</th>
                                                                 <td>04월 21일(월)</td>
                                                                 <td>
-                                                                    - Deep Q Network (DQN) <br/>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                    - Double DQN (DDQN) <br/>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
-                                                                        </li>
-                                                                    </ul>
+                                                                    - Variational AE (VAE) and ELBO
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://gmargo11.github.io/dribblebot/" target="_blank">DribbleBot: Dynamic Legged Manipulation in the Wild</a><br/>
@@ -172,16 +164,16 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">09</th>
                                                                 <td>04월 28일(월)</td>
                                                                 <td>
-                                                                    - Deep Deterministic Policy Gradient (DDPG)<br/>
+                                                                    - Deep Q Network (DQN) <br/>
                                                                     <ul>
                                                                         <li>
-                                                                            <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
+                                                                            <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
                                                                         </li>
                                                                     </ul>
-                                                                    - Twin Delayed Deep Deterministic Policy Gradient (TD3)<br/>
+                                                                    - Double DQN (DDQN) <br/>
                                                                     <ul>
                                                                         <li>
-                                                                            <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                            <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
                                                                         </li>
                                                                     </ul>
                                                                 </td>
@@ -201,12 +193,18 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">11</th>
                                                                 <td>05월 12일(월)</td>
                                                                 <td>
-                                                                    - Soft Actor-Critic (SAC)<br/>
+                                                                    - Deep Deterministic Policy Gradient (DDPG)<br/>
                                                                     <ul>
                                                                         <li>
-                                                                            <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+                                                                            <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
                                                                         </li>
                                                                     </ul>
+                                                                    - Twin Delayed Deep Deterministic Policy Gradient (TD3)<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                        </li>
+                                                                    </ul>                           
                                                                 </td>
                                                                 <td>
                                                                     [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)<br/>
@@ -218,10 +216,10 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">12</th>
                                                                 <td>05월 19일(월)</td>
                                                                 <td>
-                                                                    - Imitation Learning<br/>
+                                                                    - Soft Actor-Critic (SAC)<br/>
                                                                     <ul>
                                                                         <li>
-                                                                            <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a>
+                                                                            <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
                                                                         </li>
                                                                     </ul>
                                                                 </td>
@@ -244,7 +242,12 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">13</th>
                                                                 <td>05월 26일(월)</td>
                                                                 <td>
-                                                                    - Offline RL
+                                                                    - Imitation Learning<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a>
+                                                                        </li>
+                                                                    </ul>
                                                                 </td>
                                                                 <td>
                                                                     [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a> (최대준)<br/>
