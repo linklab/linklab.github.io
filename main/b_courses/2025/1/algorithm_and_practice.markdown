@@ -183,8 +183,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [05] 선형 시간 선택 알고리즘
-                                                                <a href="https://www.dropbox.com/s/h4snbq9zx9et3fq/05_%EC%84%A0%ED%83%9D%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/28k7g0hw9ouo4sg1ls9df/05_.pdf?rlkey=rg3fdgm5f4lqywub5kqt6u9k1&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
                                                             <td>
