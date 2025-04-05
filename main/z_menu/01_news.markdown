@@ -35,13 +35,22 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="04" day="03">
+                                    <td class="text-md-right" style="width: 20%">
+                                        January 27, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        지창훈 박사과정생, [축] Neural Computing and Applications 저널에 심층강화학습 개선 논문 게재 확정 (논문제목: Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control)
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="01" day="27">
                                     <td class="text-md-right" style="width: 20%">
                                         January 27, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        석영준 박사과정생, [축] Q1 저널인 Journal of Network and Systems Management에 연구실 최초 심층강화학습을 활용한 Quantum Network 자원 최적화 관련 논문 게재 확정 (논문제목: Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems)
+                                        석영준 박사과정생, [축] Q1 저널인 Journal of Network and Systems Management 저널에 연구실 최초 심층강화학습을 활용한 Quantum Network 자원 최적화 관련 논문 게재 확정 (논문제목: Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems)
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="01" day="16">
