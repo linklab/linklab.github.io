@@ -8,7 +8,7 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
-                <li>4월 10일 (목) 논문 세미나 – 아셀
+                <li>4월 16일 (수) 논문 세미나 – 아셀
                     <br/>
                     <strong>
                         Qinqing Zheng, Amy Zhang, and Aditya Grover, "Online Decision Transformer." ICML, 2022.
