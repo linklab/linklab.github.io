@@ -37,8 +37,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <th scope="col" style="width:4%">#</th>
                                                             <th scope="col" style="width:17%">Date</th>
                                                             <th scope="col" style="width:28%">In-class (오프라인 강의)</th>
-                                                            <th scope="col" style="width:24%">Online-class (E-Learning 학습)</th>
-                                                            <th scope="col" style="width:27%">Notice</th>
+                                                            <th scope="col" style="width:23%">Online-class (E-Learning 학습)</th>
+                                                            <th scope="col" style="width:28%">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
