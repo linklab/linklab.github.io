@@ -204,8 +204,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [06] 이진검색트리 & B-트리
-                                                                <a href="https://www.dropbox.com/s/yrbpvt7qke6s2xf/06_%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/bqfine92co37paueyqvak/06_.pdf?rlkey=si89bolejvn9g57za2vzj6569&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
@@ -246,8 +246,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 <strong>
                                                                 <i class="fas fa-bookmark"></i> 중간 고사<br/>
-                                                                - 일시: 2025년 4월 24일(목) 오전 2시 ~ 3시 50분<br/>
-                                                                - 장소: 미정
+                                                                - 일시: 2025년 4월 24일(목) 오전 9시 ~ 10시 50분<br/>
+                                                                - 장소: 2공학관 403호
                                                                 </strong>
                                                             </td>
                                                         </tr>
@@ -443,7 +443,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            Lecture Room: 403호
+                                                            Lecture Room: 316호
                                                         </li>
                                                         <li>
                                                             수업조교(TA):
