@@ -111,11 +111,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <td>
                                                                     [RSS 2020] <a href="https://roboticsconference.org/2020/program/papers/64.html" target="_blank">Learning Agile Robotic Locomotion Skills by Imitating Animals</a> (사아밀러 밀러)
                                                                     <a href="https://www.dropbox.com/scl/fi/stz7n7o0d9z1bio2o4pj5/Sarmilah-Milah-2431036033.pptx?rlkey=nauk07sbt5drlh00y4ofo5f7j&dl=0" target="_blank">
-                                                                        <span class="badge badge-category">발표 자료</span>
+                                                                        <span class="badge badge-info">발표 자료</span>
                                                                     </a><br/>
                                                                     [CoRL 2020] <a href="https://proceedings.mlr.press/v100/xie20a.html" target="_blank">Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</a> (권성민)
                                                                     <a href="https://www.dropbox.com/scl/fi/fd3k1fm2oyywg6u7yqxi4/_Learning-Locomotion-Skills-for-Cassie-Iterative-Design-and-Sim-to-Real.pptx?rlkey=kj0qee9094d8tdx1x2c9d815i&dl=0" target="_blank">
-                                                                        <span class="badge badge-category">발표 자료</span>
+                                                                        <span class="badge badge-info">발표 자료</span>
                                                                     </a><br/>
                                                                 </td>
                                                                 <td></td>
@@ -132,6 +132,9 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <td>
                                                                     [RSS 2021] <a href="https://ashish-kmr.github.io/rma-legged-robots/" target="_blank">RMA: Rapid Motor Adaptation for Legged Robots</a><br/>
                                                                     [IROS 2022] <a href="https://ashish-kmr.github.io/a-rma/" target="_blank">Adapting Rapid Motor Adaptation for Bipedal Robots</a> (김중길)
+                                                                    <a href="https://www.dropbox.com/scl/fi/awo0s3qzx1iq2gitt3qy2/20250405_Adapting-Rapid-Motor-Adaptation-for-Bipedal-Robots_.pptx?rlkey=emczrse57legw9drt83ufakqz&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                    </a>
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
