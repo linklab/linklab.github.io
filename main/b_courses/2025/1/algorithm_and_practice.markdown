@@ -168,7 +168,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 학습인정기한: 2025. 04. 11
                                                                 <br/> - 출석인정날짜: 2025. 04. 03
                                                                 <br/>
-                                                                [NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분)
+                                                                <strong>[NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분, 2공학관 316호)</strong>
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
@@ -220,7 +220,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 학습인정기한: 2025. 04. 25
                                                                 <br/> - 출석인정날짜: 2025. 04. 17
                                                                 <br/>
-                                                                [NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분)
+                                                                <strong>[NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분, 2공학관 316호)</strong>
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
