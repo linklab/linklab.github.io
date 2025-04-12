@@ -167,6 +167,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 9.선택 알고리즘 (47:17)
                                                                 <br/> - 학습인정기한: 2025. 04. 11
                                                                 <br/> - 출석인정날짜: 2025. 04. 03
+                                                                <br/>
+                                                                [NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분)
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
@@ -217,6 +219,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 14.해시 테이블의 충돌 해결 방법 (46:57)
                                                                 <br/> - 학습인정기한: 2025. 04. 25
                                                                 <br/> - 출석인정날짜: 2025. 04. 17
+                                                                <br/>
+                                                                [NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분)
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
