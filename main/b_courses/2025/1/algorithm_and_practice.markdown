@@ -219,12 +219,10 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2025. 04. 17
                                                             </td>
                                                             <td>
-<!--
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/rzml0icytd01hnc/homework_3.pdf?dl=0" target="_blank">[Practice & Homework #3]</a>
+                                                                <a style="font-weight: bold" href="https://www.dropbox.com/scl/fi/t3ngd10uh85w8glhukfwk/homework_3.pdf?rlkey=wgylxieah02va6bxjwprtp3eh&dl=0" target="_blank">[Practice & Homework #3]</a>
                                                                 <br/>
-                                                                Due Date: 04월 21일 (목요일), 23시 59분
--->
+                                                                Due Date: 04월 23일 (수요일), 23시 59분
                                                             </td>
                                                         </tr>
                                                         <tr>
