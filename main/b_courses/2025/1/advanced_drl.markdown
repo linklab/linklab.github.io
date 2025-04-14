@@ -148,9 +148,12 @@ permalink: /courses/2025/1/advanced_drl
                                                                     [Science Robotics 2023] <a href="https://leggedrobotics.github.io/rl-perceptiveloco/" target="_blank">Learning Robust Perceptive Locomotion for Quadrupedal Robots in The Wild</a> (유재민)
                                                                      <a href="https://www.dropbox.com/scl/fi/fo7dintau6mp81f9fowg4/YJM_RL_paper_review.pptx?rlkey=8k09jm96sqp728pp2p3qmng25&dl=0" target="_blank">
                                                                         <span class="badge badge-info">발표 자료</span>
-                                                                    </a>
+                                                                     </a>
                                                                     <br/>
                                                                     [ICLR 2022] <a href="https://rchalyang.github.io/LocoTransformer/" target="_blank">Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers</a> (최요한)
+                                                                     <a href="https://www.dropbox.com/scl/fi/0nca07eyip7qz8p4cbpas/Learning-Vision-Guided-Quadrupedal-Locomotion-End-to-End-with-Cross-Modal-Transformers.pdf?rlkey=4bdbmhdmbtkb1dmlofdqj5tez&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
