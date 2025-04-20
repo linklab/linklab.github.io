@@ -159,6 +159,9 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <td>04월 21일(월)</td>
                                                                 <td>
                                                                     - Variational AE (VAE) and ELBO
+                                                                    <a href="https://www.dropbox.com/scl/fi/e49jxj84frquidb1h5jmy/RL_3_vae_elbo.pdf?rlkey=qdyentibh2fvjt1c348oq2h0p&dl=0" target="_blank">
+                                                                        <span class="badge badge-warning">강의 노트</span>
+                                                                    </a>
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://gmargo11.github.io/dribblebot/" target="_blank">DribbleBot: Dynamic Legged Manipulation in the Wild</a><br/>
