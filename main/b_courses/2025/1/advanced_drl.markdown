@@ -168,8 +168,15 @@ permalink: /courses/2025/1/advanced_drl
                                                                 </td>
                                                                 <td>
                                                                     [ICRA 2023] <a href="https://gmargo11.github.io/dribblebot/" target="_blank">DribbleBot: Dynamic Legged Manipulation in the Wild</a><br/>
-                                                                    [CoRL 2023] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a> (석영준)<br/>
+                                                                    [CoRL 2023] <a href="https://xbpeng.github.io/projects/GenLoco/index.html" target="_blank">GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</a> (석영준)
+                                                                     <a href="https://www.dropbox.com/scl/fi/a1ye49ywt0mj5taspc5bx/GenLoco.pptx?rlkey=cs6kwk3x1imyuyiemizvux573&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
+                                                                    <br/>
                                                                     [Science Robotics 2023] <a href="https://www.science.org/doi/10.1126/scirobotics.ade2256" target="_blank">Learning Quadrupedal Locomotion on Deformable Terrain</a> (조근우)
+                                                                     <a href="https://www.dropbox.com/scl/fi/2pe6x9zv5uqclb8h9yzqy/20250421_-_Learning-quadrupedal-locomotion-on-deformable-terrain_.pptx?rlkey=r1jpfp3xf6rukorwqgmmvxw7u&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
