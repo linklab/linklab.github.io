@@ -237,7 +237,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             <td>
                                                                 [07] 해시 테이블
                                                                 <a href="https://www.dropbox.com/scl/fi/0ayv0g7r4jndef2wnyh6t/07_.pdf?rlkey=9dx7wxog87xrwf3tpxl5etxe9&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
                                                             <td>
