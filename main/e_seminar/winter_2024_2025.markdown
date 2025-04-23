@@ -51,7 +51,7 @@ permalink: /seminar/undergraduate/winter_2024_2025
                                         <br/>
                                         <li> 1월  20일 (월): <strong>CHAPTER 3 Deep Q-Learning with Atari Games</strong> - 강대건</li>
                                         <br/>
-                                        <li> 1월  23일 (목): <strong>CHAPTER 4 Policy Gradient with PyTorch</strong> - 김성재</li>                    
+                                        <li> 1월  23일 (목): <strong>CHAPTER 4 Policy Gradient with PyTorch</strong> - 김성재</li>
                                         <br/>
                                         <li> 1월  27일 (월): <strong>설날</strong></li>
                                         <br/>
@@ -60,7 +60,7 @@ permalink: /seminar/undergraduate/winter_2024_2025
                                         <li> 2월  10일 (월): <strong>CHAPTER 6 Actor Critic methods with Robotics environments</strong> - 김민준</li>
                                         <br/>
                                         <li> 2월  13일 (목): <strong>CHAPTER 7 Introduction to Multi-Agents and AI vs AI</strong> - 김진성, 전효석</li>
-                                        <br/>                                        
+                                        <br/>
                                         <li> 2월  17일 (월): <strong>CHAPTER 8 Part 1 Proximal Policy Optimization (PPO)</strong> - 강대건, 김성재</li>
                                         <br/>
                                         <li> 2월  24일 (월): <strong>CHAPTER 9 Part 2 Proximal Policy Optimization (PPO) with Doom</strong> - 김민준, 윤정민</li>

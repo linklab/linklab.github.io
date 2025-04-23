@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>4월 23일 (수) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Agarwal, Ananye, et al. "Legged locomotion in challenging terrains using egocentric vision." Conference on robot learning (CoRL), 2022.
+                    </strong>
+                    <a href="https://vision-locomotion.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>4월 16일 (수) 논문 세미나 – 아셀
                     <br/>
                     <strong>
