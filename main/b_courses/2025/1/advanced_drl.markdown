@@ -187,7 +187,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - Variational AE (VAE) and ELBO
                                                                 </td>
                                                                 <td>
-                                                                    [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a> (김민준)<br/>
+                                                                    [ICRA 2023] <a href="https://ieeexplore.ieee.org/document/10161144" target="_blank">DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination</a> (김민준)
+                                                                     <a href="https://www.dropbox.com/scl/fi/2b527ar1jodav70q4uwzj/DreamWaQ_seminar_20250428.pptx?rlkey=8ur3kxelzixaat19url2gmpa4&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
+                                                                    <br/>
                                                                     [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a> (유연휘)<br/>
                                                                     [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a>
                                                                 </td>
