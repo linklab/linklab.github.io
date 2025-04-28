@@ -192,7 +192,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                         <span class="badge badge-info">발표 자료</span>
                                                                      </a>
                                                                     <br/>
-                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a> (유연휘)<br/>
+                                                                    [IJRR 2024] <a href="https://journals.sagepub.com/doi/full/10.1177/02783649241285161" target="_blank">Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control</a> (유연휘)
+                                                                     <a href="https://www.dropbox.com/scl/fi/tjvqyvwtlts25l3qlooot/Reinforcement-Learning-for-Versatile-Dynamic-and-Robust-Bipedal-Locomotion-Control.pptx?rlkey=55ygrzr34pi5xbibp8psgw28e&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
+                                                                    <br/>
                                                                     [CoRL 2023] <a href="https://general-navigation-models.github.io/vint/" target="_blank">ViNT: A Foundation Model for Visual Navigation</a>
                                                                 </td>
                                                                 <td></td>
