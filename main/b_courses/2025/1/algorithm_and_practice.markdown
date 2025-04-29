@@ -260,8 +260,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [08] 집합의 처리
-                                                                <a href="https://www.dropbox.com/s/5vmcduy1zxwardw/08_%EC%A7%91%ED%95%A9%EC%9D%98%20%EC%B2%98%EB%A6%AC.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/9kxftl6w0fs9gb66a301m/08_.pdf?rlkey=mlidacp5ltvfj60vjl6mnpvij&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
                                                             <td>
