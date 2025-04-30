@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>4월 30일 (수) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Roik, J., Bartkiewicz, K., Černoch, A. et al. "Routing in quantum communication networks using reinforcement machine learning". Quantum Inf Process 23, 89 (2024).
+                    </strong>
+                    <a href="https://vision-locomotion.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>4월 23일 (수) 논문 세미나 – 최요한
                     <br/>
                     <strong>
