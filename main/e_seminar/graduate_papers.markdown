@@ -13,7 +13,7 @@ permalink: /seminar/graduate
                     <strong>
                         Roik, J., Bartkiewicz, K., Černoch, A. et al. "Routing in quantum communication networks using reinforcement machine learning". Quantum Inf Process 23, 89 (2024).
                     </strong>
-                    <a href="https://vision-locomotion.github.io/">
+                    <a href="https://link.springer.com/article/10.1007/s11128-024-04287-z#citeas">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
