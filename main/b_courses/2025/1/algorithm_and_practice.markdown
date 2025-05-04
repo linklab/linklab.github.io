@@ -282,7 +282,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [09-1] 동적 프로그래밍 - I
-                                                                <a href="https://www.dropbox.com/s/tn82qtb1zf5mw1w/09_%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.pdf?dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/e2dxn4ry87zj0sglv30zj/09_.pdf?rlkey=rtv8pkfb00dgwemd8vkoxvuje&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
