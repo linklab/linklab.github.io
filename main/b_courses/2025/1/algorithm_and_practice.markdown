@@ -301,6 +301,10 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [09-2] 동적 프로그래밍 - II
+                                                                [10-1] 그래프 알고리즘 - I 
+                                                                <a href="https://www.dropbox.com/s/u9yucsz4ynrpxtv/10_%EA%B7%B8%EB%9E%98%ED%94%84.pdf?dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 18.그래프 알고리즘의 원리 (47:41)
@@ -318,7 +322,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 05월 20일(화)<br/>Online-class: 05월 22일(목)
                                                             </td>
                                                             <td>
-                                                                [10-1] 그래프 알고리즘 - I
+                                                                [10-1] 그래프 알고리즘 - II
                                                                 <a href="https://www.dropbox.com/s/u9yucsz4ynrpxtv/10_%EA%B7%B8%EB%9E%98%ED%94%84.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
