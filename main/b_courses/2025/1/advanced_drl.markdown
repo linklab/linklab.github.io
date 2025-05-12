@@ -229,18 +229,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">12</th>
                                                                 <td>05월 19일(월)</td>
                                                                 <td>
-                                                                    - Deep Deterministic Policy Gradient (DDPG)<br/>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                    - Twin Delayed Deep Deterministic Policy Gradient (TD3)<br/>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
-                                                                        </li>
-                                                                    </ul>
+                                                                    - DQN to PPO
                                                                 </td>
                                                                 <td>
                                                                     [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a> (아셀)<br/>
@@ -261,6 +250,25 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">13</th>
                                                                 <td>05월 26일(월)</td>
                                                                 <td>
+                                                                    - DDPG, TD3, SAC
+                                                                </td>
+                                                                <td>
+                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a> (최대준)<br/>
+                                                                    [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a> (이태민)
+                                                                </td>
+                                                                <td>
+                                                                    - Deep Deterministic Policy Gradient (DDPG)<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous Control with Deep Reinforcement Learning</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                    - Twin Delayed Deep Deterministic Policy Gradient (TD3)<br/>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+                                                                        </li>
+                                                                    </ul>
                                                                     - Soft Actor-Critic (SAC)<br/>
                                                                     <ul>
                                                                         <li>
@@ -268,17 +276,12 @@ permalink: /courses/2025/1/advanced_drl
                                                                         </li>
                                                                     </ul>
                                                                 </td>
-                                                                <td>
-                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a> (최대준)<br/>
-                                                                    [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a> (이태민)
-                                                                </td>
-                                                                <td></td>
                                                             </tr>
                                                             <tr>
                                                                 <th scope="row">14</th>
                                                                 <td>06월 02일(월)</td>
                                                                 <td>
-                                                                    - Offline RL
+                                                                    - DDPG, TD3, SAC
                                                                 </td>
                                                                 <td>
                                                                     [CoRL 2023] <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> (남태민)<br/>
@@ -290,18 +293,20 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">15</th>
                                                                 <td>06월 09일(월)</td>
                                                                 <td>
-                                                                    - Imitation Learning<br/>
+                                                                    - Imitation Learning & Offline RL
+                                                                </td>
+                                                                <td>
+                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)<br/>
+                                                                    [ICRA 2024] <a href="https://robotics-transformer-x.github.io/" target="_blank">RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a>
+                                                                </td>
+                                                                <td>
+                                                                    - Imitation Learning
                                                                     <ul>
                                                                         <li>
                                                                             <a href="https://ieeexplore.ieee.org/document/10602544" target="_blank">A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges</a>
                                                                         </li>
                                                                     </ul>
                                                                 </td>
-                                                                <td>
-                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)<br/>
-                                                                    [ICRA 2024] <a href="https://robotics-transformer-x.github.io/" target="_blank">RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a>
-                                                                </td>
-                                                                <td></td>
                                                             </tr>
                                                             <tr>
                                                                 <th scope="row">16</th>
