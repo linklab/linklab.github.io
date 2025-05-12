@@ -210,21 +210,17 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">11</th>
                                                                 <td>05월 12일(월)</td>
                                                                 <td>
-                                                                    - Deep Q Network (DQN) <br/>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
-                                                                        </li>
-                                                                    </ul>
-                                                                    - Double DQN (DDQN) <br/>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
-                                                                        </li>
-                                                                    </ul>                           
+                                                                    - DQN to PPO <br/>
+                                                                    <a href="https://www.dropbox.com/scl/fi/h66awmp6gwejb50kz87ds/RL_4_dqn_to_ppo.pdf?rlkey=4vrx90ssr1oixvpv0g7lw0p16&dl=0" target="_blank">
+                                                                        <span class="badge badge-warning">강의 노트</span>
+                                                                    </a>
                                                                 </td>
                                                                 <td>
-                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)<br/>
+                                                                    [CoRL 2022] <a href="https://robotics-transformer1.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> (조재민)
+                                                                     <a href="https://www.dropbox.com/scl/fi/ltphziasl75otf0cdvff5/250512-RT-1-_.pptx?rlkey=q52eeco15nhm65hf0hmhdfnu6&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
+                                                                     <br/>
                                                                     [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a> (장연재)
                                                                 </td>
                                                                 <td></td>
