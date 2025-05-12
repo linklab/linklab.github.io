@@ -41,7 +41,7 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        지창훈 박사과정생, [축] Neural Computing and Applications 저널에 심층강화학습 개선 논문 게재 확정 (논문제목: Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control)
+                                        지창훈 박사과정생, [축] Neural Computing and Applications 저널에 심층강화학습 개선 논문 게재 확정 (논문제목: Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control) [<a href="https://link.springer.com/article/10.1007/s00521-025-11252-z">논문 출판 링크</a>]
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="01" day="27">
