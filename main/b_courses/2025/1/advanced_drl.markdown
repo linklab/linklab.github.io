@@ -222,6 +222,9 @@ permalink: /courses/2025/1/advanced_drl
                                                                      </a>
                                                                      <br/>
                                                                     [IROS 2022] <a href="https://ieeexplore.ieee.org/document/9982241" target="_blank">COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems</a> (장연재)
+                                                                     <a href="https://www.dropbox.com/scl/fi/p6ybssm4vl09xfb2ihtzd/250512-COMPASS-2531036010.pptx?rlkey=6wslwuco1bynq97hzhwxhm5rn&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
                                                                 </td>
                                                                 <td></td>
                                                             </tr>
