@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>5월 14일 (수) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Garg, Divyansh, et al. "Iq-learn: Inverse soft-q learning for imitation." Advances in Neural Information Processing Systems 34 (2021): 4028-4039.
+                    </strong>
+                    <a href="https://proceedings.nips.cc/paper/2021/file/210f760a89db30aa72ca258a3483cc7f-Paper.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>4월 30일 (수) 논문 세미나 – 석영준
                     <br/>
                     <strong>
