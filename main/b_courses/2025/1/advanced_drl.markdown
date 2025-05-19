@@ -239,6 +239,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                      <a href="https://www.dropbox.com/scl/fi/23r6qq03wlqqjv1jk5q0w/Asel_ppt_19_05_2025.pptx?rlkey=qcy5a7wc23yvh2ymt1ml878kg&dl=0" target="_blank">
                                                                         <span class="badge badge-info">발표 자료</span>
                                                                      </a>
+                                                                    <br/>
                                                                     [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a> (윤호영)
                                                                      <a href="https://www.dropbox.com/scl/fi/zocdbej9y5ersjmq809fp/20250519-DayDreamer-World-Models-for-Physical-Robot-Learning.pptx?rlkey=4vstvgaotl90v8elzco5k7ozu&dl=0" target="_blank">
                                                                         <span class="badge badge-info">발표 자료</span>
