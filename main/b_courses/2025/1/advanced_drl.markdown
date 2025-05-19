@@ -237,6 +237,9 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <td>
                                                                     [DeepMind 2022] <a href="https://deepmind.google/discover/blog/a-generalist-agent/" target="_blank">GATO: A Generalist Agent</a> (아셀)<br/>
                                                                     [CoRL 2022] <a href="https://danijar.com/project/daydreamer/" target="_blank">DayDreamer: World Models for Physical Robot Learning</a> (윤호영)
+                                                                     <a href="https://www.dropbox.com/scl/fi/zocdbej9y5ersjmq809fp/20250519-DayDreamer-World-Models-for-Physical-Robot-Learning.pptx?rlkey=4vstvgaotl90v8elzco5k7ozu&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
                                                                 </td>
                                                                 <td>
                                                                     <div style="margin-left: 1.0em">
