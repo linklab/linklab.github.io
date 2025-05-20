@@ -323,8 +323,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [10-1] 그래프 알고리즘 - II
-                                                                <a href="https://www.dropbox.com/s/u9yucsz4ynrpxtv/10_%EA%B7%B8%EB%9E%98%ED%94%84.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/w4zetk2fo5kp70z7bp3k6/10_-_2.pdf?rlkey=qjwtutcin6qv9zpzxxk13j7xq&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
