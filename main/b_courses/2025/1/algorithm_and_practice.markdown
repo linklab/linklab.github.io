@@ -359,7 +359,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [12] (생략)
                                                             </td>
                                                             <td>
-              23.P와 NP문제 (44:36)
+                                                                23.P와 NP문제 (44:36)
                                                                 <br/>
                                                                 24.NP-완비 문제 (44:22)
                                                                 <br/> - 학습인정기한: 2025. 06. 06
