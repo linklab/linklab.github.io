@@ -328,7 +328,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 </a>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
-                                                                    - <a href="https://www.dropbox.com/s/9pz1rhtv0ie9j0u/minimum_spanning_tree.py?dl=0" target="_blank">minimum_spanning_tree.py</a>
+                                                                    - <a href="https://www.dropbox.com/s/9pz1rhtv0ie9j0u/minimum_spanning_tree.py?dl=0" target="_blank">minimum_spanning_tree.py</a><br/>
                                                                     - <a href="https://www.dropbox.com/s/mysij8yoj2y73cj/shortest_path.py?dl=0" target="_blank">shortest_path.py</a>
                                                                 </div>
                                                             </td>
