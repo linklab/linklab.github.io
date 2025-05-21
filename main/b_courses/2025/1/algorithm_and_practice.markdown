@@ -322,13 +322,14 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 05월 20일(화)<br/>Online-class: 05월 22일(목)
                                                             </td>
                                                             <td>
-                                                                [10-1] 그래프 알고리즘 - II
+                                                                [10-2] 그래프 알고리즘 - II
                                                                 <a href="https://www.dropbox.com/scl/fi/w4zetk2fo5kp70z7bp3k6/10_-_2.pdf?rlkey=qjwtutcin6qv9zpzxxk13j7xq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <div class="btn btn-outline-primary text-left" style="width: 100%">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/9pz1rhtv0ie9j0u/minimum_spanning_tree.py?dl=0" target="_blank">minimum_spanning_tree.py</a>
+                                                                    - <a href="https://www.dropbox.com/s/mysij8yoj2y73cj/shortest_path.py?dl=0" target="_blank">shortest_path.py</a>
                                                                 </div>
                                                             </td>
                                                             <td>
@@ -337,12 +338,10 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 출석인정날짜: 2025. 05. 22
                                                             </td>
                                                             <td>
-<!--
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/0fayu84hsnlji2i/homework_4.pdf?dl=0" target="_blank">[Practice & Homework #4]</a>
+                                                                <a style="font-weight: bold" href="https://www.dropbox.com/scl/fi/n7ffy5v7cwwe164d5g5wg/homework_4.pdf?rlkey=az8i8li58zj0qegbk2pr2x3jf&dl=0" target="_blank">[Practice & Homework #4]</a>
                                                                 <br/>
-                                                                Due Date: 06월 03일 (금요일), 23시 59분
--->
+                                                                Due Date: 06월 01일 (일요일), 23시 59분
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -351,12 +350,6 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 [1분반]<br/> In-class: 05월 27일(화)<br/>Online-class: 05월 29일(목)
                                                             </td>
                                                             <td>
-                                                                [10-2] 그래프 알고리즘 - III
-                                                                <div class="btn btn-outline-primary text-left" style="width: 100%">
-                                                                    [Practice]<br/>
-                                                                    - <a href="https://www.dropbox.com/s/mysij8yoj2y73cj/shortest_path.py?dl=0" target="_blank">shortest_path.py</a>
-                                                                </div>
-                                                                <br/>
                                                                 [11] 그리디 알고리즘
                                                                 <a href="https://www.dropbox.com/s/i7xtowa59if7rdd/11_%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
