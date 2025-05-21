@@ -336,6 +336,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 20.그래프 알고리즘(최단경로, 강연결요소) (56:03)
                                                                 <br/> - 학습인정기한: 2025. 05. 29
                                                                 <br/> - 출석인정날짜: 2025. 05. 22
+                                                                <br/> [NOTE] 오프라인 수업 실시 (10시 ~ 10시 50분, 2공학관 316호)
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
