@@ -352,8 +352,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [11] 그리디 알고리즘
-                                                                <a href="https://www.dropbox.com/s/i7xtowa59if7rdd/11_%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/m9k7tl5s9yi4y7gblodz9/11_.pdf?rlkey=l66s795xsir71z94y3ejp1e4b&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <br/>
                                                                 [12] (생략)
