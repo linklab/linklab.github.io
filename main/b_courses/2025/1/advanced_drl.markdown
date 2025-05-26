@@ -263,7 +263,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - DDPG, TD3, SAC
                                                                 </td>
                                                                 <td>
-                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a> (최대준)<br/>
+                                                                    [NIPS 2022] <a href="https://openai.com/index/vpt/" target="_blank">Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</a> (최대준)
+                                                                     <a href="https://www.dropbox.com/scl/fi/40mok16jmw9ay6a40wm9n/2432036008_-_VPT.pptx?rlkey=pmqd16j704iqsli0h75qqn2q6&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                     </a>
+                                                                    <br/>
                                                                     [DeepMind 2023] <a href="https://deepmind.google/discover/blog/robocat-a-self-improving-robotic-agent/" target="_blank">RoboCat: A Self-Improving Generalist Agent for Robotic Manipulation</a> (이태민)
                                                                      <a href="https://www.dropbox.com/scl/fi/8g4diax1sz6l6ad0l2zmq/RoboCat-A-Self-Improving-Generalist-Agent-For-Robotic-Manipulation_.pptx?rlkey=3gii4yac7vvg7jp7ry75syrg0&dl=0" target="_blank">
                                                                         <span class="badge badge-info">발표 자료</span>
