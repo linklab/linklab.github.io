@@ -260,7 +260,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">13</th>
                                                                 <td>05월 26일(월)</td>
                                                                 <td>
-                                                                    - DDPG, TD3, SAC<br/>>
+                                                                    - DDPG, TD3, SAC<br/>
                                                                     <a href="https://www.dropbox.com/scl/fi/4plfgrxjo055yxtxrctoh/RL-5_ddpg_td3.pdf?rlkey=4rtniqbbm30x3zkt5mdoea3gb&dl=0" target="_blank">
                                                                         <span class="badge badge-warning">강의 노트</span>
                                                                     </a>
