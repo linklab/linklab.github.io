@@ -310,7 +310,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                 <th scope="row">15</th>
                                                                 <td>06월 09일(월)</td>
                                                                 <td>
-                                                                    - Imitation Learning & Offline RL
+                                                                    - 기말고사
                                                                 </td>
                                                                 <td>
                                                                     [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)<br/>
@@ -325,12 +325,14 @@ permalink: /courses/2025/1/advanced_drl
                                                                     </ul>
                                                                 </td>
                                                             </tr>
+<!--
                                                             <tr>
                                                                 <th scope="row">16</th>
                                                                 <td>06월 16일(월)</td>
                                                                 <td COLSPAN="2">기말 고사</td>
                                                                 <td></td>
                                                             </tr>
+-->
                                                         </tbody>
                                                     </table>
                                                     <br/>
