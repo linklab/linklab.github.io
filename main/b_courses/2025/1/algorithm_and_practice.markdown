@@ -386,7 +386,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <br/> - 학습인정기한: 2025. 06. 13
                                                                 <br/> - 출석인정날짜: 2025. 06. 05
                                                                 <br/>
-                                                                <strong>오프라인 강의 (오전 9시 ~ 10시 50분)</strong>
+                                                                <strong>[NOTE] 오프라인 수업 실시 (09시 ~ 10시 50분, 2공학관 316호)</strong>
                                                             </td>
                                                             <td>
 <!--
