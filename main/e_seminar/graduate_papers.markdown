@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>6월 05일 (목) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        Fayyaz, Anoosha, et al. "On Selecting Paths for End-to-End Entanglement Creation in Quantum Networks." arXiv preprint arXiv:2505.02283 (2025).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2505.02283">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>5월 28일 (수) 논문 세미나 – 김민준
                     <br/>
                     <strong>
