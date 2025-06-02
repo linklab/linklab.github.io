@@ -304,7 +304,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - DDPG, TD3, SAC
                                                                 </td>
                                                                 <td>
-                                                                    [CoRL 2023] <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> (남태민)<br/>
+                                                                    [CoRL 2023] <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> (남태민)
+                                                                    <a href="https://www.dropbox.com/scl/fi/yjyf9942abwb2nt891hsz/250602-RT-2-Vision-Language-Action-Models-Transfer-Web-Knowledge-to-Robotic-Control.pptx?rlkey=r8hk22okhseieigdj1n22ruwb&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                    </a>
+                                                                    <br/>
                                                                     [ICML 2023] <a href="https://penn-pal-lab.github.io/LIV/" target="_blank">LIV: Language-Image Representations and Rewards for Robotic Control</a> (김재홍)
                                                                 </td>
                                                                 <td></td>
