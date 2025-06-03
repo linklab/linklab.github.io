@@ -389,12 +389,10 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <strong>[NOTE] 오프라인 수업 실시 (09시 ~ 10시 50분, 2공학관 316호)</strong>
                                                             </td>
                                                             <td>
-<!--
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/blxdc9v22clhhdl/homework_5.pdf?dl=0" target="_blank">[Practice & Homework #5]</a>
+                                                                <a style="font-weight: bold" href="https://www.dropbox.com/scl/fi/23zyqg2ijhjf4ul79swyp/homework_5.pdf?rlkey=ppacgkyw1oao49w92y9rskw9o&dl=0" target="_blank">[Practice & Homework #5]</a>
                                                                 <br/>
                                                                 Due Date: 06월 15일 (수요일), 23시 59분
--->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -404,8 +402,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [14] 상태 공간 트리의 탐색
-                                                                <a href="https://www.dropbox.com/s/yv78quoim5tw7z0/14_%EC%83%81%ED%83%9C%20%EA%B3%B5%EA%B0%84%20%ED%8A%B8%EB%A6%AC%EC%9D%98%20%ED%83%90%EC%83%89.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/ezdp1hf2q7bx5b1ex4dy3/14_-_2025.pdf?rlkey=s9fgrr1y4h38k0sh9af4daq2i&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
                                                             <td>
