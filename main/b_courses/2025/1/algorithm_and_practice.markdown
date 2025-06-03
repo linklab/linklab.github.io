@@ -375,8 +375,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [13] P문제/NP문제/NP-완비 문제
-                                                                <a href="https://www.dropbox.com/s/e7g5l893htzf7z2/13_NP-%EC%99%84%EB%B9%84.pdf?dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/rl6htsvt46u7devio0bd2/13_NP-_2025.pdf?rlkey=p18ytjmmug5psbwpkuejkjb23&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                                 <br/>
                                                                 <strong>휴강 - 대통령 선거</strong>
