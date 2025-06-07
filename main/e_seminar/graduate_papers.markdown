@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>6월 11일 (수) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Peng Xu, Xiatian Zhu, and David A. Clifton, et al. "Multimodal Learning With Transformers: A Survey." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/10123038">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>6월 05일 (목) 논문 세미나 – 석영준
                     <br/>
                     <strong>
