@@ -320,7 +320,11 @@ permalink: /courses/2025/1/advanced_drl
                                                                     - 기말고사
                                                                 </td>
                                                                 <td>
-                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)<br/>
+                                                                    [IROS 2023] <a href="https://www.microsoft.com/en-us/research/articles/perception-action-causal-transformer-for-autoregressive-robotics-pretraining/" target="_blank">PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training</a> (살램 아니사)
+                                                                    <a href="https://www.dropbox.com/scl/fi/xcmrrjwbsns1098vxeoy9/2025.06.09-Anisa_PACT.pptx?rlkey=gt54g2nloosd8ox1eqitb218m&dl=0" target="_blank">
+                                                                        <span class="badge badge-info">발표 자료</span>
+                                                                    </a>
+                                                                    <br/>
                                                                     [ICRA 2024] <a href="https://robotics-transformer-x.github.io/" target="_blank">RT-2-X: Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a>
                                                                 </td>
                                                                 <td>
