@@ -406,8 +406,8 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                     <span class="badge badge-warning">강의 노트 - 2025</span>
                                                                 </a>
                                                             </td>
-                                                            <td>
-                                                                                                               </td>
+                                                            <td><br/>
+                                                                <strong>[NOTE] 오프라인 수업 실시 (09시 30분 ~ 10시 50분, 2공학관 316호)</strong>                                           </td>
                                                             <td>
                                                             </td>
                                                         </tr>
