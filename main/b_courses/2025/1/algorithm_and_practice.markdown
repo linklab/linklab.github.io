@@ -420,7 +420,7 @@ permalink: /courses/2025/1/algorithm_and_practice
                                                                 <strong>
                                                                     <i class="fas fa-bookmark"></i> 기말 고사<br/>
                                                                     - 일시: 2025년 6월 17일(화) 오후 2시 ~ 3시 50분<br/>
-                                                                    - 장소: 미정<br/>
+                                                                    - 장소: 2공학관 403호<br/>
                                                                 </strong>
                                                                 </td>
                                                                 <td>
