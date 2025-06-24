@@ -59,7 +59,7 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        한연희 교수는 대한민국 인터넷 기술 관련 대표 워크샵인 제33회 KRNET 2025에서 "인터넷 기술표준 동향" 세션에서 Quantum Internet 표준 기술 발표를 수행함 (발표 제목: IETF/IRTF Quantum Internet RG의 양자 네트워크 표준화 현황)
+                                        한연희 교수는 대한민국 인터넷 기술 관련 대표 워크샵인 제33회 KRNET 2025의 "인터넷 기술표준 동향" 세션에서 Quantum Internet 표준 기술 발표를 수행함 (발표 제목: IETF/IRTF Quantum Internet RG의 양자 네트워크 표준화 현황)
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="06" day="10">
