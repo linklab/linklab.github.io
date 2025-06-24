@@ -53,6 +53,15 @@ permalink: /news/
                                         지창훈 박사과정생, [축] 한국정보과학회 하계학술대회 (KCC) 2025 에서 우수논문상 수상 (논문 제목: 다중 경로 전략 데이터를 활용한 Decision Transformer 기반 안전성-효율성 조절형 드론 경로 계획 알고리즘)
                                     </td>
                                 </tr>
+                                <tr class="news" year="2025" month="06" day="24">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 24, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        한연희 교수는 대한민국 인터넷 기술 관련 대표 워크샵인 제33회 KRNET 2025에서 "인터넷 기술표준 동향" 세션에서 Quantum Internet 표준 기술 발표를 수행함 (발표 제목: IETF/IRTF Quantum Internet RG의 양자 네트워크 표준화 현황)
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="06" day="10">
                                     <td class="text-md-right" style="width: 20%">
                                         June 10, 2025
