@@ -35,6 +35,24 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="06" day="24">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 24, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        지창훈 박사과정생, [축] 한국정보과학회 하계학술대회 (KCC) 2025 에서 우수논문상 수상 (논문 제목: 다중 경로 전략 데이터를 활용한 Decision Transformer 기반 안전성-효율성 조절형 드론 경로 계획 알고리즘)
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2025" month="06" day="10">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 10, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        지창훈 박사과정생, [축] 로봇 분야 Top Conference 중 하나인 IROS (International Conference on Intelligent Robots and Systems) 2025에 제출한 논문에 대해 Oral Presentation으로 Accept (약 10% Accept Rate)되어 2025년 10월 중국 항저우에서 발표 예정 (논문 제목: Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs)
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="04" day="03">
                                     <td class="text-md-right" style="width: 20%">
                                         January 27, 2025
