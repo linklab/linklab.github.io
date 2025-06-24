@@ -31,7 +31,7 @@ permalink: /awards/
                                 </li>
                                 <br>
                             </ul>
-                            <h3 class = "title-level-3 year"> 2025 </h3>
+                            <br/>
                             <h4>2025년도 한국통신학회 동계종합학술발표회, 해동우수논문 장려상 (상금: 1백만원)</h4>
                             <ul>
                                 <li>Date: 2025.02.05</li>

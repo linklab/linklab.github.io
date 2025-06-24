@@ -35,6 +35,15 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="06" day="25">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 25, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        최요한 박사과정생, 김민준 석사과정생, 김진성 학사과정생이 제40회 제어로봇시스학회 학술대회 (ICROS) 2025에서 개최한 "4족보행 로봇 경진대회"에 본 랩실에서 소유하여 Locomotion 연구에 활용하고 있는 Unitree Go1을 사용하여 참가함
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="06" day="24">
                                     <td class="text-md-right" style="width: 20%">
                                         June 24, 2025
