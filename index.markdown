@@ -275,6 +275,33 @@ layout: page
           <div class="row">
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
+                      <iframe src="https://www.youtube.com/embed/SU9KPn4pf0o" style="width:90%;height:15.0em;margin: 1.7em" allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          Learning to Walk - Reinforcement Learning on Unitree Go1
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div class="youtube_div">
+                      <iframe src="https://www.youtube.com/embed/nexGfYkFzMY" style="width:90%;height:15.0em;margin: 1.7em" allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          Learning to Go Up and Down Stairs – Reinforcement Learning on Unitree Go1
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div class="youtube_div">
+                      <iframe src="https://www.youtube.com/embed/FNFEXJbEvsg" style="width:90%;height:15.0em;margin: 1.7em" allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          Remote Reconnaissance Robot Overview - Reinforcement Learning on Unitree Go1
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/ijdO3UNL4Bs"
                               style="width:90%;height:15.0em;margin: 1.7em"
                               allow="autoplay; encrypted-media" allowfullscreen="">
