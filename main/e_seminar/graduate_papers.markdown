@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>7월 03일 (목) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Kim, Hyeongjun, et al. "High-speed control and navigation for quadrupedal robots on complex and discrete terrain." Science Robotics, 2025.
+                    </strong>
+                    <a href="https://www.science.org/doi/10.1126/scirobotics.ads6192">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>6월 11일 (수) 논문 세미나 – 아셀
                     <br/>
                     <strong>
