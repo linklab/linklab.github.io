@@ -23,12 +23,13 @@ permalink: /awards/
                     <div class="row content">
                         <div style="padding:1.0em" class="content-wrapper">
                             <h3 class = "title-level-3 year"> 2025 </h3>
-                            <h4>2025년도 한국정보과학회 하계종합학술발표회 (KCC), 우수논문상</h4>
+                            <h4>2025년도 한국정보과학회 하계종합학술발표회 (KCC), 최우수논문상</h4>
                             <ul>
                                 <li>Date: 2025.06.24</li>
                                 <li>Title: 다중 경로 전략 데이터를 활용한 Decision Transformer 기반 안전성-효율성 조절형 드론 경로 계획 알고리즘<br/>
                                     - 지창훈(한국기술교육대학교), 송시운(충북대학교), 한연희(한국기술교육대학교), 문성태(충북대학교)
                                 </li>
+                                <a><a href="https://www.veritas-a.com/news/articleView.html?idxno=561838">신문기사</a></a></li>
                                 <br>
                             </ul>
                             <h4>2025년도 한국통신학회 동계종합학술발표회, 해동우수논문 장려상 (상금: 1백만원)</h4>
