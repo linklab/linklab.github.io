@@ -94,12 +94,14 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
                                                                 <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
                                                                 <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a><br/>
                                                                 - Zoom URL은 EL2 공지사항에 올려 놓았으며, 개별 문자로 발송하였습니다.
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -109,40 +111,18 @@ permalink: /courses/2025/2/dl
                                                                 - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
+                                                                <!--
                                                                 - <strong>Homework #1 (기한: 9월 24일 23시 59분)</strong>
                                                                 <a href="https://www.dropbox.com/scl/fi/nwzmqe2k821xw68alcc50/HW_1.pdf?rlkey=vzuz70oam6m4xgl2v55n6o2bh&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">3주차</th>
                                                             <th scope="row">-</th>
                                                             <td>09월 15일(월)</td>
-                                                            <td>
-                                                                휴강 (추석)
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">-</th>
-                                                            <td>09월 16일(화)</td>
-                                                            <td>
-                                                                휴강 (추석)<br/>
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/904hepgjv795hm4xqslhx/03.real_world_data_to_tensors.pdf?rlkey=65ogxa409dkn7w6d5017kwzuo&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a> 
-                                                                <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
-                                                                -->
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
-                                                            <th scope="row">05</th>
-                                                            <td>09월 22일(월)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation
                                                                 <a href="https://www.dropbox.com/scl/fi/61c2ixt4ewzl9avx9d34i/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=fv5toi194bt7y86ytavdaq0bl&dl=0" target="_blank">
@@ -153,8 +133,8 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">06</th>
-                                                            <td>09월 23일(화)</td>
+                                                            <th scope="row">-</th>
+                                                            <td>09월 16일(화)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation<br/>
                                                                 - 05. Autograd
@@ -166,9 +146,9 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
-                                                            <th scope="row">07</th>
-                                                            <td>09월 29일(월)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
+                                                            <th scope="row">05</th>
+                                                            <td>09월 22일(월)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
                                                                 <a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
@@ -176,17 +156,41 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">06</th>
+                                                            <td>09월 23일(화)</td>
+                                                            <td>
+                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
+                                                            <th scope="row">07</th>
+                                                            <td>09월 29일(월)</td>
+                                                            <td>
+                                                                - 07. Learning and Optimization
+                                                                <a href="https://www.dropbox.com/scl/fi/8orrnjc0dtzkx69qb0tyw/07.learning_and_optimization.pdf?rlkey=h8avhs2lz5n8qh0xdd5q9iajb&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                                <!--
                                                                 - <strong>Homework #2</strong> (기한: 10월 18일 23시 59분)
                                                                 <a href="https://www.dropbox.com/scl/fi/qvothe8meamsrlqmw5bmp/HW_2.pdf?rlkey=h3zt9ddbs3khfjwdpbo86pqz1&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">08</th>
                                                             <td>09월 30일(화)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                                - 07. Learning and Optimization
                                                             </td>
                                                             <td>
                                                             </td>
@@ -196,10 +200,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">09</th>
                                                             <td>10월 06일(월)</td>
                                                             <td>
-                                                                - 07. Learning and Optimization
-                                                                <a href="https://www.dropbox.com/scl/fi/8orrnjc0dtzkx69qb0tyw/07.learning_and_optimization.pdf?rlkey=h8avhs2lz5n8qh0xdd5q9iajb&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                추석 (휴강)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -208,12 +209,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">10</th>
                                                             <td>10월 07일(화)</td>
                                                             <td>
-                                                                휴강 (한글날)<br/>
-                                                                - 07. Learning and Optimization
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/nfhu8uva0lazzunl8r98u/05.fcn_and_training.pdf?rlkey=3md01x2y6a84msiadmrc0zlxf&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
-                                                                <span class="badge badge-danger">보강: Zoom 온라인 실시간 강의</span>
+                                                                추석 (휴강)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -304,10 +300,12 @@ permalink: /courses/2025/2/dl
                                                                 - 12. Advanced Techniques in Deep Learning
                                                             </td>
                                                             <td>
-                                                                - Homework #3 (기한: 11월 23일 (토))
+                                                                <!--
+                                                                - <strong>Homework #3 (기한: 11월 23일 (토))</strong>
                                                                 <a href="https://www.dropbox.com/scl/fi/s37k1lujp0ssb4zub0k0n/HW_3.pdf?rlkey=4nzyrkyuuny80nbenw8c1v4je&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -391,7 +389,8 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                - Homework #4 (기한: 12월 20일 (금))
+                                                                <!--
+                                                                - <strong>Homework #4 (기한: 12월 20일 (금))</strong>
                                                                 <a href="https://www.dropbox.com/scl/fi/3nlqw9qtbpl00vkm4dl5z/HW_4.pdf?rlkey=i8ladgdlx7ytx80ut5k0yw00n&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a><br/>
@@ -399,6 +398,7 @@ permalink: /courses/2025/2/dl
                                                                 <a href="https://www.dropbox.com/scl/fi/8slq7xt57867z35pq39sr/BTC_KRW.csv?rlkey=43z2fitbjh5kwsitz9tnoyji9&dl=0" target="_blank">
                                                                     <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
+                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
