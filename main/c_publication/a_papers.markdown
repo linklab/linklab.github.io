@@ -22,7 +22,7 @@ permalink: /publication/papers
                                            <h4 class="title-level-4 year">2025</h4>
                                             <p>C.-H. Ji, J.-B. Kim, Y.-H. Han  
                                                 "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control,</strong>"
-                                                Neural Computing and Applications, 2025, DOI: - (Accepted).
+                                                Neural Computing and Applications, 37, 14171–14187, 2025, https://doi.org/10.1007/s00521-025-11252-z.
                                             </p>
                                             <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee  
                                                 "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems,</strong>"
