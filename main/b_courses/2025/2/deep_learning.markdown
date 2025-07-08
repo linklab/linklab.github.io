@@ -274,7 +274,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">16</th>
                                                             <td>10월 28일(화)</td>
                                                             <td>
-                                                                - 11. Advanced Techniques in Deep Learning
+                                                                - 11. Advanced Techniques in Deep Learning - I
                                                                 <a href="https://www.dropbox.com/scl/fi/mbtta0ps49i84l7904yhs/11.diverse_techniques_1.pdf?rlkey=riilwiz9o2v34fck57gm1hi27&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -286,7 +286,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">17</th>
                                                             <td>11월 03일(월)</td>
                                                             <td>
-                                                                - 11. Advanced Techniques in Deep Learning
+                                                                - 11. Advanced Techniques in Deep Learning - I
                                                                 <a href="https://www.dropbox.com/scl/fi/xwj93euqte8mtyvryuyg2/12.diverse_techniques_2.pdf?rlkey=7zpzc2fp83c95hr22rgt5i4m4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -297,7 +297,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">18</th>
                                                             <td>11월 04일(화)</td>
                                                             <td>
-                                                                - 12. Advanced Techniques in Deep Learning
+                                                                - 12. Advanced Techniques in Deep Learning - II
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -313,7 +313,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">19</th>
                                                             <td>11월 10일(월)</td>
                                                             <td>
-                                                                - 13. Modern CNNs
+                                                                - 12. Advanced Techniques in Deep Learning - II
                                                                 <a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -339,10 +339,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">21</th>
                                                             <td>11월 17일(월)</td>
                                                             <td>
-                                                                - 14. Recurrent Neural Network (RNN)
-                                                                <a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                - 13. Modern CNNs
                                                             </td>
                                                             <td>
                                                             </td>
@@ -351,7 +348,10 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 18일(화)</td>
                                                             <td>
-                                                                - 휴강
+                                                                - 14. Recurrent Neural Network (RNN)
+                                                                <a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
