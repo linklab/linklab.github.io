@@ -17,7 +17,17 @@ permalink: /seminar/graduate
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
-                <br/>            
+                <br/>
+                <li>7월 10일 (목) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Haldar, Stav, et al. "Fast and reliable entanglement distribution with quantum repeaters: Principles for improving protocols using reinforcement learning." Physical Review Applied 21.2 (2024).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2303.00777">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>7월 03일 (목) 논문 세미나 – 최요한
                     <br/>
                     <strong>
