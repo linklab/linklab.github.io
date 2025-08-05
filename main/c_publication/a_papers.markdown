@@ -478,6 +478,11 @@ permalink: /publication/papers
                                         <button class="accordion">International Conferences and Workshops</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2024</h4>
+                                            <p> C.-H. Ji, S.n Song, Y.-H. Han, S.T. Moon,
+                                                "<strong>Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs,</strong>"
+                                                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 - Oral Presentation.
+                                            </p>
+                                            <h4 class="title-level-4 year">2024</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, N. U. Islam, C.-H. Ji, and Y.-H. Han,
                                                 "<strong>Graph-powered Reinforcement Learning for Intelligent Task Offloading in Vehicular Networks,</strong>"
                                                 2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2024.
