@@ -1004,13 +1004,19 @@ permalink: /publication/papers
                                     <article>
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
-                                            <h4 class="title-level-4 year">2024</h4>
+                                            <h4 class="title-level-4 year">2025</h4>
+                                            <p> 최요한, 김민준, Nurlanbek kyzy Asel, 김진성, 한연희, "<strong>사족보행 로봇 보행 제어를 위한 특권 정보 기반 교사 학생 학습 기법 비교</strong>," 2025 한국통신학회 하계종합학술대회, 2025. 06.
+                                            </p>
+                                            <p> 석영준, 지창훈, 강대건, 허주성, 한연희, "<strong>Decision Transformer를 활용한 양자 네트워크 요청 스케줄링 최적화</strong>," 2025 한국통신학회 하계종합학술대회, 2025. 07.
+                                            </p>
                                             <p> Nurlanbek kyzy Asel, 지창훈, 최요한, 허주성, 한연희, "<strong>Enhancing Training Performance and Stability using Asynchronous Proximal Policy Optimization</strong>," 2025 한국통신학회 동계종합학술대회, 2025. 02.
                                             </p>
                                             <p> 지창훈, 최요한, 석영준, 한연희, 문성태, "<strong>Decision Transformer를 활용한 드론 경로 생성 및 안전성과 효율성의 균형 조율</strong>," 2025 한국통신학회 동계종합학술대회, 2025. 02.
                                             </p>
                                             <p> 석영준, 최요한, 한연희, 이찬균, 이원혁, "<strong>양자네트워크에서 심층강화학습을 활용한 다중 요청 스케줄링 최적화</strong>," 2025 한국통신학회 동계종합학술대회, 2025. 02.
                                             </p>
+                                            <br/>
+                                            <h4 class="title-level-4 year">2024</h4>
                                             <p> 최요한, 지창훈, 석영준, 김평수, 한연희, "<strong>순환신경망과 트랜스포머 모델을 활용한 POMDP 환경에서의 강화학습 성능 개선에 관한 연구</strong>," 2024 제5회 한국인공지능학술대회, 2024. 09.
                                             </p>
                                             <p> 석영준, 김주봉, 허주성, NurlanbekkyzyAsel, 한연희, "<strong>QKD 네트워크에서 세션 블록 최소화를 위한 심층강화학습 기반 랜덤키 생성 최적화</strong>," 2024 한국통신학회 하계종합학술대회, 2024. 06.
