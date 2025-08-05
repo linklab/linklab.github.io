@@ -28,11 +28,11 @@ permalink: /publication/papers
                                                 "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems,</strong>"
                                                 Journal of Network and Systems Management, Vol. 33, No. 30, Feb. 2025, DOI: <a href="https://doi.org/10.1007/s10922-025-09902-7" target="_blank">10.1007/s10922-025-09902-7</a>.
                                             </p>
-                                            <h4 class="title-level-4 year">2024</h4>
                                             <p>I. Ullah and Y.-H. Han,
                                                 "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading,</strong>"
-                                                The Journal of Supercomputing, Vol. 81, 76, Oct. 2024, DOI: <a href="https://doi.org/10.1007/s11227-024-06599-4" target="_blank">10.1007/s11227-024-06599-4</a>.
+                                                The Journal of Supercomputing, Vol. 81, 76, 2025, DOI: <a href="https://doi.org/10.1007/s11227-024-06599-4" target="_blank">10.1007/s11227-024-06599-4</a>.
                                             </p>
+                                            <h4 class="title-level-4 year">2024</h4>
                                             <p>C.-H. Ji, G. Lim, Y.-H. Han, S. Moon,
                                                 "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer,</strong>"
                                                 IEEE Access, Oct. 2024, DOI: <a href="https://ieeexplore.ieee.org/document/10705302" target="_blank">10.1109/ACCESS.2024.3473935</a>.
@@ -478,9 +478,13 @@ permalink: /publication/papers
                                         <button class="accordion">International Conferences and Workshops</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2025</h4>
-                                            <p> C.-H. Ji, S.n Song, Y.-H. Han, S.T. Moon,
+                                            <p> C.-H. Ji, S. Song, Y.-H. Han, S.T. Moon,
                                                 "<strong>Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs,</strong>"
                                                 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 [Oral Presentation].
+                                            </p>
+                                            <p> A.N. Kyzy, C.-H. Ji, Y. Choi, Y.-J. Seok, I. Ullah, Y.-H. Han, "<strong>Accelerating Convergence in Distributed Reinforcement Learning via Asynchronous PPO</strong>," 2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2025.
+                                            </p>
+                                            <p> I. Ullah, Q. Ali, M. Ashraf, Y.-H. Han, "<strong>Advanced Virtual Network Embedding: Combining Graph Attention Network and DRL for Optimal Resource Utilization</strong>," International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2025.
                                             </p>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, N. U. Islam, C.-H. Ji, and Y.-H. Han,
