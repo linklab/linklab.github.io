@@ -477,10 +477,10 @@ permalink: /publication/papers
                                     <article>
                                         <button class="accordion">International Conferences and Workshops</button>
                                         <div class="panel article-content-1 research-content">
-                                            <h4 class="title-level-4 year">2024</h4>
+                                            <h4 class="title-level-4 year">2025</h4>
                                             <p> C.-H. Ji, S.n Song, Y.-H. Han, S.T. Moon,
                                                 "<strong>Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs,</strong>"
-                                                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 - Oral Presentation.
+                                                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 [Oral Presentation].
                                             </p>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, N. U. Islam, C.-H. Ji, and Y.-H. Han,
