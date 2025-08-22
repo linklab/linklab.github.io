@@ -17,6 +17,7 @@ permalink: /seminar/graduate
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
+                <br/>
                 <li>8월 13일 (수) 논문 세미나 – 김진성
                     <br/>
                     <strong>
