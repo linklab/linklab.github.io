@@ -16,6 +16,7 @@ permalink: /seminar/graduate
                     <a href="https://arxiv.org/abs/2404.07146v5">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
+                <li>8월 13일 (수) 논문 세미나 – 김진성
                     <br/>
                     <strong>
                         Zhao, Tony Z., et al. "Learning fine-grained bimanual manipulation with low-cost hardware." Robotics: Science and Systems, 2023.
