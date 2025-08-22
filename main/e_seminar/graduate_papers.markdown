@@ -8,7 +8,7 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
-                <li>8월 13일 (수) 논문 세미나 – 김진성
+                <li>8월 22일 (금) 논문 세미나 – 강대건
                     <br/>
                     <strong>
                         Kenneth Goodenough, Tim Coopmans, Don Towsley, et al. "On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations" Quantum Physics, 2025.
