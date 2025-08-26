@@ -85,6 +85,14 @@ permalink: /projects/
                                             </tbody>
                                         </table>
                                     </p>
+                                    <p>
+                                        <strong>Deep Reinforcement Learning-based Resource Management of Quantum Entanglement Networks for Quantum Network Migration
+                                        </strong><br/>
+                                        <strong>(양자네트워크 마이그레이션을 위한 심층강화학습 기반 양자얽힘 네트워크 자원관리 연구)</strong><br/>
+                                        - Duration: May 15, 2025 ~ Nov. 31, 2025<br/>
+                                        - Sponsor: Korea Institute of Science and Technology Information (KISTI)<br/>
+                                        - Role: Project manager (연구책임)
+                                    </p>
                                 </div>
                                 <button class="accordion">2024</button>
                                 <div class="panel article-content-1">
