@@ -93,6 +93,7 @@ permalink: /projects/
                                         - Sponsor: Korea Institute of Science and Technology Information (KISTI)<br/>
                                         - Role: Project manager (연구책임)
                                     </p>
+                                    <br/>
                                 </div>
                                 <button class="accordion">2024</button>
                                 <div class="panel article-content-1">
