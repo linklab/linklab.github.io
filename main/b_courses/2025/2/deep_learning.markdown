@@ -66,9 +66,9 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - 00. Introduction to Deep Learning<br/>
                                                                 - 01. Development Environment
-                                                                <a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
@@ -85,13 +85,14 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 08일(월)</td>
                                                             <td>
                                                                 - 02. Tensors
-                                                                <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a><br/>
+                                                                </a>-->
+                                                                <br/>
                                                                 - 03. Real-World Data to Tensors
-                                                                <a href="https://www.dropbox.com/scl/fi/1s5oagxiun81c675u6q0u/03.real_world_data_to_tensors.pdf?rlkey=gu4j5tl833s9hvsfbnol0s6gi&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/1s5oagxiun81c675u6q0u/03.real_world_data_to_tensors.pdf?rlkey=gu4j5tl833s9hvsfbnol0s6gi&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -125,9 +126,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 15일(월)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation
-                                                                <a href="https://www.dropbox.com/scl/fi/61c2ixt4ewzl9avx9d34i/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=fv5toi194bt7y86ytavdaq0bl&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/61c2ixt4ewzl9avx9d34i/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=fv5toi194bt7y86ytavdaq0bl&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -138,9 +139,9 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation<br/>
                                                                 - 05. Autograd
-                                                                <a href="https://www.dropbox.com/scl/fi/sghovvt6b3w795aqujg62/05.autograd.pdf?rlkey=vbwe2p0w45bw1fyt9bxeyisah&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/sghovvt6b3w795aqujg62/05.autograd.pdf?rlkey=vbwe2p0w45bw1fyt9bxeyisah&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -151,9 +152,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 22일(월)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
-                                                                <a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -173,9 +174,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 29일(월)</td>
                                                             <td>
                                                                 - 07. Learning and Optimization
-                                                                <a href="https://www.dropbox.com/scl/fi/8orrnjc0dtzkx69qb0tyw/07.learning_and_optimization.pdf?rlkey=h8avhs2lz5n8qh0xdd5q9iajb&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/8orrnjc0dtzkx69qb0tyw/07.learning_and_optimization.pdf?rlkey=h8avhs2lz5n8qh0xdd5q9iajb&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -220,9 +221,9 @@ permalink: /courses/2025/2/dl
                                                             <td>10월 13일(월)</td>
                                                             <td>
                                                                 - 08. FCN Best Practice
-                                                                <a href="https://www.dropbox.com/scl/fi/2mq7ztetczb3y17ronghm/08.fcn_best_practice.pdf?rlkey=muqaps2bbcu9mvtlr0ntzph9a&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/2mq7ztetczb3y17ronghm/08.fcn_best_practice.pdf?rlkey=muqaps2bbcu9mvtlr0ntzph9a&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -232,9 +233,9 @@ permalink: /courses/2025/2/dl
                                                             <td>10월 14일(화)</td>
                                                             <td>
                                                                 - 09. Convolutional Neural Network (CNN)
-                                                                <a href="https://www.dropbox.com/scl/fi/ffdva9hqtb7z5tl4dmq42/09.cnn.pdf?rlkey=ul9hrs5qdl8c5ffwkbrlhvlv0&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/ffdva9hqtb7z5tl4dmq42/09.cnn.pdf?rlkey=ul9hrs5qdl8c5ffwkbrlhvlv0&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -275,9 +276,9 @@ permalink: /courses/2025/2/dl
                                                             <td>10월 28일(화)</td>
                                                             <td>
                                                                 - 11. Advanced Techniques in Deep Learning - I
-                                                                <a href="https://www.dropbox.com/scl/fi/mbtta0ps49i84l7904yhs/11.diverse_techniques_1.pdf?rlkey=riilwiz9o2v34fck57gm1hi27&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/mbtta0ps49i84l7904yhs/11.diverse_techniques_1.pdf?rlkey=riilwiz9o2v34fck57gm1hi27&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -287,9 +288,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 03일(월)</td>
                                                             <td>
                                                                 - 11. Advanced Techniques in Deep Learning - I
-                                                                <a href="https://www.dropbox.com/scl/fi/xwj93euqte8mtyvryuyg2/12.diverse_techniques_2.pdf?rlkey=7zpzc2fp83c95hr22rgt5i4m4&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/xwj93euqte8mtyvryuyg2/12.diverse_techniques_2.pdf?rlkey=7zpzc2fp83c95hr22rgt5i4m4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -314,15 +315,15 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 10일(월)</td>
                                                             <td>
                                                                 - 12. Advanced Techniques in Deep Learning - II
-                                                                <a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 - CPU vs. GPU
-                                                                <a href="https://colab.research.google.com/drive/1ERTiVfsKDnzBLRT9AH-6SFmuD-uKL_db?usp=sharing" target="_blank">
+                                                                <!--<a href="https://colab.research.google.com/drive/1ERTiVfsKDnzBLRT9AH-6SFmuD-uKL_db?usp=sharing" target="_blank">
                                                                     <img src="/assets/images/colab.png" width="10%">
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -349,9 +350,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 18일(화)</td>
                                                             <td>
                                                                 - 14. Recurrent Neural Network (RNN)
-                                                                <a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -371,9 +372,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 25일(화)</td>
                                                             <td>
                                                                 - 15. LSTM and Its Application
-                                                                <a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -384,9 +385,9 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 01일(월)</td>
                                                             <td>
                                                                 - 16. Transfer Learning
-                                                                <a href="https://www.dropbox.com/scl/fi/duaxe567iqkdsmnksvemr/16.transfer_learning.pdf?rlkey=q8k4ackml39mh1cwou5e39ig1&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/duaxe567iqkdsmnksvemr/16.transfer_learning.pdf?rlkey=q8k4ackml39mh1cwou5e39ig1&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -406,9 +407,9 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 02일(화)</td>
                                                             <td>
                                                                 - 17. Autoencoders
-                                                                <a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -419,9 +420,9 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 08일(월)</td>
                                                             <td>
                                                                 - 18. Attention and Transformer
-                                                                <a href="https://www.dropbox.com/scl/fi/b2berl4ycgyy3362v3uxk/18.attenstion_and_transformer.pdf?rlkey=q7ae7l5prfnb1scgf5763a5x9&dl=0" target="_blank">
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/b2berl4ycgyy3362v3uxk/18.attenstion_and_transformer.pdf?rlkey=q7ae7l5prfnb1scgf5763a5x9&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
