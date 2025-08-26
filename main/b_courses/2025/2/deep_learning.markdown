@@ -121,7 +121,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">3주차</th>
-                                                            <th scope="row">-</th>
+                                                            <th scope="row">05</th>
                                                             <td>09월 15일(월)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation
@@ -133,7 +133,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">-</th>
+                                                            <th scope="row">06</th>
                                                             <td>09월 16일(화)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation<br/>
@@ -147,7 +147,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
-                                                            <th scope="row">05</th>
+                                                            <th scope="row">07</th>
                                                             <td>09월 22일(월)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
@@ -159,7 +159,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">06</th>
+                                                            <th scope="row">08</th>
                                                             <td>09월 23일(화)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
@@ -169,7 +169,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
-                                                            <th scope="row">07</th>
+                                                            <th scope="row">09</th>
                                                             <td>09월 29일(월)</td>
                                                             <td>
                                                                 - 07. Learning and Optimization
@@ -187,7 +187,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">08</th>
+                                                            <th scope="row">10</th>
                                                             <td>09월 30일(화)</td>
                                                             <td>
                                                                 - 07. Learning and Optimization
@@ -197,7 +197,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
-                                                            <th scope="row">09</th>
+                                                            <th scope="row">11</th>
                                                             <td>10월 06일(월)</td>
                                                             <td>
                                                                 추석 (휴강)
@@ -206,7 +206,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">10</th>
+                                                            <th scope="row">12</th>
                                                             <td>10월 07일(화)</td>
                                                             <td>
                                                                 추석 (휴강)
@@ -216,7 +216,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
-                                                            <th scope="row">11</th>
+                                                            <th scope="row">13</th>
                                                             <td>10월 13일(월)</td>
                                                             <td>
                                                                 - 08. FCN Best Practice
@@ -228,7 +228,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">12</th>
+                                                            <th scope="row">14</th>
                                                             <td>10월 14일(화)</td>
                                                             <td>
                                                                 - 09. Convolutional Neural Network (CNN)
@@ -241,7 +241,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
-                                                            <th scope="row">13</th>
+                                                            <th scope="row">15</th>
                                                             <td>10월 20일(월)</td>
                                                             <td>
                                                                 - 10. CNN Architectures
@@ -252,7 +252,7 @@ permalink: /courses/2025/2/dl
                                                             <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">14</th>
+                                                            <th scope="row">16</th>
                                                             <td>10월 21일(화)</td>
                                                             <td>
                                                                 - 10. CNN Architectures
@@ -262,7 +262,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
-                                                            <th scope="row">15</th>
+                                                            <th scope="row">17</th>
                                                             <td>10월 27일(월)</td>
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
@@ -271,7 +271,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">16</th>
+                                                            <th scope="row">18</th>
                                                             <td>10월 28일(화)</td>
                                                             <td>
                                                                 - 11. Advanced Techniques in Deep Learning - I
@@ -283,7 +283,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
-                                                            <th scope="row">17</th>
+                                                            <th scope="row">19</th>
                                                             <td>11월 03일(월)</td>
                                                             <td>
                                                                 - 11. Advanced Techniques in Deep Learning - I
@@ -294,7 +294,7 @@ permalink: /courses/2025/2/dl
                                                             <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">18</th>
+                                                            <th scope="row">20</th>
                                                             <td>11월 04일(화)</td>
                                                             <td>
                                                                 - 12. Advanced Techniques in Deep Learning - II
@@ -310,7 +310,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
-                                                            <th scope="row">19</th>
+                                                            <th scope="row">21</th>
                                                             <td>11월 10일(월)</td>
                                                             <td>
                                                                 - 12. Advanced Techniques in Deep Learning - II
@@ -326,7 +326,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">20</th>
+                                                            <th scope="row">22</th>
                                                             <td>11월 11일(화)</td>
                                                             <td>
                                                                 - 13. Modern CNNs
@@ -336,7 +336,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
-                                                            <th scope="row">21</th>
+                                                            <th scope="row">23</th>
                                                             <td>11월 17일(월)</td>
                                                             <td>
                                                                 - 13. Modern CNNs
@@ -345,7 +345,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">22</th>
+                                                            <th scope="row">24</th>
                                                             <td>11월 18일(화)</td>
                                                             <td>
                                                                 - 14. Recurrent Neural Network (RNN)
@@ -358,7 +358,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
-                                                            <th scope="row">23</th>
+                                                            <th scope="row">25</th>
                                                             <td>11월 24일(월)</td>
                                                             <td>
                                                                 - 14. Recurrent Neural Network (RNN)
@@ -367,7 +367,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">24</th>
+                                                            <th scope="row">26</th>
                                                             <td>11월 25일(화)</td>
                                                             <td>
                                                                 - 15. LSTM and Its Application
@@ -380,7 +380,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
-                                                            <th scope="row">25</th>
+                                                            <th scope="row">27</th>
                                                             <td>12월 01일(월)</td>
                                                             <td>
                                                                 - 16. Transfer Learning
@@ -402,7 +402,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">26</th>
+                                                            <th scope="row">28</th>
                                                             <td>12월 02일(화)</td>
                                                             <td>
                                                                 - 17. Autoencoders
@@ -415,7 +415,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
-                                                            <th scope="row">27</th>
+                                                            <th scope="row">29</th>
                                                             <td>12월 08일(월)</td>
                                                             <td>
                                                                 - 18. Attention and Transformer
@@ -427,7 +427,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">28</th>
+                                                            <th scope="row">30</th>
                                                             <td>12월 09일(화)</td>
                                                             <td>
                                                                 - 18. Attention and Transformer
@@ -437,7 +437,7 @@ permalink: /courses/2025/2/dl
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
-                                                            <th scope="row">29</th>
+                                                            <th scope="row">31</th>
                                                             <td>12월 15일(월)</td>
                                                             <td>
                                                                 - 18. Attention and Transformer
@@ -446,7 +446,7 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">30</th>
+                                                            <th scope="row">32</th>
                                                             <td>12월 16일(화)</td>
                                                             <td class="centred" colspan="2">
                                                                 <strong>기말 고사</strong>
