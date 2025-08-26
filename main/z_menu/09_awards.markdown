@@ -29,7 +29,10 @@ permalink: /awards/
                                 <li>Title: 다중 경로 전략 데이터를 활용한 Decision Transformer 기반 안전성-효율성 조절형 드론 경로 계획 알고리즘<br/>
                                     - 지창훈(한국기술교육대학교), 송시운(충북대학교), 한연희(한국기술교육대학교), 문성태(충북대학교)
                                 </li>
-                                <li><a href="https://www.veritas-a.com/news/articleView.html?idxno=561838">신문기사</a><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i>
+                                <li>
+                                    신문기사 
+                                    <a href="https://www.veritas-a.com/news/articleView.html?idxno=561838"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>, 
+                                    <a href="https://www.joongang.co.kr/article/25349633"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>
                                 </li>
                                 <br>
                             </ul>
