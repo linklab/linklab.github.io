@@ -48,7 +48,7 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - Course Introduction<br/>
                                                                 - 00. Introduction to Deep Learning
-                                                                <a href="https://www.dropbox.com/scl/fi/q0eb623e2riltpa9ett36/00.dl_101.pdf?rlkey=9fkldqi4cdlc1pt00yug7xdfc&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/gg3kfy55q28fa17e8j8db/01.development_environment.pdf?rlkey=hr9bw8wyz24s8bals0pf320mu&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
@@ -66,9 +66,6 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - 00. Introduction to Deep Learning<br/>
                                                                 - 01. Development Environment
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/5niar65s3xz10kmht8v1u/01.development_environment.pdf?rlkey=a8v2kng25r29zyfepp5lqd3jy&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
@@ -85,9 +82,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 08일(월)</td>
                                                             <td>
                                                                 - 02. Tensors
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/7tgzon6txclhis4o6qr5m/02.tensors.pdf?rlkey=qx9zze1cvltdsxejjoitjxfcu&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                                 <br/>
                                                                 - 03. Real-World Data to Tensors
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/1s5oagxiun81c675u6q0u/03.real_world_data_to_tensors.pdf?rlkey=gu4j5tl833s9hvsfbnol0s6gi&dl=0" target="_blank">
