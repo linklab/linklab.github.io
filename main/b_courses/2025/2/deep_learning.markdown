@@ -48,7 +48,7 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - Course Introduction<br/>
                                                                 - 00. Introduction to Deep Learning
-                                                                <a href="https://www.dropbox.com/scl/fi/gg3kfy55q28fa17e8j8db/01.development_environment.pdf?rlkey=hr9bw8wyz24s8bals0pf320mu&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/7egbxsajo0yqis1angqoc/00.dl_101.pdf?rlkey=odh4tihyg79uhatz5aicdkksi&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
@@ -66,6 +66,9 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - 00. Introduction to Deep Learning<br/>
                                                                 - 01. Development Environment
+                                                                <a href="https://www.dropbox.com/scl/fi/gg3kfy55q28fa17e8j8db/01.development_environment.pdf?rlkey=hr9bw8wyz24s8bals0pf320mu&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
