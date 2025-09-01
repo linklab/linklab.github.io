@@ -48,7 +48,7 @@ permalink: /courses/2024/2/dl
                                                             <td>
                                                                 - Course Introduction<br/>
                                                                 - 00. Introduction to Deep Learning
-                                                                <a href="https://www.dropbox.com/scl/fi/q0eb623e2riltpa9ett36/00.dl_101.pdf?rlkey=9fkldqi4cdlc1pt00yug7xdfc&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/7egbxsajo0yqis1angqoc/00.dl_101.pdf?rlkey=odh4tihyg79uhatz5aicdkksi&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
@@ -271,7 +271,7 @@ permalink: /courses/2024/2/dl
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
                                                                 <br/>
-                                                                장소: 2공학관 314, 시간: 11시 ~ 12시 50분
+                                                                장소: -, 시간: 16시 ~ 미정
                                                             </td>
                                                         </tr>
                                                         <tr>
