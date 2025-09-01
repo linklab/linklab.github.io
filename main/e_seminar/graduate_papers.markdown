@@ -8,6 +8,53 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>8월 22일 (금) 논문 세미나 – 강대건
+                    <br/>
+                    <strong>
+                        Kenneth Goodenough, Tim Coopmans, Don Towsley, et al. "On noise in swap ASAP repeater chains: exact analytics, distributions and tight approximations" Quantum Physics, 2025.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2404.07146v5">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>8월 13일 (수) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        Zhao, Tony Z., et al. "Learning fine-grained bimanual manipulation with low-cost hardware." Robotics: Science and Systems, 2023.
+                    </strong>
+                    <a href="https://tonyzhaozh.github.io/aloha/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <strong>
+                        Fu, Zipeng, Tony Z. Zhao, and Chelsea Finn. "Mobile aloha: Learning bimanual mobile manipulation with low-cost whole-body teleoperation." Conference on Robot Learning, 2024.
+                    </strong>
+                    <a href="https://mobile-aloha.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>7월 30일 (수) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        Bjorck, Johan, et al. "Gr00t n1: An open foundation model for generalist humanoid robots." arXiv preprint arXiv:2503.14734 (2025).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2503.14734">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
+                <li>7월 10일 (목) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Haldar, Stav, et al. "Fast and reliable entanglement distribution with quantum repeaters: Principles for improving protocols using reinforcement learning." Physical Review Applied 21.2 (2024).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2303.00777">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>7월 03일 (목) 논문 세미나 – 최요한
                     <br/>
                     <strong>
