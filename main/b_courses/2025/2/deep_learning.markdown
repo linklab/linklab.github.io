@@ -268,7 +268,7 @@ permalink: /courses/2025/2/dl
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
                                                                 <br/>
-                                                                장소: 2공학관 314, 시간: 11시 ~ 12시 50분
+                                                                장소: -, 시간: 16시 ~ 미정
                                                             </td>
                                                         </tr>
                                                         <tr>
