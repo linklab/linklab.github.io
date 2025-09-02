@@ -366,6 +366,39 @@ layout: page
                       </div>
                   </div>
             </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div class="youtube_div">
+                      <iframe src="https://www.youtube.com/embed/Nsz6z6DAjow"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          SMAC (StarCraft Multi-Agent Challenge) 27m vs 30m by  Multi-Agent Reinforcement Learning (QMIX)
+                      </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div class="youtube_div">
+                      <iframe src="https://www.youtube.com/embed/XNpTM1nd7pA"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          One step PR vs Multi-Agent Reinforcement Learning: A shape
+                      </div>
+                  </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12">
+                  <div class="youtube_div">
+                      <iframe src="https://www.youtube.com/embed/lNJsiXGSr5A"
+                              style="width:90%;height:15.0em;margin: 1.7em"
+                              allow="autoplay; encrypted-media" allowfullscreen="">
+                      </iframe>
+                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                          A SHOW of Multiple Rotary Inverted Pendulums Trained by Soft Actor-Critic
+                      </div>
+                  </div>
+            </div>
           </div>
         </div>
     </div>
