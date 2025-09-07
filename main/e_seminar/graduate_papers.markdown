@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>9월 3일 (수) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Ho, Jonathan, Ajay Jain, and Pieter Abbeel. "Denoising diffusion probabilistic models." NeurIPS, 2020.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2006.11239">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>8월 22일 (금) 논문 세미나 – 강대건
                     <br/>
                     <strong>
