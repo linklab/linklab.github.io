@@ -90,9 +90,9 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                                 <br/>
                                                                 - 03. Real-World Data to Tensors
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/1s5oagxiun81c675u6q0u/03.real_world_data_to_tensors.pdf?rlkey=gu4j5tl833s9hvsfbnol0s6gi&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/nq0zi6k394c4pmr8ck01k/03.real_world_data_to_tensors.pdf?rlkey=9kddwc87w95tyzqmcaqlxkqu4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 <!--
