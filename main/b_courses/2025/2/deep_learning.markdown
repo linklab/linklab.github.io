@@ -71,12 +71,6 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                - 데이터 (zip 파일)
-                                                                <a href="https://drive.google.com/file/d/1aUO7ca_cc8UoaJ_EAZZ9wmcbqV8HF_RM/view?usp=sharing" target="_blank">
-                                                                    <span class="badge badge-info">다운 로드</span>
-                                                                </a><br/>
-                                                                : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
-                                                                <img src="/assets/images/courses/data.png" width="100%"/>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -95,14 +89,12 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
-                                                                <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
-                                                                <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                - 데이터 (zip 파일)
+                                                                <a href="https://drive.google.com/file/d/1aUO7ca_cc8UoaJ_EAZZ9wmcbqV8HF_RM/view?usp=sharing" target="_blank">
+                                                                    <span class="badge badge-info">다운 로드</span>
                                                                 </a><br/>
-                                                                - Zoom URL은 EL2 공지사항에 올려 놓았으며, 개별 문자로 발송하였습니다.
-                                                                -->
+                                                                : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
+                                                                <img src="/assets/images/courses/data.png" width="100%"/>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -112,6 +104,14 @@ permalink: /courses/2025/2/dl
                                                                 - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
+                                                                <!--
+                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
+                                                                <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
+                                                                <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a><br/>
+                                                                - Zoom URL은 EL2 공지사항에 올려 놓았으며, 개별 문자로 발송하였습니다.
+                                                                -->
                                                                 <!--
                                                                 - <strong>Homework #1 (기한: 9월 24일 23시 59분)</strong>
                                                                 <a href="https://www.dropbox.com/scl/fi/nwzmqe2k821xw68alcc50/HW_1.pdf?rlkey=vzuz70oam6m4xgl2v55n6o2bh&dl=0" target="_blank">
