@@ -108,19 +108,16 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                             <td>
                                                                 <!--
-                                                                - 9월 13일 오후 2시 ~ 5시: Tensor 및 Tensor Operators에 관한 특강 (조교)
-                                                                <span class="badge badge-danger">특강: Zoom 온라인 실시간 강의</span>
+                                                                - Tensor 및 Tensor Operators에 관한 특강 (조교)
                                                                 <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a><br/>
-                                                                - Zoom URL은 EL2 공지사항에 올려 놓았으며, 개별 문자로 발송하였습니다.
+                                                                - 강의 동영상 URL은 EL2 공지사항에 올려 놓을 예정
                                                                 -->
-                                                                <!--
-                                                                - <strong>Homework #1 (기한: 9월 24일 23시 59분)</strong>
-                                                                <a href="https://www.dropbox.com/scl/fi/nwzmqe2k821xw68alcc50/HW_1.pdf?rlkey=vzuz70oam6m4xgl2v55n6o2bh&dl=0" target="_blank">
+                                                                - <strong>Homework #1 (기한: 9월 27일 토요일 23시 59분)</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/xs9448zo3eely5ey63de4/HW_1.pdf?rlkey=uvrqhuoti4vbz9kwe2ifaltq7&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
