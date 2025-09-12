@@ -267,14 +267,14 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/길상현.jpg"
-                                 alt="Sanghyun Gil (길상현)">
+                                 src="/assets/images/members/19th/강대건.jpg"
+                                 alt="Deagun Gang (강대건)">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Sang-Hyun Gil (길상현)</h4>
-                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <h4 class="card-title">Deagun Gang (강대건)</h4>
+                            <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>
+                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -285,32 +285,14 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/유승범.jpg"
-                                 alt="Seungbum Yu (유승범)">
+                                 src="/assets/images/members/19th/김진성.jpg"
+                                 alt="Jinsung Kim (김진성)">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Seung-Bum Yu (유승범)</h4>
-                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
-                            <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 스마트미디어랩</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                <div class="item-student">
-                    <div class="card card-profile">
-                        <div class="card-header card-avatar">
-                            <img class="img"
-                                 src="/assets/images/members/이승훈.jpg"
-                                 alt="Seunghun Lee (이승훈)">
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Seung-Hun Lee (이승훈)</h4>
-                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <h4 class="card-title">Jinsung Kim (김진성)</h4>
+                            <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <li style="font-size: 1.1em"><b>취업</b>: SSG</li>
+                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -321,14 +303,14 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/오차영.jpg"
-                                 alt="Chayoung Oh(오차영)">
+                                 src="/assets/images/members/19th/전효석.jpg"
+                                 alt="Hyosuck Jeon (전효석)">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Cha-Young Oh (오차영)</h4>
-                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
-                            <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 국민대학교</li>
+                            <h4 class="card-title">Hyosuck Jeon (전효석)</h4>
+                            <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
+                            <ul class="">
+                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -339,15 +321,32 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/최요한.jpg"
-                                 alt="Yohan Choi (최요한)">
+                                 src="/assets/images/members/19th/이준영.jpg"
+                                 alt="Joonyoung Lee (이준영)">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Yohan Choi (최요한)</h4>
-                            <h6 class="card-category">Bachelor (2022)</h6>
-                            <hr>
-                            <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교</li>
+                            <h4 class="card-title">Joonyoung Lee (이준영)</h4>
+                            <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
+                            <ul class="">
+                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/19th/윤정민.jpg"
+                                 alt="Jungmin Yoon (윤정민)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Jungmin Yoon (윤정민)</h4>
+                            <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
+                            <ul class="">
+                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -357,12 +356,11 @@ permalink: /members/students_and_members
                 <div class="item-student">
                     <div class="card card-profile">
                         <div class="card-body" style="border-style: solid;">
-                            <h4 class="card-title">졸업작품: 병원 진료 수화 통역기</h4>
+                            <h4 class="card-title">졸업작품: 강화학습과 객체 인식 기술을 활용한 미확인 지형 정찰 4족 보행 로봇</h4>
                             <ul>
-                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/qp3jpic3mxfcey0/2021_15_graduate_project.pdf?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
-                                <li>졸업작품 시연영상: <a href="https://youtu.be/j3rmnw5v5No" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
-                                <li>2021 한국통신학회 추계학술대회 논문 발표 영상: <a href="https://www.youtube.com/watch?v=RrG1fECdezA" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
-                                <span class="badge badge-info">2021년 한국통신학회 ICT 융합 서비스 아이디어 경진대회 우수상 수상</span>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/dmrjnxcmta4sao6sns5yw/4-_.pdf?rlkey=qz9g5sm9sxrquk1e6hjizqzw3&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 시연영상: <a href="https://www.youtube.com/watch?v=apwvamhos6E" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <span class="badge badge-info">2025년 컴퓨터공학부 졸업작품 우수상 수상</span>
                             </ul>
                         </div>
                     </div>
