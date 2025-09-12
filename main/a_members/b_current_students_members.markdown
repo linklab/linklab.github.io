@@ -151,7 +151,224 @@ permalink: /members/students_and_members
             <div class="title-level-2">Undergraduate</div>
         </div>
         <br/>
-
+        <h3>20기</h3>
+        <div class="row wrapper-students">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/길상현.jpg"
+                                 alt="Sanghyun Gil (길상현)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Sang-Hyun Gil (길상현)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul class="">
+                                <li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/유승범.jpg"
+                                 alt="Seungbum Yu (유승범)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Seung-Bum Yu (유승범)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>취업</b>: 스마트미디어랩</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/이승훈.jpg"
+                                 alt="Seunghun Lee (이승훈)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Seung-Hun Lee (이승훈)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul class="">
+                                <li style="font-size: 1.1em"><b>취업</b>: SSG</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/오차영.jpg"
+                                 alt="Chayoung Oh(오차영)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Cha-Young Oh (오차영)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>진학</b>: 국민대학교</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/최요한.jpg"
+                                 alt="Yohan Choi (최요한)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Yohan Choi (최요한)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>
+                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-body" style="border-style: solid;">
+                            <h4 class="card-title">졸업작품: 병원 진료 수화 통역기</h4>
+                            <ul>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/qp3jpic3mxfcey0/2021_15_graduate_project.pdf?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 시연영상: <a href="https://youtu.be/j3rmnw5v5No" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <li>2021 한국통신학회 추계학술대회 논문 발표 영상: <a href="https://www.youtube.com/watch?v=RrG1fECdezA" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <span class="badge badge-info">2021년 한국통신학회 ICT 융합 서비스 아이디어 경진대회 우수상 수상</span>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h3>19기</h3>
+        <div class="row wrapper-students">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/길상현.jpg"
+                                 alt="Sanghyun Gil (길상현)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Sang-Hyun Gil (길상현)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul class="">
+                                <li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/유승범.jpg"
+                                 alt="Seungbum Yu (유승범)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Seung-Bum Yu (유승범)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>취업</b>: 스마트미디어랩</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/이승훈.jpg"
+                                 alt="Seunghun Lee (이승훈)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Seung-Hun Lee (이승훈)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul class="">
+                                <li style="font-size: 1.1em"><b>취업</b>: SSG</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/오차영.jpg"
+                                 alt="Chayoung Oh(오차영)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Cha-Young Oh (오차영)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>진학</b>: 국민대학교</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/최요한.jpg"
+                                 alt="Yohan Choi (최요한)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Yohan Choi (최요한)</h4>
+                            <h6 class="card-category">Bachelor (2022)</h6>
+                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-body" style="border-style: solid;">
+                            <h4 class="card-title">졸업작품: 병원 진료 수화 통역기</h4>
+                            <ul>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/qp3jpic3mxfcey0/2021_15_graduate_project.pdf?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 시연영상: <a href="https://youtu.be/j3rmnw5v5No" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <li>2021 한국통신학회 추계학술대회 논문 발표 영상: <a href="https://www.youtube.com/watch?v=RrG1fECdezA" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <span class="badge badge-info">2021년 한국통신학회 ICT 융합 서비스 아이디어 경진대회 우수상 수상</span>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <br/>
     </div>
 </section>
