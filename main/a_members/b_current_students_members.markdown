@@ -53,12 +53,6 @@ permalink: /members/students_and_members
                     </div>
                 </div>
             </div>
-        </div>
-        <br/><br/><br/>
-        <div class="title-box">
-            <div class="title-level-2"><br>Ph.D. Students</div>
-        </div>
-        <div class="row wrapper-students">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
@@ -79,6 +73,12 @@ permalink: /members/students_and_members
                     </div>
                 </div>
             </div>
+        </div>
+        <br/><br/><br/>
+        <div class="title-box">
+            <div class="title-level-2"><br>Ph.D. Students</div>
+        </div>
+        <div class="row wrapper-students">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
