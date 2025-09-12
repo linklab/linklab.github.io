@@ -72,7 +72,7 @@ permalink: /members/students_and_members
                             <hr>
                             <ul class="topic_email">
                                 <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
-                                <li><b>Topic</b>: Reinforcement learning</li>
+                                <li><b>Topic</b>: Reinforcement learning, AGV Navigation</li>
                                 <li><b>Email</b>: <a href="mailto:wlckd5660@gmail.com">wlckd5660@gmail.com</a></li>
                             </ul>
                         </div>
@@ -91,8 +91,7 @@ permalink: /members/students_and_members
                             <h6 class="card-category">Ph.D. Student<br>(Sept. 1, 2021 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
-                                <li><b>Topic</b>: Reinforcement learning</li>
+                                <li><b>Topic</b>: Reinforcement learning, Robotics</li>
                                 <li><b>Email</b>: <a href="mailto:yoweif@koreatech.ac.kr">yoweif@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
@@ -111,8 +110,7 @@ permalink: /members/students_and_members
                             <h6 class="card-category">Ph.D. Student<br>(March 1, 2022 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
-                                <li><b>Topic</b>: Reinforcement learning</li>
+                                <li><b>Topic</b>: Reinforcement learning, Quantum Communication & Networks</li>
                                 <li><b>Email</b>: <a href="mailto:dsb04163@koreatech.ac.kr">dsb04163@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
