@@ -174,7 +174,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/20th/권대현.jpg"
                                  alt="Deahyun Kwon (권대현)">
                         </div>
                         <div class="card-body">
@@ -192,7 +192,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/20th/신정욱.png"
                                  alt="Jungwook Shin (신정욱)">
                         </div>
                         <div class="card-body">
@@ -210,7 +210,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/20th/김용현.jpg"
                                  alt="Yonghyun Kim (김용현)">
                         </div>
                         <div class="card-body">
@@ -228,7 +228,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_man.png"
+                                 src="/assets/images/members/20th/정현도.png"
                                  alt="Hyundo Jung (정현도)">
                         </div>
                         <div class="card-body">
@@ -246,7 +246,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/anonymous_woman.png"
+                                 src="/assets/images/members/20th/김예진.jpg"
                                  alt="Yejin Kim (김예진)">
                         </div>
                         <div class="card-body">
