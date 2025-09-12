@@ -324,7 +324,7 @@ permalink: /members/students_and_members
                     <div class="card card-profile">
                         <div class="card-header card-avatar">
                             <img class="img"
-                                 src="/assets/images/members/19th/김진성.jpg"
+                                 src="/assets/images/members/19th/김진성.png"
                                  alt="Jinsung Kim (김진성)">
                         </div>
                         <div class="card-body">
