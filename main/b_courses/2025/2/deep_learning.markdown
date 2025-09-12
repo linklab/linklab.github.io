@@ -107,13 +107,11 @@ permalink: /courses/2025/2/dl
                                                                 - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - Tensor 및 Tensor Operators에 관한 특강 (조교)
-                                                                <a href="https://www.dropbox.com/scl/fi/jxd6rhq5hsvm6sefmkxzy/02.tensors.pdf?rlkey=sz94rdfkgs2vz3hk8zu8x0n5y&dl=0" target="_blank">
+                                                                - Tensor 및 Tensor Operations 에 관한 특강 (조교)
+                                                                <a href="https://www.dropbox.com/scl/fi/w4olgbnzke21g14z8mfth/02.tensors_operations.pdf?rlkey=ojoo2o6mpa4dhd67u07epbuhx&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a><br/>
-                                                                - 강의 동영상 URL은 EL2 공지사항에 올려 놓을 예정
-                                                                -->
+                                                                - 위 특강에 대한 강의 동영상은 EL2에서 확인<br/>
                                                                 - <strong>Homework #1 (기한: 9월 27일 토요일 23시 59분)</strong>
                                                                 <a href="https://www.dropbox.com/scl/fi/xs9448zo3eely5ey63de4/HW_1.pdf?rlkey=uvrqhuoti4vbz9kwe2ifaltq7&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
