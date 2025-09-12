@@ -109,7 +109,7 @@ permalink: /courses/2025/2/dl
                                                             <td>
                                                                 - Tensor 및 Tensor Operations 에 관한 특강 (조교)
                                                                 <a href="https://www.dropbox.com/scl/fi/w4olgbnzke21g14z8mfth/02.tensors_operations.pdf?rlkey=ojoo2o6mpa4dhd67u07epbuhx&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                    <span class="badge badge-info">강의 노트</span>
                                                                 </a><br/>
                                                                 - 위 특강에 대한 강의 동영상은 EL2에서 확인<br/>
                                                                 - <strong>Homework #1 (기한: 9월 27일 토요일 23시 59분)</strong>
