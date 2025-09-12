@@ -137,9 +137,27 @@ permalink: /members/students_and_members
                             <h6 class="card-category">M.S. Student<br>(March 1, 2024 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
                                 <li><b>Topic</b>: Reinforcement learning</li>
                                 <li><b>Email</b>: <a href="mailto:aselbaekki@koreatech.ac.kr">aselbaekki@koreatech.ac.kr</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img" src="/assets/images/members/김민준.png"
+                                 alt="">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">김민준</h4>
+                            <h6 class="card-category">M.S. Student<br>(March 1, 2025 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <li><b>Topic</b>: Reinforcement Learning, Robotics</li>
+                                <li><b>Email</b>: <a href="mailto:june573166@koreatech.ac.kr">june573166@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
                     </div>
