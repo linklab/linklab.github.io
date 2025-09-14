@@ -123,6 +123,15 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">05</th>
                                                             <td>09월 15일(월)</td>
                                                             <td>
+                                                                - 03. Real-World Data to Tensors
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">06</th>
+                                                            <td>09월 16일(화)</td>
+                                                            <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation
                                                                 <a href="https://www.dropbox.com/scl/fi/syp32lz9n7zanyc0fltau/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=tciwtci4y343k3wte4iwfp3g3&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
@@ -132,25 +141,12 @@ permalink: /courses/2025/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">06</th>
-                                                            <td>09월 16일(화)</td>
-                                                            <td>
-                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation<br/>
-                                                                - 05. Autograd
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/sghovvt6b3w795aqujg62/05.autograd.pdf?rlkey=vbwe2p0w45bw1fyt9bxeyisah&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
-                                                            </td>
-                                                            <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
                                                             <th scope="row">07</th>
                                                             <td>09월 22일(월)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
+                                                                - 05. Autograd
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/sghovvt6b3w795aqujg62/05.autograd.pdf?rlkey=vbwe2p0w45bw1fyt9bxeyisah&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
                                                             </td>
@@ -162,6 +158,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 23일(화)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                                <!--<a href="https://www.dropbox.com/scl/fi/whugcckintnx5zv1qbtkv/06.fcn_and_loss_functions.pdf?rlkey=pxnppyjiup1ll4kgm8ojm4mok&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
