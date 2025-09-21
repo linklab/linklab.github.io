@@ -146,9 +146,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 22일(월)</td>
                                                             <td>
                                                                 - 05. Autograd
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/sghovvt6b3w795aqujg62/05.autograd.pdf?rlkey=vbwe2p0w45bw1fyt9bxeyisah&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/5ne1gdsl8b5zc1rrvn4dp/05.autograd.pdf?rlkey=329aig8q9hjv0utznkpqnck3s&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
