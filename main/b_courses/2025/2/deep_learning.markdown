@@ -157,7 +157,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">08</th>
                                                             <td>09월 23일(화)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network) and Loss Functions
+                                                                - 06. FCN (Fully-Connected Network)
                                                                 <a href="https://www.dropbox.com/scl/fi/52iaig6x11nz9gildedsr/06.fcn.pdf?rlkey=jtv9ve4ogtkl2sln2rye21qfa&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
