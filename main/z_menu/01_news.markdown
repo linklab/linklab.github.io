@@ -35,12 +35,20 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
-                                <tr class="news" year="2025" month="06" day="25">
+                                <tr class="news" year="2025" month="09" day="25">
                                     <td class="text-md-right" style="width: 20%">
                                         June 25, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
+                                        김민준 석사과정생이 제1저자로 작성한 "오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조" 논문을 제6회 한국 인공지능 학술대회에 투고하여 최우수 논문상 수상
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2025" month="06" day="25">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 25, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
                                         최요한 박사과정생, 김민준 석사과정생, 김진성 학사과정생이 제40회 제어로봇시스학회 학술대회 (ICROS) 2025에서 개최한 "4족보행 로봇 경진대회"에 본 랩실에서 Locomotion 연구에 활용하고 있는 Unitree Go1을 사용하여 참가함
                                     </td>
                                 </tr>
@@ -49,7 +57,6 @@ permalink: /news/
                                         June 24, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         지창훈 박사과정생, [축] 한국정보과학회 하계학술대회 (KCC) 2025 에서 우수논문상 수상 (논문 제목: 다중 경로 전략 데이터를 활용한 Decision Transformer 기반 안전성-효율성 조절형 드론 경로 계획 알고리즘)
                                     </td>
                                 </tr>
@@ -58,7 +65,6 @@ permalink: /news/
                                         June 24, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         한연희 교수는 대한민국 인터넷 기술 관련 대표 워크샵인 제33회 KRNET 2025의 "인터넷 기술표준 동향" 세션에서 Quantum Internet 표준 기술 발표를 수행함 (발표 제목: IETF/IRTF Quantum Internet RG의 양자 네트워크 표준화 현황)
                                     </td>
                                 </tr>
