@@ -176,12 +176,10 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                <!--
                                                                 - <strong>Homework #2</strong> (기한: 10월 18일 23시 59분)
-                                                                <a href="https://www.dropbox.com/scl/fi/qvothe8meamsrlqmw5bmp/HW_2.pdf?rlkey=h3zt9ddbs3khfjwdpbo86pqz1&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/eyxjilou6e2ozf142nma3/HW_2.pdf?rlkey=4x5uv56lb26kle062qgtanr5m&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
