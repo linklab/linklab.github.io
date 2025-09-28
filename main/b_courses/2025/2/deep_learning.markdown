@@ -171,6 +171,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 29일(월)</td>
                                                             <td>
                                                                 - 07. Loss Functions
+                                                                <a href="https://www.dropbox.com/scl/fi/38jk04eienp8g6w4bncui/07.loss_functions.pdf?rlkey=g8opc5vehg2cayte8vr1wwegg&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -186,9 +189,9 @@ permalink: /courses/2025/2/dl
                                                             <td>09월 30일(화)</td>
                                                             <td>
                                                                 - 08. Learning and Optimization
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/8orrnjc0dtzkx69qb0tyw/07.learning_and_optimization.pdf?rlkey=h8avhs2lz5n8qh0xdd5q9iajb&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/9uvcqdcflornsnbwe33v1/08.learning_and_optimization.pdf?rlkey=1v67649gnc4gp8f96ef07wnjr&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
