@@ -35,6 +35,18 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="09" day="30">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 30, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        LINK 랩 학부생 김진성, 강대건, 이준영은 서울 코엑스에서 열린 2025 AI 페스타 행사에서 "4족 보행 정찰 로봇" 작품을 시연함 
+                                        <a href="https://www.veritas-a.com/news/articleView.html?idxno=575430" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="09" day="25">
                                     <td class="text-md-right" style="width: 20%">
                                         June 25, 2025
