@@ -73,7 +73,6 @@ permalink: /news/
                                         June 10, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         지창훈 박사과정생, [축] 로봇 분야 Top Conference 중 하나인 IROS (International Conference on Intelligent Robots and Systems) 2025에 제출한 논문에 대해 Oral Presentation으로 Accept (약 10% Accept Rate)되어 2025년 10월 중국 항저우에서 발표 예정 (논문 제목: Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs)
                                     </td>
                                 </tr>
@@ -82,7 +81,6 @@ permalink: /news/
                                         January 27, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         지창훈 박사과정생, [축] Neural Computing and Applications 저널에 심층강화학습 개선 논문 게재 확정 (논문제목: Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control) [<a href="https://link.springer.com/article/10.1007/s00521-025-11252-z">논문 출판 링크</a>]
                                     </td>
                                 </tr>
