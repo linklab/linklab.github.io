@@ -192,6 +192,7 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - [NOTE] 9월 30일 수업은 10월 1일 저녁 9시 Zoom 온라인 수업으로 대체. Zoom 온라인 수업 링크는 EL2 사이트의 공지사항 참고. 
                                                             </td>
                                                         </tr>
                                                         <tr>
