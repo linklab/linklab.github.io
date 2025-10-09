@@ -42,3 +42,5 @@ gem "webrick", "~> 1.8"
 gem "bigdecimal", ">= 3.1.8"
 
 gem "concurrent-ruby", ">= 1.3.4"
+
+gem "rexml", ">= 3.4.4"
