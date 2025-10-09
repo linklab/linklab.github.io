@@ -21,7 +21,7 @@ permalink: /publication/papers
                                         <div class="panel article-content-1 research-content">
                                            <h4 class="title-level-4 year">2025</h4>
                                             <p>I. Ullah, Y. Seok, Y.-H. Han  
-                                                "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture,</strong>" IEEE Transactions on Consumer Electronics, 2025 (Accepted).
+                                                "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted).
                                             </p>
                                             <p>C.-H. Ji, J.-B. Kim, Y.-H. Han  
                                                 "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control,</strong>"
