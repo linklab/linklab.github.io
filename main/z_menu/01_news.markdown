@@ -41,7 +41,7 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        LINK 랩 학부생 김진성, 강대건, 이준영은 서울 코엑스에서 열린 2025 AI 페스타 행사에서 "4족 보행 정찰 로봇" 작품을 시연함 
+                                        LINK 랩 학부생 김진성, 강대건, 이준영은 서울 코엑스에서 열린 2025 AI 페스타 행사에서 "4족 보행 정찰 로봇" 작품을 시연함. 
                                         <a href="https://www.veritas-a.com/news/articleView.html?idxno=575430" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
@@ -53,7 +53,10 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        김민준 석사과정생이 제1저자로 작성한 "오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조" 논문을 제6회 한국 인공지능 학술대회에 투고하여 최우수 논문상 수상
+                                        김민준 석사과정생이 제1저자로 작성한 "오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조" 논문을 제6회 한국 인공지능 학술대회에 투고하여 최우수 논문상 수상.
+                                        <a href="https://www.koreaai.org/" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="06" day="25">
