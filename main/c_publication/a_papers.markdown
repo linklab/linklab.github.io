@@ -24,62 +24,62 @@ permalink: /publication/papers
                                                 "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted).
                                             </p>
                                             <p>C.-H. Ji, J.-B. Kim, Y.-H. Han  
-                                                "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control,</strong>"
+                                                "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control</strong>,"
                                                 Neural Computing and Applications, 37, 14171–14187, May 2025, https://doi.org/10.1007/s00521-025-11252-z.
                                             </p>
                                             <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee  
-                                                "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems,</strong>"
+                                                "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems</strong>,"
                                                 Journal of Network and Systems Management, Vol. 33, No. 30, Feb. 2025, DOI: <a href="https://doi.org/10.1007/s10922-025-09902-7" target="_blank">10.1007/s10922-025-09902-7</a>.
                                             </p>
                                             <p>I. Ullah and Y.-H. Han,
-                                                "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading,</strong>"
+                                                "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading</strong>,"
                                                 The Journal of Supercomputing, Vol. 81, 76, 2025, DOI: <a href="https://doi.org/10.1007/s11227-024-06599-4" target="_blank">10.1007/s11227-024-06599-4</a>.
                                             </p>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p>C.-H. Ji, G. Lim, Y.-H. Han, S. Moon,
-                                                "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer,</strong>"
+                                                "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer</strong>,"
                                                 IEEE Access, Oct. 2024, DOI: <a href="https://ieeexplore.ieee.org/document/10705302" target="_blank">10.1109/ACCESS.2024.3473935</a>.
                                             </p>
                                             <p>J.-B. Kim, H.-B. Choi, and Y.-H. Han,
-                                                "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning,</strong>"
+                                                "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning</strong>,"
                                                 Neural Networks, Vol. 172, 106149, Jan. 2024, DOI: <a href="https://doi.org/10.1016/j.neunet.2024.106149" target="_blank">10.1016/j.neunet.2024.106149</a>.
                                             </p>
                                             <p>H.-K. Lim, I. Ullah, J.-B. Kim, and Y.-H. Han,
-                                                "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning,</strong>"
+                                                "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning</strong>,"
                                                 IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>.
                                             </p>
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p>H.-U Ko, I. Yoon, B. Kim, Y.-H. Han, S. J. Park, H.-J. Hwang, and S.-Y. Kim,
-                                                "<strong>A Haptic Knob Based on the Combination of Shear Mode and Flow Mode Magnetorheological Behaviors,</strong>"
+                                                "<strong>A Haptic Knob Based on the Combination of Shear Mode and Flow Mode Magnetorheological Behaviors</strong>,"
                                                 Smart Materials and Structures, June 2023, DOI: <a href="https://doi.org/10.1088/1361-665X/acd971" target="_blank">10.1088/1361-665X/acd971</a>.
                                             </p>
                                             <p>I. Ullah, H.-K. Lim, Y. J. Seok, and Y.-H. Han,
-                                                "<strong>Optimizing Task Offloading and Resource Allocation in Edge-Cloud Networks: A DRL Approach,</strong>"
+                                                "<strong>Optimizing Task Offloading and Resource Allocation in Edge-Cloud Networks: A DRL Approach</strong>,"
                                                 Journal of Cloud Computing, Vol. 12, 112, June 2023, DOI: <a href="https://doi.org/10.1186/s13677-023-00461-3" target="_blank">10.1186/s13677-023-00461-3</a>.
                                             </p>
                                             <p>H.-K. Lim, I. Ullah, Y.-H. Han, S.-Y. Kim,
-                                                "<strong>Reinforcement Learning-based Virtual Network Embedding: A Comprehensive Survey,</strong>"
+                                                "<strong>Reinforcement Learning-based Virtual Network Embedding: A Comprehensive Survey</strong>,"
                                                 ICT Express, pp. 983-994, Vol. 9, No. 5, October 2023, DOI: <a href="https://doi.org/10.1016/j.icte.2023.03.007" target="_blank">10.1016/j.icte.2023.03.007</a>.
                                             </p>
                                             <h4 class="title-level-4 year">2022</h4>
                                             <p>H.-B. Choi, J.-B. Kim, Y.-H. Han, S.-W. Oh, and K. Kim,
-                                                "<strong>MARL-Based Cooperative Multi-AGV Control in Warehouse Systems,</strong>"
+                                                "<strong>MARL-Based Cooperative Multi-AGV Control in Warehouse Systems</strong>,"
                                                 IEEE Access, Vol. 10, pp. 100478-100488, Sept. 2022, DOI: <a href="https://doi.org/10.1109/ACCESS.2022.3206537" target="_blank">10.1109/ACCESS.2022.3206537</a>.
                                             </p>
                                             <p>J. Youn, and Y‑H. Han,
-                                                "<strong>Intelligent Task Dispatching and Scheduling Using a Deep Q-Network in a Cluster Edge Computing System,</strong>"
+                                                "<strong>Intelligent Task Dispatching and Scheduling Using a Deep Q-Network in a Cluster Edge Computing System</strong>,"
                                                 Sensors, vol. 22, no. 11, 28 May 2022, DOI: <a href="https://doi.org/10.3390/s22114098" target="_blank">10.3390/s22114098</a>.
                                             </p>
                                             <p>I. Ullah, J.‑B. Kim, and Y‑H. Han,
-                                                "<strong>Compound Context-Aware Bayesian Inference Scheme for Smart IoT Environment,</strong>"
+                                                "<strong>Compound Context-Aware Bayesian Inference Scheme for Smart IoT Environment</strong>,"
                                                 Sensors, vol. 22, no. 8, 14 April 2022, DOI: <a href="https://doi.org/10.3390/s22083022" target="_blank">10.3390/s22083022</a>
                                             </p>
                                             <p>I. Ullah, C.‑M. Kim, J.‑S. Heo, Y‑H. Han,
-                                                "<strong>An Energy‑efficient Data Collection Scheme by Mobile Element based on Markov Decision Process for Wireless Sensor Networks,</strong>"
+                                                "<strong>An Energy‑efficient Data Collection Scheme by Mobile Element based on Markov Decision Process for Wireless Sensor Networks</strong>,"
                                                 Wireless Personal Communications, Vol. 123, pp. 2283–2299, March 2022, DOI: <a href="https://doi.org/10.1007/s11277-021-09241-1" target="_blank">10.1007/s11277-021-09241-1</a>.
                                             </p>
                                             <p>K. Kim, J. Lee, H. Lim, S. W. Oh, Y.-H. Han,
-                                                "<strong>Deep RNN-Based Network Traffic Classification Scheme in Edge Computing System,</strong>" Computer Science and Information Systems, Vol. 19, No. 1, 165-184, Jan. 2022, DOI: <a href="https://doi.org/10.2298/CSIS200424038K" target="_blank">10.2298/CSIS200424038K</a>.
+                                                "<strong>Deep RNN-Based Network Traffic Classification Scheme in Edge Computing System</strong>," Computer Science and Information Systems, Vol. 19, No. 1, 165-184, Jan. 2022, DOI: <a href="https://doi.org/10.2298/CSIS200424038K" target="_blank">10.2298/CSIS200424038K</a>.
                                             </p>
                                             <h4 class="title-level-4 year">2021</h4>
                                             <p>I. Ullah, H. Y. Youn, and Y.-H. Han,
