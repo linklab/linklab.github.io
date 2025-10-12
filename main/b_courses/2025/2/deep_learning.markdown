@@ -220,9 +220,9 @@ permalink: /courses/2025/2/dl
                                                             <td>10월 13일(월)</td>
                                                             <td>
                                                                 - 09. FCN Best Practice
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/2mq7ztetczb3y17ronghm/08.fcn_best_practice.pdf?rlkey=muqaps2bbcu9mvtlr0ntzph9a&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/t9ug3331pr4lprvtepd3t/09.fcn_best_practice.pdf?rlkey=f80mac2i0ueprtijumvxbo359&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
