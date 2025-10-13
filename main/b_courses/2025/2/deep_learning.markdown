@@ -232,9 +232,9 @@ permalink: /courses/2025/2/dl
                                                             <td>10월 14일(화)</td>
                                                             <td>
                                                                 - 10. Convolutional Neural Network (CNN)
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/ffdva9hqtb7z5tl4dmq42/09.cnn.pdf?rlkey=ul9hrs5qdl8c5ffwkbrlhvlv0&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/bnixgu5yffvc3mk30z7w6/10.cnn.pdf?rlkey=hrtg95e23re2361dpwiudapmy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
