@@ -258,7 +258,7 @@ permalink: /courses/2025/2/dl
                                                                 - 11. CNN Architectures
                                                             </td>
                                                             <td>
-                                                                - [NOTE] <strong>10월 23일 (목) 저녁 7시 30분 ~ 9시 30분</strong>: 추석 휴강에 대한 보강 (Zoom 온라인 수업)실시. Zoom 온라인 수업 링크는 EL2 사이트의 공지사항 참고. 
+                                                                - [NOTE] <strong>10월 23일 (목) 저녁 7시 30분 ~ 9시 30분</strong>: 추석 휴강에 대한 보강 (Zoom 온라인 수업) 실시. Zoom 온라인 수업 링크는 EL2 사이트의 공지사항 참고. 
                                                             </td>
                                                         </tr>
                                                         <tr>
