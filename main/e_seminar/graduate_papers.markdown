@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>10월 15일 (수) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                       Danijar Hafner, Wilson Yan, Timothy Lillicrap. "Training Agents Inside of Scalable World Models" arXiv preprint arXiv:2509.24527 (2025).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2509.24527">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>            
                 <li>9월 3일 (수) 논문 세미나 – 최요한
                     <br/>
                     <strong>
