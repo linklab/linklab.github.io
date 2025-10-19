@@ -245,9 +245,9 @@ permalink: /courses/2025/2/dl
                                                             <td>10월 20일(월)</td>
                                                             <td>
                                                                 - 11. CNN Architectures
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/xz0uvjvhkb10lol1neo5o/10.cnn_architectures.pdf?rlkey=4orcw0ngbbbhc3sh6xy75hcta&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/8uwsj8j1jm7kiny8s1jny/11.cnn_architectures.pdf?rlkey=nqq7j65ytktjyk4osy16uwauq&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
