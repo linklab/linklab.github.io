@@ -258,7 +258,6 @@ permalink: /courses/2025/2/dl
                                                                 - 11. CNN Architectures
                                                             </td>
                                                             <td>
-                                                                - [NOTE] <strong>10월 23일 (목) 저녁 7시 30분 ~ 9시 30분</strong>: 추석 휴강에 대한 보강 (Zoom 온라인 수업) 실시. Zoom 온라인 수업 링크는 EL2 사이트의 공지사항 참고. 
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -275,10 +274,10 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">18</th>
                                                             <td>10월 28일(화)</td>
                                                             <td>
-                                                                - 12. Diverse Techniques in Deep Learning - I
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/mbtta0ps49i84l7904yhs/11.diverse_techniques_1.pdf?rlkey=riilwiz9o2v34fck57gm1hi27&dl=0" target="_blank">
+                                                                - 12. Optimizers
+                                                                <a href="https://www.dropbox.com/scl/fi/eh6fntfteghv3a51nets2/12.optimizers.pdf?rlkey=me6hhjmirfu1ocopcnpe8j9va&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -287,7 +286,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">19</th>
                                                             <td>11월 03일(월)</td>
                                                             <td>
-                                                                - 12. Diverse Techniques in Deep Learning - I
+                                                                - 13. Regularization
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/xwj93euqte8mtyvryuyg2/12.diverse_techniques_2.pdf?rlkey=7zpzc2fp83c95hr22rgt5i4m4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -298,7 +297,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">20</th>
                                                             <td>11월 04일(화)</td>
                                                             <td>
-                                                                - 13. Diverse Techniques in Deep Learning - II
+                                                                - 14. Normalization - I
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -314,7 +313,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">21</th>
                                                             <td>11월 10일(월)</td>
                                                             <td>
-                                                                - 13. Diverse Techniques in Deep Learning - II
+                                                                - 14. Normalization - II
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -330,7 +329,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 11일(화)</td>
                                                             <td>
-                                                                - 14. Modern CNNs
+                                                                - 15. Modern CNNs - I
                                                             </td>
                                                             <td>
                                                             </td>
@@ -340,7 +339,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 17일(월)</td>
                                                             <td>
-                                                                - 14. Modern CNNs
+                                                                - 15. Modern CNNs - II
                                                             </td>
                                                             <td>
                                                             </td>
@@ -349,7 +348,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">24</th>
                                                             <td>11월 18일(화)</td>
                                                             <td>
-                                                                - 15. Recurrent Neural Network (RNN)
+                                                                - 16. Recurrent Neural Network (RNN)
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -362,7 +361,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">25</th>
                                                             <td>11월 24일(월)</td>
                                                             <td>
-                                                                - 15. Recurrent Neural Network (RNN)
+                                                                - 16. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -371,7 +370,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">26</th>
                                                             <td>11월 25일(화)</td>
                                                             <td>
-                                                                - 16. LSTM and Its Application
+                                                                - 17. LSTM and Its Application - I
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -384,7 +383,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">27</th>
                                                             <td>12월 01일(월)</td>
                                                             <td>
-                                                                - 16. LSTM and Its Application
+                                                                - 17. LSTM and Its Application - II
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -403,7 +402,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">28</th>
                                                             <td>12월 02일(화)</td>
                                                             <td>
-                                                                - 17. Transfer Learning
+                                                                - 18. Transfer Learning
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/duaxe567iqkdsmnksvemr/16.transfer_learning.pdf?rlkey=q8k4ackml39mh1cwou5e39ig1&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -416,7 +415,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 08일(월)</td>
                                                             <td>
-                                                                - 18. Autoencoders
+                                                                - 19. Autoencoders
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -428,7 +427,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">30</th>
                                                             <td>12월 09일(화)</td>
                                                             <td>
-                                                                - 19. Attention and Transformer
+                                                                - 20. Attention and Transformer
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/b2berl4ycgyy3362v3uxk/18.attenstion_and_transformer.pdf?rlkey=q7ae7l5prfnb1scgf5763a5x9&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -441,7 +440,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">31</th>
                                                             <td>12월 15일(월)</td>
                                                             <td>
-                                                                - 19. Attention and Transformer
+                                                                - 20. Attention and Transformer
                                                             </td>
                                                             <td>
                                                             </td>
