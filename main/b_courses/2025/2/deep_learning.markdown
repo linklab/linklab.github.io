@@ -279,7 +279,12 @@ permalink: /courses/2025/2/dl
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
-                                                            <td></td>
+                                                            <td>
+                                                                - CPU vs. GPU
+                                                                <a href="https://colab.research.google.com/drive/1ERTiVfsKDnzBLRT9AH-6SFmuD-uKL_db?usp=sharing" target="_blank">
+                                                                    <img src="/assets/images/colab.png" width="10%">
+                                                                </a>
+                                                            </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
@@ -297,7 +302,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">20</th>
                                                             <td>11월 04일(화)</td>
                                                             <td>
-                                                                - 14. Normalization - I
+                                                                - 14. Normalization
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -313,23 +318,19 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">21</th>
                                                             <td>11월 10일(월)</td>
                                                             <td>
-                                                                - 14. Normalization - II
+                                                                - 14. Normalization
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
                                                             </td>
                                                             <td>
-                                                                - CPU vs. GPU
-                                                                <!--<a href="https://colab.research.google.com/drive/1ERTiVfsKDnzBLRT9AH-6SFmuD-uKL_db?usp=sharing" target="_blank">
-                                                                    <img src="/assets/images/colab.png" width="10%">
-                                                                </a>-->
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">22</th>
                                                             <td>11월 11일(화)</td>
                                                             <td>
-                                                                - 15. Modern CNNs - I
+                                                                - 15. Modern CNNs
                                                             </td>
                                                             <td>
                                                             </td>
@@ -339,7 +340,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 17일(월)</td>
                                                             <td>
-                                                                - 15. Modern CNNs - II
+                                                                - 15. Modern CNNs
                                                             </td>
                                                             <td>
                                                             </td>
@@ -370,7 +371,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">26</th>
                                                             <td>11월 25일(화)</td>
                                                             <td>
-                                                                - 17. LSTM and Its Application - I
+                                                                - 17. LSTM and Its Application
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -383,7 +384,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">27</th>
                                                             <td>12월 01일(월)</td>
                                                             <td>
-                                                                - 17. LSTM and Its Application - II
+                                                                - 17. LSTM and Its Application
                                                             </td>
                                                             <td>
                                                                 <!--
