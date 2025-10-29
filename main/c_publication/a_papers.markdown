@@ -481,13 +481,17 @@ permalink: /publication/papers
                                         <button class="accordion">International Conferences and Workshops</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2025</h4>
+                                            <p> A. N.-kyzy, C.-H. Ji, M.-J. Kim, Y.-H. Han,
+                                                "<strong>Decision Transformer Meets Flow Matching for Offline Reinforcement Learning,</strong>"
+                                                The 16th International Conference on ICT Convergence, Oct. 2025.
+                                            </p>
                                             <p> C.-H. Ji, S. Song, Y.-H. Han, S.T. Moon,
                                                 "<strong>Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs,</strong>"
-                                                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 [Oral Presentation].
+                                                IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2025 [Oral Presentation].
                                             </p>
-                                            <p> A.N. Kyzy, C.-H. Ji, Y. Choi, Y.-J. Seok, I. Ullah, Y.-H. Han, "<strong>Accelerating Convergence in Distributed Reinforcement Learning via Asynchronous PPO</strong>," 2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2025.
+                                            <p> A.N. Kyzy, C.-H. Ji, Y. Choi, Y.-J. Seok, I. Ullah, Y.-H. Han, "<strong>Accelerating Convergence in Distributed Reinforcement Learning via Asynchronous PPO</strong>," 2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Feb. 2025.
                                             </p>
-                                            <p> I. Ullah, Q. Ali, M. Ashraf, Y.-H. Han, "<strong>Advanced Virtual Network Embedding: Combining Graph Attention Network and DRL for Optimal Resource Utilization</strong>," International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2025.
+                                            <p> I. Ullah, Q. Ali, M. Ashraf, Y.-H. Han, "<strong>Advanced Virtual Network Embedding: Combining Graph Attention Network and DRL for Optimal Resource Utilization</strong>," International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Feb. 2025.
                                             </p>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, N. U. Islam, C.-H. Ji, and Y.-H. Han,
