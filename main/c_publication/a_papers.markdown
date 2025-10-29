@@ -1008,6 +1008,8 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2025</h4>
+                                            <p> 김민준, 지창훈, 최요한, Nurlanbek kyzy Asel, 한연희, "<strong>오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조</strong>," 2025 제6회 한국인공지능학술대회, 2025. 09.
+                                            </p>
                                             <p> 최요한, 김민준, Nurlanbek kyzy Asel, 김진성, 한연희, "<strong>사족보행 로봇 보행 제어를 위한 특권 정보 기반 교사 학생 학습 기법 비교</strong>," 2025 한국통신학회 하계종합학술대회, 2025. 06.
                                             </p>
                                             <p> 석영준, 지창훈, 강대건, 허주성, 한연희, "<strong>Decision Transformer를 활용한 양자 네트워크 요청 스케줄링 최적화</strong>," 2025 한국통신학회 하계종합학술대회, 2025. 07.
