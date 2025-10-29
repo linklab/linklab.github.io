@@ -832,7 +832,7 @@ permalink: /publication/papers
                                                 한국통신학회논문지, 제48권, 제11호, pp. 1418-1428, 11월, 2023, DOI: <a href="https://doi.org/10.7840/kics.2023.48.11.1418" target="_blank">10.7840/kics.2023.48.11.1418</a>.
                                             </p>
                                             <p> 지창훈, 한연희, 문성태, "<strong>실시간 계층적 심층강화학습 기반 드론 궤적 생성 알고리즘 파라미터 제어,</strong>"
-                                                한국통신학회논문지, 제48권, 제10호, pp. 1238-1246, 10월, 2023, DOI: <a href="https://doi.org/10.7840/kics.2023.48.10.1238" target="_blank">10.7840/kics.2023.48.10.1238</a>. <span class="badge badge-warning">우수 논문</span>
+                                                한국통신학회논문지, 제48권, 제10호, pp. 1238-1246, 10월, 2023, DOI: <a href="https://doi.org/10.7840/kics.2023.48.10.1238" target="_blank">10.7840/kics.2023.48.10.1238</a>. <span class="badge badge-warning">우수 논문 수상</span>
                                             </p>
                                             <p> 허주성, 최요한, 석영준, 유태완, 이연희, 한연희, "<strong>심층 강화학습 기반 조세 및 경제 활동 에이전트 정책 최적화 시뮬레이션 환경 분석 및 실험,</strong>"
                                                 한국통신학회논문지, 제48권, 제6호, pp. 755-763, 6월, 2023.
@@ -1008,7 +1008,7 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2025</h4>
-                                            <p> 김민준, 지창훈, 최요한, Nurlanbek kyzy Asel, 한연희, "<strong>오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조</strong>," 2025 제6회 한국인공지능학술대회, 2025. 09.
+                                            <p> 김민준, 지창훈, 최요한, Nurlanbek kyzy Asel, 한연희, "<strong>오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조</strong>," 2025 제6회 한국 인공지능 학술대회, 2025. 09.  <span class="badge badge-warning">우수 논문 수상</span>
                                             </p>
                                             <p> 최요한, 김민준, Nurlanbek kyzy Asel, 김진성, 한연희, "<strong>사족보행 로봇 보행 제어를 위한 특권 정보 기반 교사 학생 학습 기법 비교</strong>," 2025 한국통신학회 하계종합학술대회, 2025. 06.
                                             </p>
@@ -1022,7 +1022,7 @@ permalink: /publication/papers
                                             </p>
                                             <br/>
                                             <h4 class="title-level-4 year">2024</h4>
-                                            <p> 최요한, 지창훈, 석영준, 김평수, 한연희, "<strong>순환신경망과 트랜스포머 모델을 활용한 POMDP 환경에서의 강화학습 성능 개선에 관한 연구</strong>," 2024 제5회 한국인공지능학술대회, 2024. 09.
+                                            <p> 최요한, 지창훈, 석영준, 김평수, 한연희, "<strong>순환신경망과 트랜스포머 모델을 활용한 POMDP 환경에서의 강화학습 성능 개선에 관한 연구</strong>," 2024 제5회 한국 인공지능 학술대회, 2024. 09.
                                             </p>
                                             <p> 석영준, 김주봉, 허주성, NurlanbekkyzyAsel, 한연희, "<strong>QKD 네트워크에서 세션 블록 최소화를 위한 심층강화학습 기반 랜덤키 생성 최적화</strong>," 2024 한국통신학회 하계종합학술대회, 2024. 06.
                                             </p>
@@ -1037,7 +1037,7 @@ permalink: /publication/papers
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p> 석영준, 임현교, 최요한, 한연희, "<strong>심층강화학습 기반 양자키 분배 최적화를 통한 세션 블록 최소화</strong>," 제4회 한국 인공지능 학술대회, 2023. 09.
                                             </p>
-                                            <p> 지창훈, 최호빈, 김주봉, 한연희, "<strong>효율적인 드론 궤적 생성을 위한 심층강화학습 기반 실시간 파라미터 조정</strong>," 제4회 한국 인공지능 학술대회, 2023. 09. <span class="badge badge-warning">우수 논문</span>
+                                            <p> 지창훈, 최호빈, 김주봉, 한연희, "<strong>효율적인 드론 궤적 생성을 위한 심층강화학습 기반 실시간 파라미터 조정</strong>," 제4회 한국 인공지능 학술대회, 2023. 09. <span class="badge badge-warning">우수 논문 수상</span>
                                             </p>
                                             <p> 최요한, 석영준, 지창훈, 이재원, 한연희, "<strong>0-1 배낭 문제에 대한 강화학습 에이전트의 확장성에 관한 연구</strong>," 2023 한국통신학회 하계종합학술대회, 2023. 06.
                                             <p/>
@@ -1053,7 +1053,7 @@ permalink: /publication/papers
                                             <h4 class="title-level-4 year">2022</h4>
                                             <p> 허주성, 최요한, 석영준, 한연희, "<strong>AI 기반 경제 활동 에이전트 정책 최적화 실험 및 분석</strong>," 2022 한국통신학회 추계종합학술대회, 2022. 02.
                                             </p>
-                                            <p> 김주봉, 최호빈, 최요한, 허주성, 한연희, "<strong>협동 다중 에이전트 강화학습에서 Next Observation 예측을 통한 호기심 기반 표탐험 방법</strong>," 제3회 한국 인공지능 학술대회, 2022. 09. <span class="badge badge-warning">우수 논문</span>
+                                            <p> 김주봉, 최호빈, 최요한, 허주성, 한연희, "<strong>협동 다중 에이전트 강화학습에서 Next Observation 예측을 통한 호기심 기반 표탐험 방법</strong>," 제3회 한국 인공지능 학술대회, 2022. 09. <span class="badge badge-warning">우수 논문 수상</span>
                                             </p>
                                             <p> 지창훈, 석영준, 임현교, 한연희, "<strong>모델 예측 제어를 위한 시간차 학습 알고리즘에서 행동 선택 방법의 영향 분석</strong>," 제3회 한국 인공지능 학술대회, 2022. 09.
                                             </p>
