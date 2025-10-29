@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>10월 28일 (화) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                       Wagenmaker, Andrew, et al. "Steering Your Diffusion Policy with Latent Space Reinforcement Learning." Conference on Robot Learning (2025).
+                    </strong>
+                    <a href="https://diffusion-steering.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>10월 15일 (수) 논문 세미나 – 김민준
                     <br/>
                     <strong>
@@ -17,7 +27,7 @@ permalink: /seminar/graduate
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
-                <br/>            
+                <br/>
                 <li>9월 3일 (수) 논문 세미나 – 최요한
                     <br/>
                     <strong>
