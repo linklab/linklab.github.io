@@ -308,12 +308,10 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - <strong>Homework #3 (기한: 11월 23일 (토))</strong>
-                                                                <a href="https://www.dropbox.com/scl/fi/s37k1lujp0ssb4zub0k0n/HW_3.pdf?rlkey=4nzyrkyuuny80nbenw8c1v4je&dl=0" target="_blank">
+                                                                - <strong>Homework #3 (기한: 11월 22일 (토))</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/dhxk56odbez9z1a4i53bp/HW_3.pdf?rlkey=0js5rbym68sg5fk6wd661wd2x&dl=0" target="_blank">
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
