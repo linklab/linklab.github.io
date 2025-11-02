@@ -292,9 +292,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 03일(월)</td>
                                                             <td>
                                                                 - 13. Regularization
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/xwj93euqte8mtyvryuyg2/12.diverse_techniques_2.pdf?rlkey=7zpzc2fp83c95hr22rgt5i4m4&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/o8ywcjy43i5t6717t7ge2/13.regularization.pdf?rlkey=j619nrtq4n9jjkrsfifoqs5ei&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -303,6 +303,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 04일(화)</td>
                                                             <td>
                                                                 - 14. Normalization
+                                                                <a href="https://www.dropbox.com/scl/fi/aq5b02yabg3bk060aze4a/14.normalization.pdf?rlkey=4fsutsbpnq1spg7ljy53nwksi&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 <!--
@@ -319,9 +322,6 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 10일(월)</td>
                                                             <td>
                                                                 - 14. Normalization
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/sg0aobp48qo9uw6ne0wzx/13.modern_cnns.pdf?rlkey=ss78nwsdfkpagv56qs2lbqs0d&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
