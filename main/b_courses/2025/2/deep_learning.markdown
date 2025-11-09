@@ -328,7 +328,10 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 11일(화)</td>
                                                             <td>
-                                                                - 15. Modern CNNs
+                                                                - 15. Data Augmentation
+                                                                <a href="https://www.dropbox.com/scl/fi/e2rqrjgctuks35bz78r6x/15.data_augmentation.pdf?rlkey=jnex9hks7zu8pw02rwh30l20w&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
