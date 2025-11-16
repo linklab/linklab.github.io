@@ -342,6 +342,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 17일(월)</td>
                                                             <td>
                                                                 - 15. Modern CNNs
+                                                                <a href="https://www.dropbox.com/scl/fi/8jsvqnr7rbwccp9rx9xcs/16.modern_cnns.pdf?rlkey=zzv5zd0qvg9rjpklbl5bekb01&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -351,9 +354,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 18일(화)</td>
                                                             <td>
                                                                 - 16. Recurrent Neural Network (RNN)
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/uedau7d2t2yv2hy0649qy/14.rnn.pdf?rlkey=6sahugzgj65uja2qv8bkctou6&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/klh9sxi2xl7fe2eaj7cm6/17.rnn.pdf?rlkey=4g8e1z4wgmd1c2oyzwlhevmgh&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
