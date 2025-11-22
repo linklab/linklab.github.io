@@ -376,9 +376,9 @@ permalink: /courses/2025/2/dl
                                                             <td>11월 25일(화)</td>
                                                             <td>
                                                                 - 17. LSTM and Its Application
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/j3siwfkf7tzuyrxmyp2e9/15.lstm_and_applications.pdf?rlkey=inodl7f3dxrt5g55cd2ilfsjv&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/htxrkv351ogkghqriz5wf/18.lstm_and_applications.pdf?rlkey=i2x6hpj2jy5k08r4ex2u1zzfv&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
