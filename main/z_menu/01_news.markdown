@@ -41,7 +41,7 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        LINK 랩 박사과정생 석영준이 작성하여 JOCN 저널에 제출한 논문인 "End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer"이 Accept. 
+                                        [축] LINK 랩 석영준 박사과정생이 작성하여 JOCN (Journal of Optical Communications and Networking) 저널에 제출한 논문인 "End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer"이 Accept 되어짐. 
                                         <a href="https://opg.optica.org/jocn/abstract.cfm?doi=10.1364/JOCN.569435" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
