@@ -405,7 +405,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">28</th>
                                                             <td>12월 02일(화)</td>
                                                             <td>
-                                                                - 18. Transfer Learning
+                                                                - 18. Attention and Transformer
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/duaxe567iqkdsmnksvemr/16.transfer_learning.pdf?rlkey=q8k4ackml39mh1cwou5e39ig1&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -418,7 +418,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 08일(월)</td>
                                                             <td>
-                                                                - 19. Autoencoders
+                                                                - 19. Attention and Transformer
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -430,7 +430,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">30</th>
                                                             <td>12월 09일(화)</td>
                                                             <td>
-                                                                - 20. Attention and Transformer
+                                                                - 20. Transfer Learning
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/b2berl4ycgyy3362v3uxk/18.attenstion_and_transformer.pdf?rlkey=q7ae7l5prfnb1scgf5763a5x9&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -443,7 +443,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">31</th>
                                                             <td>12월 15일(월)</td>
                                                             <td>
-                                                                - 20. Attention and Transformer
+                                                                - 20. Autoencoders
                                                             </td>
                                                             <td>
                                                             </td>
