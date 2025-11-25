@@ -35,9 +35,21 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="11" day="15">
+                                    <td class="text-md-right" style="width: 20%">
+                                        November 15, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        LINK 랩 박사과정생 석영준이 작성하여 JOCN 저널에 제출한 논문인 "End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer"이 Accept. 
+                                        <a href="https://opg.optica.org/jocn/abstract.cfm?doi=10.1364/JOCN.569435" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="09" day="30">
                                     <td class="text-md-right" style="width: 20%">
-                                        June 30, 2025
+                                        September 30, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
