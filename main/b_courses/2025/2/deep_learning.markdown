@@ -381,6 +381,14 @@ permalink: /courses/2025/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #4 (기한: 12월 19일 (금))</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/u2jyz65vn3kc10lgpl78t/HW_4.pdf?rlkey=gilx9v1bpf7ik6vf50wf1pa40&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a><br/>
+                                                                - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2025.11.30)
+                                                                <a href="https://www.dropbox.com/scl/fi/ph49l828n2h9vs7zs8y6k/BTC_KRW_2015.csv?rlkey=k3d2hrsz9n9ckzbj3k4qb5mef&dl=0" target="_blank">
+                                                                    <span class="badge badge-info">다운 로드</span>
+                                                                </a><br/>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -391,16 +399,6 @@ permalink: /courses/2025/2/dl
                                                                 - 17. LSTM and Its Application
                                                             </td>
                                                             <td>
-                                                                <!--
-                                                                - <strong>Homework #4 (기한: 12월 20일 (금))</strong>
-                                                                <a href="https://www.dropbox.com/scl/fi/3nlqw9qtbpl00vkm4dl5z/HW_4.pdf?rlkey=i8ladgdlx7ytx80ut5k0yw00n&dl=0" target="_blank">
-                                                                    <span class="badge badge-primary">숙제 설명</span>
-                                                                </a><br/>
-                                                                - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2024.11.30)
-                                                                <a href="https://www.dropbox.com/scl/fi/8slq7xt57867z35pq39sr/BTC_KRW.csv?rlkey=43z2fitbjh5kwsitz9tnoyji9&dl=0" target="_blank">
-                                                                    <span class="badge badge-info">다운 로드</span>
-                                                                </a><br/>
-                                                                -->
                                                             </td>
                                                         </tr>
                                                         <tr>
