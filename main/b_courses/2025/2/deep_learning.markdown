@@ -341,7 +341,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 17일(월)</td>
                                                             <td>
-                                                                - 15. Modern CNNs
+                                                                - 16. Modern CNNs
                                                                 <a href="https://www.dropbox.com/scl/fi/8jsvqnr7rbwccp9rx9xcs/16.modern_cnns.pdf?rlkey=zzv5zd0qvg9rjpklbl5bekb01&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -353,7 +353,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">24</th>
                                                             <td>11월 18일(화)</td>
                                                             <td>
-                                                                - 16. Recurrent Neural Network (RNN)
+                                                                - 17. Recurrent Neural Network (RNN)
                                                                 <a href="https://www.dropbox.com/scl/fi/klh9sxi2xl7fe2eaj7cm6/17.rnn.pdf?rlkey=4g8e1z4wgmd1c2oyzwlhevmgh&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -366,7 +366,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">25</th>
                                                             <td>11월 24일(월)</td>
                                                             <td>
-                                                                - 16. Recurrent Neural Network (RNN)
+                                                                - 17. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -375,7 +375,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">26</th>
                                                             <td>11월 25일(화)</td>
                                                             <td>
-                                                                - 17. LSTM and Its Application
+                                                                - 18. LSTM and Its Application
                                                                 <a href="https://www.dropbox.com/scl/fi/htxrkv351ogkghqriz5wf/18.lstm_and_applications.pdf?rlkey=i2x6hpj2jy5k08r4ex2u1zzfv&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -396,7 +396,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">27</th>
                                                             <td>12월 01일(월)</td>
                                                             <td>
-                                                                - 17. LSTM and Its Application
+                                                                - 18. LSTM and Its Application
                                                             </td>
                                                             <td>
                                                             </td>
@@ -405,10 +405,10 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">28</th>
                                                             <td>12월 02일(화)</td>
                                                             <td>
-                                                                - 18. Attention and Transformer
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/duaxe567iqkdsmnksvemr/16.transfer_learning.pdf?rlkey=q8k4ackml39mh1cwou5e39ig1&dl=0" target="_blank">
+                                                                - 19. Attention
+                                                                <a href="https://www.dropbox.com/scl/fi/84nfuexe9cqfnc9cvbc9v/19.attenstion.pdf?rlkey=akipeqat0v6w0hssy1yz2ygkl&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -418,7 +418,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 08일(월)</td>
                                                             <td>
-                                                                - 19. Attention and Transformer
+                                                                - 19. Attention
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -430,7 +430,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">30</th>
                                                             <td>12월 09일(화)</td>
                                                             <td>
-                                                                - 20. Transfer Learning
+                                                                - 20. Transformer
                                                                 <!--<a href="https://www.dropbox.com/scl/fi/b2berl4ycgyy3362v3uxk/18.attenstion_and_transformer.pdf?rlkey=q7ae7l5prfnb1scgf5763a5x9&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>-->
@@ -443,7 +443,7 @@ permalink: /courses/2025/2/dl
                                                             <th scope="row">31</th>
                                                             <td>12월 15일(월)</td>
                                                             <td>
-                                                                - 20. Autoencoders
+                                                                - 21. Transfer Learning
                                                             </td>
                                                             <td>
                                                             </td>
