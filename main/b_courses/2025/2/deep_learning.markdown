@@ -386,8 +386,8 @@ permalink: /courses/2025/2/dl
                                                                     <span class="badge badge-primary">숙제 설명</span>
                                                                 </a><br/>
                                                                 - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2025.11.30)
-                                                                <a href="https://www.dropbox.com/scl/fi/ph49l828n2h9vs7zs8y6k/BTC_KRW_2015.csv?rlkey=k3d2hrsz9n9ckzbj3k4qb5mef&dl=0" target="_blank">
-                                                                    <span class="badge badge-info">다운 로드</span>
+                                                                <a href="hhttps://www.dropbox.com/scl/fi/2becmnnwuq1x4gowllo6o/BTC_KRW_2025_11_30.csv?rlkey=9y82uypqrssue35eag7bmiknr&dl=0" target="_blank">
+                                                                    <span class="badge badge-info">다운 로드 (2025년 12월 5일 업데이트)</span>
                                                                 </a><br/>
                                                             </td>
                                                         </tr>
