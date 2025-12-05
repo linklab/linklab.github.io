@@ -419,9 +419,6 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 08일(월)</td>
                                                             <td>
                                                                 - 19. Attention
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/42b7p59vsq7zyhy2qw61v/17.autoencoders.pdf?rlkey=rh8pwth75p5mwrydt935j75uf&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
                                                             </td>
                                                             <td>
                                                             </td>
@@ -431,9 +428,9 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 09일(화)</td>
                                                             <td>
                                                                 - 20. Transformer
-                                                                <!--<a href="https://www.dropbox.com/scl/fi/b2berl4ycgyy3362v3uxk/18.attenstion_and_transformer.pdf?rlkey=q7ae7l5prfnb1scgf5763a5x9&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/mzrlhmw39hu6jiu3ykmhu/20.transformer.pdf?rlkey=wnlk68o1qon66fkddlt8oxyoz&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>-->
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
