@@ -8,6 +8,23 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>12월 9일 (화) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        Li, Jan, et al. “Optimising entanglement distribution policies under classical communication constraints assisted by reinforcement learning.” Machine Learning: Science and Technology, 2025.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2412.06938">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <strong>
+                        Lai, Hang, et al. "World model-based perception for visual legged locomotion." 2025 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2025.
+                    </strong>
+                    <a href="https://wmp-loco.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>12월 2일 (화) 논문 세미나 – 김진성
                     <br/>
                     <strong>
