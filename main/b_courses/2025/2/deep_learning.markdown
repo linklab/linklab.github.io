@@ -441,6 +441,9 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 15일(월)</td>
                                                             <td>
                                                                 - 21. Transfer Learning
+                                                                <a href="https://www.dropbox.com/scl/fi/5158lhill63o1zsq5h9pb/21.transfer_learning.pdf?rlkey=74h2oz1xjbswdqnxn3cbzgiqx&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>

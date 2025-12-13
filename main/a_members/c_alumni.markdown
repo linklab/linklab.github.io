@@ -630,7 +630,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                                취업: 한국농수산식품유통공사
                             </ul>
                         </div>
                     </div>
@@ -664,6 +664,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
+                                취업: 리빈에이아이
                             </ul>
                         </div>
                     </div>
@@ -701,6 +702,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
+                                취업: 제이케이코어
                             </ul>
                         </div>
                     </div>
@@ -738,7 +740,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2023 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                                취업: 세종특별자치시시설관리공단
                             </ul>
                         </div>
                     </div>
@@ -848,7 +850,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2022 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Machine Learning Algorithms</li> -->
+                                취업: 한국원자력연구원
                             </ul>
                         </div>
                     </div>
