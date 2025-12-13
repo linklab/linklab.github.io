@@ -406,7 +406,7 @@ permalink: /courses/2025/2/dl
                                                             <td>12월 02일(화)</td>
                                                             <td>
                                                                 - 19. Attention
-                                                                <a href="https://www.dropbox.com/scl/fi/84nfuexe9cqfnc9cvbc9v/19.attenstion.pdf?rlkey=akipeqat0v6w0hssy1yz2ygkl&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/84nfuexe9cqfnc9cvbc9v/19.attention.pdf?rlkey=akipeqat0v6w0hssy1yz2ygkl&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
