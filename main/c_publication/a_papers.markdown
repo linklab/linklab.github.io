@@ -20,6 +20,9 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                            <h4 class="title-level-4 year">2025</h4>
+                                            <p>I. Ullah and Y.-H. Han  
+                                                "<strong>Dynamic Virtual Network Embedding for Task Offloading in IoV: GAT-assisted HDRL Approach</strong>," Springer Annals of Telecommunications, Dec. 2025, https://doi.org/10.1007/s12243-025-01138-5
+                                            </p>
                                             <p>I. Ullah, Y. Seok, Y.-H. Han  
                                                 "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted).
                                             </p>
