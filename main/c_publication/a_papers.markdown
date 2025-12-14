@@ -20,17 +20,19 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                            <h4 class="title-level-4 year">2025</h4>
-                                            <p>I. Ullah and Y.-H. Han  
-                                                "<strong>Dynamic Virtual Network Embedding for Task Offloading in IoV: GAT-assisted HDRL Approach</strong>," Springer Annals of Telecommunications, Dec. 2025, https://doi.org/10.1007/s12243-025-01138-5
+                                            <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee,"<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Dec. 2025, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>
                                             </p>
-                                            <p>I. Ullah, Y. Seok, Y.-H. Han  
+                                            <p>I. Ullah and Y.-H. Han,  
+                                                "<strong>Dynamic Virtual Network Embedding for Task Offloading in IoV: GAT-assisted HDRL Approach</strong>," Springer Annals of Telecommunications, Dec. 2025, DOI: <a href="https://doi.org/10.1007/s12243-025-01138-5" target="_blank">10.1007/s12243-025-01138-5</a>.
+                                            </p>
+                                            <p>I. Ullah, Y. Seok, Y.-H. Han,  
                                                 "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted).
                                             </p>
-                                            <p>C.-H. Ji, J.-B. Kim, Y.-H. Han  
+                                            <p>C.-H. Ji, J.-B. Kim, Y.-H. Han,  
                                                 "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control</strong>,"
-                                                Neural Computing and Applications, 37, 14171–14187, May 2025, https://doi.org/10.1007/s00521-025-11252-z.
+                                                Neural Computing and Applications, 37, 14171–14187, May 2025, DOI: <a href="https://doi.org/10.1007/s00521-025-11252-z" target="_blank">10.1007/s00521-025-11252-z</a>.
                                             </p>
-                                            <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee  
+                                            <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee,
                                                 "<strong>Deep Reinforcement Learning-Driven Optimization of End-to-End Key Provision in QKD Systems</strong>,"
                                                 Journal of Network and Systems Management, Vol. 33, No. 30, Feb. 2025, DOI: <a href="https://doi.org/10.1007/s10922-025-09902-7" target="_blank">10.1007/s10922-025-09902-7</a>.
                                             </p>
