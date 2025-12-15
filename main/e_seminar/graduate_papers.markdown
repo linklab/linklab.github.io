@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>12월 16일 (화) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        Kerr, Justin, et al. "Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop." Conference on Robot Learning (CoRL), 2025.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2506.10968">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>            
                 <li>12월 9일 (화) 논문 세미나 – 석영준
                     <br/>
                     <strong>
