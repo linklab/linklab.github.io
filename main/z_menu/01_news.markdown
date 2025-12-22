@@ -35,13 +35,26 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2025" month="12" day="18">
+                                    <td class="text-md-right" style="width: 20%">
+                                        December 18, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] LINK 랩 김민준 석사과정생이 과학기술정보통신부 석사우수장학(이공계)생으로 선정됨 
+                                        <a href="https://www.unipress.co.kr/news/articleView.html?idxno=13189" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                        </a>
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="11" day="15">
                                     <td class="text-md-right" style="width: 20%">
                                         November 15, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        [축] LINK 랩 석영준 박사과정생이 작성하여 JOCN (Journal of Optical Communications and Networking) 저널에 제출한 논문인 "End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer"이 Accept 되어짐. 
+                                        [축] LINK 랩 석영준 박사과정생이 작성하여 JOCN (Journal of Optical Communications and Networking) 저널에 제출한 논문인 "End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer"이 출판됨. 
                                         <a href="https://opg.optica.org/jocn/abstract.cfm?doi=10.1364/JOCN.569435" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
