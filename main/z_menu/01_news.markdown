@@ -45,7 +45,6 @@ permalink: /news/
                                         <a href="https://www.unipress.co.kr/news/articleView.html?idxno=13189" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>
-                                        </a>
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="11" day="15">
