@@ -8,6 +8,23 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>12월 30일 (화) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Seo, Younggyo, et al. "FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control." arXiv preprint arXiv:2505.22642 (2025).
+                    </strong>
+                    <a href="https://younggyo.me/fast_td3/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <strong>
+                        Seo, Younggyo, et al. "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes." arXiv preprint arXiv:2512.01996 (2025).
+                    </strong>
+                    <a href="https://younggyo.me/fastsac-humanoid/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>12월 16일 (화) 논문 세미나 – 김민준
                     <br/>
                     <strong>
@@ -17,7 +34,7 @@ permalink: /seminar/graduate
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                 </li>
-                <br/>            
+                <br/>
                 <li>12월 9일 (화) 논문 세미나 – 석영준
                     <br/>
                     <strong>
