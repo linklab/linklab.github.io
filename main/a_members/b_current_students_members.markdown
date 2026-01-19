@@ -141,6 +141,46 @@ permalink: /members/students_and_members
                     </div>
                 </div>
             </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/19th/강대건.jpg"
+                                 alt="Deagun Gang (강대건)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Deagun Gang (강대건)</h4>
+                            <h6 class="card-category">(March 1, 2026 ~ Present)</h6>                            
+                            <hr>
+                            <ul class="topic_email">
+                                <li><b>Topic</b>: Reinforcement Learning, Quantum Networking, Semantic Communication</li>
+                                <li><b>Email</b>: <a href="mailto:ahicraft1937@koreatech.ac.kr">ahicraft1937@koreatech.ac.kr</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/19th/김진성.png"
+                                 alt="Jinsung Kim (김진성)">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Jinsung Kim (김진성)</h4>
+                            <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            
+                            <hr>
+                            <ul class="topic_email">
+                                <li><b>Topic</b>: Reinforcement Learning, Robotics</li>
+                                <li><b>Email</b>: <a href="mailto:kjs0820k@koreatech.ac.kr">kjs0820k@koreatech.ac.kr</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <br/><br/><br/>
         <div class="title-box">
