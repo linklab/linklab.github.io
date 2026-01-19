@@ -147,7 +147,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (2023)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원(KISTI) 연구원</li>
+                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
                             </ul>
                         </div>
                     </div>
@@ -169,7 +169,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (2022)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원(KISTI) 연구원</li>
+                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
                             </ul>
                         </div>
                     </div>
