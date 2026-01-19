@@ -21,9 +21,9 @@ permalink: /publication/papers
                                         <div class="panel article-content-1 research-content">
                                            <h4 class="title-level-4 year">2026</h4>
                                             <p>I. Ullah, Y. Seok, Y.-H. Han,  
-                                                "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted) <span class="badge badge-primary">IF: 10.9, JCR Top 2.9% in Telecommunications</span>.
+                                                "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted). <span class="badge badge-primary">IF: 10.9, JCR Top 2.9% in Telecommunications</span>
                                             </p>
-                                            <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee, "<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Jan. 2026, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>, <span class="badge badge-primary">IF: 4.1, JCR Top 19.2% in Computer Science, Hardware & Architecture</span>.
+                                            <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee, "<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Jan. 2026, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>. <span class="badge badge-primary">IF: 4.1, JCR Top 19.2% in Computer Science, Hardware & Architecture</span>
                                             </p>
                                            <h4 class="title-level-4 year">2025</h4>
                                             <p>I. Ullah and Y.-H. Han,  
@@ -31,11 +31,11 @@ permalink: /publication/papers
                                             </p>
                                             <p>C.-H. Ji, J.-B. Kim, Y.-H. Han,  
                                                 "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control</strong>,"
-                                                Neural Computing and Applications, 37, 14171–14187, May 2025, DOI: <a href="https://doi.org/10.1007/s00521-025-11252-z" target="_blank">10.1007/s00521-025-11252-z</a> <span class="badge badge-primary">IF: 4.5, JCR Top 26.1% in Computer Science, Artificial Intelligence</span>.
+                                                Neural Computing and Applications, 37, 14171–14187, May 2025, DOI: <a href="https://doi.org/10.1007/s00521-025-11252-z" target="_blank">10.1007/s00521-025-11252-z</a>. <span class="badge badge-primary">IF: 4.5, JCR Top 26.1% in Computer Science, Artificial Intelligence</span>
                                             </p>
                                             <p>Y. Seok, J.-B. Kim, Y.-H. Han, H.-K. Lim, C. Lee, and W. Lee,
                                                 "<strong>Deep Reinforcement Learning-driven Optimization of End-to-end Key Provision in QKD Systems</strong>,"
-                                                Journal of Network and Systems Management, Vol. 33, No. 30, Feb. 2025, DOI: <a href="https://doi.org/10.1007/s10922-025-09902-7" target="_blank">10.1007/s10922-025-09902-7</a> <span class="badge badge-primary">IF: 3.9, JCR Top 31.2% in Computer Science, Information Systems</span>.
+                                                Journal of Network and Systems Management, Vol. 33, No. 30, Feb. 2025, DOI: <a href="https://doi.org/10.1007/s10922-025-09902-7" target="_blank">10.1007/s10922-025-09902-7</a>. <span class="badge badge-primary">IF: 3.9, JCR Top 31.2% in Computer Science, Information Systems</span>
                                             </p>
                                             <p>I. Ullah and Y.-H. Han,
                                                 "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading</strong>,"
@@ -48,11 +48,11 @@ permalink: /publication/papers
                                             </p>
                                             <p>J.-B. Kim, H.-B. Choi, and Y.-H. Han,
                                                 "<strong>Strangeness-driven Exploration in Multi-Agent Reinforcement Learning</strong>,"
-                                                Neural Networks, Vol. 172, 106149, Jan. 2024, DOI: <a href="https://doi.org/10.1016/j.neunet.2024.106149" target="_blank">10.1016/j.neunet.2024.106149</a> <span class="badge badge-primary">IF: 6.3, JCR Top 10.4% in Neurosciences</span>.
+                                                Neural Networks, Vol. 172, 106149, Jan. 2024, DOI: <a href="https://doi.org/10.1016/j.neunet.2024.106149" target="_blank">10.1016/j.neunet.2024.106149</a>. <span class="badge badge-primary">IF: 6.3, JCR Top 10.4% in Neurosciences</span>
                                             </p>
                                             <p>H.-K. Lim, I. Ullah, J.-B. Kim, and Y.-H. Han,
                                                 "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning</strong>,"
-                                                IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a> <span class="badge badge-primary">IF: 8.9, JCR Top 4.1% in Computer Science, Information Systems</span>.
+                                                IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>. <span class="badge badge-primary">IF: 8.9, JCR Top 4.1% in Computer Science, Information Systems</span>
                                             </p>
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p>H.-U Ko, I. Yoon, B. Kim, Y.-H. Han, S. J. Park, H.-J. Hwang, and S.-Y. Kim,
