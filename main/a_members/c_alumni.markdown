@@ -122,7 +122,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Chang-Hun Ji (지창훈)</h4>
-                            <h6 class="card-category">Ph.D. Student<br>(March 1, 2023 ~ Present)</h6>
+                            <h6 class="card-category">Ph.D. (Feb. 2026)</h6>
                             <hr>
                             <ul>
                                 <li style="font-size: 1.1em"><b>취업</b>: -</li>
@@ -144,7 +144,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Ju-Bong Kim (김주봉)</h4>
-                            <h6 class="card-category">Ph.D. (2023)</h6>
+                            <h6 class="card-category">Ph.D. (Aug. 2023)</h6>
                             <hr>
                             <ul>
                                 <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
@@ -166,7 +166,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Hyun-Kyo Lim (임현교)</h4>
-                            <h6 class="card-category">Ph.D. (2022)</h6>
+                            <h6 class="card-category">Ph.D. (Feb. 2022)</h6>
                             <hr>
                             <ul>
                                 <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
@@ -188,7 +188,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Changmyung Kim (김찬명)</h4>
-                            <h6 class="card-category">Ph.D. (2016)</h6>
+                            <h6 class="card-category">Ph.D. (Feb. 2016)</h6>
                             <hr>
                             <ul>
                                 <li style="font-size: 1.1em"><b>취업</b>: (주)씽크온웹 CTO</li>
@@ -210,7 +210,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                         </div>
                         <div class="card-body">
                             <h4 class="card-title">Yonghwan Kim (김용환)</h4>
-                            <h6 class="card-category">Ph.D. (2015)</h6>
+                            <h6 class="card-category">Ph.D. (Feb. 2015)</h6>
                             <hr>
                             <ul>
                                 <li style="font-size: 1.1em"><b>취업</b>: ㈜트렌토시스템즈 수석연구원</li>
