@@ -53,26 +53,6 @@ permalink: /members/students_and_members
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                <div class="item-student">
-                    <div class="card card-profile">
-                        <div class="card-header card-avatar">
-                            <img class="img" src="/assets/images/members/지창훈.jpeg"
-                                 alt="">
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">Chang-Hun Ji (지창훈)</h4>
-                            <h6 class="card-category">Ph.D. Student<br>(March 1, 2023 ~ Present)</h6>
-                            <hr>
-                            <ul class="topic_email">
-                                <!-- <li><b>Research Category</b>: Smart Manufacturing </li> -->
-                                <li><b>Topic</b>: Reinforcement learning, AGV Navigation</li>
-                                <li><b>Email</b>: <a href="mailto:wlckd5660@gmail.com">wlckd5660@gmail.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
         <br/><br/><br/>
         <div class="title-box">

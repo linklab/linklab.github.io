@@ -110,6 +110,28 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
         <div class="title-box">
             <div class="title-level-2">Ph.D.</div>
         </div>
+        <h3>2026년 2월 졸업</h3>
+        <div class="row wrapper-students">
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img" 
+                                 src="/assets/images/members/지창훈.jpeg"
+                                 alt="">
+                        </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Chang-Hun Ji (지창훈)</h4>
+                            <h6 class="card-category">Ph.D. Student<br>(March 1, 2023 ~ Present)</h6>
+                            <hr>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>취업</b>: -</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <h3>2023년 졸업</h3>
         <div class="row wrapper-students">
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
@@ -125,7 +147,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (2023)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후 연구원</li>
+                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원(KISTI) 연구원</li>
                             </ul>
                         </div>
                     </div>
@@ -147,7 +169,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (2022)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후 연구원</li>
+                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원(KISTI) 연구원</li>
                             </ul>
                         </div>
                     </div>
@@ -169,7 +191,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (2016)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)씽크온웹</li>
+                                <li style="font-size: 1.1em"><b>취업</b>: (주)씽크온웹 CTO</li>
                             </ul>
                         </div>
                     </div>
@@ -191,7 +213,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
+                                <li style="font-size: 1.1em"><b>취업</b>: ㈜트렌토시스템즈 수석연구원</li>
                             </ul>
                         </div>
                     </div>

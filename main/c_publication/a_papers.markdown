@@ -19,14 +19,15 @@ permalink: /publication/papers
                                     <article>
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
-                                           <h4 class="title-level-4 year">2025</h4>
-                                            <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee, "<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Dec. 2025, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>, (<span style="color:#d60000; font-family: Arial, sans-serif; font-weight: 500;">IF: 4.1, JCR Top 19.2% in Computer Science, Hardware & Architecture</span>).
-                                            </p>
-                                            <p>I. Ullah and Y.-H. Han,  
-                                                "<strong>Dynamic Virtual Network Embedding for Task Offloading in IoV: GAT-assisted HDRL Approach</strong>," Springer Annals of Telecommunications, Dec. 2025, DOI: <a href="https://doi.org/10.1007/s12243-025-01138-5" target="_blank">10.1007/s12243-025-01138-5</a>.
-                                            </p>
+                                           <h4 class="title-level-4 year">2026</h4>
                                             <p>I. Ullah, Y. Seok, Y.-H. Han,  
                                                 "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, 2025 (Accepted) (<span style="color:#d60000; font-family: Arial, sans-serif; font-weight: 500;">IF: 10.9, JCR Top 2.9% in Telecommunications</span>).
+                                            </p>
+                                            <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee, "<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Jan. 2026, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>, (<span style="color:#d60000; font-family: Arial, sans-serif; font-weight: 500;">IF: 4.1, JCR Top 19.2% in Computer Science, Hardware & Architecture</span>).
+                                            </p>
+                                           <h4 class="title-level-4 year">2025</h4>
+                                            <p>I. Ullah and Y.-H. Han,  
+                                                "<strong>Dynamic Virtual Network Embedding for Task Offloading in IoV: GAT-assisted HDRL Approach</strong>," Springer Annals of Telecommunications, Dec. 2025, DOI: <a href="https://doi.org/10.1007/s12243-025-01138-5" target="_blank">10.1007/s12243-025-01138-5</a>.
                                             </p>
                                             <p>C.-H. Ji, J.-B. Kim, Y.-H. Han,  
                                                 "<strong>Curiosity-driven Dual-policy Action Selection in Temporal Difference Learning for Model Predictive Control</strong>,"
