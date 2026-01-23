@@ -1018,6 +1018,8 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2025</h4>
+                                            <p> 석영준, 강대건, 김진성, 한연희, "<strong>심층강화학습을 이용한 양자 리피터 체인에서의 얽힘 분배 최적화</strong>," 2025 한국통신학회 추계종합학술대회, 2025. 11.
+                                            </p>
                                             <p> 김민준, 지창훈, 최요한, Nurlanbek kyzy Asel, 한연희, "<strong>오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조</strong>," 2025 제6회 한국 인공지능 학술대회, 2025. 09. <span class="badge badge-warning">우수 논문 수상</span>
                                             </p>
                                             <p> 최요한, 김민준, Nurlanbek kyzy Asel, 김진성, 한연희, "<strong>사족보행 로봇 보행 제어를 위한 특권 정보 기반 교사 학생 학습 기법 비교</strong>," 2025 한국통신학회 하계종합학술대회, 2025. 06. <span class="badge badge-warning">우수 논문 수상</span>
