@@ -8,6 +8,23 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <li>1월 28일 (수) 논문 세미나 – 허주성, 강대건
+                    <br/>
+                    <strong>
+                        Tian, Zhiyi, et al. "An asynchronous multi-task semantic communication method." IEEE Network 38.4 (2023): 275-283.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/document/10273382">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <strong>
+                        Xie, Huiqiang, et al. "Deep learning enabled semantic communication systems." IEEE transactions on signal processing 69 (2021): 2663-2675.
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/9398576">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>1월 6일 (화) 논문 세미나 – 김용현
                     <br/>
                     <strong>
