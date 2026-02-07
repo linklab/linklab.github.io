@@ -10,6 +10,29 @@ permalink: /courses/
             <button class="accordion">Undergraduate</button>
             <div class="panel article-content-1 research-content">
                 <div style="margin-bottom: 3.5em;">
+                    <h3 class="course_year">2026</h3>
+                    <!--
+                    <h4 class="course_season text-right">[Fall]</h4>
+                    <ol class="study">
+                         <li>
+                            <strong>Deep Learning & Practice</strong>
+                            <a href="/courses/2025/2/dl" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                    </ol>
+                    -->
+                    <h4 class="course_season text-right">[Spring]</h4>
+                    <ol class="study">
+                        <li>
+                            <strong>Algorithm & Practice</strong>
+                            <a href="/courses/2025/1/algorithm_and_practice" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                    </ol>
+                </div>
+                <div style="margin-bottom: 3.5em;">
                     <h3 class="course_year">2025</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -545,6 +568,18 @@ permalink: /courses/
         <article>
             <button class="accordion">Graduate</button>
             <div class="panel article-content-1 research-content">
+                <div style="margin-bottom: 3.5em;">
+                    <h3 class="course_year">2026</h3>
+                    <h4 class="course_season text-right">[Spring]</h4>
+                    <ol class="study">
+                        <li>
+                            <strong>Advanced Artificial Intelligence</strong>
+                            <a href="/courses/2024/2/advanced_ai" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                    </ol>
+                </div>
                 <div style="margin-bottom: 3.5em;">
                     <h3 class="course_year">2025</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
