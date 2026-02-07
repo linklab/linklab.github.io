@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /courses/2025/1/algorithm_and_practice
+permalink: /courses/2026/1/reinforcement_learning
 ---
 
 <section style="overflow-wrap: anywhere; word-wrap: anywhere;">

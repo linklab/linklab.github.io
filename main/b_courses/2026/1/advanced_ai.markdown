@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /courses/2024/2/advanced_ai
+permalink: /courses/2026/1/advanced_ai
 ---
 
 <section style="overflow-wrap: anywhere; word-wrap: anywhere;">
