@@ -25,8 +25,8 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <strong>Algorithm & Practice</strong>
-                            <a href="/courses/2025/1/algorithm_and_practice" target="_blank">
+                            <strong>Reinforcement Learning</strong>
+                            <a href="/courses/2026/1/reinforcement_learning" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
@@ -574,7 +574,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Advanced Artificial Intelligence</strong>
-                            <a href="/courses/2024/2/advanced_ai" target="_blank">
+                            <a href="/courses/2026/1/advanced_ai" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
