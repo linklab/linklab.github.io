@@ -12,7 +12,7 @@ permalink: /seminar/graduate
                 <li>2월 11일 (수) 논문 세미나 – 김진성
                     <br/>
                     <strong>
-                        McAllister, D., Ge, S., Yi, B., Kim, C. M., Weber, E., Choi, H., ... & Kanazawa, A. (2025). Flow matching policy gradients. arXiv preprint arXiv:2507.21053.
+                        McAllister, David, et al. "Flow matching policy gradients." arXiv preprint arXiv:2507.21053 (2025).
                     </strong>
                     <a href="https://flowreinforce.github.io/">
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
