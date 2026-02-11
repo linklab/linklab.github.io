@@ -8,6 +8,24 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
+                <br/>
+                <li>2월 11일 (수) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        McAllister, D., Ge, S., Yi, B., Kim, C. M., Weber, E., Choi, H., ... & Kanazawa, A. (2025). Flow matching policy gradients. arXiv preprint arXiv:2507.21053.
+                    </strong>
+                    <a href="https://flowreinforce.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <strong>
+                        Seo, Younggyo, et al. "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes." arXiv preprint arXiv:2512.01996 (2025).
+                    </strong>
+                    <a href="https://younggyo.me/fastsac-humanoid/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>1월 28일 (수) 논문 세미나 – 허주성, 강대건
                     <br/>
                     <strong>
