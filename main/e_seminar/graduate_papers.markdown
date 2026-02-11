@@ -18,12 +18,6 @@ permalink: /seminar/graduate
                         <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
                     </a>
                     <br/>
-                    <strong>
-                        Seo, Younggyo, et al. "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes." arXiv preprint arXiv:2512.01996 (2025).
-                    </strong>
-                    <a href="https://younggyo.me/fastsac-humanoid/">
-                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
-                    </a>
                 </li>
                 <br/>
                 <li>1월 28일 (수) 논문 세미나 – 허주성, 강대건
