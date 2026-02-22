@@ -35,6 +35,15 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2026" month="02" day="21">
+                                    <td class="text-md-right" style="width: 20%">
+                                        February 21, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] LINK 랩 지창훈 학생 공학박사 학위 취득!
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2025" month="12" day="18">
                                     <td class="text-md-right" style="width: 20%">
                                         December 18, 2025
