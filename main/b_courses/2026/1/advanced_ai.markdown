@@ -21,62 +21,52 @@ permalink: /courses/2026/1/advanced_ai
                                             <div class="row content">
                                                 <div class="content-wrapper">
                                                     <h2 class="title-level-2">
-                                                        Advanced Artificial Intelligence (인공지능 특강 [240030-01], Spring Semester, 2026) </h2>
-                                                    <p><em><br>“Student-professor relationships are based on trust. Acts,
-                                                        which violate this trust, undermine the educational process.
-                                                        Your classmates and the professor will not tolerate violations
-                                                        of academic integrity.”
-                                                    </em></p><br>
-                                                    <h3 class="title-level-3">1. Course Schedule &amp; Lecture Notes</h3>
-                                                    <br/>
-                                                    <div>
-                                                        <h3>[공지사항]</h3>
-                                                        <i class="fas fa-bullhorn"></i> [2024.03.04] 본 수업을 수강하는 학생들에게 공지합니다. 본 수업은 심층강화학습(Deep Reinforcement Learning)의 기초가 되는 주요 내용 및 알고리즘을 15번의 수업에 걸쳐서 학습할 예정입니다. 모든 학생들은<br/>
-                                                        &nbsp;&nbsp;&nbsp;1) 교재의 각 챕터를 공부하고 자료를 구성하여 직접 수업시간에 여러 대학원생들 앞에서 발표를 해야 하며,<br/>
-                                                        &nbsp;&nbsp;&nbsp;2) 해당 교재에서 소개하는 심층강화학습 코드를 이해하고 이를 기반으로 숙제와 텀프로젝트를 리포트와 함께 제출해야 하며,<br/>
-                                                        &nbsp;&nbsp;&nbsp;3) 기말고사를 통하여 이 수업에서 다룬 심층강화학습 알고리즘 전반에 걸친 이해도를 평가받게 됩니다.
-                                                        <br/>
-                                                        <i class="fas fa-bullhorn"></i> [2024.03.04] 본 수업을 수강하기 위하여 꼭 필요한 선수 지식<br/>
-                                                        &nbsp;&nbsp;&nbsp;1) 학부과정에서의 자료구조 및 알고리즘 교과목 이수<br/>
-                                                        &nbsp;&nbsp;&nbsp;2) 파이썬을 활용한 가상 환경 구축 및 다양한 패키지/모 활용 경험<br/>
-                                                        &nbsp;&nbsp;&nbsp;3) 파이썬을 활용한 Tensorflow 또는 Pytorch 기반으로 딥러닝 관련 코딩 수행 경험<br/>
-                                                        <i class="fas fa-bullhorn"></i> [2024.03.04] 학점은 A+/A, B+/B, C+/C, F 이렇게 총 4개의 그룹으로 나누어 부여할 예정이며, F로 평가될 학생이 없다면 각 3개 그룹당 학점의 분포는 40%, 40%, 20%로 나누어 부여할 예정이지만 강의가 종료된 이후 전반적인 학업성취도를 가늠하여 변경될 수 있습니다.
-                                                        <br/>
-                                                        <i class="fas fa-bullhorn"></i> [2024.03.04] 강의에서 사용하는 심층강화학습 프레임워크 Github Repository: <a href="https://github.com/linklab/kics_rl_lab" target="_blank"><i class="fa fa-github-square" aria-hidden="true"></i></a>
-                                                    </div>
-                                                    <br/>
-                                                    <table class="table table-responsive table-hover">
+                                                        Deep Learning and Practice (딥러닝및실습) - CSE533, Fall Semester, 2025 </h2>
+                                                    <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
+                                                    <h3 class="title-level-3">
+                                                    1. Course Schedule &amp; Lecture Notes
+                                                    <span>
+                                                        <a style="color: blue; font-size: 0.6em" href="https://github.com/linklab/link_dl">[수업 실습 코드]</a>, 
+                                                        <a style="color: blue; font-size: 0.6em" href="https://docs.google.com/document/d/1IHHz9ehpnQ4FrCDciywhweyIlvtpZ_0RZ7w2wNTtWyk/edit?usp=sharing">[수업 질의 응답]</a>
+                                                    </span>
+                                                    </h3>
+                                                    <table class="table table-bordered">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:10%">Date</th>
-                                                            <th scope="col" style="width:32%">Book Presentation</th>
-                                                            <th scope="col" style="width:32%">Paper Presentation</th>
-                                                            <th scope="col" style="width:22%">Notice</th>
+                                                            <th scope="col" style="width:8%">주차</th>
+                                                            <th scope="col" style="width:5%">회</th>
+                                                            <th scope="col" style="width:20%">Date</th>
+                                                            <th scope="col" style="width:35%">Lecture</th>
+                                                            <th scope="col" style="">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">1주차</th>
                                                             <th scope="row">01</th>
-                                                            <td>03월 04일(월)</td>
+                                                            <td>09월 01일(월)</td>
                                                             <td>
-                                                                - 강의 소개<br/>
-                                                                - DRL Lecture Notes (1/5)
-                                                                <a href="https://www.dropbox.com/scl/fi/d32vtuuxg16hkyh34xeh8/01.RL_101.pdf?rlkey=fls89oq4bkz2tst7uly1abc5j&dl=0" target="_blank">
+                                                                - Course Introduction<br/>
+                                                                - 00. Introduction to Deep Learning
+                                                                <a href="https://www.dropbox.com/scl/fi/7egbxsajo0yqis1angqoc/00.dl_101.pdf?rlkey=odh4tihyg79uhatz5aicdkksi&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
-                                                                <br/>
                                                             </td>
                                                             <td>
+                                                                - _01_code 로컬 디렉토리 및 _02_homeworks 로컬 디렉토리 변경 사항 초기화<br/>
+                                                                : git checkout -- _01_code<br/>
+                                                                : git checkout -- _02_homeworks<br/>
+                                                                - link_dl 리포지토리 최신화<br/>
+                                                                : git pull
                                                             </td>
-                                                            <td></td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">02</th>
-                                                            <td>03월 11일(월)</td>
-                                                            <td colspan="2">
-                                                                - DRL Lecture Notes (2/5)
-                                                                <a href="https://www.dropbox.com/scl/fi/0avmjtqv453rvgr147eak/02.Q_Learning.pdf?rlkey=xgib8swsfnloomz59sj2zrbla&dl=0" target="_blank">
+                                                            <td>09월 02일(화)</td>
+                                                            <td>
+                                                                - 00. Introduction to Deep Learning<br/>
+                                                                - 01. Development Environment
+                                                                <a href="https://www.dropbox.com/scl/fi/gg3kfy55q28fa17e8j8db/01.development_environment.pdf?rlkey=hr9bw8wyz24s8bals0pf320mu&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
@@ -84,180 +74,383 @@ permalink: /courses/2026/1/advanced_ai
                                                             </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">2주차</th>
                                                             <th scope="row">03</th>
-                                                            <td>03월 18일(월)</td>
+                                                            <td>09월 08일(월)</td>
                                                             <td>
-                                                                - DRL Lecture Notes (3/5)
-                                                                <a href="https://www.dropbox.com/scl/fi/2nm6gt3fbzphxpjn567as/03.DQN.pdf?rlkey=mwwfnqnqzxbi6sn00x32c89jc&dl=0" target="_blank">
+                                                                - 02. Tensors
+                                                                <a href="https://www.dropbox.com/scl/fi/7tgzon6txclhis4o6qr5m/02.tensors.pdf?rlkey=qx9zze1cvltdsxejjoitjxfcu&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                                 <br/>
-                                                                - DRL Lecture Notes (4/5)
-                                                                <a href="https://www.dropbox.com/scl/fi/4gkw0qsacbz43xgfi2dxj/04.REINFORCE.pdf?rlkey=0kgea6rygpcn8qkbqevo7yp3u&dl=0" target="_blank">
+                                                                - 03. Real-World Data to Tensors
+                                                                <a href="https://www.dropbox.com/scl/fi/nq0zi6k394c4pmr8ck01k/03.real_world_data_to_tensors.pdf?rlkey=9kddwc87w95tyzqmcaqlxkqu4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                            </td>
-                                                            <td>
-                                                                <span class="font-weight-bold">
-                                                                    Homework #1.
-                                                                    <a href="https://www.dropbox.com/scl/fi/iyat052w8oous1p148f9g/HW_1.pdf?rlkey=qggwkbwvkz7ihbutnk247nvrq&dl=0" target="_blank">
-                                                                        <span class="badge badge-primary">숙제 설명</span>
-                                                                    </a>
-                                                                    <br/>
-                                                                    기한: 2024년 3월 31일 23시 59분
-                                                                </span>
+                                                                - 데이터 (zip 파일)
+                                                                <a href="https://drive.google.com/file/d/1aUO7ca_cc8UoaJ_EAZZ9wmcbqV8HF_RM/view?usp=sharing" target="_blank">
+                                                                    <span class="badge badge-info">다운 로드</span>
+                                                                </a><br/>
+                                                                : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
+                                                                <img src="/assets/images/courses/data.png" width="100%"/>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">04</th>
-                                                            <td>03월 25일(월)</td>
+                                                            <td>09월 09일(화)</td>
                                                             <td>
-                                                                - DRL Lecture Notes (5/5)
-                                                                <a href="https://www.dropbox.com/scl/fi/gjhfhn1sa8vzfuk2pjygn/05.A2C.pdf?rlkey=kl8637ey0iu3jrgb7iz6awvam&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                - 03. Real-World Data to Tensors
+                                                            </td>
+                                                            <td>
+                                                                - Tensor 및 Tensor Operations 에 관한 특강 (조교)
+                                                                <a href="https://www.dropbox.com/scl/fi/w4olgbnzke21g14z8mfth/02.tensors_operations.pdf?rlkey=ojoo2o6mpa4dhd67u07epbuhx&dl=0" target="_blank">
+                                                                    <span class="badge badge-info">강의 노트</span>
+                                                                </a><br/>
+                                                                - 위 특강에 대한 강의 동영상은 EL2에서 확인<br/>
+                                                                - <strong>Homework #1 (기한: 9월 27일 토요일 23시 59분)</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/xs9448zo3eely5ey63de4/HW_1.pdf?rlkey=uvrqhuoti4vbz9kwe2ifaltq7&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
                                                                 </a>
                                                             </td>
-                                                            <td>
-                                                            </td>
-                                                            <td></td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">3주차</th>
                                                             <th scope="row">05</th>
-                                                            <td>04월 01일(월)</td>
+                                                            <td>09월 15일(월)</td>
                                                             <td>
-                                                                - Ch. 2 마르코프 결정 과정: 최기훈, 박범혁, 강성욱
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표 01.: 최요한 - <a href="https://arxiv.org/abs/2208.07860" target="_blank">Demonstrating A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning</a>, <a href="https://sites.google.com/berkeley.edu/walk-in-the-park" target="_blank">프로젝트 소개 페이지</a><br/>
-                                                                - 논문 발표 02.: 지창훈 - <a href="https://ieeexplore.ieee.org/abstract/document/10161081" target="_blank">Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models</a><br/>
+                                                                - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">06</th>
-                                                            <td>04월 08일(월)</td>
+                                                            <td>09월 16일(화)</td>
                                                             <td>
-                                                                - Ch. 3 벨만 방정식: 김지우, 아셀, 김경민
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표 03. 강성욱 - <a href="https://www.mdpi.com/1424-8220/19/18/3996" target="_blank">Reinforcement Learning-Based End-to-End Parking for Automatic Parking System</a><br/>
-                                                                - 논문 발표 04. 아셀 - <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a> <br/>
-                                                                - 논문 발표 05. 이재원 - <a href="https://arxiv.org/abs/2402.00782" target="_blank">Dense reward for free in Reinforcement Learning from Human Feedback</a>
+                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
+                                                                <a href="https://www.dropbox.com/scl/fi/syp32lz9n7zanyc0fltau/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=tciwtci4y343k3wte4iwfp3g3&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
                                                             <th scope="row">07</th>
-                                                            <td>04월 15일(월)</td>
+                                                            <td>09월 22일(월)</td>
                                                             <td>
-                                                                - Ch. 4 동적 프로그래밍: 김민범, 박기형, 이우석
-                                                            </td>
-                                                            <td>
-                                                                - 논문 발표 06. 윤차주 - <a href="https://arxiv.org/abs/2403.18454" target="_blank">Scaling Vision-and-Language Navigation With Offline RL</a><br/>
-                                                                - 논문 발표 07. 윤인식 - <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a><br/>
-                                                                - 논문 발표 08. 이민철 - <a href="https://ieeexplore.ieee.org/document/10449466" target="_blank">Transferring Meta-Policy From Simulation to Reality via Progressive Neural Network</a><br/>
+                                                                - 05. Autograd
+                                                                <a href="https://www.dropbox.com/scl/fi/5ne1gdsl8b5zc1rrvn4dp/05.autograd.pdf?rlkey=329aig8q9hjv0utznkpqnck3s&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">08</th>
-                                                            <td>04월 22일(월)</td>
+                                                            <td>09월 23일(화)</td>
                                                             <td>
-                                                                - Ch. 5 몬테카를로법: 노유찬, 박재웅, 윤인식
+                                                                - 06. FCN (Fully-Connected Network)
+                                                                <a href="https://www.dropbox.com/scl/fi/52iaig6x11nz9gildedsr/06.fcn.pdf?rlkey=jtv9ve4ogtkl2sln2rye21qfa&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 09. 이우석 - <a href="https://ieeexplore.ieee.org/document/9053403" target="_blank">Automatic Data Augmentation via Deep Reinforcement Learning for Effective Kidney Tumor Segmentation</a><br/>
-                                                                - 논문 발표 10. 조재민 - <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-                                                                - 논문 발표 11. 김재홍 - <a href="https://ieeexplore.ieee.org/document/9065130" target="_blank">Reinforcement Learning Based Wireless Augmented Reality on Mobile Edge Computing</a>
                                                             </td>
-                                                            <td></td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
                                                             <th scope="row">09</th>
-                                                            <td>04월 29일(월)</td>
+                                                            <td>09월 29일(월)</td>
                                                             <td>
-                                                                - Ch. 6 TD (Time Difference)법: 윤차주, 김재홍, 남동윤
+                                                                - 07. Loss Functions
+                                                                <a href="https://www.dropbox.com/scl/fi/38jk04eienp8g6w4bncui/07.loss_functions.pdf?rlkey=g8opc5vehg2cayte8vr1wwegg&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 12. 김경민 - <a href="https://arxiv.org/abs/2310.12931" target="_blank">Eureka: Human-Level Reward Design via Coding Large Language Models</a><br/>
-                                                                - 논문 발표 13. 박기형 - <a href="https://ieeexplore.ieee.org/abstract/document/9711620" target="_blank">Reinforcement Learning in Image Classification: A Review</a><br/>
-                                                                - 논문 발표 14. 김민범 - <a href="https://arxiv.org/abs/2002.06583" target="_blank">Reinforced Active Learning for Image Segmentation</a>
-                                                            </td>
-                                                            <td>
+                                                                - <strong>Homework #2</strong> (기한: 10월 18일 23시 59분)
+                                                                <a href="https://www.dropbox.com/scl/fi/eyxjilou6e2ozf142nma3/HW_2.pdf?rlkey=4x5uv56lb26kle062qgtanr5m&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">10</th>
-                                                            <td>05월 06일(월)</td>
-                                                            <td colspan="3" class="center">대체 공휴일</td>
+                                                            <td>09월 30일(화)</td>
+                                                            <td>
+                                                                - 08. Learning and Optimization
+                                                                <a href="https://www.dropbox.com/scl/fi/9uvcqdcflornsnbwe33v1/08.learning_and_optimization.pdf?rlkey=1v67649gnc4gp8f96ef07wnjr&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                                - [NOTE] 9월 30일 수업은 10월 1일 저녁 9시 Zoom 온라인 수업으로 대체. Zoom 온라인 수업 링크는 EL2 사이트의 공지사항 참고. 
+                                                            </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
                                                             <th scope="row">11</th>
-                                                            <td>05월 13일(월)</td>
+                                                            <td>10월 06일(월)</td>
                                                             <td>
-                                                                - Ch. 7 신경망과 Q 러닝: 곽민창, 이종영, 최승용
+                                                                추석 (휴강)
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 15. 이요셉: <a href="https://pp.bme.hu/tr/article/view/18581" target="_blank">Autonomous Drifting Using Reinforcement Learning</a><br/>
-                                                                - 논문 발표 16. 최기훈: <a href="https://ieeexplore.ieee.org/abstract/document/8813903">Continuous Control for Automated Lane Change Behavior Based on Deep Deterministic Policy Gradient Algorithm</a><br/>
-                                                                - 논문 발표 17. 노유찬: <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Hui_Learning_the_Non-Differentiable_Optimization_for_Blind_Super-Resolution_CVPR_2021_paper.pdf">Learning the Non-differentiable Optimization for Blind Super-Resolution</a>
                                                             </td>
-                                                            <td></td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">12</th>
-                                                            <td>05월 20일(월)</td>
+                                                            <td>10월 07일(화)</td>
                                                             <td>
-                                                                - Ch. 8 DQN: 이요셉, 이민철, 조재민
+                                                                추석 (휴강)
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 18. 박재웅 - <a href="https://arxiv.org/abs/2401.06800" target="_blank">Reinforcement Learning for Optimizing RAG for Domain Chatbots</a><br/>
-                                                                - 논문 발표 19. 김지우 - <a href="https://link.springer.com/chapter/10.1007/978-3-030-58520-4_32" target="_blank">Reinforced Axial Refinement Network for Monocular 3D Object Detection</a><br/>
-                                                                - 논문 발표 20. 이종영 - <a href="https://ieeexplore.ieee.org/abstract/document/9564494" target="_blank">Self-adaptive Torque Vectoring Controller Using Reinforcement Learning </a>
-                                                            </td>
-                                                            <td>
-                                                                Homework #2.
-                                                                    <a href="https://www.dropbox.com/scl/fi/wdas1lo3l3bsx1hhp2x6z/HW_2.pdf?rlkey=8atvaerw5mydoitb4a34x5mne&dl=0" target="_blank">
-                                                                        <span class="badge badge-primary">숙제 설명</span>
-                                                                    </a>
-                                                                    <br/>
-                                                                    기한: 2024년 6월 9일 일요일 23시 59분
                                                             </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
                                                             <th scope="row">13</th>
-                                                            <td>05월 27일(월)</td>
+                                                            <td>10월 13일(월)</td>
                                                             <td>
-                                                                휴강
+                                                                - 09. FCN Best Practice
+                                                                <a href="https://www.dropbox.com/scl/fi/t9ug3331pr4lprvtepd3t/09.fcn_best_practice.pdf?rlkey=f80mac2i0ueprtijumvxbo359&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
-                                                            <td></td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">14</th>
-                                                            <td>06월 03일(월)</td>
+                                                            <td>10월 14일(화)</td>
                                                             <td>
-                                                                - Ch. 9 정책 경사법: 지창훈, 최요한, 이재원
+                                                                - 10. Convolutional Neural Network (CNN)
+                                                                <a href="https://www.dropbox.com/scl/fi/bnixgu5yffvc3mk30z7w6/10.cnn.pdf?rlkey=hrtg95e23re2361dpwiudapmy&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
-                                                                - 논문 발표 21. 곽민창 - <a href="https://ieeexplore.ieee.org/abstract/document/8569977" target="_blank">Deep Reinforcement Learning for Predictive Longitudinal Control of Automated Vehicles</a><br/>
-                                                                - 논문 발표 22. 최승용 - <a href="https://ieeexplore.ieee.org/abstract/document/8835462" target="_blank">Autonomous RL: Autonomous Vehicle Obstacle Avoidance in a Dynamic Environment using MLP-SARSA Reinforcement Learning</a><br/>
-                                                                - 논문 발표 23. 박범혁 - <a href="https://ieeexplore.ieee.org/document/9575258" target="_blank">Safe Deep Reinforcement Learning for Adaptive Cruise Control by Imposing State-Specific Safe Sets</a><br/>
-                                                                - 논문 발표 24. 남동윤 - <a href="https://www.science.org/doi/full/10.1126/scirobotics.abc5986" target="_blank">Learning quadrupedal locomotion over challenging terrain</a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
+                                                            <th scope="row">15</th>
+                                                            <td>10월 20일(월)</td>
+                                                            <td>
+                                                                - 11. CNN Architectures
+                                                                <a href="https://www.dropbox.com/scl/fi/8uwsj8j1jm7kiny8s1jny/11.cnn_architectures.pdf?rlkey=nqq7j65ytktjyk4osy16uwauq&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">15</th>
-                                                            <td>06월 10일(월)</td>
-                                                            <td COLSPAN="2">기말 고사</td>
+                                                            <th scope="row">16</th>
+                                                            <td>10월 21일(화)</td>
                                                             <td>
+                                                                - 11. CNN Architectures
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
+                                                            <th scope="row">17</th>
+                                                            <td>10월 27일(월)</td>
+                                                            <td colspan="2" class="centred">
+                                                                <strong>중간 고사</strong>
+                                                                <br/>
+                                                                장소: 2공학관 408호, 시간: 16시 ~ 17시 50분
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">18</th>
+                                                            <td>10월 28일(화)</td>
+                                                            <td>
+                                                                - 12. Optimizers
+                                                                <a href="https://www.dropbox.com/scl/fi/eh6fntfteghv3a51nets2/12.optimizers.pdf?rlkey=me6hhjmirfu1ocopcnpe8j9va&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                                - CPU vs. GPU
+                                                                <a href="https://colab.research.google.com/drive/1ERTiVfsKDnzBLRT9AH-6SFmuD-uKL_db?usp=sharing" target="_blank">
+                                                                    <img src="/assets/images/colab.png" width="10%">
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
+                                                            <th scope="row">19</th>
+                                                            <td>11월 03일(월)</td>
+                                                            <td>
+                                                                - 13. Regularization
+                                                                <a href="https://www.dropbox.com/scl/fi/o8ywcjy43i5t6717t7ge2/13.regularization.pdf?rlkey=j619nrtq4n9jjkrsfifoqs5ei&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">20</th>
+                                                            <td>11월 04일(화)</td>
+                                                            <td>
+                                                                - 14. Normalization
+                                                                <a href="https://www.dropbox.com/scl/fi/aq5b02yabg3bk060aze4a/14.normalization.pdf?rlkey=4fsutsbpnq1spg7ljy53nwksi&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                                - <strong>Homework #3 (기한: 11월 22일 (토))</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/dhxk56odbez9z1a4i53bp/HW_3.pdf?rlkey=0js5rbym68sg5fk6wd661wd2x&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
+                                                            <th scope="row">21</th>
+                                                            <td>11월 10일(월)</td>
+                                                            <td>
+                                                                - 14. Normalization
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">22</th>
+                                                            <td>11월 11일(화)</td>
+                                                            <td>
+                                                                - 15. Data Augmentation
+                                                                <a href="https://www.dropbox.com/scl/fi/e2rqrjgctuks35bz78r6x/15.data_augmentation.pdf?rlkey=jnex9hks7zu8pw02rwh30l20w&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
+                                                            <th scope="row">23</th>
+                                                            <td>11월 17일(월)</td>
+                                                            <td>
+                                                                - 16. Modern CNNs
+                                                                <a href="https://www.dropbox.com/scl/fi/8jsvqnr7rbwccp9rx9xcs/16.modern_cnns.pdf?rlkey=zzv5zd0qvg9rjpklbl5bekb01&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">24</th>
+                                                            <td>11월 18일(화)</td>
+                                                            <td>
+                                                                - 17. Recurrent Neural Network (RNN)
+                                                                <a href="https://www.dropbox.com/scl/fi/klh9sxi2xl7fe2eaj7cm6/17.rnn.pdf?rlkey=4g8e1z4wgmd1c2oyzwlhevmgh&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
+                                                            <th scope="row">25</th>
+                                                            <td>11월 24일(월)</td>
+                                                            <td>
+                                                                - 17. Recurrent Neural Network (RNN)
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">26</th>
+                                                            <td>11월 25일(화)</td>
+                                                            <td>
+                                                                - 18. LSTM and Its Application
+                                                                <a href="https://www.dropbox.com/scl/fi/htxrkv351ogkghqriz5wf/18.lstm_and_applications.pdf?rlkey=i2x6hpj2jy5k08r4ex2u1zzfv&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                                - <strong>Homework #4 (기한: 12월 19일 (금))</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/u2jyz65vn3kc10lgpl78t/HW_4.pdf?rlkey=gilx9v1bpf7ik6vf50wf1pa40&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a><br/>
+                                                                - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2025.11.30)
+                                                                <a href="https://www.dropbox.com/scl/fi/2becmnnwuq1x4gowllo6o/BTC_KRW_2025_11_30.csv?rlkey=tohx7fyvxwcex9vyrgnj1zmum&dl=0" target="_blank">
+                                                                    <span class="badge badge-info">다운 로드 (2025년 12월 5일 업데이트)</span>
+                                                                </a><br/>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
+                                                            <th scope="row">27</th>
+                                                            <td>12월 01일(월)</td>
+                                                            <td>
+                                                                - 18. LSTM and Its Application
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">28</th>
+                                                            <td>12월 02일(화)</td>
+                                                            <td>
+                                                                - 19. Attention
+                                                                <a href="https://www.dropbox.com/scl/fi/84nfuexe9cqfnc9cvbc9v/19.attention.pdf?rlkey=akipeqat0v6w0hssy1yz2ygkl&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
+                                                            <th scope="row">29</th>
+                                                            <td>12월 08일(월)</td>
+                                                            <td>
+                                                                - 19. Attention
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">30</th>
+                                                            <td>12월 09일(화)</td>
+                                                            <td>
+                                                                - 20. Transformer
+                                                                <a href="https://www.dropbox.com/scl/fi/mzrlhmw39hu6jiu3ykmhu/20.transformer.pdf?rlkey=wnlk68o1qon66fkddlt8oxyoz&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
+                                                            <th scope="row">31</th>
+                                                            <td>12월 15일(월)</td>
+                                                            <td>
+                                                                - 21. Transfer Learning
+                                                                <a href="https://www.dropbox.com/scl/fi/5158lhill63o1zsq5h9pb/21.transfer_learning.pdf?rlkey=74h2oz1xjbswdqnxn3cbzgiqx&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">32</th>
+                                                            <td>12월 16일(화)</td>
+                                                            <td class="centred" colspan="2">
+                                                                <strong>기말 고사</strong>
+                                                                <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
                                                             </td>
                                                         </tr>
                                                         </tbody>
@@ -270,69 +463,139 @@ permalink: /courses/2026/1/advanced_ai
                                                             - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
                                                         </li>
                                                         <li>
-                                                            - Classes: 월요일 (16:00 ~ 16:50)
+                                                            - Classes: 월요일 (8, 9교시 - 16:00 ~ 17:50), 화요일 (8, 9교시 - 16:00 ~ 17:50)
                                                         </li>
                                                         <li>
-                                                            - Lecture Room: 2공학관 317호
+                                                            - Lecture Room: 2공학관 408호
                                                         </li>
                                                         <li>
-                                                            - Prerequisites: 머신러닝 및 딥러닝 기본 지식, 파이썬 기반의 PyTorch/Tensorflow 기본 코딩 경험
+                                                            - Prerequisites: Python (필수), 인공지능기초및실습, 기계학습및실습
                                                         </li>
                                                     </ul>
                                                     <br/>
-                                                    <h3 class="title-level-3">3. Presentation Evaluation</h3>
+                                                    <h3 class="title-level-3">3. Homework Guide</h3>
                                                     <br/>
                                                     <ul>
                                                         <li>
-                                                            - BOOK: 내용 이해도 (60%), 발표 자료 충실도 (40%) - 반드시 모든 팀원이 모두 골고루 발표, 팀원들에게 동일한 점수 부여
+                                                            - 추후 구체적인 숙제 내용 제시
                                                         </li>
                                                         <li>
-                                                            - PAPER: 내용 이해도 (50%), 발표 자료 충실도 (30%), 발표 역량 (20%)
+                                                            - 숙제 제출 사이트: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 의 자유게시판 활용
                                                         </li>
-                                                    </ul>
-                                                    <br/>
-                                                    <h3 class="title-level-3">4. Home Work Guide</h3>
-                                                    <br/>
-                                                    <ul>
-                                                        <li>
-                                                            - 추후 구체적인 숙제 가이드 라인 제공
-                                                        </li>
-                                                        <li>
-                                                            - 교재를 기반으로 강화학습 코딩 및 실험 결과 담은 리포트 제출
-                                                        </li>
-                                                    </ul>
-                                                    <br/>
-                                                    <h3 class="title-level-3">5. References</h3>
-                                                    <br/>
-                                                    <div class="row">
-                                                        <div class="col-12">
-                                                            <h4>[주교재]</h4>
+                                                        <li> - 숙제 제출 방법 (jupyter notebook 활용)
+                                                            <br/>
+                                                            <br/>
                                                             <ul>
-                                                                <li>- 밑바닥부터 시작하는 딥러닝 4 (파이썬으로 직접 구현하며 배우는 강화 학습 알고리즘
-)
-                                                                    <a href="https://product.kyobobook.co.kr/detail/S000212020531" target="_blank">
-                                                                        <i class="fa fa-link" aria-hidden="true"></i>
-                                                                    </a>
+                                                                <li>
+                                                                    <p>1) jupyter notebook 환경에서 각 숙제별로 ipynb 파일 생성</p>
+                                                                    <ul>
+                                                                        <li>- <a href="http://www.slideshare.net/TaeYoungLee1/20150306-ipython" target="_blank">jupyter notebook 사용법 -1</a></li>
+                                                                        <li>- <a href="https://www.slideshare.net/dahlmoon/jupyter-notebok-20160815" target="_blank">jupyter notebook 사용법 -2</a></li>
+                                                                        <li>- Python 3.10 버전 이상으로 코딩</li>
+                                                                    </ul>
                                                                 </li>
-                                                                <li>- 수업 시간 PDF로 제공</li>
-                                                                <li>- 심층강화학습 핵심 논문</li>
+                                                                <br/>
+                                                                <li>
+                                                                    <p>2) ipynb 파일 내에 코드를 작성하고 작성한 코드 설명시에 Markdown 문법으로 입력해야 함</p>
+                                                                    <ul>
+                                                                        <li>- Markdown 사용법은 각자 익힐 것</li>
+                                                                        <li>- <a href="https://gist.github.com/ihoneymon/652be052a0727ad59601" target="_blank">Markdown 사용법</a> </li>
+                                                                        <li>- <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">Markdown Tutorial</a></li>
+                                                                        <li>- <a href="http://dillinger.io/" target="_blank">Markdown Online Editor</a> </li>
+                                                                    </ul>
+                                                                </li>
+                                                                <br/>
+                                                                <li>
+                                                                    <p>3) 생성한 ipynb 파일에 대해 자신만의 방법을 사용하여 온라인상 URL을 생성</p>
+                                                                    <ul>
+                                                                        <li>로컬 파일을 원격으로 업로드하고 URL을 얻으려면 Google Drive, Dropbox 또는 OneDrive와 같은 클라우드 스토리지 서비스를 사용할 수 있음.</li>
+                                                                        <li>다음은 Google 드라이브에 로컬 파일을 업로드하고 URL을 얻는 단계임:</li>
+                                                                        <ol style="margin-left: 1.5em">
+                                                                            <li>Google 드라이브 계정에 로그인합니다.</li>
+                                                                            <li>"새로 만들기" 버튼을 클릭하고 "파일 업로드"를 선택합니다.</li>
+                                                                            <li>선택 업로드할 로컬 파일.</li>
+                                                                            <li>파일이 업로드되면 파일을 마우스 오른쪽 버튼으로 클릭하고 "링크 가져오기"를 선택합니다.</li>
+                                                                            <li>팝업 창에서 " 링크가 있는 사람은 누구나 볼 수 있습니다."</li>
+                                                                            <li>제공된 링크를 복사하면 업로드된 파일의 URL이 됩니다.</li>
+                                                                        </ol>
+                                                                    </ul>
+                                                                </li>
+                                                                <br/>
+                                                                <li>
+                                                                    <p>4) 다음 사이트에 해당 URL을 입력</p>
+                                                                    <ul>
+                                                                        <li>- <a href="http://nbviewer.jupyter.org" target="_blank">http://nbviewer.jupyter.org</a></li>
+                                                                        <li>- 위 nbviewer 사이트를 통하여 보여지는 자신의 숙제를 확인하고 해당 nbviewer URL을 EL2의 자유게시판 본문에 글쓰기로 등록
+                                                                            <ul>
+                                                                                <li>- 따라서, 숙제 등록 URL은 반드시 http://nbviewer.jupyter.org/ 로 시작해야 함. </li>
+                                                                                <li>- 숙제 등록 URL 예: http://nbviewer.jupyter.org/urls/dl.dropbox.com/s/t9nmklgjkp7w4ok/kmeans.ipynb</li>
+                                                                            </ul>
+                                                                        </li>
+                                                                    </ul>
+                                                                </li>
+                                                                <br/>
+                                                                <li>
+                                                                    <p>5) jupyter notebook 단축키<br/>
+                                                                    <ul>
+                                                                        <li>- ESC, a: 현재 셀 바로 위에 새로운 코드 셀 추가</li>
+                                                                        <li>- ESC, b: 현재 셀 바로 아래에 새로운 코드 셀 추가</li>
+                                                                        <li>- ESC, dd: 현재 셀 삭제</li>
+                                                                        <li>- ESC, m: 현재 셀을 markdown 셀로 변환</li>
+                                                                        <li>- ESC, y: 현재 셀을 code 셀로 변환</li>
+                                                                        <li>- ESC, c: 현재 셀 복사</li>
+                                                                        <li>- ESC, y: 현재 셀 잘라내기</li>
+                                                                        <li>- ESC, v: 복사하거나 잘라낸 셀을 붙여넣기</li>
+                                                                    </ul></p>
+                                                                </li>
                                                             </ul>
-                                                            <h4>[부교재]</h4>
+                                                        </li>
+                                                    </ul>
+                                                    <br/>
+                                                    <h3 class="title-level-3">4. References</h3>
+                                                    <br/>
+                                                    <div class="row" style="padding-left: 2.0em">
+                                                        <div class="col-12">
+                                                            <h4>[강의 노트]</h4>
                                                             <ul>
                                                                 <li>
-                                                                    - 심층 강화학습 인 액션 : 기본 개념부터 파이썬 기반의 최신 알고리즘 구현까지
-                                                                    <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791190665612" target="_blank">
+                                                                    - 수업 시간 PDF로 제공
+                                                                    <ul>
+                                                                        <li>강의 노트 프린트 및 서류철/서류집 활용하여 정리하기 
+                                                                            <a href="https://shopping.interpark.com/product/productInfo.do?prdNo=15900644272&dispNo=008001083&smid1=common_prd" target="_blank">
+                                                                                <i class="fa fa-link" aria-hidden="true"></i>
+                                                                            </a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </li>
+                                                            </ul>
+                                                            <h4>[참고 강의 노트]</h4>
+                                                            <ul>
+                                                                <li>
+                                                                    - Deep Learning with PyTorch
+                                                                    <a href="https://www.manning.com/books/deep-learning-with-pytorch" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
                                                                 </li>
                                                                 <li>
-                                                                    - 파이썬 기반 강화학습 알고리듬 DP, Q-Learning, AC, DQN, TRPO, PPO, DDPG, TD3 | Imitation Learning, ESBAS 알아보기
-                                                                    <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161755571&orderClick=LAH&Kc=#N" target="_blank">
+                                                                    - Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville. (Free electronic copy available at that website)
+                                                                    <a href="https://www.deeplearningbook.org/" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
                                                                 </li>
                                                                 <li>
-                                                                    - 심층강화학습 주요 논문 모음: <a href="https://spinningup.openai.com/en/latest/spinningup/keypapers.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                    - 텐초의 파이토치 딥러닝 특강
+                                                                    <a href="https://product.kyobobook.co.kr/detail/S000061550445" target="_blank">
+                                                                        <i class="fa fa-link" aria-hidden="true"></i>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <h4>[보조 교재]</h4>
+                                                            <ul>
+                                                                <li>
+                                                                    - Deep Learning with Pytorch: A 60 Minute Blitz: <a href="https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                </li>
+                                                                <li>
+                                                                    - Python 익히기: <a href="https://python.bakyeono.net/table-of-contents.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                                 </li>
                                                                 <li>
                                                                     - PyTorch 튜토리얼: <a href="https://github.com/MorvanZhou/PyTorch-Tutorial" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
@@ -341,7 +604,7 @@ permalink: /courses/2026/1/advanced_ai
                                                         </div>
                                                     </div>
                                                     <br/>
-                                                    <h3 class="title-level-3">6. Logistics</h3>
+                                                    <h3 class="title-level-3">5. Logistics</h3>
                                                     <br/>
                                                     <ul>
                                                         <li>- <span class="font-weight-bold">Attendance</span>: one class absence will result in the deduction
@@ -357,10 +620,10 @@ permalink: /courses/2026/1/advanced_ai
                                                         </li>
                                                     </ul>
                                                     <br>
-                                                    <h3 class="title-level-3">7. Lecture Evaluation</h3>
+                                                    <h3 class="title-level-3">6. Lecture Evaluation</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>Attendance (10%), Book Presentation (20%), Paper Presentation (20%), Homework Reports (20%), Final Exam. (30%)</li>
+                                                        <li>Attendance (10%), Homework Reports (20%), Midterm Exam. (35%), Final Exam. (35%)</li>
                                                     </ul>
                                                 </div>
                                             </div>
