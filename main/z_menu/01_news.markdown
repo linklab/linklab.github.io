@@ -41,7 +41,8 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        [축] LINK 랩 지창훈 학생 공학박사 학위 취득!
+                                        [축] LINK 랩 지창훈 학생 공학박사 학위 취득!<br/>
+                                        박사학위 논문 제목: Adaptive Trajectory Planning via Variational Autoencoder-Guided Flow Matching Decision Transformer
                                     </td>
                                 </tr>
                                 <tr class="news" year="2025" month="12" day="18">
