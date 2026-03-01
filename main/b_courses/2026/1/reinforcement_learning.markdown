@@ -207,8 +207,10 @@ permalink: /courses/2026/1/reinforcement_learning
                                                         <tr>
                                                             <th scope="row">18</th>
                                                             <td>04월 28일(화)</td>
-                                                            <td colspan="2" class="centred">
-                                                                <strong>중간 고사</strong>
+                                                            <td>
+                                                                - 09. Policy Gradient (Part 1)
+                                                            </td>
+                                                            <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -216,7 +218,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">19</th>
                                                             <td>05월 04일(월)</td>
                                                             <td>
-                                                                - 09. Policy Gradient (Part 1)
+                                                                - 09. Policy Gradient (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -234,10 +236,8 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
                                                             <th scope="row">21</th>
                                                             <td>05월 11일(월)</td>
-                                                            <td>
-                                                                - 09. Policy Gradient (Part 2)
-                                                            </td>
-                                                            <td>
+                                                            <td colspan="2" class="centred">
+                                                                <strong>중간 고사</strong>
                                                             </td>
                                                         </tr>
                                                         <tr>
