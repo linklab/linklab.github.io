@@ -462,34 +462,14 @@ permalink: /courses/2026/1/reinforcement_learning
                                                                     - 수업 시간 PDF로 제공 (강의 노트 프린트 및 서류철/서류집 활용하여 정리하기 <a href="https://unomasuno.tistory.com/176" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>)
                                                                 </li>
                                                             </ul>
-                                                            <h4>[참고 강의 노트]</h4>
-                                                            <ul>
+          <h4>[보조 교재]</h4> 
+          <ul>
                                                                 <li>
-                                                                    - Deep Learning with PyTorch
-                                                                    <a href="https://www.manning.com/books/deep-learning-with-pytorch" target="_blank">
-                                                                        <i class="fa fa-link" aria-hidden="true"></i>
-                                                                    </a>
+                                                                    - 밑바닥부터 시작하는 딥러닝 4: <a href="https://product.kyobobook.co.kr/detail/S000212020531" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                                 </li>
                                                                 <li>
-                                                                    - Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville. (Free electronic copy available at that website)
-                                                                    <a href="https://www.deeplearningbook.org/" target="_blank">
-                                                                        <i class="fa fa-link" aria-hidden="true"></i>
-                                                                    </a>
-                                                                </li>
-                                                                <li>
-                                                                    - 텐초의 파이토치 딥러닝 특강
-                                                                    <a href="https://product.kyobobook.co.kr/detail/S000061550445" target="_blank">
-                                                                        <i class="fa fa-link" aria-hidden="true"></i>
-                                                                    </a>
-                                                                </li>
-                                                            </ul>
-                                                            <h4>[보조 교재]</h4>
-                                                            <ul>
-                                                                <li>
-                                                                    - Deep Learning with Pytorch: A 60 Minute Blitz: <a href="https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
-                                                                </li>
-                                                                <li>
-                                                                    - Python 익히기: <a href="https://python.bakyeono.net/table-of-contents.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                    - 파이토치로 완성하는 실전 강화학습
+: <a href="https://product.kyobobook.co.kr/detail/S000217304442" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                                 </li>
                                                                 <li>
                                                                     - PyTorch 튜토리얼: <a href="https://github.com/MorvanZhou/PyTorch-Tutorial" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
@@ -501,18 +481,14 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">5. Logistics</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>- <span class="font-weight-bold">Attendance</span>: one class absence will result in the deduction
-                                                            of two points out of 100 points. Five absences will not
-                                                            result in ten points deduction, but “failure” (i.e., grade
-                                                            ‘F’) in this course.
-                                                        </li>
-                                                        <li>- <span class="font-weight-bold">Homework</span>: much intensive homework will be set. Any cheating
-                                                            (or copying) will result in grade ‘F’.
-                                                        </li>
-                                                        <li>- <span class="font-weight-bold">Exam</span>: there will be the final examination for the
-                                                            evaluation of the knowledge learned from the class.
-                                                        </li>
-                                                    </ul>
+  <li><strong>출석(Attendance)</strong>: 1회 결석 시 100점 만점 기준에서 2점이 감점됩니다. 5회 결석 시 단순히 10점 감점되는 것이 아니라, 해당 과목은 <strong>F(낙제)</strong> 처리됩니다.</li>
+
+  <li><strong>과제(Homework)</strong>: 수업 시간에 배운 이론을 실습으로 다시 이해하는 과제가 부과됩니다. 부정행위(표절·복사 등)가 적발될 경우 해당 과목은 <strong>F(낙제)</strong> 처리됩니다. AI 도구 활용은 문제없습니다.</li>
+
+  <li><strong>시험(Exam)</strong>: 수업을 통해 학습한 지식을 평가하기 위해 기말시험을 실시합니다.</li>
+
+  <li><strong>텀프로젝트(Term Project)</strong>: 기말시험을 대체하여, 학생들은 팀 기반으로 심도 있는 텀프로젝트를 수행하고 완성해야 합니다.</li>
+</ul>
                                                     <br>
                                                     <h3 class="title-level-3">6. Lecture Evaluation</h3>
                                                     <br/>
