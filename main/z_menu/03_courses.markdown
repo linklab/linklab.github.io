@@ -25,7 +25,7 @@ permalink: /courses/
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
                         <li>
-                            <strong>Reinforcement Learning</strong>
+                            <strong>Reinforcement Learning & Practice</strong>
                             <a href="/courses/2026/1/reinforcement_learning" target="_blank">
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>

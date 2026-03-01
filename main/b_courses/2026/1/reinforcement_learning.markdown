@@ -55,7 +55,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">02</th>
                                                             <td>03월 03일(화)</td>
                                                             <td>
-                                                                - Course Introduction<br/>
+                                                                - 00. Course Introduction<br/>
                                                                 - 01. Introduction to Reinforcement Learning (Part 1)
                                                             </td>
                                                             <td>
@@ -365,7 +365,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">3. Practice & Homework Guide</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>github 코드 pull 받는 방법
+                                                        <li>- github 코드 pull 받는 방법
                                                             <ul>
                                                                 <li>
                                                                 _01_code 로컬 디렉토리 및 _02_homeworks 로컬 디렉토리 변경 사항 초기화<br/>
@@ -379,12 +379,12 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            추후 구체적인 숙제 내용 제시
+                                                            - 추후 구체적인 숙제 내용 제시
                                                         </li>
                                                         <li>
-                                                            숙제 제출 사이트: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 의 자유게시판 활용
+                                                          - 숙제 제출 사이트: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 의 자유게시판 활용
                                                         </li>
-                                                        <li> 숙제 제출 방법 (jupyter notebook 활용)
+                                                        <li>- 숙제 제출 방법 (jupyter notebook 활용)
                                                             <br/>
                                                             <ul>
                                                                 <li>
@@ -459,32 +459,25 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <h4>[강의 노트]</h4>
                                                             <ul>
                                                                 <li>
-                                                                    수업 시간 PDF로 제공
-                                                                    <ul>
-                                                                        <li>강의 노트 프린트 및 서류철/서류집 활용하여 정리하기 
-                                                                            <a href="https://shopping.interpark.com/product/productInfo.do?prdNo=15900644272&dispNo=008001083&smid1=common_prd" target="_blank">
-                                                                                <i class="fa fa-link" aria-hidden="true"></i>
-                                                                            </a>
-                                                                        </li>
-                                                                    </ul>
+                                                                    - 수업 시간 PDF로 제공 (강의 노트 프린트 및 서류철/서류집 활용하여 정리하기 <a href="https://unomasuno.tistory.com/176" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>)
                                                                 </li>
                                                             </ul>
                                                             <h4>[참고 강의 노트]</h4>
                                                             <ul>
                                                                 <li>
-                                                                    Deep Learning with PyTorch
+                                                                    - Deep Learning with PyTorch
                                                                     <a href="https://www.manning.com/books/deep-learning-with-pytorch" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
                                                                 </li>
                                                                 <li>
-                                                                    Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville. (Free electronic copy available at that website)
+                                                                    - Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville. (Free electronic copy available at that website)
                                                                     <a href="https://www.deeplearningbook.org/" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
                                                                 </li>
                                                                 <li>
-                                                                    텐초의 파이토치 딥러닝 특강
+                                                                    - 텐초의 파이토치 딥러닝 특강
                                                                     <a href="https://product.kyobobook.co.kr/detail/S000061550445" target="_blank">
                                                                         <i class="fa fa-link" aria-hidden="true"></i>
                                                                     </a>
@@ -493,13 +486,13 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <h4>[보조 교재]</h4>
                                                             <ul>
                                                                 <li>
-                                                                    Deep Learning with Pytorch: A 60 Minute Blitz: <a href="https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                    - Deep Learning with Pytorch: A 60 Minute Blitz: <a href="https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                                 </li>
                                                                 <li>
-                                                                    Python 익히기: <a href="https://python.bakyeono.net/table-of-contents.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                    - Python 익히기: <a href="https://python.bakyeono.net/table-of-contents.html" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                                 </li>
                                                                 <li>
-                                                                    PyTorch 튜토리얼: <a href="https://github.com/MorvanZhou/PyTorch-Tutorial" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                                                    - PyTorch 튜토리얼: <a href="https://github.com/MorvanZhou/PyTorch-Tutorial" target="_blank" class="font-weight-bold"><i class="fa fa-link" aria-hidden="true"></i></a>
                                                                 </li>
                                                             </ul>
                                                         </div>
