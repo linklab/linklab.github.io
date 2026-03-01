@@ -493,7 +493,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">6. Lecture Evaluation</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>Attendance (10%), Homework Reports (20%), Midterm Exam. (35%), Final Exam. (35%)</li>
+                                                        <li>Attendance (10%), Homework Reports (20%), Midterm Exam. (40%), Final Exam. (30%)</li>
                                                     </ul>
                                                 </div>
                                             </div>
