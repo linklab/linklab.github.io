@@ -412,7 +412,12 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">6. Lecture Evaluation</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>Attendance (10%), Homework Reports (20%), Midterm Exam. (40%), Term. Project (30%)</li>
+                                                        <li>
+                                                            <strong>출석(Attendance)</strong> (10%), 
+                                                            <strong>과제(Homework)</strong> (20%), 
+                                                            <strong>시험(Exam)</strong> (40%), 
+                                                            <strong>텀프로젝트(Term Project)</strong> (30%)
+                                                        </li>
                                                     </ul>
                                                 </div>
                                             </div>

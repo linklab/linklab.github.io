@@ -252,7 +252,11 @@ permalink: /courses/2026/1/advanced_ai
                                                     <h3 class="title-level-3">6. Lecture Evaluation</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>Attendance (10%), Homework Reports (40%), Final Exam. (50%)</li>
+                                                        <li>
+                                                            <strong>출석(Attendance)</strong> (10%), 
+                                                            <strong>과제(Homework)</strong> (40%), 
+                                                            <strong>시험(Exam)</strong> (50%)
+                                                        </li>
                                                     </ul>
                                                 </div>
                                             </div>
