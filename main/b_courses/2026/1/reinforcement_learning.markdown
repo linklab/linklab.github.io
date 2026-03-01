@@ -26,8 +26,8 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule &amp; Lecture Notes
                                                     <span>
-                                                        <a style="color: blue; font-size: 0.6em" href="https://github.com/linklab/link_dl">[수업 실습 코드]</a>, 
-                                                        <a style="color: blue; font-size: 0.6em" href="https://docs.google.com/document/d/1IHHz9ehpnQ4FrCDciywhweyIlvtpZ_0RZ7w2wNTtWyk/edit?usp=sharing">[수업 질의 응답]</a>
+                                                        <a style="color: blue; font-size: 0.6em" href="https://github.com/linklab/link_rl">[수업 실습 코드]</a>, 
+                                                        <a style="color: blue; font-size: 0.6em" href="https://docs.google.com/document/d/1KAJhVAWfSa0mV0aS0MRQDc5JADieL2p8sm1OgiBjaRM/edit?usp=sharing">[수업 질의 응답]</a>
                                                     </span>
                                                     </h3>
                                                     <table class="table table-bordered">
