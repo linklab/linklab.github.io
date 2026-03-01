@@ -59,6 +59,10 @@ permalink: /courses/2026/1/reinforcement_learning
                                                                 - 01. Introduction to Reinforcement Learning (Part 1)
                                                             </td>
                                                             <td>
+                                                                - Development Environment
+                                                                <a href="https://www.dropbox.com/scl/fi/zzbep37ndbul2viq8xlnb/00.development_environment.pdf?rlkey=8azeki4k0v1lf9evl007l7g01&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
