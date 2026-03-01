@@ -134,15 +134,17 @@ permalink: /courses/2026/1/advanced_ai
                                                         <tr>
                                                             <th scope="row" style="vertical-align: middle">11주차</th>
                                                             <td>05월 11일(월)</td>
-                                                            <td colspan="2" class="centred">
-                                                                <strong>중간 고사</strong>
+                                                            <td>
+                                                                - 10. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)
+                                                            </td>
+                                                            <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" style="vertical-align: middle">12주차</th>
                                                             <td>05월 18일(월)</td>
                                                             <td>
-                                                                - 10. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)
+                                                                - 11. Proximal Policy Optimization (PPO)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -160,7 +162,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">14주차</th>
                                                             <td>06월 01일(월)</td>
                                                             <td>
-                                                                - 11. Proximal Policy Optimization (PPO)
+                                                                - 12. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -169,7 +171,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">15주차</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
-                                                                - 12. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
+                                                                - 13. Soft Actor-Critic (SAC)
                                                             </td>
                                                             <td>
                                                             </td>
