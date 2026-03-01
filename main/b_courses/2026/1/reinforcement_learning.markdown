@@ -330,7 +330,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">31</th>
                                                             <td>06월 15일(월)</td>
                                                             <td>
-                                                                - 텀프로젝트 최종 점검 / Q&amp;A
+                                                                - 텀프로젝트 발표 준비 / Q&amp;A
                                                             </td>
                                                             <td>
                                                             </td>
