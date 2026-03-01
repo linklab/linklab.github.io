@@ -382,7 +382,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             - 추후 구체적인 숙제 내용 제시
                                                         </li>
                                                         <li>
-                                                          - 숙제 제출 사이트: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 의 자유게시판 활용
+                                                          - 숙제 제출 사이트: <a href="http://lms.koreatech.ac.kr" target="_blank">http://lms.koreatech.ac.kr</a>의 숙제게시판 활용
                                                         </li>
                                                         <li>- 숙제 제출 방법 (jupyter notebook 활용)
                                                             <br/>
@@ -481,19 +481,16 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">5. Logistics</h3>
                                                     <br/>
                                                     <ul>
-  <li>- <strong>출석(Attendance)</strong>: 1회 결석 시 100점 만점 기준에서 2점이 감점됩니다. 5회 결석 시 단순히 10점 감점되는 것이 아니라, 해당 과목은 <strong>F(낙제)</strong> 처리됩니다.</li>
-
-  <li>- <strong>과제(Homework)</strong>: 수업 시간에 배운 이론을 실습으로 다시 이해하는 과제가 부과됩니다. 부정행위(표절·복사 등)가 적발될 경우 해당 과목은 <strong>F(낙제)</strong> 처리됩니다. AI 도구 활용은 문제없습니다.</li>
-
-  <li>- <strong>시험(Exam)</strong>: 수업을 통해 학습한 지식을 평가하기 위해 기말시험을 실시합니다.</li>
-
-  <li>- <strong>텀프로젝트(Term Project)</strong>: 기말시험을 대체하여, 학생들은 팀 기반으로 심도 있는 텀프로젝트를 수행하고 완성해야 합니다.</li>
-</ul>
+                                                      <li>- <strong>출석(Attendance)</strong>: 1회 결석 시 100점 만점 기준에서 2점이 감점됩니다. 5회 결석 시 단순히 10점 감점되는 것이 아니라, 해당 과목은 <strong>F(낙제)</strong> 처리됩니다.</li>
+                                                      <li>- <strong>과제(Homework)</strong>: 수업 시간에 배운 이론을 실습으로 다시 이해하는 과제가 부과됩니다. 부정행위(표절·복사 등)가 적발될 경우 해당 과목은 <strong>F(낙제)</strong> 처리됩니다. AI 도구 활용은 문제없습니다.</li>
+                                                      <li>- <strong>시험(Exam)</strong>: 수업을 통해 학습한 지식을 평가하기 위해 중간고사를 실시합니다.</li>
+                                                      <li>- <strong>텀프로젝트(Term Project)</strong>: 기말시험을 대체하여, 학생들은 팀 기반으로 심도 있는 텀프로젝트를 수행하고 완성해야 합니다.</li>
+                                                    </ul>
                                                     <br>
                                                     <h3 class="title-level-3">6. Lecture Evaluation</h3>
                                                     <br/>
                                                     <ul>
-                                                        <li>Attendance (10%), Homework Reports (20%), Midterm Exam. (40%), Final Exam. (30%)</li>
+                                                        <li>Attendance (10%), Homework Reports (20%), Midterm Exam. (40%), Term. Project (30%)</li>
                                                     </ul>
                                                 </div>
                                             </div>
