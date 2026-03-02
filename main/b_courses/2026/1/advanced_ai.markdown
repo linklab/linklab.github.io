@@ -55,6 +55,9 @@ permalink: /courses/2026/1/advanced_ai
                                                             <td>
                                                                 - 00. Course Introduction<br/>
                                                                 - 01. Introduction to Reinforcement Learning
+                                                                <a href="https://www.dropbox.com/scl/fi/ry1a44tpeeonyf7182a4s/01.RL_Intro.pdf?rlkey=l0zp9i6t130sl2mzs1pyp0edx&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - Development Environment
