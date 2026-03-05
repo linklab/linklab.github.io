@@ -9,6 +9,18 @@ permalink: /seminar/graduate
         <div class="panel article-content-1">
             <ul>
                 <br/>
+                <li>3월 05일 (목) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        B. Luo, X. Lin and J. C. S. Lui, "Exploring the Structural Property of the Optimal Entanglement Policy for Quantum Switch," IEEE INFOCOM 2025 - IEEE Conference on Computer Communications, London, United Kingdom, 2025, pp. 1-10
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/document/11044695">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
+                <br/>
                 <li>2월 11일 (수) 논문 세미나 – 김진성
                     <br/>
                     <strong>
