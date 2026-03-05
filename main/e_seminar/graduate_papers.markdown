@@ -8,7 +8,6 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
-                <br/>
                 <li>3월 05일 (목) 논문 세미나 – 석영준
                     <br/>
                     <strong>
