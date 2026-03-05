@@ -20,7 +20,6 @@ permalink: /seminar/graduate
                     <br/>
                 </li>
                 <br/>
-                <br/>
                 <li>2월 11일 (수) 논문 세미나 – 김진성
                     <br/>
                     <strong>
