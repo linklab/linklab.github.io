@@ -69,9 +69,11 @@ permalink: /courses/2026/1/advanced_ai
                                                         <tr>
                                                             <th scope="row" style="vertical-align: middle">3주차</th>
                                                             <td>03월 16일(월)</td>
-                                                            <td>
-                                                                - 02. Markov Decision Process
-                                                            </td>
+                                                            <td> 
+                        - 02. Multi-Armed Bandits 
+                        <br/>
+                        - 03. Markov Decision Process 
+                     </td>
                                                             <td>
                                                             </td>
                                                         </tr>
@@ -79,7 +81,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">4주차</th>
                                                             <td>03월 23일(월)</td>
                                                             <td>
-                                                                - 03. Value Functions and Dynamic Programming
+                                                                - 04. Value Functions and Dynamic Programming
                                                             </td>
                                                             <td>
                                                             </td>
@@ -88,7 +90,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">5주차</th>
                                                             <td>03월 30일(월)</td>
                                                             <td>
-                                                                - 04. Monte Carlo Control
+                                                                - 05. Monte Carlo Control
                                                             </td>
                                                             <td>
                                                             </td>
@@ -97,7 +99,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">6주차</th>
                                                             <td>04월 06일(월)</td>
                                                             <td>
-                                                                - 05. Temporal Difference
+                                                                - 06. Temporal Difference
                                                             </td>
                                                             <td>
                                                             </td>
@@ -106,7 +108,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">7주차</th>
                                                             <td>04월 13일(월)</td>
                                                             <td>
-                                                                - 06. SARSA and Q-Learning
+                                                                - 07. SARSA and Q-Learning
                                                             </td>
                                                             <td>
                                                             </td>
@@ -115,7 +117,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">8주차</th>
                                                             <td>04월 20일(월)</td>
                                                             <td>
-                                                                - 07. Deep Q-Network
+                                                                - 08. Deep Q-Network
                                                             </td>
                                                             <td>
                                                             </td>
@@ -124,7 +126,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">9주차</th>
                                                             <td>04월 27일(월)</td>
                                                             <td>
-                                                                - 08. Deep Q-Network Application
+                                                                - 09. Deep Q-Network Application
                                                             </td>
                                                             <td>
                                                             </td>
@@ -133,7 +135,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">10주차</th>
                                                             <td>05월 04일(월)</td>
                                                             <td>
-                                                                - 09. Policy Gradient
+                                                                - 10. Policy Gradient
                                                             </td>
                                                             <td>
                                                             </td>
@@ -142,7 +144,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">11주차</th>
                                                             <td>05월 11일(월)</td>
                                                             <td>
-                                                                - 10. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)
+                                                                - 11. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -151,7 +153,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">12주차</th>
                                                             <td>05월 18일(월)</td>
                                                             <td>
-                                                                - 11. Proximal Policy Optimization (PPO)
+                                                                - 12. Proximal Policy Optimization (PPO)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -169,7 +171,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">14주차</th>
                                                             <td>06월 01일(월)</td>
                                                             <td>
-                                                                - 12. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
+                                                                - 13. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -178,7 +180,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">15주차</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
-                                                                - 13. Soft Actor-Critic (SAC)
+                                                                - 14. Soft Actor-Critic (SAC)
                                                             </td>
                                                             <td>
                                                             </td>
