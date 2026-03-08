@@ -111,7 +111,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">07</th>
                                                             <td>03월 23일(월)</td>
                                                             <td>
-                                                                - 03. Value Functions and Dynamic Programming (Part 1)
+                                                                - 04. Value Functions
                                                             </td>
                                                             <td>
                                                             </td>
@@ -120,7 +120,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">08</th>
                                                             <td>03월 24일(화)</td>
                                                             <td>
-                                                                - 03. Value Functions and Dynamic Programming (Part 2)
+                                                                - 05. Dynamic Programming
                                                             </td>
                                                             <td>
                                                             </td>
@@ -130,7 +130,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">09</th>
                                                             <td>03월 30일(월)</td>
                                                             <td>
-                                                                - 04. Monte Carlo Control (Part 1)
+                                                                - 06. Monte Carlo Control (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -139,7 +139,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">10</th>
                                                             <td>03월 31일(화)</td>
                                                             <td>
-                                                                - 04. Monte Carlo Control (Part 2)
+                                                                - 06. Monte Carlo Control (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -149,7 +149,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">11</th>
                                                             <td>04월 06일(월)</td>
                                                             <td>
-                                                                - 06. Temporal Difference
+                                                                - 07. Temporal Difference
                                                             </td>
                                                             <td>
                                                             </td>
@@ -158,7 +158,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">12</th>
                                                             <td>04월 07일(화)</td>
                                                             <td>
-                                                                - 07. SARSA and Q-Learning (Part 1)
+                                                                - 08. SARSA and Q-Learning (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -168,7 +168,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">13</th>
                                                             <td>04월 13일(월)</td>
                                                             <td>
-                                                                - 07. SARSA and Q-Learning (Part 2)
+                                                                - 08. SARSA and Q-Learning (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -177,7 +177,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">14</th>
                                                             <td>04월 14일(화)</td>
                                                             <td>
-                                                                - 08. Deep Q-Network (Part 1)
+                                                                - 09. Deep Q-Network (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -187,7 +187,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">15</th>
                                                             <td>04월 20일(월)</td>
                                                             <td>
-                                                                - 08. Deep Q-Network (Part 2)
+                                                                - 09. Deep Q-Network (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -196,7 +196,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">16</th>
                                                             <td>04월 21일(화)</td>
                                                             <td>
-                                                                - 09. Deep Q-Network Application (Part 1)
+                                                                - 10. Deep Q-Network Application (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -206,7 +206,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">17</th>
                                                             <td>04월 27일(월)</td>
                                                             <td>
-                                                                - 09. Deep Q-Network Application (Part 2)
+                                                                - 10. Deep Q-Network Application (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -215,7 +215,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">18</th>
                                                             <td>04월 28일(화)</td>
                                                             <td>
-                                                                - 10. Policy Gradient (Part 1)
+                                                                - 11. Policy Gradient (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -225,7 +225,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">19</th>
                                                             <td>05월 04일(월)</td>
                                                             <td>
-                                                                - 10. Policy Gradient (Part 2)
+                                                                - 11. Policy Gradient (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -251,7 +251,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">22</th>
                                                             <td>05월 12일(화)</td>
                                                             <td>
-                                                                - 11. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C) (Part 1)
+                                                                - 12. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C) (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -261,7 +261,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">23</th>
                                                             <td>05월 18일(월)</td>
                                                             <td>
-                                                                - 11. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C) (Part 2)
+                                                                - 12. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C) (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -270,7 +270,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">24</th>
                                                             <td>05월 19일(화)</td>
                                                             <td>
-                                                                - 12. Proximal Policy Optimization (PPO) (Part 1)
+                                                                - 13. Proximal Policy Optimization (PPO) (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -289,7 +289,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">26</th>
                                                             <td>05월 26일(화)</td>
                                                             <td>
-                                                                - 12. Proximal Policy Optimization (PPO) (Part 2)
+                                                                - 13. Proximal Policy Optimization (PPO) (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -299,7 +299,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">27</th>
                                                             <td>06월 01일(월)</td>
                                                             <td>
-                                                                - 13. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 1)
+                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -308,7 +308,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">28</th>
                                                             <td>06월 02일(화)</td>
                                                             <td>
-                                                                - 13. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 2)
+                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -318,7 +318,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">29</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
-                                                                - 14. Soft Actor-Critic (SAC) (Part 1)
+                                                                - 15. Soft Actor-Critic (SAC) (Part 1)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -327,7 +327,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">30</th>
                                                             <td>06월 09일(화)</td>
                                                             <td>
-                                                                - 14. Soft Actor-Critic (SAC) (Part 2)
+                                                                - 15. Soft Actor-Critic (SAC) (Part 2)
                                                             </td>
                                                             <td>
                                                             </td>
