@@ -83,6 +83,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>03월 10일(화)</td>
                                                             <td>
                                                                 - 02. Multi-Armed Bandit
+                                                                <a href="https://www.dropbox.com/scl/fi/r8zrscbn4hretiwn5i0j7/02.Multi_Aarmed_Bandit.pdf?rlkey=2bwjqt9shl2wpdmhogz6mv2qk&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
