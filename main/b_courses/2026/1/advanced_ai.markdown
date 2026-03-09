@@ -70,10 +70,10 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">3주차</th>
                                                             <td>03월 16일(월)</td>
                                                             <td> 
-                        - 02. Multi-Armed Bandits 
-                        <br/>
-                        - 03. Markov Decision Process 
-                     </td>
+                                                                - 02. Multi-Armed Bandits 
+                                                                <br/>
+                                                                - 03. Markov Decision Process 
+                                                            </td>
                                                             <td>
                                                             </td>
                                                         </tr>
