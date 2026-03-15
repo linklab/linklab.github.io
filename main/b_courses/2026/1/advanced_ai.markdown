@@ -70,9 +70,15 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">3주차</th>
                                                             <td>03월 16일(월)</td>
                                                             <td> 
-                                                                - 02. Multi-Armed Bandits 
+                                                                - 02. Multi-Armed Bandits
+                                                                <a href="https://www.dropbox.com/scl/fi/r8zrscbn4hretiwn5i0j7/02.Multi_Aarmed_Bandit.pdf?rlkey=2bwjqt9shl2wpdmhogz6mv2qk&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                                 <br/>
-                                                                - 03. Markov Decision Process 
+                                                                - 03. Markov Decision Process
+                                                                <a href="https://www.dropbox.com/scl/fi/w9kod141jsxuj06gy0hcc/03.MDP.pdf?rlkey=f036djl61edh8s8moowpbrm9p&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>

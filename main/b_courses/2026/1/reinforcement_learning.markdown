@@ -96,6 +96,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>03월 16일(월)</td>
                                                             <td>
                                                                 - 03. Markov Decision Process (Part 1)
+                                                                <a href="https://www.dropbox.com/scl/fi/w9kod141jsxuj06gy0hcc/03.MDP.pdf?rlkey=f036djl61edh8s8moowpbrm9p&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
