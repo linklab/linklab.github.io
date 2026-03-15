@@ -1017,6 +1017,12 @@ permalink: /publication/papers
                                     <article>
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
+                                            <h4 class="title-level-4 year">2026</h4>
+                                            <p> 석영준, 강대건, 김진성, 한연희, "<strong>심층강화학습을 이용한 양자 리피터 체인에서의 얽힘 분배 최적화</strong>," 2026 한국통신학회 동계종합학술대회, 2026. 02.
+                                            </p>
+                                            <p> 김민준, 지창훈, 최요한, Nurlanbek kyzy Asel, 한연희, "<strong>오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조</strong>," 2026 한국통신학회 동계종합학술대회, 2026. 02.
+                                            </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2025</h4>
                                             <p> 석영준, 강대건, 김진성, 한연희, "<strong>심층강화학습을 이용한 양자 리피터 체인에서의 얽힘 분배 최적화</strong>," 2025 한국통신학회 추계종합학술대회, 2025. 11.
                                             </p>
