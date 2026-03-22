@@ -130,6 +130,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>03월 24일(화)</td>
                                                             <td>
                                                                 - 05. Dynamic Programming
+                                                                <a href="https://www.dropbox.com/scl/fi/ewqnj7d7j8vsgi9c1fw11/05.DP.pdf?rlkey=020jvjdiefbobvd12pl2wzx43&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
