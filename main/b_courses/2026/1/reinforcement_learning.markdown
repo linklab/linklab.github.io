@@ -143,6 +143,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>03월 30일(월)</td>
                                                             <td>
                                                                 - 06. Monte Carlo Control (Part 1)
+                                                                <a href="https://www.dropbox.com/scl/fi/tn7bpd6sl52emfzfah8y9/06.MC_Control.pdf?rlkey=rgtohxqku1br4fx5yyc9busf8&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
