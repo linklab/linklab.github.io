@@ -87,7 +87,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">4주차</th>
                                                             <td>03월 23일(월)</td>
                                                             <td>
-                                                                - 04. Value Functions<br/> 
+                                                                - 04. Value Functions 
                                                                 <a href="https://www.dropbox.com/scl/fi/veu4vlnje412y9dp0rmx9/04.Value_Functions.pdf?rlkey=2ymp4nox6fhs146ews1w3m2xy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a><br/>
