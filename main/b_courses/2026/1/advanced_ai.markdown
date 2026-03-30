@@ -92,7 +92,7 @@ permalink: /courses/2026/1/advanced_ai
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a><br/>
                                                                 - 05. Dynamic Programming
-                                                                <a href="https://www.dropbox.com/scl/fi/ewqnj7d7j8vsgi9c1fw11/05.DP.pdf?rlkey=020jvjdiefbobvd12pl2wzx43&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/4jl1xtgek3xhu0wj2qgr4/05.DP.pdf?rlkey=dgavnpusdalalromavg4z5tr4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
