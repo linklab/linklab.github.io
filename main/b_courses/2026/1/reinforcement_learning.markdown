@@ -150,7 +150,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>
                                                                 - Term Project #1: <a href="https://www.dropbox.com/scl/fi/9e9o9djqwywzzuq32pe9u/bipedalwalker.pdf?rlkey=bv19sxbb32adprwa5emkhvtjm&dl=0" target="_blank">BipedalWalker-Hardcore</a>
                                                                 <br/>
-                                                                - Term Project #2: <a href="" target="_blank">Rotary Inverted Pendulum</a>
+                                                                - Term Project #2: <a href="https://www.dropbox.com/scl/fi/trgboj3snskk1ojnm98i4/quanser.pdf?rlkey=70zpxn1kkv24a5oe8lmre28ol&dl=0" target="_blank">Rotary Inverted Pendulum</a>
                                                             </td>
                                                         </tr>
                                                         <tr>
