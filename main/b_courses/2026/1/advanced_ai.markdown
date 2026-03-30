@@ -90,7 +90,7 @@ permalink: /courses/2026/1/advanced_ai
                                                                 - 04. Value Functions<br/> 
                                                                 <a href="https://www.dropbox.com/scl/fi/veu4vlnje412y9dp0rmx9/04.Value_Functions.pdf?rlkey=2ymp4nox6fhs146ews1w3m2xy&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
-                                                                </a>
+                                                                </a><br/>
                                                                 - 05. Dynamic Programming
                                                                 <a href="https://www.dropbox.com/scl/fi/ewqnj7d7j8vsgi9c1fw11/05.DP.pdf?rlkey=020jvjdiefbobvd12pl2wzx43&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
