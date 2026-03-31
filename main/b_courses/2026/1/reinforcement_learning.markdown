@@ -459,9 +459,10 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </ul>
                                                         </div>
                                                         <div class="col-6">
-                                                            <h4>Term Project #2: Rotary Inverted Pendulum (9명)</h4>
+                                                            <h4>Term Project #2: Rotary Inverted Pendulum (10명)</h4>
                                                             <ul>
                                                                 <li>권오준</li>
+                                                                <li>김도현</li>
                                                                 <li>김용현</li>
                                                                 <li>김창윤</li>
                                                                 <li>박성환</li>
