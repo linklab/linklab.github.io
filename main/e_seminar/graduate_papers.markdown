@@ -8,7 +8,7 @@ permalink: /seminar/graduate
     <button class="accordion">2025</button>
         <div class="panel article-content-1">
             <ul>
-                <li>3월 11일 (목) 논문 세미나 – 김진성
+                <li>3월 19일 (목) 논문 세미나 – 김진성
                     <br/>
                     <strong>
                         Wang, Yunshen, et al. "OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control." arXiv preprint arXiv:2602.23843 (2026).
