@@ -130,7 +130,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>03월 24일(화)</td>
                                                             <td>
                                                                 - 05. Dynamic Programming
-                                                                <a href="https://www.dropbox.com/scl/fi/ewqnj7d7j8vsgi9c1fw11/05.DP.pdf?rlkey=020jvjdiefbobvd12pl2wzx43&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/4jl1xtgek3xhu0wj2qgr4/05.DP.pdf?rlkey=dgavnpusdalalromavg4z5tr4&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
@@ -434,12 +434,46 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <br/>
                                                     <ul>
                                                         <li>
-                                                            <strong>출석(Attendance)</strong> (10%), 
-                                                            <strong>과제(Homework)</strong> (20%), 
-                                                            <strong>시험(Exam)</strong> (40%), 
+                                                            <strong>출석(Attendance)</strong> (10%),
+                                                            <strong>과제(Homework)</strong> (20%),
+                                                            <strong>시험(Exam)</strong> (40%),
                                                             <strong>텀프로젝트(Term Project)</strong> (30%)
                                                         </li>
                                                     </ul>
+                                                    <br>
+                                                    <h3 class="title-level-3">7. Term Project Assignments</h3>
+                                                    <br/>
+                                                    <div class="row" style="padding-left: 2.0em">
+                                                        <div class="col-6">
+                                                            <h4>Term Project #1: BipedalWalker (9명)</h4>
+                                                            <ul>
+                                                                <li>김민석</li>
+                                                                <li>류영재</li>
+                                                                <li>방윤아</li>
+                                                                <li>배종연</li>
+                                                                <li>오승준</li>
+                                                                <li>이도호</li>
+                                                                <li>조윤재</li>
+                                                                <li>한동훈</li>
+                                                                <li>한용민</li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-6">
+                                                            <h4>Term Project #2: Rotary Inverted Pendulum (10명)</h4>
+                                                            <ul>
+                                                                <li>권오준</li>
+                                                                <li>김도현</li>
+                                                                <li>김용현</li>
+                                                                <li>김창윤</li>
+                                                                <li>박성환</li>
+                                                                <li>우정모</li>
+                                                                <li>이종현</li>
+                                                                <li>정준영</li>
+                                                                <li>정현도</li>
+                                                                <li>파즐란크즈굴카이르</li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="clear"></div>
