@@ -5,7 +5,7 @@ permalink: /seminar/graduate
 
 <section class="content-wrapper">
     <article>
-    <button class="accordion">2025</button>
+    <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
                 <li>3월 19일 (목) 논문 세미나 – 김진성
@@ -75,6 +75,11 @@ permalink: /seminar/graduate
                     </a>
                 </li>
                 <br/>
+            </ul>
+        </div>
+        <button class="accordion">2025</button>
+        <div class="panel article-content-1">
+            <ul>
                 <li>12월 30일 (화) 논문 세미나 – 최요한
                     <br/>
                     <strong>
