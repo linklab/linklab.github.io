@@ -116,6 +116,9 @@ permalink: /courses/2026/1/advanced_ai
                                                             <td>04월 06일(월)</td>
                                                             <td>
                                                                 - 07. Temporal Difference
+                                                                <a href="https://www.dropbox.com/scl/fi/mukteglnipw2bray7ckv8/07.TD.pdf?rlkey=bx2gk27p2697vrh1eescuirbx&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
