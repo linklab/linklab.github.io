@@ -19,6 +19,19 @@ permalink: /seminar/graduate
                     <br/>
                 </li>
                 <br/>
+                <li>3월 12일 (목) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Lai, Chieh-Hsin, Yang Song, Dongjun Kim, Yuki Mitsufuji, and Stefano Ermon. "The Principles of Diffusion Models." arXiv preprint arXiv:2510.21890 (2025).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2510.21890">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <em>Topic: Variational Perspective: From VAEs to DDPMs - I</em>
+                    <br/>
+                </li>
+                <br/>
                 <li>3월 05일 (목) 논문 세미나 – 석영준
                     <br/>
                     <strong>
