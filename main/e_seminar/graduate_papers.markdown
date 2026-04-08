@@ -8,6 +8,28 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>4월 09일 (목) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        Shang, Jinghuan, et al. "Active vision reinforcement learning under limited visual observability." Advances in Neural Information Processing Systems 36
+                    </strong>
+                    <a href="https://arxiv.org/abs/2306.00975">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
+                <li>4월 02일 (목) 논문 세미나 – 강대건
+                    <br/>
+                    <strong>
+                        Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. "Multi-Agent Reinforcement Learning for Networked System Control." International Conference on Learning Representations (ICLR), 2020.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2004.01339">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>3월 19일 (목) 논문 세미나 – 김진성
                     <br/>
                     <strong>
