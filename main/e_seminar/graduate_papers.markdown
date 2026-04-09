@@ -8,7 +8,7 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
-                <li>4월 09일 (목) 논문 세미나 – 김진성
+                <li>4월 09일 (목) 논문 세미나 – 김민준
                     <br/>
                     <strong>
                         Shang, Jinghuan, et al. "Active vision reinforcement learning under limited visual observability." Advances in Neural Information Processing Systems 36
