@@ -35,6 +35,18 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2026" month="04" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        April 01, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        Depth Image 노이즈 제거 월드 모델을 활용한 4족보행 파쿠르 성공
+                                        <a href="https://dawn-parkour.github.io" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2026" month="02" day="21">
                                     <td class="text-md-right" style="width: 20%">
                                         February 21, 2025
