@@ -180,6 +180,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>04월 07일(화)</td>
                                                             <td>
                                                                 - 08. SARSA and Q-Learning (Part 1)
+                                                                <a href="https://www.dropbox.com/scl/fi/2w1bsd6yzl1p61qfzjoal/08.SARSA_Q_Learning.pdf?rlkey=camjyhqn9vt2gg8uztobd7jov&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
