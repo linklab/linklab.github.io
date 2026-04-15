@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>4월 15일 (수) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Hafner, D., Lillicrap, T., Fischer, I., Villegas, R., Ha, D., Lee, H., & Davidson, J. (2019, May). Learning latent dynamics for planning from pixels. In International conference on machine learning (pp. 2555-2565). PMLR.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v97/hafner19a.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>4월 09일 (목) 논문 세미나 – 김민준
                     <br/>
                     <strong>
