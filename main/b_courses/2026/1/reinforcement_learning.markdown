@@ -214,6 +214,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                                 - 09. Deep Q-Network (Part 2)
                                                             </td>
                                                             <td>
+                                                                - <a href="https://www.dropbox.com/scl/fi/80v305g8mzpahg86ncwu1/HW_1.pdf?rlkey=dke4yzy9tp5mibz3qhnxkaxz1&dl=0" target="_blank">
+                                                                    <span class="badge badge-success">Homework #1</span>
+                                                                </a><br/>(기한: 2026년 5월 5일 23시 59분)
                                                             </td>
                                                         </tr>
                                                         <tr>
