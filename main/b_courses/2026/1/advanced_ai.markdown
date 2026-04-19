@@ -140,11 +140,14 @@ permalink: /courses/2026/1/advanced_ai
                                                             <td>04월 20일(월)</td>
                                                             <td>
                                                                 - 09. Deep Q-Network
+                                                                <a href="https://www.dropbox.com/scl/fi/fod987voubxvxhti6gfjm/09.DQN.pdf?rlkey=di72w43ixfz0f7yrpdjxcjl2b&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - <a href="https://www.dropbox.com/scl/fi/80v305g8mzpahg86ncwu1/HW_1.pdf?rlkey=dke4yzy9tp5mibz3qhnxkaxz1&dl=0" target="_blank">
                                                                     <span class="badge badge-success">Homework #1</span>
-                                                                </a><br/>(기한: 2026년 5월 5일 23시 59분)
+                                                                </a> (기한: 2026년 5월 5일 23시 59분)
                                                             </td>
                                                         </tr>
                                                         <tr>
