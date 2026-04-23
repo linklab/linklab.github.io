@@ -18,6 +18,7 @@ permalink: /seminar/graduate
                     </a>
                     <br/>
                 </li>
+                <br/>
                 <li>4월 15일 (수) 논문 세미나 – 최요한
                     <br/>
                     <strong>
