@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>4월 23일 (목) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Duan, W., Lu, J., & Xuan, J. (2025). Bayesian Ego-graph Inference for Networked Multi-Agent Reinforcement Learning. In Advances in Neural Information Processing Systems (NeurIPS).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2509.16606">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>4월 15일 (수) 논문 세미나 – 최요한
                     <br/>
                     <strong>
