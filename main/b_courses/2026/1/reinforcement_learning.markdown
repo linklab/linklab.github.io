@@ -249,7 +249,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>04월 28일(화)</td>
                                                             <td>
                                                                 - 11. Policy Gradient (Part 1)
-                                                                <a href="https://www.dropbox.com/scl/fi/yqi9ohip0egxgt66cmjxx/11.Policy_Gradient.pdf?rlkey=xumn6py9bib9arj5d576qrmms&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/ihptd8knndzrxtamdlf37/11.Policy_Gradient.pdf?rlkey=8o6sneb3ixaoo5z32wnuakwrj&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
