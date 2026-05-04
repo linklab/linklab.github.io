@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>4월 30일 (목) 논문 세미나 – 지창훈
+                    <br/>
+                    <strong>
+                        Kim, Minwoo, et al. "RAPID: Robust and agile planner using inverse reinforcement learning for vision-based drone navigation." Robotics: Science and Systems (RSS), 2025.
+                    </strong>
+                    <a href="https://arxiv.org/pdf/2502.02054">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>4월 23일 (목) 논문 세미나 – 아셀
                     <br/>
                     <strong>
