@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>5월 08일 (목) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        Yi, B., Choi, H., Singh, H. G., Huang, X., Truong, T. E., Sferrazza, C., ... & Kanazawa, A. Flow Policy Gradients for Legged Robots.
+                    </strong>
+                    <a href="https://hongsukchoi.github.io/fpo-control/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>4월 30일 (목) 논문 세미나 – 지창훈
                     <br/>
                     <strong>
