@@ -179,6 +179,9 @@ permalink: /courses/2026/1/advanced_ai
                                                             <td>05월 11일(월)</td>
                                                             <td>
                                                                 - 12. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)
+                                                                <a href="https://www.dropbox.com/scl/fi/4p8w2u6v3a3d97y7pgdrm/12.A2C_A3C.pdf?rlkey=jsfwfkocrmtdicaljkj7noqhj&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
