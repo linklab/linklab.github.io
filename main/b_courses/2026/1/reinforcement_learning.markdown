@@ -300,8 +300,10 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">23</th>
                                                             <td>05월 18일(월)</td>
                                                             <td>
-                                                                - 12. Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C) (Part 2)
-                                                            </td>
+                                                                - 13. Proximal Policy Optimization (PPO) (Part 1)
+                                                                <a href="https://www.dropbox.com/scl/fi/ukkae9u8xkvnh9sgqbcul/13.PPO.pdf?rlkey=fncxuzzf85ee3cdn3wu5tz27j&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>                                                            </td>
                                                             <td>
                                                             </td>
                                                         </tr>
@@ -309,7 +311,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">24</th>
                                                             <td>05월 19일(화)</td>
                                                             <td>
-                                                                - 13. Proximal Policy Optimization (PPO) (Part 1)
+                                                                - 휴강
                                                             </td>
                                                             <td>
                                                             </td>

@@ -191,6 +191,9 @@ permalink: /courses/2026/1/advanced_ai
                                                             <td>05월 18일(월)</td>
                                                             <td>
                                                                 - 13. Proximal Policy Optimization (PPO)
+                                                                <a href="https://www.dropbox.com/scl/fi/ukkae9u8xkvnh9sgqbcul/13.PPO.pdf?rlkey=fncxuzzf85ee3cdn3wu5tz27j&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
