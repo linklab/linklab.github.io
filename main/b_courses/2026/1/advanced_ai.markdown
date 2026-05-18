@@ -194,6 +194,11 @@ permalink: /courses/2026/1/advanced_ai
                                                                 <a href="https://www.dropbox.com/scl/fi/ukkae9u8xkvnh9sgqbcul/13.PPO.pdf?rlkey=fncxuzzf85ee3cdn3wu5tz27j&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
+                                                                <br/>
+                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
+                                                                <a href="https://www.dropbox.com/scl/fi/j0k9z61zwyq8pntbvaer3/14.DDPG_TD3.pdf?rlkey=o2izuqk5zc90vte8jhqwwn0r2&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -211,7 +216,7 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">14주차</th>
                                                             <td>06월 01일(월)</td>
                                                             <td>
-                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
+                                                                - 15. Soft Actor-Critic (SAC)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -220,16 +225,9 @@ permalink: /courses/2026/1/advanced_ai
                                                             <th scope="row" style="vertical-align: middle">15주차</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
-                                                                - 15. Soft Actor-Critic (SAC)
+                                                                <strong>기말 고사</strong>
                                                             </td>
                                                             <td>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row" style="vertical-align: middle">16주차</th>
-                                                            <td>06월 15일(월)</td>
-                                                            <td colspan="2" class="centred">
-                                                                <strong>기말 고사</strong>
                                                             </td>
                                                         </tr>
                                                         </tbody>
