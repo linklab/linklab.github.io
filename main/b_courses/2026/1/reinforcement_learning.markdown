@@ -341,6 +341,9 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <td>06월 01일(월)</td>
                                                             <td>
                                                                 - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 1)
+                                                                <a href="https://www.dropbox.com/scl/fi/j0k9z61zwyq8pntbvaer3/14.DDPG_TD3.pdf?rlkey=o2izuqk5zc90vte8jhqwwn0r2&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
