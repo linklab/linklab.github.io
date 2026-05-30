@@ -340,7 +340,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">27</th>
                                                             <td>06월 01일(월)</td>
                                                             <td>
-                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 1)
+                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3)
                                                                 <a href="https://www.dropbox.com/scl/fi/j0k9z61zwyq8pntbvaer3/14.DDPG_TD3.pdf?rlkey=o2izuqk5zc90vte8jhqwwn0r2&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
@@ -352,7 +352,10 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">28</th>
                                                             <td>06월 02일(화)</td>
                                                             <td>
-                                                                - 14. Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) (Part 2)
+                                                                - 15. Soft Actor-Critic (SAC)
+                                                                <a href="https://www.dropbox.com/scl/fi/bjbujxnq81apbcbhus426/15.SAC.pdf?rlkey=69anleqytzettezgpc3olkenh&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -362,7 +365,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">29</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
-                                                                - 15. Soft Actor-Critic (SAC) (Part 1)
+                                                                - 텀프로젝트 수행 및 발표
                                                             </td>
                                                             <td>
                                                             </td>
@@ -371,7 +374,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">30</th>
                                                             <td>06월 09일(화)</td>
                                                             <td>
-                                                                - 15. Soft Actor-Critic (SAC) (Part 2)
+                                                                - 텀프로젝트 수행 및 발표
                                                             </td>
                                                             <td>
                                                             </td>
@@ -381,7 +384,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">31</th>
                                                             <td>06월 15일(월)</td>
                                                             <td>
-                                                                - 텀프로젝트 발표 준비 / Q&amp;A
+                                                                - 텀프로젝트 수행 및 발표
                                                             </td>
                                                             <td>
                                                             </td>
