@@ -365,7 +365,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">29</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
-                                                                - 텀프로젝트 수행 및 발표
+                                                                <strong>텀프로젝트 수행 및 발표</strong>
                                                             </td>
                                                             <td>
                                                             </td>
