@@ -374,7 +374,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">30</th>
                                                             <td>06월 09일(화)</td>
                                                             <td>
-                                                                - 텀프로젝트 수행 및 발표
+                                                                <strong>텀프로젝트 수행 및 발표</strong>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -384,7 +384,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             <th scope="row">31</th>
                                                             <td>06월 15일(월)</td>
                                                             <td>
-                                                                - 텀프로젝트 수행 및 발표
+                                                                <strong>텀프로젝트 수행 및 발표</strong>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -392,8 +392,10 @@ permalink: /courses/2026/1/reinforcement_learning
                                                         <tr>
                                                             <th scope="row">32</th>
                                                             <td>06월 16일(화)</td>
-                                                            <td class="centred" colspan="2">
-                                                                <strong>텀프로젝트 발표</strong>
+                                                            <td>
+                                                                <strong>텀프로젝트 수행 및 발표</strong>
+                                                            </td>
+                                                            <td>
                                                             </td>
                                                         </tr>
                                                         </tbody>
