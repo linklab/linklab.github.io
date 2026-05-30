@@ -217,6 +217,9 @@ permalink: /courses/2026/1/advanced_ai
                                                             <td>06월 01일(월)</td>
                                                             <td>
                                                                 - 15. Soft Actor-Critic (SAC)
+                                                                <a href="https://www.dropbox.com/scl/fi/bjbujxnq81apbcbhus426/15.SAC.pdf?rlkey=69anleqytzettezgpc3olkenh&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
