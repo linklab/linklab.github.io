@@ -8,6 +8,23 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>6월 16일 (화) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Zhou, Yifei, et al. "ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL." Proceedings of the 41st International Conference on Machine Learning (ICML). PMLR 235 (2024): 62178-62209.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v235/zhou24t.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    <strong>
+                        Du, Yilun, et al. "Improving Factuality and Reasoning in Language Models through Multiagent Debate." Proceedings of the 41st International Conference on Machine Learning (ICML). PMLR 235 (2024): 11733-11763.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v235/du24e.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>5월 08일 (금) 논문 세미나 – 김진성
                     <br/>
                     <strong>
