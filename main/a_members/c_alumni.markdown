@@ -102,6 +102,17 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
                             </ul>
                         </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img"
+                                 src="/assets/images/members/지창훈.jpeg"
+                                 alt="Chang-Hun Ji (지창훈)">
+                        </div>
                         <div class="card-body">
                             <h4 class="card-title">Chang-Hun Ji (지창훈)</h4>
                             <h6 class="card-category">Postdoctoral Researcher<br>(March 1, 2026 ~ June 15, 2026)</h6>
