@@ -35,12 +35,34 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2026" month="06" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 17, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] 최요한 박사과정 1저자의 4족보행 보행 제어 논문 (제목: DAWN: Noise-Robust Quadruped Parkour
+via Depth-Denoising World Models), IROS 2026 ACCEPT!
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2026" month="06" day="01">
+                                    <td class="text-md-right" style="width: 20%">
+                                        June 15, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] 지창훈 박사, 배달의 민족 로봇 연구소(배민로봇
+                                        <a href="https://robot.baemin.com/" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                        )의 정규직 연구원으로 입사
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2026" month="04" day="01">
                                     <td class="text-md-right" style="width: 20%">
                                         April 01, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         DAWN-PARKOUR: Depth Image 노이즈 제거 월드 모델을 활용한 4족보행 파쿠르 성공 - DAWN-PARKOUR 홈페이지
                                         <a href="https://dawn-parkour.github.io" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
