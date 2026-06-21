@@ -37,6 +37,15 @@ permalink: /news/
                             <table class="table">
                                 <tr class="news" year="2026" month="06" day="01">
                                     <td class="text-md-right" style="width: 20%">
+                                        June 18, 2025
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] 석영준 박사과정생, 2026년도 KICS 장학금 수혜자로 선정!
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2026" month="06" day="01">
+                                    <td class="text-md-right" style="width: 20%">
                                         June 17, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
