@@ -319,11 +319,11 @@ permalink: /members/students_and_members
                 <div class="item-student">
                     <div class="card card-profile">
                         <div class="card-body" style="border-style: solid;">
-                            <h4 class="card-title">졸업작품: 강화학습과 객체 인식 기술을 활용한 미확인 지형 정찰 4족 보행 로봇</h4>
+                            <h4 class="card-title">졸업작품: 사족보행 로봇을 활용한 자율 쓰레기 수거 시스템</h4>
                             <ul>
-                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/dmrjnxcmta4sao6sns5yw/4-_.pdf?rlkey=qz9g5sm9sxrquk1e6hjizqzw3&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
-                                <li>졸업작품 시연영상: <a href="https://www.youtube.com/watch?v=apwvamhos6E" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
-                                <span class="badge badge-info">2025년 컴퓨터공학부 졸업작품 우수상 수상</span>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/hi4io97eermiw4nm3hxey/ECOWALKER.pptx?rlkey=iemmw0r2sgon4osib1fdq5fk8&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 시연영상: <a href="https://www.dropbox.com/scl/fi/4dhve6y8n1779vsbgpc93/_-_1.mp4?rlkey=4pw757vwcwfc9kh5x6gzgjsat&dl=0" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
+                                <span class="badge badge-info">2026년 컴퓨터공학부 졸업작품 우수상 수상</span>
                             </ul>
                         </div>
                     </div>
@@ -333,11 +333,10 @@ permalink: /members/students_and_members
                 <div class="item-student">
                     <div class="card card-profile">
                         <div class="card-body" style="border-style: solid;">
-                            <h4 class="card-title">졸업작품: 강화학습과 객체 인식 기술을 활용한 미확인 지형 정찰 4족 보행 로봇</h4>
+                            <h4 class="card-title">졸업작품: 모방 학습 기반 부품 정리 양팔 매니퓰레이션</h4>
                             <ul>
-                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/dmrjnxcmta4sao6sns5yw/4-_.pdf?rlkey=qz9g5sm9sxrquk1e6hjizqzw3&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
-                                <li>졸업작품 시연영상: <a href="https://www.youtube.com/watch?v=apwvamhos6E" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
-                                <span class="badge badge-info">2025년 컴퓨터공학부 졸업작품 우수상 수상</span>
+                                <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/xipl9o63zqivl68i025og/IL.pptx?rlkey=f4da0pqss0d2lt2cdn0epoi58&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
+                                <li>졸업작품 시연영상: <a href="https://www.dropbox.com/scl/fi/xyhcblv8o33zypqe3l4vh/ALOHA_Inference.mov?rlkey=d2t24tozfz1lz9nxkfft2l47y&dl=0" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
