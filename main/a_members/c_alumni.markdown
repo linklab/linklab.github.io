@@ -35,8 +35,8 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 </li>
                             </ul>
                             <ul>
-                                <li style="font-size: 1.1em"><b>Current Job</b>: <br/>
-                                Assistant Professor, Yuan Ze University, Taiwan
+                                <li style="font-size: 1.1em"><strong>Current Job</strong>: <br/>
+                                <strong>Assistant Professor, Yuan Ze University, Taiwan</strong>
                                 <a href="https://www.cse.yzu.edu.tw/en/people/professor?name=Ihsan%20Ullah" target="_blank">
                                     <i class="fa fa-link" aria-hidden="true"></i>
                                 </a>
