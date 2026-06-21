@@ -102,6 +102,22 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
                             </ul>
                         </div>
+                        <div class="card-body">
+                            <h4 class="card-title">Chang-Hun Ji (지창훈)</h4>
+                            <h6 class="card-category">Postdoctoral Researcher<br>(March 1, 2026 ~ June 15, 2026)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <li><b>Topic</b>: Drone Control with Reinforcement Learning, Offline Reinforcement Learning
+                                </li>
+                                <li><b>Email</b>: <a href="mailto:koir5660@koreatech.ac.kr">koir5660@koreatech.ac.kr</a>
+                                </li>
+                            </ul>
+                            <ul>
+                                <li style="font-size: 1.1em"><b>취업</b>: 배민로봇 (<a href="https://robot.baemin.com/" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>)</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
