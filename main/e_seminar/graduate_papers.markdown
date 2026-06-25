@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>6월 26일 (금) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        Lee, Andrew, et al. "Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning." arXiv preprint arXiv:2510.08442 (2025).
+                    </strong>
+                    <a href="https://arxiv.org/abs/2510.08442">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>            
                 <li>6월 16일 (화) 논문 세미나 – 아셀
                     <br/>
                     <strong>
