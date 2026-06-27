@@ -51,7 +51,7 @@ permalink: /news/
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
                                         [축] 최요한 박사과정 1저자의 4족보행 보행 제어 논문 (제목: DAWN: Noise-Robust Quadruped Parkour
-via Depth-Denoising World Models), IROS 2026 ACCEPT!
+via Depth-Denoising World Models), IROS 2026 ACCEPTED!
                                     </td>
                                 </tr>
                                 <tr class="news" year="2026" month="06" day="01">
@@ -83,7 +83,6 @@ via Depth-Denoising World Models), IROS 2026 ACCEPT!
                                         February 21, 2025
                                     </td>
                                     <td class="desc" style="width: 80%">
-                                        <span class="badge badge-danger">NEW</span>
                                         [축] LINK 랩 지창훈 학생 공학박사 학위 취득!<br/>
                                         박사학위 논문 제목: Adaptive Trajectory Planning via Variational Autoencoder-Guided Flow Matching Decision Transformer
                                     </td>

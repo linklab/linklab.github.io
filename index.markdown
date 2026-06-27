@@ -174,8 +174,8 @@ layout: page
                             <i class="fa fa-link" aria-hidden="true"></i>
                         </a>
                     </li>
-                    <li><u>메타강화학습 VeriBad 기반 국가 조세 정책 최적화</u> (Optimization of National Tax Policy using Meta-Reinforcement Learning based on VeriBad)
-                        <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002966640" target="_blank">
+                    <li><u>강화학습 기반 LLM 미세 조정</u> (LLM Fine-Tuning based on Reinforcement Learning)
+                        <a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/reinforcement-tuning?hl=ko" target="_blank">
                             <i class="fa fa-link" aria-hidden="true"></i>
                         </a>
                     </li>
