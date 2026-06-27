@@ -175,9 +175,6 @@ layout: page
                         </a>
                     </li>
                     <li><u>강화학습 기반 LLM 미세 조정</u> (LLM Fine-Tuning based on Reinforcement Learning)
-                        <a href="https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/tuning/reinforcement-tuning?hl=ko" target="_blank">
-                            <i class="fa fa-link" aria-hidden="true"></i>
-                        </a>
                     </li>
                 </ol>
             </div>
