@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>7월 2일 (목) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Sun, Wandong, et al. "Now you see that: Learning end-to-end humanoid locomotion from raw pixels." Robotics: Science and Systems (RSS), 2026.
+                    </strong>
+                    <a href="https://hellod035.github.io/Now_You_See_That/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>6월 26일 (금) 논문 세미나 – 김민준
                     <br/>
                     <strong>
@@ -18,7 +29,7 @@ permalink: /seminar/graduate
                     </a>
                     <br/>
                 </li>
-                <br/>            
+                <br/>
                 <li>6월 16일 (화) 논문 세미나 – 아셀
                     <br/>
                     <strong>
