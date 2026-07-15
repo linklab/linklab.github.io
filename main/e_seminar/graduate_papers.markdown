@@ -8,6 +8,16 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>7월 16일 (목) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Zhou, Yifei, Andrea Zanette, Jiayi Pan, Sergey Levine, and Aviral Kumar. "ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL." Proceedings of the 41st International Conference on Machine Learning (ICML). PMLR 235 (2024): 62178-62209.
+                    </strong>
+                    <a href="https://proceedings.mlr.press/v235/zhou24t.html">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                </li>
+                <br/>
                 <li>7월 2일 (목) 논문 세미나 – 최요한
                     <br/>
                     <strong>
@@ -31,13 +41,6 @@ permalink: /seminar/graduate
                 </li>
                 <br/>
                 <li>6월 16일 (화) 논문 세미나 – 아셀
-                    <br/>
-                    <strong>
-                        Zhou, Yifei, Andrea Zanette, Jiayi Pan, Sergey Levine, and Aviral Kumar. "ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL." Proceedings of the 41st International Conference on Machine Learning (ICML). PMLR 235 (2024): 62178-62209.
-                    </strong>
-                    <a href="https://proceedings.mlr.press/v235/zhou24t.html">
-                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
-                    </a>
                     <br/>
                     <strong>
                         Du, Yilun, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, and Igor Mordatch. "Improving Factuality and Reasoning in Language Models through Multiagent Debate." Proceedings of the 41st International Conference on Machine Learning (ICML). PMLR 235 (2024): 11733-11763.
