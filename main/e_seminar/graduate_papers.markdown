@@ -8,6 +8,39 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>7월 28일 (화) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        Physical Intelligence π Series Review (π0 → FAST → π0.5 → π*0.6 → π0.7)
+                    </strong>
+                    <br/>
+                    "π0: A Vision-Language-Action Flow Model for General Robot Control." arXiv:2410.24164 (2024).
+                    <a href="https://www.physicalintelligence.company/download/pi0.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    "FAST: Efficient Action Tokenization for Vision-Language-Action Models." arXiv:2501.09747 (2025).
+                    <a href="https://www.pi.website/research/fast">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    "π0.5: a Vision-Language-Action Model with Open-World Generalization." arXiv:2504.16054 (2025).
+                    <a href="https://www.physicalintelligence.company/download/pi05.pdf">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    "π*0.6: a VLA That Learns From Experience." arXiv:2511.14759 (2025).
+                    <a href="https://www.pi.website/blog/pistar06">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                    "π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities." arXiv:2604.15483 (2026).
+                    <a href="https://www.pi.website/blog/pi07">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>7월 16일 (목) 논문 세미나 – 아셀
                     <br/>
                     <strong>
