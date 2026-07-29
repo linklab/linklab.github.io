@@ -167,10 +167,10 @@ permalink: /members/students_and_members
                         <div class="card-header card-avatar">
                             <img class="img"
                                  src="/assets/images/members/19th/강대건.jpg"
-                                 alt="Deagun Gang (강대건)">
+                                 alt="Daegun Kang (강대건)">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Deagun Gang (강대건)</h4>
+                            <h4 class="card-title">Daegun Kang (강대건)</h4>
                             <h6 class="card-category">(March 1, 2026 ~ Present)</h6>                            
                             <hr>
                             <ul class="topic_email">
@@ -352,10 +352,10 @@ permalink: /members/students_and_members
                         <div class="card-header card-avatar">
                             <img class="img"
                                  src="/assets/images/members/19th/강대건.jpg"
-                                 alt="Deagun Gang (강대건)">
+                                 alt="Daegun Kang (강대건)">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title">Deagun Gang (강대건)</h4>
+                            <h4 class="card-title">Daegun Kang (강대건)</h4>
                             <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
                                 <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
