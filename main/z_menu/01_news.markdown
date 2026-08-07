@@ -35,6 +35,15 @@ permalink: /news/
                     <!--Start Content Grid-->
                     <div class="row content">
                             <table class="table">
+                                <tr class="news" year="2026" month="08" day="07">
+                                    <td class="text-md-right" style="width: 20%">
+                                        August 7, 2026
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] 석영준 학생이 공동 1저자로 참여한 강화학습 기반 양자 리피터 네트워크 제어 논문 (제목: Near-Optimal Reinforcement Learning for Entanglement Swap-or-Wait Control in Quantum Repeater Chains), IEEE GLOBECOM 2026 ACCEPTED!
+                                    </td>
+                                </tr>
                                 <tr class="news" year="2026" month="06" day="01">
                                     <td class="text-md-right" style="width: 20%">
                                         June 18, 2025
