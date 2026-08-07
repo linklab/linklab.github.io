@@ -41,7 +41,7 @@ permalink: /news/
                                     </td>
                                     <td class="desc" style="width: 80%">
                                         <span class="badge badge-danger">NEW</span>
-                                        [축] 석영준 학생이 1저자의 강화학습 기반 양자 리피터 네트워크 제어 논문 (제목: Near-Optimal Reinforcement Learning for Entanglement Swap-or-Wait Control in Quantum Repeater Chains), IEEE GLOBECOM 2026 ACCEPTED!
+                                        [축] 석영준 박사과정 1저자의 강화학습 기반 양자 리피터 네트워크 제어 논문 (제목: Near-Optimal Reinforcement Learning for Entanglement Swap-or-Wait Control in Quantum Repeater Chains), IEEE GLOBECOM 2026 ACCEPTED!
                                     </td>
                                 </tr>
                                 <tr class="news" year="2026" month="06" day="01">
