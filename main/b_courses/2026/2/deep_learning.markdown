@@ -168,7 +168,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">11</th>
                                                             <td>10월 05일(월)</td>
                                                             <td>
-                                                                추석 (휴강)
+                                                                개천절 대체공휴일 (휴강)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -213,16 +213,6 @@ permalink: /courses/2026/2/dl
                                                         <tr>
                                                             <th scope="row">16</th>
                                                             <td>10월 20일(화)</td>
-                                                            <td>
-                                                            </td>
-                                                            <td>
-                                                                -
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
-                                                            <th scope="row">17</th>
-                                                            <td>10월 26일(월)</td>
                                                             <td colspan="2" class="centred">
                                                                 <strong>중간 고사</strong>
                                                                 <br/>
@@ -230,27 +220,28 @@ permalink: /courses/2026/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">18</th>
-                                                            <td>10월 27일(화)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
+                                                            <th scope="row">17</th>
+                                                            <td>10월 26일(월)</td>
                                                             <td>
                                                                 - 12. Optimizers
                                                             </td>
                                                             <td>
-                                                                - CPU vs. GPU
+                                                                <!--=- CPU vs. GPU-->
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
-                                                            <th scope="row">19</th>
-                                                            <td>11월 02일(월)</td>
+                                                            <th scope="row">18</th>
+                                                            <td>10월 27일(화)</td>
                                                             <td>
                                                                 - 13. Regularization
                                                             </td>
                                                             <td></td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row">20</th>
-                                                            <td>11월 03일(화)</td>
+                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
+                                                            <th scope="row">19</th>
+                                                            <td>11월 02일(월)</td>
                                                             <td>
                                                                 - 14. Normalization
                                                             </td>
@@ -259,11 +250,20 @@ permalink: /courses/2026/2/dl
                                                             </td>
                                                         </tr>
                                                         <tr>
+                                                            <th scope="row">20</th>
+                                                            <td>11월 03일(화)</td>
+                                                            <td>
+                                                                - 14. Normalization
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
                                                             <th scope="row">21</th>
                                                             <td>11월 09일(월)</td>
                                                             <td>
-                                                                - 14. Normalization
+                                                                - 15. Data Augmentation
                                                             </td>
                                                             <td>
                                                             </td>
@@ -272,7 +272,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 10일(화)</td>
                                                             <td>
-                                                                - 15. Data Augmentation
+                                                                - 16. Modern CNNs
                                                             </td>
                                                             <td>
                                                             </td>
@@ -282,7 +282,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 16일(월)</td>
                                                             <td>
-                                                                - 16. Modern CNNs
+                                                                - 17. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -294,6 +294,10 @@ permalink: /courses/2026/2/dl
                                                                 - 17. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
+                                                                - <strong>Homework #4</strong>
+                                                                <br/>
+                                                                <!--- 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2025.11.30)-->
+                                                                <br/>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -301,7 +305,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">25</th>
                                                             <td>11월 23일(월)</td>
                                                             <td>
-                                                                - 17. Recurrent Neural Network (RNN)
+                                                                - 18. LSTM and Its Application
                                                             </td>
                                                             <td>
                                                             </td>
@@ -313,10 +317,6 @@ permalink: /courses/2026/2/dl
                                                                 - 18. LSTM and Its Application
                                                             </td>
                                                             <td>
-                                                                - <strong>Homework #4</strong>
-                                                                <br/>
-                                                                - 비트코인 가격 데이터 (일봉: 2014.9.17 ~ 2025.11.30)
-                                                                <br/>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -324,7 +324,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">27</th>
                                                             <td>11월 30일(월)</td>
                                                             <td>
-                                                                - 18. LSTM and Its Application
+                                                                - 19. Attention
                                                             </td>
                                                             <td>
                                                             </td>
@@ -343,7 +343,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 07일(월)</td>
                                                             <td>
-                                                                - 19. Attention
+                                                                - 20. Transformer
                                                             </td>
                                                             <td>
                                                             </td>
@@ -352,7 +352,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">30</th>
                                                             <td>12월 08일(화)</td>
                                                             <td>
-                                                                - 20. Transformer
+                                                                - 21. Transfer Learning
                                                             </td>
                                                             <td>
                                                             </td>
@@ -361,18 +361,17 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
                                                             <th scope="row">31</th>
                                                             <td>12월 14일(월)</td>
-                                                            <td>
-                                                                - 21. Transfer Learning
-                                                            </td>
-                                                            <td>
+                                                            <td class="centred" colspan="2">
+                                                                <strong>기말 고사</strong>
+                                                                <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">32</th>
                                                             <td>12월 15일(화)</td>
-                                                            <td class="centred" colspan="2">
-                                                                <strong>기말 고사</strong>
-                                                                <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
+                                                            <td>
+                                                            </td>
+                                                            <td>
                                                             </td>
                                                         </tr>
                                                         </tbody>
