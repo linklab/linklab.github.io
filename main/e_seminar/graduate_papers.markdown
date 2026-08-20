@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>8월 20일 (목) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        Jiang, Zhennan, et al. "Wovr: World models as reliable simulators for post-training vla policies with rl." arXiv preprint arXiv:2602.13977 (2026).
+                    </strong>
+                    <a href="https://wovr-corl.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>8월 06일 (목) 논문 세미나 – 석영준
                     <br/>
                     <strong>
