@@ -51,7 +51,7 @@ permalink: /courses/2026/2/dl
                                                             <td>
                                                                 - Course Introduction<br/>
                                                                 - 00. Introduction to Deep Learning
-                                                                <a href="https://www.dropbox.com/scl/fi/7egbxsajo0yqis1angqoc/00.dl_101.pdf?rlkey=odh4tihyg79uhatz5aicdkksi&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/kzsi2tahdd091s51wcb24/00.dl_101.pdf?rlkey=npkikt0w0tfep8alro03co00r&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
