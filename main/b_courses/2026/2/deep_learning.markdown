@@ -69,7 +69,7 @@ permalink: /courses/2026/2/dl
                                                             <td>
                                                                 - 00. Introduction to Deep Learning<br/>
                                                                 - 01. Development Environment
-                                                                <a href="https://www.dropbox.com/scl/fi/gg3kfy55q28fa17e8j8db/01.development_environment.pdf?rlkey=hr9bw8wyz24s8bals0pf320mu&dl=0" target="_blank">
+                                                                <a href="https://www.dropbox.com/scl/fi/243k9rqwiz6uc73n8gz9i/01.development_environment.pdf?rlkey=6srd7yvit4sylt2fgsmj28b0m&dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                             </td>
