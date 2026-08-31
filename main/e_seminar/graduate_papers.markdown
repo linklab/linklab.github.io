@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>8월 25일 (화) 논문 세미나 – 김민준
+                    <br/>
+                    <strong>
+                        Xiong, Haoyu, et al. "Vision in action: Learning active perception from human demonstrations." arXiv preprint arXiv:2506.15666 (2025).
+                    </strong>
+                    <a href="https://vision-in-action.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>8월 20일 (목) 논문 세미나 – 김진성
                     <br/>
                     <strong>
