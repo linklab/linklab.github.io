@@ -384,6 +384,9 @@ permalink: /courses/2026/2/dl
                                                             - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
                                                         </li>
                                                         <li>
+                                                            - Teaching Assistant: 강대건 (Email: ahicraft1937@koreatech.ac.kr)
+                                                        </li>
+                                                        <li>
                                                             - Classes: 월요일 (8, 9교시 - 16:00 ~ 17:50), 화요일 (8, 9교시 - 16:00 ~ 17:50)
                                                         </li>
                                                         <li>
@@ -401,7 +404,7 @@ permalink: /courses/2026/2/dl
                                                             - 추후 구체적인 숙제 내용 제시
                                                         </li>
                                                         <li>
-                                                            - 숙제 제출 사이트: <a href="http://el2.koreatech.ac.kr" target="_blank">http://el2.koreatech.ac.kr</a> 의 자유게시판 활용
+                                                            - 숙제 제출 사이트: <a href="https://lms.koreatech.ac.kr/" target="_blank">https://lms.koreatech.ac.kr/</a> 의 자유게시판 활용
                                                         </li>
                                                         <li> - 숙제 제출 방법 (jupyter notebook 활용)
                                                             <br/>
