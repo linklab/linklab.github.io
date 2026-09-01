@@ -74,6 +74,16 @@ permalink: /courses/2026/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
+                                                                - Tensor 및 Tensor Operations 에 관한 특강 (조교)
+                                                                <a href="https://youtu.be/oQK7g7b7GCg" target="_blank">
+                                                                    <span class="badge badge-warning">특강 영상 I</span>
+                                                                </a><br/>
+                                                                - <a href="https://youtu.be/E3ZUXpqCkGM" target="_blank">
+                                                                    <span class="badge badge-warning">특강 영상 II</span>
+                                                                </a><br/>
+                                                                - <a href="https://youtu.be/cH2Sfo4Nw5o" target="_blank">
+                                                                    <span class="badge badge-warning">특강 영상 III</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -99,7 +109,6 @@ permalink: /courses/2026/2/dl
                                                                 - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
-                                                                - Tensor 및 Tensor Operations 에 관한 특강 (조교)
                                                                 <br/>
                                                                 - 위 특강에 대한 강의 동영상은 EL2에서 확인<br/>
                                                                 - <strong>Homework #1</strong>
