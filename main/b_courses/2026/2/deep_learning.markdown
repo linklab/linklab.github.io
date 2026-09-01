@@ -76,17 +76,17 @@ permalink: /courses/2026/2/dl
                                                             <td>
                                                                 - Tensor 및 Tensor Operations 에 관한 특강 (조교)
                                                                 <ul>
-                                                                    <li>
+                                                                    <li style="list-style-type:square">
                                                                         <a href="https://youtu.be/oQK7g7b7GCg" target="_blank">
                                                                             <span class="badge badge-warning">특강 영상 I</span>
                                                                         </a>
                                                                     </li>
-                                                                    <li>
+                                                                    <li style="list-style-type:square">
                                                                         <a href="https://youtu.be/E3ZUXpqCkGM" target="_blank">
                                                                             <span class="badge badge-warning">특강 영상 II</span>
                                                                         </a>
                                                                     </li>
-                                                                    <li>
+                                                                    <li style="list-style-type:square">
                                                                         <a href="https://youtu.be/cH2Sfo4Nw5o" target="_blank">
                                                                             <span class="badge badge-warning">특강 영상 III</span>
                                                                         </a>
