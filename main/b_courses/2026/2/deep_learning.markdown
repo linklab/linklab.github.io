@@ -75,15 +75,23 @@ permalink: /courses/2026/2/dl
                                                             </td>
                                                             <td>
                                                                 - Tensor 및 Tensor Operations 에 관한 특강 (조교)
-                                                                <a href="https://youtu.be/oQK7g7b7GCg" target="_blank">
-                                                                    <span class="badge badge-warning">특강 영상 I</span>
-                                                                </a><br/>
-                                                                - <a href="https://youtu.be/E3ZUXpqCkGM" target="_blank">
-                                                                    <span class="badge badge-warning">특강 영상 II</span>
-                                                                </a><br/>
-                                                                - <a href="https://youtu.be/cH2Sfo4Nw5o" target="_blank">
-                                                                    <span class="badge badge-warning">특강 영상 III</span>
-                                                                </a>
+                                                                <ul>
+                                                                    <li>
+                                                                        <a href="https://youtu.be/oQK7g7b7GCg" target="_blank">
+                                                                            <span class="badge badge-warning">특강 영상 I</span>
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="https://youtu.be/E3ZUXpqCkGM" target="_blank">
+                                                                            <span class="badge badge-warning">특강 영상 II</span>
+                                                                        </a>
+                                                                    </li>
+                                                                    <li>
+                                                                        <a href="https://youtu.be/cH2Sfo4Nw5o" target="_blank">
+                                                                            <span class="badge badge-warning">특강 영상 III</span>
+                                                                        </a>
+                                                                    </li>
+                                                                </ul>
                                                             </td>
                                                         </tr>
                                                         <tr>
