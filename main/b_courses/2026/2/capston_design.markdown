@@ -29,7 +29,7 @@ permalink: /courses/2026/2/capston_design
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule
                                                     <style>
-                                                        .capston-schedule-table { font-size: 0.78em; }
+                                                        .capston-schedule-table { font-size: 0.7em; }
                                                         .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; padding-left: 1em !important; margin-bottom: 1em !important; }
                                                         .capston-schedule-table ul li { display: list-item !important; }
                                                         .capston-schedule-table ul ul { list-style-type: circle !important; }
@@ -164,6 +164,7 @@ permalink: /courses/2026/2/capston_design
                                                                     <li>조사 내용
                                                                         <ul>
                                                                             <li>최근 관련 기술 및 연구 동향</li>
+                                                                            <li>컴퓨터공학부 기존 졸업작품 사례 조사</li>
                                                                             <li>국내외 대학 및 연구기관의 관련 프로젝트 사례</li>
                                                                             <li>GitHub, 논문, YouTube, 기술 블로그 등에 공개된 구현 사례</li>
                                                                             <li>기존 프로젝트에서 해결하고자 한 문제</li>
@@ -204,10 +205,11 @@ permalink: /courses/2026/2/capston_design
                                                                             <li>단순한 기존 작품 소개를 넘어 다음 사항을 중심으로 검토
                                                                                 <ul>
                                                                                     <li>우리가 직접 구현할 수 있는가?</li>
-                                                                                    <li>한 학기 또는 두 학기 동안 완성 가능한 범위인가?</li>
+                                                                                    <li>2027년 5월까지 완성 가능한 작품인가?</li>
                                                                                     <li>필요한 장비와 데이터는 확보 가능한가?</li>
                                                                                     <li>기존 작품과 어떤 차별성을 만들 수 있는가?</li>
                                                                                     <li>결과물을 실제로 시연하고 평가할 수 있는가?</li>
+                                                                                    <li>작품이 Self-Contained 성격을 지니고 있는가?</li>
                                                                                 </ul>
                                                                             </li>
                                                                         </ul>
@@ -362,7 +364,8 @@ permalink: /courses/2026/2/capston_design
                                                                     <li>최종 목표
                                                                         <ul>
                                                                             <li>겨울방학 시작 전에 각 팀이 <strong>"무엇을 만들 것인지, 왜 만드는지, 어떤 기술이 필요한지, 방학 동안 무엇을 준비해야 하는지"</strong>를 명확하게 정의</li>
-                                                                            <li>4학년 1학기 시작과 동시에 본격적인 졸업작품 개발에 착수할 수 있도록 준비</li>
+                                                                            <li>겨울방삭 동안 필요 요소 기술을 완벽하게 확보 필요</li>
+                                                                            <li>4학년 1학기 시작과 동시에 본격적인 졸업작품 개발에 착수: 필요 요소 기술의 조합 및 작품 꾸밈</li>
                                                                         </ul>
                                                                     </li>
                                                                 </ul>
