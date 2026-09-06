@@ -141,7 +141,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">05</th>
                                                             <td>09월 14일(월)</td>
                                                             <td>
-                                                                - 03. Real-World Data to Tensors
+                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
                                                             </td>
                                                             <td>
                                                             </td>
@@ -150,7 +150,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">06</th>
                                                             <td>09월 15일(화)</td>
                                                             <td>
-                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
+                                                                - 05. Autograd
                                                             </td>
                                                             <td>
                                                             </td>
