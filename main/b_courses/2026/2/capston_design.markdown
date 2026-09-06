@@ -36,8 +36,9 @@ permalink: /courses/2026/2/capston_design
                                                         .capston-schedule-table ul ul ul { list-style-type: "- " !important; }
                                                     </style>
                                                     <div style="align-content: center">
-                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" width="822" height="633"/>
+                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" style="width:150%; height:auto;"/>
                                                     </div>
+                                                    <hr/>
                                                     <table class="table table-bordered capston-schedule-table">
                                                         <thead class="thead-light">
                                                         <tr>
