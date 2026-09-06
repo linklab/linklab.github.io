@@ -130,8 +130,10 @@ permalink: /courses/2026/2/dl
                                                                 - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
-                                                                <br/>
-                                                                - <strong>Homework #1</strong>
+                                                                - <strong>Homework #1 (기한: 9월 27일 일요일 23시 59분)</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/gukweu4df8jnnq4hbc1rs/HW_1.pdf?rlkey=rramiyjql2tbh1b9v1wscahfy&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
