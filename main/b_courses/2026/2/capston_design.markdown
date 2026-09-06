@@ -42,9 +42,9 @@ permalink: /courses/2026/2/capston_design
                                                     <table class="table table-bordered capston-schedule-table">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:8%">회차</th>
-                                                            <th scope="col" style="width:16%">일시 / 장소</th>
-                                                            <th scope="col" style="width:20%">모임명</th>
+                                                            <th scope="col" style="width:4%">회차</th>
+                                                            <th scope="col" style="width:14%">일시 / 장소</th>
+                                                            <th scope="col" style="width:14%">모임명</th>
                                                             <th scope="col">주요 내용</th>
                                                         </tr>
                                                         </thead>
@@ -375,9 +375,9 @@ permalink: /courses/2026/2/capston_design
                                                     </table>
                                                     <br/>
                                                     <br/>
-                                                    <h3 class="title-level-3">2. Course Information</h3>
+                                                    <h3 class="title-level-3">3. Course Goal</h3>
                                                     <br/>
-                                                    <ul>
+                                                    <ul style="font-size: 1.5em">
                                                         <li>
                                                             - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
                                                         </li>
@@ -386,6 +386,21 @@ permalink: /courses/2026/2/capston_design
                                                         </li>
                                                     </ul>
                                                     <br/>
+                                                    <br/>
+                                                    <br/>
+                                                    <h3 class="title-level-3">2. Course Information</h3>
+                                                    <br/>
+                                                    <ul style="font-size: 1.5em">
+                                                        <li>
+                                                            - 겨울방학 시작 전에 각 팀이 <strong>"무엇을 만들 것인지, 왜 만드는지, 어떤 기술이 필요한지, 방학 동안 무엇을 준비해야 하는지"</strong>를 명확하게 정의
+                                                        </li>
+                                                        <li>
+                                                            - 겨울방학 동안 필요 요소 기술을 완벽하게 확보 필요
+                                                        </li>
+                                                        <li>
+                                                            - 4학년 1학기 시작과 동시에 본격적인 졸업작품 개발에 착수: <strong>필요 요소 기술의 조합 및 작품 꾸밈</strong>
+                                                        </li>
+                                                    </ul>
                                                     </h3>
                                                 </div>
                                             </div>
