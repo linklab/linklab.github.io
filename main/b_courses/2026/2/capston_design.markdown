@@ -30,13 +30,13 @@ permalink: /courses/2026/2/capston_design
                                                     1. Course Schedule
                                                     <style>
                                                         .capston-schedule-table { font-size: 0.7em; }
-                                                        .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; padding-left: 1em !important; margin-bottom: 1em !important; }
+                                                        .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; margin-left: 1em !important; padding-left: 0 !important; margin-bottom: 1em !important; }
                                                         .capston-schedule-table ul li { display: list-item !important; }
                                                         .capston-schedule-table ul ul { list-style-type: circle !important; }
                                                         .capston-schedule-table ul ul ul { list-style-type: "- " !important; }
                                                     </style>
                                                     <div style="align-content: center">
-                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" style="width:110%; height:auto;"/>
+                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" style="width:75%; height:auto;"/>
                                                     </div>
                                                     <hr/>
                                                     <table class="table table-bordered capston-schedule-table">
