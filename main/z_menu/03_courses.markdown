@@ -19,6 +19,12 @@ permalink: /courses/
                                 <i class="fa fa-link" aria-hidden="true"></i>
                             </a>
                         </li>
+                        <li>
+                            <strong>Capston Design</strong>
+                            <a href="/courses/2026/2/capston_design" target="_blank">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </a>
+                        </li>
                     </ol>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
