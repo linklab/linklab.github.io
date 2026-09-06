@@ -100,8 +100,14 @@ permalink: /courses/2026/2/dl
                                                             <td>09월 07일(월)</td>
                                                             <td>
                                                                 - 02. Tensors
+                                                                <a href="https://www.dropbox.com/scl/fi/68mqfyex3iqoumzgsk8fg/02.tensors.pdf?rlkey=qaks294mznuof68zq2auycpj4&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                                 <br/>
                                                                 - 03. Real-World Data to Tensors
+                                                                <a href="https://www.dropbox.com/scl/fi/hbg6vb5y85hjxtgo9zg4o/03.real_world_data_to_tensors.pdf?rlkey=bb1ngk1h3wunulmlklsrh3a6d&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
