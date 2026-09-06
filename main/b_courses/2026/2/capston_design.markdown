@@ -368,7 +368,7 @@ permalink: /courses/2026/2/capston_design
                                                     </table>
                                                     <br/>
                                                     <br/>
-                                                    <h3 class="title-level-3">3. Course Goal</h3>
+                                                    <h3 class="title-level-3">2. Course Information</h3>
                                                     <br/>
                                                     <ul style="font-size: 1.2em">
                                                         <li>
@@ -380,8 +380,7 @@ permalink: /courses/2026/2/capston_design
                                                     </ul>
                                                     <br/>
                                                     <br/>
-                                                    <br/>
-                                                    <h3 class="title-level-3">2. Course Information</h3>
+                                                    <h3 class="title-level-3">3. Course Goal</h3>
                                                     <br/>
                                                     <ul style="font-size: 1.2em">
                                                         <li>
