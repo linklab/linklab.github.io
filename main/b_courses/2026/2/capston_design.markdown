@@ -30,10 +30,14 @@ permalink: /courses/2026/2/capston_design
                                                     1. Course Schedule &amp; Lecture Notes
                                                     <style>
                                                         .capston-schedule-table { font-size: 0.78em; }
-                                                        .capston-schedule-table ul { list-style-type: disc; padding-left: 1.1em; margin-bottom: 0; }
-                                                        .capston-schedule-table ul ul { list-style-type: circle; }
-                                                        .capston-schedule-table ul ul ul { list-style-type: "- "; }
+                                                        .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; padding-left: 1.1em !important; margin-bottom: 0 !important; }
+                                                        .capston-schedule-table ul li { display: list-item !important; }
+                                                        .capston-schedule-table ul ul { list-style-type: circle !important; }
+                                                        .capston-schedule-table ul ul ul { list-style-type: "- " !important; }
                                                     </style>
+                                                    <div>
+                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt=""/>
+                                                    </div>
                                                     <table class="table table-bordered capston-schedule-table">
                                                         <thead class="thead-light">
                                                         <tr>
