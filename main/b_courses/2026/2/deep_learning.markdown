@@ -92,6 +92,10 @@ permalink: /courses/2026/2/dl
                                                                         </a>
                                                                     </li>
                                                                 </ul>
+                                                                - 위 특강에 대한 강의 파일
+                                                                <a href="https://www.dropbox.com/scl/fi/70aztq33395ce2bi00dm7/02.tensors_operations.pdf?rlkey=519b2vc498w0kf97ketbv40dw&dl=0" target="_blank">
+                                                                    <span class="badge badge-info">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -111,6 +115,9 @@ permalink: /courses/2026/2/dl
                                                             </td>
                                                             <td>
                                                                 - 데이터 (zip 파일)
+                                                                <a href="https://drive.google.com/file/d/1aUO7ca_cc8UoaJ_EAZZ9wmcbqV8HF_RM/view?usp=sharing" target="_blank">
+                                                                    <span class="badge badge-info">다운 로드</span>
+                                                                </a>
                                                                 <br/>
                                                                 : 다운받은 zip 파일을 해제하여 _00_data 폴더를 확인 후 link_dl 폴더 하위에 _00_data 폴더 위치 시킴
                                                                 <img src="/assets/images/courses/data.png" width="100%"/>
@@ -124,7 +131,6 @@ permalink: /courses/2026/2/dl
                                                             </td>
                                                             <td>
                                                                 <br/>
-                                                                - 위 특강에 대한 강의 동영상은 EL2에서 확인<br/>
                                                                 - <strong>Homework #1</strong>
                                                             </td>
                                                         </tr>
