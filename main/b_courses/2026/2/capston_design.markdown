@@ -27,16 +27,16 @@ permalink: /courses/2026/2/capston_design
                                                         Capston Design (공학 설계) - CSE137, Fall Semester, 2026 </h2>
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">
-                                                    1. Course Schedule &amp; Lecture Notes
+                                                    1. Course Schedule
                                                     <style>
                                                         .capston-schedule-table { font-size: 0.78em; }
-                                                        .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; padding-left: 1.1em !important; margin-bottom: 0 !important; }
+                                                        .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; margin-bottom: 1em !important; }
                                                         .capston-schedule-table ul li { display: list-item !important; }
                                                         .capston-schedule-table ul ul { list-style-type: circle !important; }
                                                         .capston-schedule-table ul ul ul { list-style-type: "- " !important; }
                                                     </style>
-                                                    <div>
-                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt=""/>
+                                                    <div style="align-content: center">
+                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" width="822" height="633"/>
                                                     </div>
                                                     <table class="table table-bordered capston-schedule-table">
                                                         <thead class="thead-light">
