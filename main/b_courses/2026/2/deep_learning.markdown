@@ -160,7 +160,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">07</th>
                                                             <td>09월 21일(월)</td>
                                                             <td>
-                                                                - 05. Autograd
+                                                                - 06. FCN (Fully-Connected Network)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -169,7 +169,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">08</th>
                                                             <td>09월 22일(화)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network)
+                                                                - 07. Loss Functions
                                                             </td>
                                                             <td>
                                                             </td>
