@@ -28,7 +28,13 @@ permalink: /courses/2026/2/capston_design
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule &amp; Lecture Notes
-                                                    <table class="table table-bordered">
+                                                    <style>
+                                                        .capston-schedule-table { font-size: 0.78em; }
+                                                        .capston-schedule-table ul { list-style-type: disc; padding-left: 1.1em; margin-bottom: 0; }
+                                                        .capston-schedule-table ul ul { list-style-type: circle; }
+                                                        .capston-schedule-table ul ul ul { list-style-type: "- "; }
+                                                    </style>
+                                                    <table class="table table-bordered capston-schedule-table">
                                                         <thead class="thead-light">
                                                         <tr>
                                                             <th scope="col" style="width:8%">회차</th>
