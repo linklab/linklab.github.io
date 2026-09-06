@@ -34,6 +34,7 @@ permalink: /courses/2026/2/capston_design
                                                         .capston-schedule-table ul li { display: list-item !important; }
                                                         .capston-schedule-table ul ul { list-style-type: circle !important; }
                                                         .capston-schedule-table ul ul ul { list-style-type: "- " !important; }
+                                                        .capston-schedule-table ul ol {margin-left: 1.0em}
                                                     </style>
                                                     <div style="align-content: center">
                                                         <img src="/assets/images/courses/capston_design_2026_2.png" alt="" style="width:150%; height:auto;"/>
@@ -131,7 +132,6 @@ permalink: /courses/2026/2/capston_design
                                                                     <li>LLM 기본 강의
                                                                         <ul>
                                                                             <li>LLM(Large Language Model)의 기본 개념</li>
-                                                                            <li>Transformer 및 생성형 AI의 기본 동작 원리</li>
                                                                             <li>ChatGPT 등 대표적인 LLM 서비스 소개</li>
                                                                             <li>Prompt Engineering, RAG, Fine-tuning, Agent 등 LLM 활용 기술 개요</li>
                                                                             <li>LLM을 활용하여 구현할 수 있는 졸업작품 사례 및 아이디어 소개</li>
