@@ -94,7 +94,7 @@ permalink: /courses/2026/2/dl
                                                                 </ul>
                                                                 - 위 특강에 대한 강의 파일
                                                                 <a href="https://www.dropbox.com/scl/fi/70aztq33395ce2bi00dm7/02.tensors_operations.pdf?rlkey=519b2vc498w0kf97ketbv40dw&dl=0" target="_blank">
-                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                    <span class="badge badge-warning">강의 노트 (Updated)</span>
                                                                 </a>
                                                             </td>
                                                         </tr>
