@@ -151,6 +151,9 @@ permalink: /courses/2026/2/dl
                                                             <td>09월 15일(화)</td>
                                                             <td>
                                                                 - 04. Artificial Neuron, Gradient Descent, and Backpropagation
+                                                                <a href="https://www.dropbox.com/scl/fi/8h5ccm24x2by3s42epqcf/04.artificial_neuron_and_gradient_descent_and_bp.pdf?rlkey=ehdjcpnjxslv4zkpurie1hycn&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
