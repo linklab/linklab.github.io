@@ -141,7 +141,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">05</th>
                                                             <td>09월 14일(월)</td>
                                                             <td>
-                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
+                                                                - 03. Real-World Data to Tensors
                                                             </td>
                                                             <td>
                                                             </td>
@@ -150,7 +150,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">06</th>
                                                             <td>09월 15일(화)</td>
                                                             <td>
-                                                                - 05. Autograd
+                                                                - 04. Artificial Neuron, Gradient Descent, and Backpropagation
                                                             </td>
                                                             <td>
                                                             </td>
@@ -160,7 +160,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">07</th>
                                                             <td>09월 21일(월)</td>
                                                             <td>
-                                                                - 06. FCN (Fully-Connected Network)
+                                                                - 05. Autograd
                                                             </td>
                                                             <td>
                                                             </td>
@@ -169,7 +169,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">08</th>
                                                             <td>09월 22일(화)</td>
                                                             <td>
-                                                                - 07. Loss Functions
+                                                                - 06. FCN (Fully-Connected Network)
                                                             </td>
                                                             <td>
                                                             </td>
