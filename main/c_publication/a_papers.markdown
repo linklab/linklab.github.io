@@ -844,6 +844,11 @@ permalink: /publication/papers
                                     <article>
                                         <button class="accordion">Domestic Journals</button>
                                         <div class="panel article-content-1 research-content">
+                                            <h4 class="title-level-4 year">2026</h4>
+                                            <p> 석영준, 강대건, 이찬균, 이원혁, 한연희, "<strong>양자 네트워크의 서비스 처리율 향상을 위한 Decision Transformer 기반 스케줄링 기법,</strong>"
+                                                한국통신학회논문지, 제51권, 제5호, pp. 1040-1054, 5월, 2026, DOI: <a href="https://doi.org/10.7840/kics.2026.51.5.1040" target="_blank">10.7840/kics.2026.51.5.1040</a>.
+                                            </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p> 최요한, 석영준, 김주봉, 한연희, "<strong>강화학습 기반 다차원 배낭 문제 해결에 대한 일반화 성능 향상 접근법,</strong>"
                                                 한국통신학회논문지, 제48권, 제11호, pp. 1418-1428, 11월, 2023, DOI: <a href="https://doi.org/10.7840/kics.2023.48.11.1418" target="_blank">10.7840/kics.2023.48.11.1418</a>.
