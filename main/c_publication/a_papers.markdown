@@ -1025,7 +1025,11 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2026</h4>
-                                            <p> 석영준, 강대건, 김진성, 한연희, "<strong>심층강화학습을 이용한 양자 리피터 체인에서의 얽힘 분배 최적화</strong>," 2026 한국통신학회 동계종합학술대회, 2026. 02.
+                                            <p> 김민준, 최요한, 김진성, 지창훈, 한연희, "<strong>시각 기반 로봇 제어를 위한 시각적 잠재 표현 추출 방법 비교</strong>," 2026 한국통신학회 하계종합학술대회, 2026. 06.
+                                            </p>
+                                            <p> Nurlanbek kyzy Asel, 석영준, 강대건, 한연희, "<strong>Distribution-Aware Decision Transformer via Flow Matching for Offline Reinforcement Learning</strong>," 2026 한국통신학회 하계종합학술대회, 2026. 06.
+                                            </p>
+                                            <p> 석영준, 강대건, 김진성, 한연희, "<strong>Transformer 기반 강화학습을 이용한 가변 노드 수 양자 네트워크에서의 얽힘 분배 최적화</strong>," 2026 한국통신학회 동계종합학술대회, 2026. 02.
                                             </p>
                                             <p> 김민준, 지창훈, 최요한, Nurlanbek kyzy Asel, 한연희, "<strong>오류 누적 완화를 위한 의사결정 트랜스포머–흐름 매칭 통합 구조</strong>," 2026 한국통신학회 동계종합학술대회, 2026. 02.
                                             </p>
