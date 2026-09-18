@@ -20,9 +20,11 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                            <h4 class="title-level-4 year">2026</h4>
+                                            <p>Q. Ali, I. Ullah, and Y.-H. Han, "<strong>KubePredict-VNE: Proactive Virtual Network Embedding in Kubernetes Using Transformer-Based Reinforcement Learning for IIoT</strong>," IEEE Internet of Things , (Accepted). <span class="badge badge-primary">IF: 8.9, JCR Top 5.8% in Computer Science, Information Systems (2026)</span>
+                                            </p>
                                             <p>I. Ullah, Y.-H. Han, "<strong>Transformer-Enhanced Federated Learning for Secure Multimedia Task Offloading in Edge-Centric CIoT Environments</strong>," IEEE Transactions on Consumer Electronics, (Accepted). <span class="badge badge-primary">IF: 10.9, JCR Top 2.9% in Telecommunications</span>
                                             </p>
-                                            <p>I. Ullah, Y. Seok, Y.-H. Han,  
+                                            <p>I. Ullah, Y. Seok, and Y.-H. Han,  
                                                 "<strong>Hierarchical Deep Reinforcement Learning-Based Partial Task Offloading in Device-Edge-Cloud Computing Architecture</strong>," IEEE Transactions on Consumer Electronics, Vol. 72, No. 1, 25 March 2026, DOI: <a href="https://doi.org/10.1109/TCE.2025.3611973" target="_blank">doi.org/10.1364/JOCN.569435</a>. <span class="badge badge-primary">IF: 10.9, JCR Top 2.9% in Telecommunications</span>
                                             </p>
                                             <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee, "<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Jan. 2026, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>. <span class="badge badge-primary">IF: 4.1, JCR Top 19.2% in Computer Science, Hardware & Architecture</span>
@@ -489,6 +491,10 @@ permalink: /publication/papers
                                         <button class="accordion">International Conferences and Workshops</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2026</h4>
+                                            <p> Y.-J. Seok, J.-B. Kim, D. Kang, C. Lee, and Y.-H. Han,
+                                                "<strong>Near-Optimal Reinforcement Learning for Entanglement Swap-or-Wait Control in Quantum Repeater Chains,</strong>"
+                                                IEEE GLOBECOM 2026, Dec. 2026 (Accepted).
+                                            </p>
                                             <p> Y. Choi, M. Kim, J.-S. Kim, Y.-J. Kim, and Y.-H. Han,
                                                 "<strong>DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models,</strong>"
                                                 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2026 [Oral Presentation]. <span class="badge badge-primary">Top Conference</span>
