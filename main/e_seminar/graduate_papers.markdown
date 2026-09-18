@@ -8,6 +8,28 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>9월 21일 (월) 논문 세미나 – 김진성
+                    <br/>
+                    <strong>
+                        Oberai, Aditya, Seohong Park, and Sergey Levine. "Reversal Q-Learning." arXiv preprint arXiv:2606.17551 (2026).
+                    </strong>
+                    <a href="https://aober.ai/rql/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
+                <li>9월 17일 (목) 논문 세미나 – 아셀
+                    <br/>
+                    <strong>
+                        Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, et al. “SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning.” International Conference on Learning Representations (ICLR), 2026.
+                    </strong>
+                    <a href="https://arxiv.org/abs/2506.24119">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>8월 25일 (화) 논문 세미나 – 김민준
                     <br/>
                     <strong>
