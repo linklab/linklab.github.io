@@ -29,6 +29,7 @@ permalink: /publication/papers
                                             </p>
                                             <p>Y. Seok, I. Ullah, Y.-H. Han, C. Lee, and W. Lee, "<strong>End-to-End Entanglement Request Scheduling in Quantum Networks via Topology-Aware Decision Transformer</strong>," Journal of Optical Communications and Networking, Jan. 2026, DOI: <a href="https://doi.org/10.1364/JOCN.569435" target="_blank">doi.org/10.1364/JOCN.569435</a>. <span class="badge badge-primary">IF: 4.1, JCR Top 19.2% in Computer Science, Hardware & Architecture</span>
                                             </p>
+                                            <br/>
                                            <h4 class="title-level-4 year">2025</h4>
                                             <p>I. Ullah and Y.-H. Han,  
                                                 "<strong>Dynamic Virtual Network Embedding for Task Offloading in IoV: GAT-assisted HDRL Approach</strong>," Springer Annals of Telecommunications, Dec. 2025, DOI: <a href="https://doi.org/10.1007/s12243-025-01138-5" target="_blank">10.1007/s12243-025-01138-5</a>.
@@ -45,6 +46,7 @@ permalink: /publication/papers
                                                 "<strong>Optimizing Vehicular Edge Computing: Graph-based Double-DQN Approaches for Intelligent Task Offloading</strong>,"
                                                 Journal of Supercomputing, Vol. 81, 76, 2025, DOI: <a href="https://doi.org/10.1007/s11227-024-06599-4" target="_blank">10.1007/s11227-024-06599-4</a>.
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p>C.-H. Ji, G. Lim, Y.-H. Han, S. Moon,
                                                 "<strong>Real-Time Parameter Control for Trajectory Generation using Reinforcement Learning with Zero-Shot Sim-to-Real Transfer</strong>,"
@@ -58,6 +60,7 @@ permalink: /publication/papers
                                                 "<strong>Virtual Network Embedding Based on Hierarchical Cooperative Multi-Agent Reinforcement Learning</strong>,"
                                                 IEEE Internet of Things Journal, Vol. 11, No. 5, pp. 8552-8568, March 2024, DOI: <a href="https://doi.org/10.1109/JIOT.2023.3319542" target="_blank">10.1109/JIOT.2023.3319542</a>. <span class="badge badge-primary">IF: 8.9, JCR Top 4.1% in Computer Science, Information Systems</span>
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p>H.-U Ko, I. Yoon, B. Kim, Y.-H. Han, S. J. Park, H.-J. Hwang, and S.-Y. Kim,
                                                 "<strong>A Haptic Knob Based on the Combination of Shear Mode and Flow Mode Magnetorheological Behaviors</strong>,"
@@ -71,6 +74,7 @@ permalink: /publication/papers
                                                 "<strong>Reinforcement Learning-based Virtual Network Embedding: A Comprehensive Survey</strong>,"
                                                 ICT Express, pp. 983-994, Vol. 9, No. 5, October 2023, DOI: <a href="https://doi.org/10.1016/j.icte.2023.03.007" target="_blank">10.1016/j.icte.2023.03.007</a>.
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2022</h4>
                                             <p>H.-B. Choi, J.-B. Kim, Y.-H. Han, S.-W. Oh, and K. Kim,
                                                 "<strong>MARL-Based Cooperative Multi-AGV Control in Warehouse Systems</strong>,"
@@ -91,6 +95,7 @@ permalink: /publication/papers
                                             <p>K. Kim, J. Lee, H. Lim, S. W. Oh, Y.-H. Han,
                                                 "<strong>Deep RNN-Based Network Traffic Classification Scheme in Edge Computing System</strong>," Computer Science and Information Systems, Vol. 19, No. 1, 165-184, Jan. 2022, DOI: <a href="https://doi.org/10.2298/CSIS200424038K" target="_blank">10.2298/CSIS200424038K</a>.
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2021</h4>
                                             <p>I. Ullah, H. Y. Youn, and Y.-H. Han,
                                                 "<strong>Integration of Type-2 Fuzzy Logic and Dempster–Shafer Theory for Accurate Inference of IoT-based Health-care System,</strong>" Future Generation Computer Systems, vol. 124, pp. 369-380, Jun. 2021, DOI: https://doi.org/10.1016/j.future.2021.06.012.
@@ -499,6 +504,7 @@ permalink: /publication/papers
                                                 "<strong>DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models,</strong>"
                                                 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2026 [Oral Presentation]. <span class="badge badge-primary">Top Conference</span>
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2025</h4>
                                             <p> A. N.-kyzy, C.-H. Ji, M.-J. Kim, Y.-H. Han,
                                                 "<strong>Decision Transformer Meets Flow Matching for Offline Reinforcement Learning,</strong>"
@@ -512,11 +518,13 @@ permalink: /publication/papers
                                             </p>
                                             <p> I. Ullah, Q. Ali, M. Ashraf, Y.-H. Han, "<strong>Advanced Virtual Network Embedding: Combining Graph Attention Network and DRL for Optimal Resource Utilization</strong>," International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Feb. 2025.
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2024</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, N. U. Islam, C.-H. Ji, and Y.-H. Han,
                                                 "<strong>Graph-powered Reinforcement Learning for Intelligent Task Offloading in Vehicular Networks,</strong>"
                                                 2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2024.
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2023</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, M. S. Khan and Y.-H. Han,
                                                 "<strong>Efficient Virtual Network Embedding with Hierarchical and Cooperative Multi-Agent Reinforcement Learning,</strong>"
@@ -526,6 +534,7 @@ permalink: /publication/papers
                                                 "<strong>Dual Policy-Based TD-Learning for Model Predictive Control,</strong>"
                                                 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), 2023.
                                             </p>
+                                            <br/>
                                             <h4 class="title-level-4 year">2022</h4>
                                             <p> I. Ullah, H.-K. Lim, Y.-J. Seok, and Y. Han, "<strong>Optimal Task Offloading with Deep Q-Network for EdgeCloud Computing Environments,</strong>" The 13th International Conference on ICT Convergence (ICTC), 2022.
                                             </p>
