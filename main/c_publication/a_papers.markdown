@@ -502,7 +502,7 @@ permalink: /publication/papers
                                             </p>
                                             <p> Y. Choi, M. Kim, J.-S. Kim, Y.-J. Kim, and Y.-H. Han,
                                                 "<strong>DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models,</strong>"
-                                                2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2026 [Oral Presentation]. <span class="badge badge-primary">Top Conference</span>
+                                                2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2026. <span class="badge badge-warning">Best Paper Nominated</span> <span class="badge badge-primary">Top Conference</span>
                                             </p>
                                             <br/>
                                             <h4 class="title-level-4 year">2025</h4>
@@ -512,7 +512,7 @@ permalink: /publication/papers
                                             </p>
                                             <p> C.-H. Ji, S. Song, Y.-H. Han, S.T. Moon,
                                                 "<strong>Decision Transformer-Based Drone Trajectory Planning with Dynamic Safety–Efficiency Tradeoffs,</strong>"
-                                                2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2025 [Oral Presentation]. <span class="badge badge-primary">Top Conference</span>
+                                                2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2025. <span class="badge badge-primary">Top Conference</span>
                                             </p>
                                             <p> A.N. Kyzy, C.-H. Ji, Y. Choi, Y.-J. Seok, I. Ullah, Y.-H. Han, "<strong>Accelerating Convergence in Distributed Reinforcement Learning via Asynchronous PPO</strong>," 2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC), Feb. 2025.
                                             </p>
