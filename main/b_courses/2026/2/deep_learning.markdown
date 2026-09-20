@@ -164,6 +164,9 @@ permalink: /courses/2026/2/dl
                                                             <td>09월 21일(월)</td>
                                                             <td>
                                                                 - 05. Autograd
+                                                                <a href="https://www.dropbox.com/scl/fi/gqx0hjuvohtm6n70riiuz/05.autograd.pdf?rlkey=dkf02qzav829lfx1pf69gwoie&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -173,6 +176,9 @@ permalink: /courses/2026/2/dl
                                                             <td>09월 22일(화)</td>
                                                             <td>
                                                                 - 06. FCN (Fully-Connected Network)
+                                                                <a href="https://www.dropbox.com/scl/fi/xmcy82ucncktk3rkhtzt6/06.fcn.pdf?rlkey=qo4yzrhqnpcvt9yccxx840392&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
