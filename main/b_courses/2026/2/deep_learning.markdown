@@ -316,7 +316,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">21</th>
                                                             <td>11월 09일(월)</td>
                                                             <td>
-                                                                - 15. Data Augmentation
+                                                                - 14. Normalization
                                                             </td>
                                                             <td>
                                                             </td>
@@ -325,7 +325,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">22</th>
                                                             <td>11월 10일(화)</td>
                                                             <td>
-                                                                - 16. Modern CNNs
+                                                                - 15. Data Augmentation
                                                             </td>
                                                             <td>
                                                             </td>
@@ -335,7 +335,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">23</th>
                                                             <td>11월 16일(월)</td>
                                                             <td>
-                                                                - 17. Recurrent Neural Network (RNN)
+                                                                - 16. Modern CNNs
                                                             </td>
                                                             <td>
                                                             </td>
@@ -358,7 +358,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">25</th>
                                                             <td>11월 23일(월)</td>
                                                             <td>
-                                                                - 18. LSTM and Its Application
+                                                                - 17. Recurrent Neural Network (RNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -377,7 +377,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">27</th>
                                                             <td>11월 30일(월)</td>
                                                             <td>
-                                                                - 19. Attention
+                                                                - 18. LSTM and Its Application
                                                             </td>
                                                             <td>
                                                             </td>
@@ -396,7 +396,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">29</th>
                                                             <td>12월 07일(월)</td>
                                                             <td>
-                                                                - 20. Transformer
+                                                                - 19. Attention
                                                             </td>
                                                             <td>
                                                             </td>
@@ -405,7 +405,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">30</th>
                                                             <td>12월 08일(화)</td>
                                                             <td>
-                                                                - 21. Transfer Learning
+                                                                - 20. Transformer
                                                             </td>
                                                             <td>
                                                             </td>
@@ -414,17 +414,18 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
                                                             <th scope="row">31</th>
                                                             <td>12월 14일(월)</td>
-                                                            <td class="centred" colspan="2">
-                                                                <strong>기말 고사</strong>
-                                                                <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
+                                                            <td>
+                                                                - 21. Transfer Learning
+                                                            </td>
+                                                            <td>
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row">32</th>
                                                             <td>12월 15일(화)</td>
-                                                            <td>
-                                                            </td>
-                                                            <td>
+                                                            <td class="centred" colspan="2">
+                                                                <strong>기말 고사</strong>
+                                                                <!-- <br/>장소: 2공학관 313/314, 시간: 11시 ~ 12시 50분 -->
                                                             </td>
                                                         </tr>
                                                         </tbody>
