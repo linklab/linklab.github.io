@@ -189,6 +189,9 @@ permalink: /courses/2026/2/dl
                                                             <td>09월 28일(월)</td>
                                                             <td>
                                                                 - 07. Loss Functions
+                                                                <a href="https://www.dropbox.com/scl/fi/g2ot5jh6gm1fz5nrkko3x/07.loss_functions.pdf?rlkey=xqi4fi64a9pgs0pva0i3iycb2&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                                 - <strong>Homework #2</strong>
