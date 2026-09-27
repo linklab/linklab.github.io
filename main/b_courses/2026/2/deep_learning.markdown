@@ -265,9 +265,10 @@ permalink: /courses/2026/2/dl
                                                         <tr>
                                                             <th scope="row">16</th>
                                                             <td>10월 20일(화)</td>
-                                                            <td colspan="2" class="centred">
+                                                            <td>
                                                                 - 11. CNN Architectures
                                                             </td>
+                                                            <td></td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
