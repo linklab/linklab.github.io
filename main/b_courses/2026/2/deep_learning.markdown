@@ -194,7 +194,10 @@ permalink: /courses/2026/2/dl
                                                                 </a>
                                                             </td>
                                                             <td>
-                                                                - <strong>Homework #2</strong>
+                                                                - <strong>Homework #2 (기한: 10월 17일 토요일 23시 59분)</strong>
+                                                                <a href="https://www.dropbox.com/scl/fi/l85vdcmgle95vdobqwxza/HW_2.pdf?rlkey=rw3sg9oybavzztbjhdlr8m0gx&dl=0" target="_blank">
+                                                                    <span class="badge badge-primary">숙제 설명</span>
+                                                                </a>
                                                             </td>
                                                         </tr>
                                                         <tr>
