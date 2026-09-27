@@ -202,6 +202,9 @@ permalink: /courses/2026/2/dl
                                                             <td>09월 29일(화)</td>
                                                             <td>
                                                                 - 08. Learning and Optimization
+                                                                <a href="https://www.dropbox.com/scl/fi/6memyozn2usr0a6nt8ld6/08.learning_and_optimization.pdf?rlkey=icoajk88ewdzh7ecbhbjkq3jg&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
@@ -221,6 +224,9 @@ permalink: /courses/2026/2/dl
                                                             <td>10월 06일(화)</td>
                                                             <td>
                                                                 - 09. FCN Best Practice
+                                                                <a href="https://www.dropbox.com/scl/fi/8ihehjytpcmt4a863rwl7/09.fcn_best_practice.pdf?rlkey=ngqs1l9yp7isah6gon2r33yum&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td>
                                                             </td>
