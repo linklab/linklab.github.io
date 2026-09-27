@@ -248,7 +248,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">14</th>
                                                             <td>10월 13일(화)</td>
                                                             <td>
-                                                                - 11. CNN Architectures
+                                                                - 10. Convolutional Neural Network (CNN)
                                                             </td>
                                                             <td>
                                                             </td>
@@ -266,17 +266,17 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">16</th>
                                                             <td>10월 20일(화)</td>
                                                             <td colspan="2" class="centred">
-                                                                <strong>중간 고사</strong>
-                                                                <br/>
-                                                                장소: 2공학관 408호, 시간: 16시 ~ 17시 50분
+                                                                - 11. CNN Architectures
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
                                                             <th scope="row">17</th>
                                                             <td>10월 26일(월)</td>
-                                                            <td>
-                                                                - 12. Optimizers
+                                                            <td colspan="2" class="centred">
+                                                                <strong>중간 고사</strong>
+                                                                <br/>
+                                                                장소: 2공학관 408호, 시간: 16시 ~ 17시 50분
                                                             </td>
                                                             <td>
                                                                 <!--=- CPU vs. GPU-->
@@ -286,7 +286,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">18</th>
                                                             <td>10월 27일(화)</td>
                                                             <td>
-                                                                - 13. Regularization
+                                                                - 12. Optimizers
                                                             </td>
                                                             <td></td>
                                                         </tr>
@@ -295,7 +295,7 @@ permalink: /courses/2026/2/dl
                                                             <th scope="row">19</th>
                                                             <td>11월 02일(월)</td>
                                                             <td>
-                                                                - 14. Normalization
+                                                                - 13. Regularization
                                                             </td>
                                                             <td>
                                                                 - <strong>Homework #3</strong>
