@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                <li>9월 28일 (월) 논문 세미나 – 석영준
+                    <br/>
+                    <strong>
+                        W. Cen, J. Zhang, et al., "A Fast Heuristic Entanglement Distribution Algorithm for Quantum Repeater Chains," in IEEE Transactions on Networking, vol. 33, no. 1, pp. 146-161, Feb. 2025,
+                    </strong>
+                    <a href="https://ieeexplore.ieee.org/document/10721200">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>9월 21일 (월) 논문 세미나 – 김진성
                     <br/>
                     <strong>
