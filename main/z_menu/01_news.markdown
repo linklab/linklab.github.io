@@ -37,6 +37,18 @@ permalink: /news/
                             <table class="table">
                                 <tr class="news" year="2026" month="08" day="07">
                                     <td class="text-md-right" style="width: 20%">
+                                        September 28, 2026
+                                    </td>
+                                    <td class="desc" style="width: 80%">
+                                        <span class="badge badge-danger">NEW</span>
+                                        [축] 최요한 박사과정 1저자의 IROS 2026 발표 논문이 Best Paper Finalists 에 선정되어 해당 세션에서 발표함. (1,900 여편의 발표 논문 중 10편만 Best Paper Finalists로 선정) 
+                                        <a href="https://2026.ieee-iros.org/program/awards/" target="_blank">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr class="news" year="2026" month="08" day="07">
+                                    <td class="text-md-right" style="width: 20%">
                                         August 7, 2026
                                     </td>
                                     <td class="desc" style="width: 80%">
