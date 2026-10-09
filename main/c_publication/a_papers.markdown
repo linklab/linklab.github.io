@@ -1045,6 +1045,8 @@ permalink: /publication/papers
                                         <button class="accordion">Domestic Conferences</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2026</h4>
+                                            <p> 김진성, 최요한, 김민준, 눌란벡 키즈 아셀, 한연희, "<strong>Flow Matching Policy Gradient 기반 Few-Step 정책 샘플링 안정화 기법</strong>," 2026 제7회 한국 인공지능 학술대회, 2026. 09.
+                                            </p>
                                             <p> 김민준, 최요한, 김진성, 지창훈, 한연희, "<strong>시각 기반 로봇 제어를 위한 시각적 잠재 표현 추출 방법 비교</strong>," 2026 한국통신학회 하계종합학술대회, 2026. 06.
                                             </p>
                                             <p> Nurlanbek kyzy Asel, 석영준, 강대건, 한연희, "<strong>Distribution-Aware Decision Transformer via Flow Matching for Offline Reinforcement Learning</strong>," 2026 한국통신학회 하계종합학술대회, 2026. 06.
