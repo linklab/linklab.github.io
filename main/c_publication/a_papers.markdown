@@ -496,7 +496,7 @@ permalink: /publication/papers
                                         <button class="accordion">International Conferences and Workshops</button>
                                         <div class="panel article-content-1 research-content">
                                             <h4 class="title-level-4 year">2026</h4>
-                                            <p> Y.-J. Seok, J.-B. Kim, D. Kang, C. Lee, and Y.-H. Han,
+                                            <p> Y. Seok, J.-B. Kim, D. Kang, C. Lee, and Y.-H. Han,
                                                 "<strong>Near-Optimal Reinforcement Learning for Entanglement Swap-or-Wait Control in Quantum Repeater Chains,</strong>"
                                                 IEEE GLOBECOM 2026, Dec. 2026 (Accepted).
                                             </p>
