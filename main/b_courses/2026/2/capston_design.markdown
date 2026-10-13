@@ -40,17 +40,29 @@ permalink: /courses/2026/2/capston_design
                                                     </div>
                                                     <hr/>
                                                     <div style="font-size: medium">
+                                                        <style>
+                                                          ul li.top::marker {
+                                                            content: "👉 ";
+                                                          }
+                                                        </style>
                                                         <h3>[2026년 10월 13일 공지 사항]</h3>
                                                         <br/>
                                                         <ul>
-                                                            <li>참가신청서 제출</li>
+                                                            <li class="top">2026년 졸업작품 아이디어 경진대회</li>
+                                                                <ol>
+                                                                    <li>일시: 2026년 11월 18일 수요일 오후 4시 ~ 6시</li>
+                                                                    <li>장소: 2공학관 1,2,4층 복도</li>
+                                                                    <li>대상: 총 124명, 2026-2학기 공학설계 수강 학생</li>
+                                                                </ol>
+                                                            <br/>
+                                                            <li class="top">참가신청서 제출</li>
                                                                 <ol>
                                                                     <li>신청기한: 2026년 11월 06일 금요일까지</li>
                                                                     <li>신청방법: smilebear1@koreatech.ac.kr 메일로 회신</li>
                                                                     <li>신청양식: 팀 단위로 제출</li>
                                                                 </ol>
                                                             <br/>
-                                                            <li>포스터 제출 기한</li>
+                                                            <li class="top">포스터 제출 기한</li>
                                                                 <ol>
                                                                     <li>2026년 11월 15일 일요일까지(기한 엄수!!)</li>
                                                                     <li>최종파일은 지도교수님에게 확인 후 제출</li>
