@@ -40,6 +40,7 @@ permalink: /courses/2026/2/capston_design
                                                     </div>
                                                     <hr/>
                                                     <div>
+                                                        <h3>2026년 10월 13일 공지</h3>
                                                         <ul>
                                                             <li>참가신청서 제출 기간</li>
                                                                 <ol>
