@@ -48,6 +48,7 @@ permalink: /courses/2026/2/capston_design
                                                                     <li>신청방법: smilebear1@koreatech.ac.kr 메일로 회신</li>
                                                                     <li>신청양식: 팀 단위로 제출</li>
                                                                 </ol>
+                                                            <br/>
                                                             <li>포스터 제출 기한</li>
                                                                 <ol>
                                                                     <li>2026년 11월 15일 일요일까지(기한 엄수!!)</li>
