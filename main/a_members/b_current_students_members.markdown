@@ -94,6 +94,15 @@ permalink: /members/students_and_members
                                 <li><b>Email</b>: <a href="mailto:dsb04163@koreatech.ac.kr">dsb04163@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
+                        <div class="card-body">
+                            <h4 class="card-title">눌란벡 키즈 아셀</h4>
+                            <h6 class="card-category">Ph.D. Student<br>(March 1, 2024 ~ Present)</h6>
+                            <hr>
+                            <ul class="topic_email">
+                                <li><b>Topic</b>: Reinforcement learning</li>
+                                <li><b>Email</b>: <a href="mailto:aselbaekki@koreatech.ac.kr">aselbaekki@koreatech.ac.kr</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -109,15 +118,6 @@ permalink: /members/students_and_members
                         <div class="card-header card-avatar">
                             <img class="img" src="/assets/images/members/Asel.jpeg"
                                  alt="">
-                        </div>
-                        <div class="card-body">
-                            <h4 class="card-title">눌란벡 키즈 아셀</h4>
-                            <h6 class="card-category">M.S. Student<br>(March 1, 2024 ~ Present)</h6>
-                            <hr>
-                            <ul class="topic_email">
-                                <li><b>Topic</b>: Reinforcement learning</li>
-                                <li><b>Email</b>: <a href="mailto:aselbaekki@koreatech.ac.kr">aselbaekki@koreatech.ac.kr</a></li>
-                            </ul>
                         </div>
                     </div>
                 </div>
