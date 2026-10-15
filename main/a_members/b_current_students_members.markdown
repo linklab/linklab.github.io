@@ -94,7 +94,17 @@ permalink: /members/students_and_members
                                 <li><b>Email</b>: <a href="mailto:dsb04163@koreatech.ac.kr">dsb04163@koreatech.ac.kr</a></li>
                             </ul>
                         </div>
-                        <div class="card-body">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                <div class="item-student">
+                    <div class="card card-profile">
+                        <div class="card-header card-avatar">
+                            <img class="img" src="/assets/images/members/Asel.jpeg"
+                                 alt="">
+                        </div>
+                    <div class="card-body">
                             <h4 class="card-title">눌란벡 키즈 아셀</h4>
                             <h6 class="card-category">Ph.D. Student<br>(March 1, 2024 ~ Present)</h6>
                             <hr>
@@ -112,16 +122,6 @@ permalink: /members/students_and_members
             <div class="title-level-2">M.S. Students</div>
         </div>
         <div class="row wrapper-students">
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                <div class="item-student">
-                    <div class="card card-profile">
-                        <div class="card-header card-avatar">
-                            <img class="img" src="/assets/images/members/Asel.jpeg"
-                                 alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
