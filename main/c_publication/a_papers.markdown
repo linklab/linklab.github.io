@@ -504,7 +504,7 @@ permalink: /publication/papers
                                             </p>
                                             <p> Y. Choi, M. Kim, J.-S. Kim, Y.-J. Kim, and Y.-H. Han,
                                                 "<strong>DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models,</strong>"
-                                                2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2026. <span class="badge badge-warning">Best Paper Nominated</span> <span class="badge badge-primary">Top Conference</span>
+                                                2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2026. <span class="badge badge-warning">Best Paper Finalists</span> <span class="badge badge-primary">Top Conference</span>
                                             </p>
                                             <br/>
                                             <h4 class="title-level-4 year">2025</h4>
