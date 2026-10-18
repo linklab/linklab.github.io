@@ -195,7 +195,7 @@ layout: page
             </div>
         </div>
         <br/>
-        <span class="title">■ LINK 연구원</span>
+        <span class="title">■ LINK 갤러리</span>
         <div class="solid_border">
             <div class="row">
                 <div class="col-md-6 left_padding">
