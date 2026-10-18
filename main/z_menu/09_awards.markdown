@@ -23,7 +23,7 @@ permalink: /awards/
                     <div class="row content">
                         <div style="padding:1.0em" class="content-wrapper">
                             <h3 class = "title-level-3 year"> 2026 </h3>
-                            <h4>2026 IEEE/RSJ International Conference on Intelligent Robots & Systems, Best Paper Finalists 선정</h4>
+                            <h4>2026 IEEE/RSJ International Conference on Intelligent Robots & Systems, <span class="badge badge-primary">Best Paper Finalists</span></h4>
                             <ul>
                                 <li>Date: 2026.09.27 ~ 10.01</li>
                                 <li>Title: DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models<br/>
