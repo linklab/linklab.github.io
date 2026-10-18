@@ -20,7 +20,9 @@ permalink: /publication/papers
                                         <button class="accordion">International Journals</button>
                                         <div class="panel article-content-1 research-content">
                                            <h4 class="title-level-4 year">2026</h4>
-                                            <p>Q. Ali, I. Ullah, and Y.-H. Han, "<strong>KubePredict-VNE: Proactive Virtual Network Embedding in Kubernetes Using Transformer-Based Reinforcement Learning for IIoT</strong>," IEEE Internet of Things , (Accepted). <span class="badge badge-primary">IF: 8.9, JCR Top 5.8% in Computer Science, Information Systems (2026)</span>
+                                            <p>Q. Ali, I. Ullah, and Y.-H. Han, "<strong>Topology-Preserving Virtual Network Embedding Using Persistent Homology and Graph Attention Reinforcement Learning</strong>," IEEE Transactions on Network and Service Management (Accepted). <span class="badge badge-primary">IF: 5.7, JCR Top 19.3% in Computer Science, Information Systems (2026)</span>
+                                            </p>
+                                            <p>Q. Ali, I. Ullah, and Y.-H. Han, "<strong>KubePredict-VNE: Proactive Virtual Network Embedding in Kubernetes Using Transformer-Based Reinforcement Learning for IIoT</strong>," IEEE Internet of Things (Accepted). <span class="badge badge-primary">IF: 8.9, JCR Top 5.8% in Computer Science, Information Systems (2026)</span>
                                             </p>
                                             <p>I. Ullah, Y.-H. Han, "<strong>Transformer-Enhanced Federated Learning for Secure Multimedia Task Offloading in Edge-Centric CIoT Environments</strong>," IEEE Transactions on Consumer Electronics, (Accepted). <span class="badge badge-primary">IF: 10.9, JCR Top 2.9% in Telecommunications</span>
                                             </p>
