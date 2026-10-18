@@ -128,6 +128,20 @@ layout: page
             margin-top: -0.6em;
         }
     }
+
+    .link_member_photo {
+        display: block;
+        width: 100%;
+        height: 10em;
+        object-fit: cover;
+        border-radius: 2px;
+    }
+
+    @media (min-width: 768px) {
+        .link_member_photo {
+            height: 11em;
+        }
+    }
 </style>
 <div class="row">
     <div class="col-md-12 text-center lab_title">
@@ -185,18 +199,26 @@ layout: page
         <div class="solid_border">
             <div class="row">
                 <div class="col-md-6 left_padding">
-                    <img src="/assets/images/members/link_lab_member_2021.jpg" width="100%" height="96%"/>
+                    <a href="/assets/images/members/link_gallery/link_gallery_1.jpg" target="_blank">
+                        <img class="link_member_photo" src="/assets/images/members/link_gallery/link_gallery_1.jpg"/>
+                    </a>
                 </div>
                 <div class="col-md-6 right_padding">
-                    <img src="/assets/images/members/link_lab_member_2008.jpg" width="100%" height="96%"/>
+                    <a href="/assets/images/members/link_gallery/link_gallery_2.jpg" target="_blank">
+                        <img class="link_member_photo" src="/assets/images/members/link_gallery/link_gallery_2.jpg"/>
+                    </a>
                 </div>
             </div>
             <div class="row second_label_photos">
                 <div class="col-md-6 left_padding third_image">
-                    <img src="/assets/images/members/link_lab_member_2017.jpg" width="100%" height="99%"/>
+                    <a href="/assets/images/members/link_gallery/link_gallery_3.jpg" target="_blank">
+                        <img class="link_member_photo" src="/assets/images/members/link_gallery/link_gallery_3.jpg"/>
+                    </a>
                 </div>
                 <div class="col-md-6 right_padding">
-                    <img src="/assets/images/members/link_lab_member_2016.jpg" width="100%" height="99%"/>
+                    <a href="/assets/images/members/link_gallery/link_gallery_4.jpg" target="_blank">
+                        <img class="link_member_photo" src="/assets/images/members/link_gallery/link_gallery_4.jpg"/>
+                    </a>
                 </div>
             </div>
         </div>
