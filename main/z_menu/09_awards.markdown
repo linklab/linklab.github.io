@@ -23,7 +23,7 @@ permalink: /awards/
                     <div class="row content">
                         <div style="padding:1.0em" class="content-wrapper">
                             <h3 class = "title-level-3 year"> 2026 </h3>
-                            <h4>2026 IEEE/RSJ International Conference on Intelligent Robots & Systems, Best Paper Finalists에 선정 (1,900 여편의 발표 논문 중 10편 선정)</h4>
+                            <h4>2026 IEEE/RSJ International Conference on Intelligent Robots & Systems, Best Paper Finalists 선정</h4>
                             <ul>
                                 <li>Date: 2026.09.27 ~ 10.01</li>
                                 <li>Title: DAWN: Noise-Robust Quadruped Parkour via Depth-Denoising World Models<br/>
@@ -32,8 +32,7 @@ permalink: /awards/
                                 <li>
                                     Awards 페이지
                                     <a href="https://2026.ieee-iros.org/program/awards/"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>
-                                    신문기사 
-                                    <br/>
+                                    신문기사
                                     <a href="https://lifenlearning.chosun.com/pan/site/data/html_dir/2026/06/23/2026062302359.html"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>,
                                     <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=412170"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>,
                                     <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2423537"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>,
