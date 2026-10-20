@@ -69,7 +69,10 @@ permalink: /publication/patents
                         <section style="padding: 0px 30px; width:100%" class="content-wrapper">
                             <button class="accordion">Domestic Patents</button>
                             <div class="panel article-content-1">
-                                <h4 class="title-level-4 year">2023</h4>
+                                <h4 class="title-level-4 year">2026</h4>
+                                <p> 한연희, 지창훈, 김주봉, 최호빈, "<strong>모델프리 및 모델기반 강화학습 정책을 적용한 심층 강화학습 장치 및 그 방법,</strong>" 대한민국, 등록번호 10-3029875, 2026.10.02</p>
+                                <br/>
+                                <h4 class="title-level-4 year">2024</h4>
                                 <p> 한연희, 최호빈, 김주봉, 임현교, 지창훈, "<strong>다중 에이전트 강화학습 기반 다중 무인운반차 최적 경로 제어 시스템,</strong>" 대한민국, 등록번호 10-2691631, 2024.07.31</p>
                                 <br/>
                                 <h4 class="title-level-4 year">2023</h4>
