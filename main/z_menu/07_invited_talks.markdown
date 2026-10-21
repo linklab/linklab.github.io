@@ -18,7 +18,7 @@ permalink: /invited_talks/
                             <p>양자 얽힘 및 스와핑 기술 기반 종단간 양자 네트워킹, <a href="https://krnet.or.kr/include/subPage.php?pageID=ID12832166061" target="_blank">KRNER 2026</a>, 40 Minutes, 2026년 06월 23일</p>
                             <br/>
                             <h3 class = "title-level-3 year"> 2025 </h3>
-                            <p>종단간 양자 연결을 위한 심층강화학습 기반 다중 홉 얽힘 스와핑 최적화, <a href="https://www.osia.or.kr/board/board.php?task=view&db=event&no=529&page=2&search=&searchKey=&category=&pageID=ID12832167411" target="_blank">[OSIA] 차세대 양자 정보기술: 양자 컴퓨팅 기초부터 양자 네트워크 기술 및 양자강화학습까지</a>, 60 Minutes, 2026년 08월 27일</p>
+                            <p>종단간 양자 연결을 위한 심층강화학습 기반 다중 홉 얽힘 스와핑 최적화, <a href="https://www.osia.or.kr/board/board.php?task=view&db=event&no=529&page=2&search=&searchKey=&category=&pageID=ID12832167411" target="_blank">[OSIA] 차세대 양자 정보기술: 양자 컴퓨팅 기초부터 양자 네트워크 기술 및 양자강화학습까지</a>, 60 Minutes, 2025년 08월 27일</p>
                             <p>IETF/IRTF Quantum Internet RG의 양자 네트워크 표준화 현황, <a href="https://krnet.or.kr/include/subPage.php?pageID=ID12879074550&yearcode=2025#ptop" target="_blank">KRNER 2025</a>, 40 Minutes, 2025년 06월 24일</p>
                             <br/>
                             <h3 class = "title-level-3 year"> 2024 </h3>
