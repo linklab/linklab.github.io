@@ -294,6 +294,9 @@ permalink: /courses/2026/2/dl
                                                             <td>10월 27일(화)</td>
                                                             <td>
                                                                 - 12. Optimizers
+                                                                <a href="https://www.dropbox.com/scl/fi/lwk2yzrwwdnna7sf13cw8/12.optimizers.pdf?rlkey=vaexbqv4du923buncbmmmhtgz&dl=0" target="_blank">
+                                                                    <span class="badge badge-warning">강의 노트</span>
+                                                                </a>
                                                             </td>
                                                             <td></td>
                                                         </tr>
