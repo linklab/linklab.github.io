@@ -30,14 +30,13 @@ permalink: /research/rl/td
                             <div class="col-md-8 text-center">
                                 <h2>
                                     SARSA
-                                    <button class="btn btn-success" id="sarsa_toggle"
-                                            onclick="toggleSarsaIteration()">
+                                    <button class="btn btn-success" id="sarsa_toggle">
                                         Start/Pause (Toggle)
                                     </button>
-                                    <button class="btn btn-danger" id="sarsa_stop" onclick="stopSarsaIteration()">
+                                    <button class="btn btn-danger" id="sarsa_stop">
                                         Stop
                                     </button>
-                                    <button class="btn btn-info" onclick="resetSarsa()">
+                                    <button class="btn btn-info" id="sarsa_reset">
                                         Reset
                                     </button>
                                 </h2>
@@ -101,15 +100,13 @@ permalink: /research/rl/td
                             <div class="col-md-8 text-center">
                                 <h2>
                                     Q-learning
-                                    <button class="btn btn-success" id="qlearning_toggle"
-                                            onclick="toggleQLearningIteration()">
+                                    <button class="btn btn-success" id="qlearning_toggle">
                                         Start/Pause (Toggle)
                                     </button>
-                                    <button class="btn btn-danger" id="qlearning_stop"
-                                            onclick="stopQLearningIteration()">
+                                    <button class="btn btn-danger" id="qlearning_stop">
                                         Stop
                                     </button>
-                                    <button class="btn btn-info" onclick="resetQLearning()">
+                                    <button class="btn btn-info" id="qlearning_reset">
                                         Reset
                                     </button>
                                 </h2>
@@ -176,16 +173,8 @@ permalink: /research/rl/td
 </section>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script type="text/javascript" src="/assets/js/research/rl.js"></script>
-<script>
-    var action_names = ["up", "left", "right", "down"];
-    var cs = 60;  // cell size
-</script>
+<script src="/assets/js/research/grid-config.js"></script>
 <script type="text/javascript" src="/assets/js/research/jquery.plot.min.js"></script>
 <script type="text/javascript" src="/assets/js/research/sarsa.js"></script>
 <script type="text/javascript" src="/assets/js/research/qlearning.js"></script>
-<script type="text/javascript">
-    $(document).ready(function () {
-        init_sarsa();
-        init_qlearning();
-    });
-</script>
+<script src="/assets/js/research/td-page.js"></script>

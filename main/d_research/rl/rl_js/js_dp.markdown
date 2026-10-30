@@ -31,13 +31,13 @@ permalink: /research/rl/dp
                                 <h2>
                                     Policy Iteration
                                     <button class="btn btn-success" id="pi_toggle"
-                                            onclick="togglePolicyIteration()">
+                                            >
                                         Start/Pause (Toggle)
                                     </button>
-                                    <button class="btn btn-danger" id="pi_stop" onclick="stopPolicyIteration()">
+                                    <button class="btn btn-danger" id="pi_stop" >
                                         Stop
                                     </button>
-                                    <button class="btn btn-info" onclick="resetPolicyIteration()">
+                                    <button class="btn btn-info" id="pi_reset">
                                         Reset
                                     </button>
                                 </h2>
@@ -80,13 +80,13 @@ permalink: /research/rl/dp
                             <div class="col-md-8 text-center">
                                 <h2>
                                     Value Iteration
-                                    <button class="btn btn-success" id="vi_toggle" onclick="toggleValueIteration()">
+                                    <button class="btn btn-success" id="vi_toggle" >
                                         Start/Pause (Toggle)
                                     </button>
-                                    <button class="btn btn-danger" id="vi_stop" onclick="stopValueIteration()">
+                                    <button class="btn btn-danger" id="vi_stop" >
                                         Stop
                                     </button>
-                                    <button class="btn btn-info" onclick="resetValueIteration()">
+                                    <button class="btn btn-info" id="vi_reset">
                                         Reset
                                     </button>
                                 </h2>
@@ -130,15 +130,7 @@ permalink: /research/rl/dp
 </section>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script type="text/javascript" src="/assets/js/research/rl.js"></script>
-<script>
-    var action_names = ["up", "left", "right", "down"];
-    var cs = 60;  // cell size
-</script>
+<script src="/assets/js/research/grid-config.js"></script>
 <script type="text/javascript" src="/assets/js/research/policy_iteration.js"></script>
 <script type="text/javascript" src="/assets/js/research/value_iteration.js"></script>
-<script type="text/javascript">
-    $(document).ready(function(){
-            init_pi();
-            init_vi();
-    });
-</script>
+<script src="/assets/js/research/dp-page.js"></script>

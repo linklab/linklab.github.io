@@ -1,0 +1,13 @@
+{
+  "name": "linklab-website",
+  "private": true,
+  "scripts": {
+    "check:js": "biome check --error-on-warnings .",
+    "fix:js": "biome check --write --error-on-warnings .",
+    "check:js:structure": "ast-grep scan --rule .github/lint-rules/no-inline-javascript.yml --no-ignore hidden --no-ignore vcs _site"
+  },
+  "devDependencies": {
+    "@ast-grep/cli": "0.51.0",
+    "@biomejs/biome": "2.6.4"
+  }
+}

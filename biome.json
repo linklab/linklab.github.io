@@ -1,0 +1,169 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.6.4/schema.json",
+  "vcs": {
+    "enabled": true,
+    "clientKind": "git",
+    "useIgnoreFile": true
+  },
+  "files": {
+    "includes": [
+      "**/*.js",
+      "**/*.mjs",
+      "**/*.cjs",
+      "!!assets/themify-icons",
+      "!assets/js/bootstrap.js",
+      "!assets/js/bootstrap.bundle.js",
+      "!assets/js/requestanimationframe-fix.js",
+      "!assets/js/script.min11b8.js",
+      "!assets/js/bootstrap.min.js",
+      "!assets/js/bootstrap.bundle.min.js",
+      "!assets/js/jquery.min.js",
+      "!assets/js/jquery.fullPage.min.js",
+      "!assets/js/three.min.js",
+      "!assets/js/trianglify.min.js",
+      "!assets/js/research/jquery.plot.min.js"
+    ]
+  },
+  "formatter": {
+    "indentStyle": "space",
+    "indentWidth": 2,
+    "lineEnding": "lf",
+    "lineWidth": 100
+  },
+  "assist": {
+    "enabled": false
+  },
+  "linter": {
+    "rules": {
+      "preset": "recommended",
+      "correctness": {
+        "noUndeclaredVariables": "error",
+        "noUnusedVariables": {
+          "level": "warn",
+          "options": {
+            "ignore": {
+              "*": [
+                "disqus_config",
+                "action_names",
+                "cs",
+                "init_pi",
+                "init_vi",
+                "init_sarsa",
+                "init_qlearning",
+                "togglePolicyIteration",
+                "resetPolicyIteration",
+                "toggleValueIteration",
+                "resetValueIteration",
+                "toggleSarsaIteration",
+                "resetSarsa",
+                "toggleQLearningIteration",
+                "resetQLearning",
+                "meetConfig"
+              ]
+            }
+          }
+        }
+      },
+      "style": {
+        "preset": "none"
+      },
+      "complexity": {
+        "preset": "none"
+      }
+    }
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "double",
+      "semicolons": "always"
+    },
+    "globals": ["$", "jQuery"]
+  },
+  "overrides": [
+    {
+      "includes": ["assets/js/about_script.js"],
+      "javascript": {
+        "globals": ["$", "Typekit", "Trianglify", "ga"]
+      }
+    },
+    {
+      "includes": ["assets/js/logo.initialize.js"],
+      "javascript": {
+        "globals": ["$", "gridchinLogo"]
+      }
+    },
+    {
+      "includes": ["assets/js/zoom/*.js"],
+      "javascript": {
+        "globals": ["ZoomMtg"]
+      }
+    },
+    {
+      "includes": ["assets/js/research/*.js"],
+      "javascript": {
+        "globals": [
+          "$",
+          "d3",
+          "R",
+          "RL_TD",
+          "action_names",
+          "cs",
+          "init_pi",
+          "init_vi",
+          "init_sarsa",
+          "init_qlearning",
+          "togglePolicyIteration",
+          "stopPolicyIteration",
+          "resetPolicyIteration",
+          "toggleValueIteration",
+          "stopValueIteration",
+          "resetValueIteration",
+          "toggleSarsaIteration",
+          "stopSarsaIteration",
+          "resetSarsa",
+          "toggleQLearningIteration",
+          "stopQLearningIteration",
+          "resetQLearning"
+        ]
+      }
+    },
+    {
+      "includes": ["assets/js/site.js"],
+      "javascript": {
+        "globals": ["$", "jQuery", "WOW", "daum", "Typewriter", "baseUrl"]
+      }
+    },
+    {
+      "includes": ["assets/js/**/*.js"],
+      "linter": {
+        "rules": {
+          "suspicious": {
+            "noRedundantUseStrict": "off"
+          }
+        }
+      }
+    },
+    {
+      "includes": [
+        "assets/js/about_script.js",
+        "assets/js/site.js",
+        "assets/js/research/rl.js",
+        "assets/js/research/policy_iteration.js",
+        "assets/js/research/value_iteration.js",
+        "assets/js/research/sarsa.js",
+        "assets/js/research/qlearning.js"
+      ],
+      "linter": {
+        "rules": {
+          "correctness": {
+            "noInnerDeclarations": "off"
+          },
+          "suspicious": {
+            "noRedeclare": "off",
+            "noDoubleEquals": "off"
+          }
+        }
+      }
+    }
+  ]
+}

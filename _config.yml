@@ -60,3 +60,8 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - biome.json
+  - package.json
+  - package-lock.json

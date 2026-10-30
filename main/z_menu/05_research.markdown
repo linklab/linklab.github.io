@@ -74,23 +74,5 @@ permalink: /research/
         </div>
     </div>
 </section>
-<script type="text/javascript">
-    var acc = document.getElementsByClassName("accordion");
-
-    for (var i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function () {
-            this.classList.toggle("acc_active");
-            var panel = this.nextElementSibling;
-            if (panel.style.maxHeight) {
-                panel.style.maxHeight = null;
-            } else {
-                panel.style.maxHeight = panel.scrollHeight + "px";
-            }
-        });
-    }
-
-    for (var i = 0; i < acc.length; i++) {
-        acc[i].click();
-    }
-</script>
+<script src="/assets/js/accordion.js"></script>
 

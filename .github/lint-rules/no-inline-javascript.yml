@@ -1,0 +1,32 @@
+id: no-inline-javascript
+language: Html
+severity: error
+message: Move executable JavaScript into an external .js file.
+rule:
+  all:
+    - kind: script_element
+    - has:
+        kind: raw_text
+        regex: '\S'
+    - not:
+        has:
+          kind: start_tag
+          regex: '(?i)\btype\s*=\s*["''](?:application/(?:ld\+)?json|text/(?:plain|template|x-template|html))["'']'
+---
+id: no-inline-event-handler
+language: Html
+severity: error
+message: Register event listeners in an external .js file.
+rule:
+  all:
+    - kind: attribute
+    - regex: '(?i)^on[a-z]+\s*='
+---
+id: no-javascript-url
+language: Html
+severity: error
+message: Use an ordinary URL and register behavior in an external .js file.
+rule:
+  all:
+    - kind: attribute
+    - regex: '(?i)=\s*["'']?\s*javascript\s*:'
