@@ -15,7 +15,9 @@
     "check:md": "prettier --check \"**/*.md\" && markdownlint-cli2",
     "fix:data": "biome check --config-path=biome.data.json --write --error-on-warnings .",
     "check:data": "biome check --config-path=biome.data.json --error-on-warnings . && yamllint --strict .",
-    "check:workflows": "actionlint -shellcheck= -pyflakes="
+    "check:workflows": "actionlint -shellcheck= -pyflakes=",
+    "fix:py": "py_status=0; ruff check --fix --no-unsafe-fixes . || py_status=$?; ruff format . || py_status=$?; exit $py_status",
+    "check:py": "ruff check . && ruff format --check ."
   },
   "devDependencies": {
     "@ast-grep/cli": "0.51.0",

@@ -1,4 +1,4 @@
-from socket import *
+from socket import AF_INET, SOCK_DGRAM, socket
 
 serverPort = 6428
 serverSocket = socket(AF_INET, SOCK_DGRAM)

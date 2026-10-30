@@ -1,56 +1,42 @@
 # streamlit run /Users/yhhan/git/linklab.github.io/codes/google_trends.py
 
-import trafilatura
-import streamlit as st
-from datetime import datetime, timedelta
 import time
-import json
-import re
+from datetime import datetime
+from typing import Any
+
+import streamlit as st
 from pytrends.request import TrendReq
-import pandas as pd
 
 
 class GoogleTrendsScraper:
-    def __init__(self):
-        self.pytrends = TrendReq(hl='ko', tz=540)  # Korean language, UTC+9 timezone
+    def __init__(self) -> None:
+        self.pytrends = TrendReq(hl="ko", tz=540)  # Korean language, UTC+9 timezone
 
-    def build_payload_with_retry(self, kw_list, retries=3, delay=10):
+    def build_payload_with_retry(self, kw_list: list[str], retries: int = 3, delay: float = 10) -> bool:
         """지수 백오프를 사용하여 build_payload를 호출합니다."""
-        for attempt in range(retries):
+        for _attempt in range(retries):
             try:
-                self.pytrends.build_payload(
-                    kw_list,
-                    cat=0,
-                    timeframe='now 1-d',
-                    geo='KR',
-                    gprop=''
-                )
+                self.pytrends.build_payload(kw_list, cat=0, timeframe="now 1-d", geo="KR", gprop="")
                 return True
             except Exception as e:
-                if 'returned a response with code 429' in str(e):
+                if "returned a response with code 429" in str(e):
                     st.warning(f"요청이 제한되었습니다. {delay}초 후에 재시도합니다.")
                     time.sleep(delay)
                     delay *= 2  # 대기 시간 두 배로 증가
                 else:
-                    st.error(f"요청 중 오류가 발생했습니다: {str(e)}")
+                    st.error(f"요청 중 오류가 발생했습니다: {e!s}")
                     return False
         return False
 
-    def get_interest_score(self, keyword):
+    def get_interest_score(self, keyword: str) -> dict[str, str]:
         """키워드의 24시간 관심도를 가져옵니다."""
 
         try:
-            # 현재 시간과 24시간 전 시간을 계산
-            end_time = datetime.now()
-            start_time = end_time - timedelta(days=1)
-
-            # timeframe 형식: 'YYYY-MM-DD HH:mm:ss' -> timeframe 형식 수정: 'now 1-d' 사용
-            timeframe = 'now 1-d'
             success = self.build_payload_with_retry([keyword])
             if not success:
                 return {
-                    'current': 'N/A',
-                    'avg': 'N/A',
+                    "current": "N/A",
+                    "avg": "N/A",
                     # 'trend': [] 그래프 삭제
                 }
 
@@ -65,32 +51,32 @@ class GoogleTrendsScraper:
                 current_score = interest_df[keyword].iloc[-1]
 
                 return {
-                    'current': f"{current_score:.0f}",
-                    'avg': f"{avg_score:.0f}",
+                    "current": f"{current_score:.0f}",
+                    "avg": f"{avg_score:.0f}",
                     # 'max': f"{max_score:.0f}",
                     # 'min': f"{min_score:.0f}"
                     # 'trend': interest_df[keyword].tolist()  # 시계열 데이터 삭제
                 }
             return {
-                'current': 'N/A',
-                'avg': 'N/A',
+                "current": "N/A",
+                "avg": "N/A",
                 # 'max': 'N/A',
                 # 'min': 'N/A'
                 # 'trend': [] # 시계열 데이터 삭제
             }
 
         except Exception as e:
-            st.error(f"{keyword}의 관심도를 가져오는 중 오류가 발생했습니다: {str(e)}")
+            st.error(f"{keyword}의 관심도를 가져오는 중 오류가 발생했습니다: {e!s}")
             return {
-                'current': 'N/A',
-                'avg': 'N/A',
+                "current": "N/A",
+                "avg": "N/A",
                 # 'trend': [] 시계열 데이터 삭제
             }
 
-    def fetch_trending_keywords(self):
+    def fetch_trending_keywords(self) -> list[dict[str, Any]]:
         try:
             # 트렌딩 키워드 가져오기
-            trending_searches_df = self.pytrends.trending_searches(pn='south_korea')
+            trending_searches_df = self.pytrends.trending_searches(pn="south_korea")
             if trending_searches_df.empty:
                 st.error("트렌드 데이터를 가져올 수 없습니다.")
                 return []
@@ -99,12 +85,12 @@ class GoogleTrendsScraper:
             keywords = trending_searches_df.head(10).values.flatten().tolist()
 
             # 문제 키워드 제외
-            problem_keywords = ['수능) 국어']
+            problem_keywords = ["수능) 국어"]
             keywords = [kw for kw in keywords if kw not in problem_keywords]
 
             # 키워드를 5개씩 묶기
             for i in range(0, len(keywords), 5):
-                batch = keywords[i:i + 5]
+                batch = keywords[i : i + 5]
                 # st.write(f"Processing batch: {batch}")  # 디버깅용 로그 추가를 삭제
                 time.sleep(60)  # 대기 시간 1분으로 처리(5명씩)
                 try:
@@ -127,38 +113,43 @@ class GoogleTrendsScraper:
                                 current_score = interest_df[keyword].iloc[-1]
                                 # trend_data = interest_df[keyword].tolist() 시계열데이터 삭제
                             else:
-                                avg_score = 'N/A'
-                                current_score = 'N/A'
+                                avg_score = "N/A"
+                                current_score = "N/A"
                             # trend_data = [] 시계열 데이터 삭제
 
-                            trends.append({
-                                'rank': keywords.index(keyword) + 1,
-                                'keyword': keyword,
-                                'traffic': {
-                                    'current': f"{current_score:.0f}" if current_score != 'N/A' else 'N/A',
-                                    'avg': f"{avg_score:.0f}" if avg_score != 'N/A' else 'N/A',
-                                    # 'trend': trend_data 시계열 데이터 삭제
-                                },
-                                'timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                            })
+                            trends.append(
+                                {
+                                    "rank": keywords.index(keyword) + 1,
+                                    "keyword": keyword,
+                                    "traffic": {
+                                        "current": f"{current_score:.0f}" if current_score != "N/A" else "N/A",
+                                        "avg": f"{avg_score:.0f}" if avg_score != "N/A" else "N/A",
+                                        # 'trend': trend_data 시계열 데이터 삭제
+                                    },
+                                    "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                                }
+                            )
                         except Exception as e:
-                            st.error(f"Error processing keyword '{keyword}': {str(e)}")
+                            st.error(f"Error processing keyword '{keyword}': {e!s}")
                             continue
                 except Exception as e:
-                    st.error(f"Error processing batch {batch}: {str(e)}")
+                    st.error(f"Error processing batch {batch}: {e!s}")
                     continue
             st.write(f"Total trends collected: {len(trends)}")
             return trends
 
         except Exception as e:
-            st.error(f"트렌드 데이터를 가져오는 중 오류가 발생했습니다: {str(e)}")
+            st.error(f"트렌드 데이터를 가져오는 중 오류가 발생했습니다: {e!s}")
             return []
 
-    def get_cached_trends(self, cache_duration=300):  # 5분 캐시
+    def get_cached_trends(self, cache_duration: float = 300) -> list[dict[str, Any]]:  # 5분 캐시
         current_time = time.time()
 
-        if (hasattr(self, '_cache') and hasattr(self, '_cache_time') and
-                current_time - self._cache_time < cache_duration):
+        if (
+            hasattr(self, "_cache")
+            and hasattr(self, "_cache_time")
+            and current_time - self._cache_time < cache_duration
+        ):
             return self._cache
 
         # 새로운 데이터 가져오기
@@ -169,7 +160,7 @@ class GoogleTrendsScraper:
         return trends
 
 
-def main():
+def main() -> None:
     st.title("Google Trends Korea Real-time")
 
     # Create a placeholder for auto-refresh status
@@ -185,7 +176,7 @@ def main():
         st.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M')} 현재 실시간 인기 검색어 TOP 10")
 
     # 데이터 로딩 중 표시
-    with st.spinner('데이터를 불러오는 중...'):
+    with st.spinner("데이터를 불러오는 중..."):
         trends = scraper.get_cached_trends()
 
     if trends:
@@ -195,7 +186,7 @@ def main():
                 with col1:
                     st.write(f"**{trend['rank']}. {trend['keyword']}**")
                 with col2:
-                    traffic = trend['traffic']
+                    traffic = trend["traffic"]
                     st.write(f"현재 관심도: {traffic['current']}")
                     st.write(f"평균 관심도: {traffic['avg']}")
 

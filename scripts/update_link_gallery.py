@@ -7,21 +7,21 @@ Run manually or via the scheduled GitHub Action
 under assets/images/members/link_gallery/ in place; index.html
 references those filenames directly and needs no change.
 """
+
 import json
 import random
 import urllib.request
 from pathlib import Path
+from typing import Any
 
 ALBUM_TOKEN = "D2Pv3-0ipoABnYhZQG6aSWSHTWQCAEQARogjZAL_TI0PSTTlxf2IRQiTpJDG8lVGLC73-hmIuX38xE"
 GALLERY_DIR = Path(__file__).resolve().parent.parent / "assets/images/members/link_gallery"
 PHOTO_COUNT = 4
 
 
-def post_json(url, payload):
+def post_json(url: str, payload: dict[str, Any]) -> dict[str, Any]:
     data = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        url, data=data, headers={"Content-Type": "application/json"}, method="POST"
-    )
+    req = urllib.request.Request(url, data=data, headers={"Content-Type": "application/json"}, method="POST")
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             return json.loads(resp.read().decode("utf-8"))
@@ -32,30 +32,28 @@ def post_json(url, payload):
         return json.loads(e.read().decode("utf-8"))
 
 
-def fetch_webstream():
+def fetch_webstream() -> tuple[dict[str, Any], str]:
     # First call tells us which regional host actually serves this album.
     redirect = post_json(
         f"https://sharedstreams.icloud.com/{ALBUM_TOKEN}/sharedstreams/webstream",
         {"streamCtag": None},
     )
     host = redirect["X-Apple-MMe-Host"]
-    return post_json(
-        f"https://{host}/{ALBUM_TOKEN}/sharedstreams/webstream", {"streamCtag": None}
-    ), host
+    return post_json(f"https://{host}/{ALBUM_TOKEN}/sharedstreams/webstream", {"streamCtag": None}), host
 
 
-def is_photo(item):
+def is_photo(item: dict[str, Any]) -> bool:
     return all(k.isdigit() for k in item["derivatives"].keys())
 
 
-def fetch_asset_urls(host, photo_guids):
+def fetch_asset_urls(host: str, photo_guids: list[str]) -> dict[str, Any]:
     return post_json(
         f"https://{host}/{ALBUM_TOKEN}/sharedstreams/webasseturls",
         {"photoGuids": photo_guids},
     )
 
 
-def main():
+def main() -> None:
     stream, host = fetch_webstream()
     photo_items = [p for p in stream["photos"] if is_photo(p)]
     if len(photo_items) < PHOTO_COUNT:

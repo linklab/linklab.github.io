@@ -1,4 +1,4 @@
-from socket import *
+from socket import AF_INET, SOCK_STREAM, socket
 
 serverName = "127.0.0.1"
 serverPort = 13000
