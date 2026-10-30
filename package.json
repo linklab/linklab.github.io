@@ -11,7 +11,7 @@
     "fix:html": "prettier --write \"**/*.html\"",
     "check:html": "prettier --check \"**/*.html\"",
     "check:html:structure": "html-validate \"_site/**/*.html\"",
-    "fix:md": "md_status=0; prettier --write \"**/*.md\" || md_status=$?; markdownlint-cli2 --fix || md_status=$?; exit $md_status",
+    "fix:md": "md_status=0; markdownlint-cli2 --fix || md_status=$?; prettier --write \"**/*.md\" || md_status=$?; exit $md_status",
     "check:md": "prettier --check \"**/*.md\" && markdownlint-cli2"
   },
   "devDependencies": {
@@ -24,5 +24,13 @@
   },
   "allowScripts": {
     "@ast-grep/cli@0.51.0": true
+  },
+  "overrides": {
+    "markdownlint": {
+      "re2js": "2.8.7"
+    },
+    "micromark-extension-math": {
+      "katex": "0.18.2"
+    }
   }
 }

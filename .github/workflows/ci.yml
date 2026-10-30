@@ -84,6 +84,10 @@ jobs:
         continue-on-error: true
         run: npm run fix:html
 
+      - name: Apply safe Markdown fixes
+        continue-on-error: true
+        run: npm run fix:md
+
       - name: Commit automatic fixes
         id: commit
         if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
@@ -111,6 +115,9 @@ jobs:
 
       - name: Check HTML and Liquid formatting
         run: npm run check:html
+
+      - name: Check Markdown
+        run: npm run check:md
 
   build:
     name: Build and check
