@@ -69,12 +69,16 @@ jobs:
           node-version: "24"
           cache: npm
 
-      - name: Install JavaScript tools
+      - name: Install linting tools
         run: npm ci --no-audit --no-fund
 
       - name: Apply safe JavaScript fixes
         continue-on-error: true
         run: npm run fix:js
+
+      - name: Apply safe CSS and SCSS fixes
+        continue-on-error: true
+        run: npm run fix:css
 
       - name: Commit automatic fixes
         id: commit
@@ -97,6 +101,9 @@ jobs:
 
       - name: Check JavaScript
         run: npm run check:js
+
+      - name: Check CSS and SCSS
+        run: npm run check:css
 
   build:
     name: Build and check
