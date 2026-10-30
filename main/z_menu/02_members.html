@@ -1,0 +1,29 @@
+---
+layout: page
+title: Members
+permalink: /members/
+stylesheets:
+  - href: /assets/css/pages/section-headings.css
+---
+<section>
+  <div class="cw-content container-fluid">
+    <div class="cyw-container">
+      <div class="container">
+        <!-- Start Container Div -->
+        <div class="container-fluid u-section-heading">
+          <!-- Start Content Grid -->
+          <div class="row content">
+            <div class="content-wrapper u-padding-1em">
+              {% include section-links.html links=site.data.navigation.members %}
+            </div>
+          </div>
+          <div class="clear"></div>
+          <!-- End Content Grid -->
+        </div>
+      </div>
+    </div>
+    <!-- End Container Div -->
+  </div>
+</section>
+
+<script src="/assets/js/accordion.js"></script>

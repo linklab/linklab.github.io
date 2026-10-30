@@ -38,6 +38,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+liquid:
+  error_mode: strict
+  strict_filters: true
+
 
 #theme: jekyll-theme-minimal
 

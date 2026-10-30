@@ -4,7 +4,7 @@ from the LINK lab iCloud shared album.
 
 Run manually or via the scheduled GitHub Action
 (.github/workflows/update-gallery.yml). Downloads replace the files
-under assets/images/members/link_gallery/ in place; index.markdown
+under assets/images/members/link_gallery/ in place; index.html
 references those filenames directly and needs no change.
 """
 import json

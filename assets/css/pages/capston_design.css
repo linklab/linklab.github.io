@@ -17,3 +17,20 @@
 .capston-schedule-table ul ul ul {
   list-style-type: "- " !important;
 }
+
+.course-schedule {
+  margin: 0;
+  font-size: 1.625rem;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.course-schedule > h3:first-child {
+  margin: 0;
+}
+
+@media screen and (max-width: 800px) {
+  .course-schedule {
+    font-size: 1.375rem;
+  }
+}

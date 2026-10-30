@@ -1,0 +1,131 @@
+---
+layout: page
+permalink: /research/rl/dp
+---
+<section>
+  <div class="cw-content container-fluid">
+    <div class="cyw-container">
+      <div class="container">
+        <!-- Start Container Div -->
+        <div class="container-fluid u-color-black">
+          <br>
+          <div class="text-center">
+            <h2 class="u-font-weight-bold"
+              >Dynamic Programming - Policy Iteration, Value Iteration</h2
+            >
+          </div>
+          <div class="text-right">
+            <span class="u-font-weight-bold">LINK@KoreaTech</span>
+            <br>
+            <span class="u-font-weight-bold">Febraury, 14, 2019</span>
+            <br>
+            <span class="u-font-weight-bold"
+              >Email:
+              <a href="mailto: link.koreatech@gmail.com">link.koreatech at gmail.com</a></span
+            >
+            <br>
+            <span
+              >This site is made by using the source codes shared from the site,
+              <a href="https://cs.stanford.edu/people/karpathy/reinforcejs/index.html"
+                >REINFORCEjs</a
+              >
+            </span>
+          </div>
+          <br>
+          <div>
+            <div class="row">
+              <div class="col-md-8 text-center">
+                <h2>
+                  Policy Iteration
+                  <button class="btn btn-success" id="pi_toggle" type="button">
+                    Start/Pause (Toggle)
+                  </button>
+                  <button class="btn btn-danger" id="pi_stop" type="button"> Stop </button>
+                  <button class="btn btn-info" id="pi_reset" type="button"> Reset </button>
+                </h2>
+                <br>
+                <div class="text-left u-font-size-1p2em">
+                  <ul>
+                    <li>
+                      Sum of All State Values:
+                      <span id="pi_state_values" class="u-font-weight-bold">0</span>
+                    </li>
+                    <li>
+                      Difference of Sum of All State Values:
+                      <span id="pi_diff_state_values" class="u-font-weight-bold">-1</span>
+                    </li>
+                    <li> Status: <span id="pi_status" class="u-font-weight-bold">RESET</span> </li>
+                    <li> Discount Factor (gamma): 0.75 </li>
+                  </ul>
+                </div>
+                <div class="text-center">
+                  <img src="/assets/images/research/PI_algo.png" width="90%" border="0">
+                </div>
+              </div>
+              <div class="col-md-4 text-center">
+                <div class="text-left">
+                  <span class="u-font-size-small">Iteration: <span id="pi_iter">-1</span></span>
+                </div>
+                <div id="draw_pi" class="text-left"></div>
+              </div>
+            </div>
+          </div>
+          <br>
+          <br>
+          <hr>
+          <div>
+            <div class="row">
+              <div class="col-md-8 text-center">
+                <h2>
+                  Value Iteration
+                  <button class="btn btn-success" id="vi_toggle" type="button">
+                    Start/Pause (Toggle)
+                  </button>
+                  <button class="btn btn-danger" id="vi_stop" type="button"> Stop </button>
+                  <button class="btn btn-info" id="vi_reset" type="button"> Reset </button>
+                </h2>
+                <br>
+                <div class="text-left u-font-size-1p2em">
+                  <ul>
+                    <li>
+                      Sum of All State Values:
+                      <span id="vi_state_values" class="u-font-weight-bold">0</span>
+                    </li>
+                    <li>
+                      Difference of Sum of All State Values:
+                      <span id="vi_diff_state_values" class="u-font-weight-bold">-1</span>
+                    </li>
+                    <li> Status: <span id="vi_status" class="u-font-weight-bold">RESET</span> </li>
+                    <li> Discount Factor (gamma): 0.75 </li>
+                  </ul>
+                </div>
+                <div class="text-center">
+                  <img src="/assets/images/research/VI_algo.png" width="90%" border="0">
+                </div>
+              </div>
+              <div class="col-md-4 text-center">
+                <div class="text-left">
+                  <span class="u-font-size-small">Iteration: <span id="vi_iter">-1</span></span>
+                </div>
+                <div id="draw_vi" class="text-left"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+    <br>
+  </div>
+</section>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/research/rl.js"></script>
+
+<script src="/assets/js/research/grid-config.js"></script>
+
+<script type="text/javascript" src="/assets/js/research/policy_iteration.js"></script>
+
+<script type="text/javascript" src="/assets/js/research/value_iteration.js"></script>
+
+<script src="/assets/js/research/dp-page.js"></script>

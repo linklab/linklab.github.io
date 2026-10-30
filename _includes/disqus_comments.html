@@ -1,6 +1,14 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-
   <div id="disqus_thread"></div>
-  <script src="/assets/js/disqus-comments.js" data-page-url="{{ page.url | absolute_url | escape }}" data-shortname="{{ site.disqus.shortname | escape }}"></script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  <script
+    src="/assets/js/disqus-comments.js"
+    data-page-url="{{ page.url | absolute_url | escape }}"
+    data-shortname="{{ site.disqus.shortname | escape }}"
+  ></script>
+  <noscript
+    >Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow"
+      >comments powered by Disqus.</a
+    ></noscript
+  >
 {%- endif -%}

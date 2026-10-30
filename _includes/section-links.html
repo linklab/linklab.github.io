@@ -1,0 +1,13 @@
+{% for link in include.links %}
+  <h4 class="title-level-4 year">
+    {{ link.label | escape }}
+    <a
+      href="{{ link.url }}"
+      {% if link.target %}
+        target="{{ link.target }}"
+      {% endif %}
+    >
+      <i class="fa fa-link" aria-hidden="true"></i>
+    </a>
+  </h4>
+{% endfor %}

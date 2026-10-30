@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "label": "한국기술교육대학교",
+      "url": "http://www.koreatech.ac.kr/"
+    },
+    {
+      "label": "KOREATECH 컴퓨터공학부",
+      "url": "http://cse.koreatech.ac.kr/"
+    },
+    {
+      "label": "KOREATECH 첨단기술연구소",
+      "url": "http://atrc.koreatech.ac.kr/"
+    },
+    {
+      "label": "KOREATECH 다산정보관",
+      "url": "https://lib.koreatech.ac.kr/"
+    },
+    {
+      "label": "한국연구재단",
+      "url": "http://www.nrf.re.kr/"
+    },
+    {
+      "label": "구글학술검색",
+      "url": "http://scholar.google.co.kr/schhp?hl=ko"
+    },
+    {
+      "label": "Journal Citation Reports",
+      "url": "https://jcr.clarivate.com/"
+    }
+  ],
+  [
+    {
+      "label": "경제와 사회를 관통하는 이슈",
+      "url": "https://globepulse.site"
+    },
+    {
+      "label": "눈길을 끄는 연예계 이슈",
+      "url": "https://starpulse.site"
+    },
+    {
+      "label": "몸과 마음의 힐링 가이드",
+      "url": "https://vitalpulse.site"
+    },
+    {
+      "label": "스포츠 라이프: 열정과 기록",
+      "url": "https://runpulse.site"
+    },
+    {
+      "label": "Shaping the Future: The Value of Tech and AI",
+      "url": "https://nextpulse.site/"
+    }
+  ]
+]

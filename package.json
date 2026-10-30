@@ -7,11 +7,17 @@
     "check:js:structure": "ast-grep scan --rule .github/lint-rules/no-inline-javascript.yml --no-ignore hidden --no-ignore vcs _site",
     "check:css": "biome check --config-path=biome.css.json --error-on-warnings .",
     "fix:css": "biome check --config-path=biome.css.json --write --error-on-warnings .",
-    "check:css:structure": "ast-grep scan --rule .github/lint-rules/no-inline-css.yml --no-ignore hidden --no-ignore vcs _site"
+    "check:css:structure": "ast-grep scan --rule .github/lint-rules/no-inline-css.yml --no-ignore hidden --no-ignore vcs _site",
+    "fix:html": "prettier --write \"**/*.html\"",
+    "check:html": "prettier --check \"**/*.html\"",
+    "check:html:structure": "html-validate \"_site/**/*.html\""
   },
   "devDependencies": {
     "@ast-grep/cli": "0.51.0",
-    "@biomejs/biome": "2.6.4"
+    "@biomejs/biome": "2.6.4",
+    "@shopify/prettier-plugin-liquid": "1.10.2",
+    "html-validate": "11.17.0",
+    "prettier": "3.9.10"
   },
   "allowScripts": {
     "@ast-grep/cli@0.51.0": true

@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "label": "LINK Lab. Director: Prof. Youn-Hee Han",
+      "url": "/members/professor"
+    },
+    {
+      "label": "LINK Lab. Members (Current Students & Researchers)",
+      "url": "/members/students_and_members",
+      "target": "_blank"
+    },
+    {
+      "label": "LINK Lab. Alumni",
+      "url": "/members/alumni",
+      "target": "_blank"
+    }
+  ],
+  "publication": [
+    {
+      "label": "Academic Papers",
+      "url": "/publication/papers"
+    },
+    {
+      "label": "Patents",
+      "url": "/publication/patents"
+    },
+    {
+      "label": "Standards",
+      "url": "/publication/standards"
+    }
+  ]
+}

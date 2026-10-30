@@ -1,14 +1,18 @@
 <head>
+  <title>
+    {%- if page.title %}{{ page.title | escape }} | {% endif -%}
+    {{- site.title | escape -}}
+  </title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/earlyaccess/notosanskr.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if jekyll.environment == "production" and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  
+
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicon/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicon/apple-icon-72x72.png">
@@ -18,7 +22,12 @@
   <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicon/apple-icon-144x144.png">
   <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicon/apple-icon-152x152.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/favicon/android-icon-192x192.png">
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="192x192"
+    href="/assets/images/favicon/android-icon-192x192.png"
+  >
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/favicon/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
@@ -27,39 +36,51 @@
   <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
-
-  <meta property="og:url" content="http://link.koreatech.ac.kr/"/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:title" content="한국기술교육대학교 LINK 연구실"/>
-  <meta property="og:description" content="한국기술교육대학교 지능네트워크 연구실"/>
-  <meta property="og:image" content="/assets/images/og_image.jpg"/>
+  <meta property="og:url" content="http://link.koreatech.ac.kr/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="한국기술교육대학교 LINK 연구실" />
+  <meta property="og:description" content="한국기술교육대학교 지능네트워크 연구실" />
+  <meta property="og:image" content="/assets/images/og_image.jpg" />
   <meta property="og:image:type" content="image/jpeg">
-  <meta property="og:image:width" content="300"/>
-  <meta property="og:image:height" content="200"/>
+  <meta property="og:image:width" content="300" />
+  <meta property="og:image:height" content="200" />
 
   <meta name="description" content="한국기술교육대학교 지능네트워크 연구실">
   <link rel="canonical" href="http://link.koreatech.ac.kr/">
 
-  <link rel='stylesheet' type='text/css' href='/assets/css/style.min33a6.css?ver=4.9'>
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.min33a6.css?ver=4.9">
   <link rel="stylesheet" href="/assets/css/theme.css">
   <link rel="stylesheet" href="/assets/css/vendor-icons.css">
 
-  <link rel="stylesheet" type="text/css"
-        href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons"/>
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons"
+  />
 
   <script src="https://kit.fontawesome.com/bb03b84c4a.js" crossorigin="anonymous"></script>
   <link href="/assets/themify-icons/themify-icons.css" rel="stylesheet">
 
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/dataTables.bootstrap5.css">
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file://-->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.25/css/dataTables.bootstrap5.css"
+  >
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
-  <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-  <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.js"></script>
+    <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.js"></script>
   <![endif]-->
   <link rel="stylesheet" href="/assets/css/site.css">
   <link rel="stylesheet" href="/assets/css/utilities.css">
   {% for stylesheet in page.stylesheets %}
-  <link rel="stylesheet" href="{{ stylesheet.href | relative_url }}"{% if stylesheet.media %} media="{{ stylesheet.media }}"{% endif %}>
+    <link
+      rel="stylesheet"
+      href="{{ stylesheet.href | relative_url }}"
+      {% if stylesheet.media %}
+        media="{{ stylesheet.media }}"
+      {% endif %}
+    >
   {% endfor %}
 </head>

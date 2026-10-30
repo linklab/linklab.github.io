@@ -283,3 +283,18 @@ ol {
     padding-top: 0px;
   }
 }
+
+/* Keep list headings in the list flow without adding a bullet or indentation. */
+#site-page .list-content {
+  display: contents;
+  font: inherit;
+  text-align: inherit;
+  padding: 0;
+  list-style: none;
+}
+
+/* Lists replacing orphan list items retain the original content alignment. */
+#site-page .plain-list {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,14 @@
+# Only project HTML templates are managed in this stage.
+**/*
+!**/
+!**/*.html
+.git/
+.local-quality/
+.jekyll-cache/
+.sass-cache/
+_site/
+node_modules/
+vendor/
+# Third-party icon demo and a font binary with an HTML extension.
+assets/themify-icons/index.html
+assets/fonts/fontawesome-webfont914c.html
