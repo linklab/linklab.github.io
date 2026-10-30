@@ -8,6 +8,17 @@ permalink: /seminar/graduate
     <button class="accordion">2026</button>
         <div class="panel article-content-1">
             <ul>
+                 <li>10월 29일 (목) 논문 세미나 – 최요한
+                    <br/>
+                    <strong>
+                        Liao, Q., Shao, Y., Long, J., Zakka, K., Horowitz, R., Abbeel, P., & Sreenath, K. "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model." Conference on Robot Learning (CoRL), 2026.
+                    </strong>
+                    <a href="https://supermimic.github.io/">
+                        <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                    </a>
+                    <br/>
+                </li>
+                <br/>
                 <li>9월 28일 (월) 논문 세미나 – 석영준
                     <br/>
                     <strong>
