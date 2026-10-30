@@ -9,5 +9,8 @@
   "devDependencies": {
     "@ast-grep/cli": "0.51.0",
     "@biomejs/biome": "2.6.4"
+  },
+  "allowScripts": {
+    "@ast-grep/cli@0.51.0": true
   }
 }

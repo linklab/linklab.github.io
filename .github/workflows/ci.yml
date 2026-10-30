@@ -63,6 +63,19 @@ jobs:
         continue-on-error: true
         run: editorconfig-checker -fix -format github-actions
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v7.1.0
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install JavaScript tools
+        run: npm ci --no-audit --no-fund
+
+      - name: Apply safe JavaScript fixes
+        continue-on-error: true
+        run: npm run fix:js
+
       - name: Commit automatic fixes
         id: commit
         if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
@@ -79,13 +92,15 @@ jobs:
         if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
         run: git diff --exit-code
 
-      - name: Check all enabled rules
+      - name: Check UTF-8 encoding
         run: editorconfig-checker -format github-actions
 
-  deploy:
-    name: Deploy
+      - name: Check JavaScript
+        run: npm run check:js
+
+  build:
+    name: Build and check
     needs: quality
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     permissions:
       contents: read
       pages: write
@@ -93,3 +108,4 @@ jobs:
     uses: ./.github/workflows/jekyll.yml
     with:
       ref: ${{ needs.quality.outputs.sha }}
+      deploy: ${{ github.event_name != 'pull_request' && github.ref == 'refs/heads/main' }}
