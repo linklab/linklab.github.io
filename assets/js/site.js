@@ -3,7 +3,6 @@
   var lastScrollTop = 0;
   var $stickyNavbar = $(".sticky-header");
   var $mobileBreadcrumb = $(".wrapper-mobile-breadcrumb");
-  var _$mobileBreadcrumbOffsetTop = $mobileBreadcrumb.offset().top;
   var appearNavAllow = !0;
   $(window).on("scroll.hiding", function () {
     var winScrollY = window.scrollY || $(window).scrollTop(),
