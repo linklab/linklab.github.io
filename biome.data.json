@@ -1,0 +1,28 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.6.4/schema.json",
+  "extends": [
+    "./biome.json"
+  ],
+  "files": {
+    "includes": [
+      "**/*.json",
+      "**/*.jsonc",
+      "**/*.yml",
+      "**/*.yaml",
+      "!!.local-quality",
+      "!**/package-lock.json",
+      "!**/pnpm-lock.yaml",
+      "!**/*.js",
+      "!**/*.mjs",
+      "!**/*.cjs"
+    ]
+  },
+  "yaml": {
+    "formatter": {
+      "indentWidth": 2,
+      "lineEnding": "lf",
+      "lineWidth": 100,
+      "quoteStyle": "double"
+    }
+  }
+}

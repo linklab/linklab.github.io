@@ -30,6 +30,11 @@
     "lineEnding": "lf",
     "lineWidth": 100
   },
+  "json": {
+    "formatter": {
+      "expand": "always"
+    }
+  },
   "assist": {
     "enabled": false
   },
@@ -77,29 +82,50 @@
       "quoteStyle": "double",
       "semicolons": "always"
     },
-    "globals": ["$", "jQuery"]
+    "globals": [
+      "$",
+      "jQuery"
+    ]
   },
   "overrides": [
     {
-      "includes": ["assets/js/about_script.js"],
+      "includes": [
+        "assets/js/about_script.js"
+      ],
       "javascript": {
-        "globals": ["$", "Typekit", "Trianglify", "ga"]
+        "globals": [
+          "$",
+          "Typekit",
+          "Trianglify",
+          "ga"
+        ]
       }
     },
     {
-      "includes": ["assets/js/logo.initialize.js"],
+      "includes": [
+        "assets/js/logo.initialize.js"
+      ],
       "javascript": {
-        "globals": ["$", "gridchinLogo"]
+        "globals": [
+          "$",
+          "gridchinLogo"
+        ]
       }
     },
     {
-      "includes": ["assets/js/zoom/*.js"],
+      "includes": [
+        "assets/js/zoom/*.js"
+      ],
       "javascript": {
-        "globals": ["ZoomMtg"]
+        "globals": [
+          "ZoomMtg"
+        ]
       }
     },
     {
-      "includes": ["assets/js/research/*.js"],
+      "includes": [
+        "assets/js/research/*.js"
+      ],
       "javascript": {
         "globals": [
           "$",
@@ -128,13 +154,24 @@
       }
     },
     {
-      "includes": ["assets/js/site.js"],
+      "includes": [
+        "assets/js/site.js"
+      ],
       "javascript": {
-        "globals": ["$", "jQuery", "WOW", "daum", "Typewriter", "baseUrl"]
+        "globals": [
+          "$",
+          "jQuery",
+          "WOW",
+          "daum",
+          "Typewriter",
+          "baseUrl"
+        ]
       }
     },
     {
-      "includes": ["assets/js/**/*.js"],
+      "includes": [
+        "assets/js/**/*.js"
+      ],
       "linter": {
         "rules": {
           "suspicious": {

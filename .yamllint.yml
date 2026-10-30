@@ -1,0 +1,17 @@
+ignore: |
+  .git/
+  .local-quality/
+  .jekyll-cache/
+  .sass-cache/
+  _site/
+  node_modules/
+  vendor/
+  assets/themify-icons/
+  **/pnpm-lock.yaml
+
+rules:
+  key-duplicates: enable
+  anchors:
+    forbid-undeclared-aliases: true
+    forbid-duplicated-anchors: true
+    forbid-unused-anchors: false

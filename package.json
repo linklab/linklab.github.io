@@ -12,7 +12,10 @@
     "check:html": "prettier --check \"**/*.html\"",
     "check:html:structure": "html-validate \"_site/**/*.html\"",
     "fix:md": "md_status=0; markdownlint-cli2 --fix || md_status=$?; prettier --write \"**/*.md\" || md_status=$?; exit $md_status",
-    "check:md": "prettier --check \"**/*.md\" && markdownlint-cli2"
+    "check:md": "prettier --check \"**/*.md\" && markdownlint-cli2",
+    "fix:data": "biome check --config-path=biome.data.json --write --error-on-warnings .",
+    "check:data": "biome check --config-path=biome.data.json --error-on-warnings . && yamllint --strict .",
+    "check:workflows": "actionlint -shellcheck= -pyflakes="
   },
   "devDependencies": {
     "@ast-grep/cli": "0.51.0",

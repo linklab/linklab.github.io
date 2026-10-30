@@ -42,7 +42,6 @@ liquid:
   error_mode: strict
   strict_filters: true
 
-
 #theme: jekyll-theme-minimal
 
 # Exclude from processing.
@@ -68,5 +67,6 @@ liquid:
 exclude:
   - biome.json
   - biome.css.json
+  - biome.data.json
   - package.json
   - package-lock.json
