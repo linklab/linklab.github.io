@@ -752,7 +752,7 @@ permalink: /projects/
                                         </tbody>
                                     </table>
                                     <p><strong>Smart Planet Monitering Network System Based on Context-awareness [1차년도/총3년]</strong>
-                                        <strong>(상황인식 기반 스마트 응용 재해 모니터링 네트워크 플랫폼 정보 시스템)</strong> - Duration: October 1, 2014 ~
+                                        <strong>(상황인식 기반 스마트 응용 재해 모니터링 네트워크 플랫폼 정보 시스템)</strong> - Duration: October 1, 2014 ~
                                         September 30, 2015<br/>
                                         - Sponsor: National Research Foundation of Korea (NRF)<br/>
                                         - Role: Researcher (참여연구원) </p>

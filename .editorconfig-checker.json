@@ -1,0 +1,15 @@
+{
+  "Version": "v4.0.2",
+  "NoColor": true,
+  "IgnoreDefaults": true,
+  "Exclude": [
+    "(^|/)(\\.git|\\.local-quality|\\.jekyll-cache|\\.sass-cache|_site|vendor|node_modules)/",
+    "(^|/)(Gemfile\\.lock|package-lock\\.json|yarn\\.lock|pnpm-lock\\.yaml)$",
+    "\\.(png|jpe?g|gif|ico|webp|avif|pdf|pptx?|docx?|xlsx?|mp3|mp4|mov|woff2?|ttf|eot|otf|map)$",
+    "^assets/(fonts|themify-icons)/",
+    "^assets/images/favicon/",
+    "^assets/css/(bootstrap(-grid|-reboot)?|jquery\\.fullPage)\\.css$",
+    "^assets/js/(bootstrap(\\.bundle)?|jquery|requestanimationframe-fix)\\.js$",
+    "\\.min[^/]*\\.(css|js)$"
+  ]
+}

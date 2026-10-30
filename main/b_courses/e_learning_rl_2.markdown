@@ -180,7 +180,7 @@ permalink: /courses/e_learning_rl_2
                                                 </ol>
                                             </li>
                                             <li>
-                                                <span style="font-weight: bold"><strong>[실습 6]</strong> Tic-Tac-Toe 강화학습게임 에이전트 개발 및 훈련(12차시)</span>
+                                                <span style="font-weight: bold"><strong>[실습 6]</strong> Tic-Tac-Toe 강화학습 게임 에이전트 개발 및 훈련(12차시)</span>
                                                 <a href="#">
                                                     <i class="fa fa-link" aria-hidden="true"></i>
                                                 </a>
