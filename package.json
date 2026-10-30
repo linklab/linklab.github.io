@@ -10,13 +10,16 @@
     "check:css:structure": "ast-grep scan --rule .github/lint-rules/no-inline-css.yml --no-ignore hidden --no-ignore vcs _site",
     "fix:html": "prettier --write \"**/*.html\"",
     "check:html": "prettier --check \"**/*.html\"",
-    "check:html:structure": "html-validate \"_site/**/*.html\""
+    "check:html:structure": "html-validate \"_site/**/*.html\"",
+    "fix:md": "md_status=0; prettier --write \"**/*.md\" || md_status=$?; markdownlint-cli2 --fix || md_status=$?; exit $md_status",
+    "check:md": "prettier --check \"**/*.md\" && markdownlint-cli2"
   },
   "devDependencies": {
     "@ast-grep/cli": "0.51.0",
     "@biomejs/biome": "2.6.4",
     "@shopify/prettier-plugin-liquid": "1.10.2",
     "html-validate": "11.17.0",
+    "markdownlint-cli2": "0.24.0",
     "prettier": "3.9.10"
   },
   "allowScripts": {

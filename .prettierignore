@@ -1,7 +1,8 @@
-# Only project HTML templates are managed in this stage.
+# Format project HTML templates and Markdown documents only.
 **/*
 !**/
 !**/*.html
+!**/*.md
 .git/
 .local-quality/
 .jekyll-cache/

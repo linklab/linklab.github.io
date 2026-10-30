@@ -16,6 +16,20 @@
         "htmlWhitespaceSensitivity": "strict",
         "embeddedLanguageFormatting": "off"
       }
+    },
+    {
+      "files": [
+        "*.md"
+      ],
+      "options": {
+        "parser": "markdown",
+        "printWidth": 100,
+        "tabWidth": 2,
+        "useTabs": false,
+        "endOfLine": "lf",
+        "proseWrap": "preserve",
+        "embeddedLanguageFormatting": "off"
+      }
     }
   ]
 }
