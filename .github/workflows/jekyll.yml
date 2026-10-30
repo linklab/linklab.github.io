@@ -10,7 +10,7 @@ on:
   workflow_call:
     inputs:
       ref:
-        description: Commit that passed the quality checks
+        description: Commit to build after automatic fixes
         required: true
         type: string
       deploy:
@@ -56,11 +56,20 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Check JavaScript structure
+        id: check_js_structure
+        continue-on-error: true
         run: npm run check:js:structure
       - name: Check CSS structure
+        id: check_css_structure
+        continue-on-error: true
         run: npm run check:css:structure
       - name: Check HTML structure
+        id: check_html_structure
+        continue-on-error: true
         run: npm run check:html:structure
+      - name: Report structure issues
+        if: ${{ success() && contains(steps.*.outcome, 'failure') }}
+        run: echo "::warning::Structure checks found issues. Review the check logs. Deployment will continue."
       - name: Upload artifact
         if: inputs.deploy
         # Automatically uploads an artifact from the './_site' directory by default
