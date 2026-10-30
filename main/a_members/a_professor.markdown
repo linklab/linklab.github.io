@@ -10,9 +10,9 @@ permalink: /members/professor
                 <tbody>
                 <tr>
                     <td><br>
-                        <img src="/assets/images/yhhan.png" width="220" style="float:left; margin-right: 10px">
+                        <img src="/assets/images/yhhan.png" width="220" class="u-float-left-spaced">
                         <p></p>
-                        <div style="margin-top: -5px !important">
+                        <div class="u-margin-top-5px">
                             <h2 class="text-left">
                                 <strong>Youn-Hee Han</strong><br>
                             </h2>

@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2021/2/seminar_future_convergence
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-wrapper">
@@ -16,7 +16,7 @@ permalink: /courses/2021/2/seminar_future_convergence
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -31,11 +31,11 @@ permalink: /courses/2021/2/seminar_future_convergence
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:5%">#</th>
-                                                            <th scope="col" style="width:15%">Date</th>
-                                                            <th scope="col" style="width:35%">Subject</th>
-                                                            <th scope="col" style="width:20%">Lecturer</th>
-                                                            <th scope="col" style="width:10%">Notice</th>
+                                                            <th scope="col" class="u-width-5-percent">#</th>
+                                                            <th scope="col" class="u-width-15-percent">Date</th>
+                                                            <th scope="col" class="u-width-35-percent">Subject</th>
+                                                            <th scope="col" class="u-width-20-percent">Lecturer</th>
+                                                            <th scope="col" class="u-width-10-percent">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>

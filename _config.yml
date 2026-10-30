@@ -63,5 +63,6 @@ sass:
 
 exclude:
   - biome.json
+  - biome.css.json
   - package.json
   - package-lock.json

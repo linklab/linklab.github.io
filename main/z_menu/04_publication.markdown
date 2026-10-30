@@ -2,22 +2,20 @@
 layout: page
 title: Publication
 permalink: /publication/
+stylesheets:
+  - href: /assets/css/pages/section-headings.css
 ---
 
-<style>
-    h4 {
-        font-weight: bold;
-    }
-</style>
+
 <section>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white; font-size: 110%; font-weight: bold" class="container-fluid">
+                <div class="container-fluid u-section-heading">
                     <!--Start Content Grid-->
                     <div class="row content">
-                        <div style="padding:1.0em" class="content-wrapper">
+                        <div class="content-wrapper u-padding-1em">
                             <h4 class = "title-level-4 year"> 
                                 Academic Papers
                                 <a href="/publication/papers">

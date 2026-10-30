@@ -1,0 +1,15 @@
+id: no-inline-style-block
+language: Html
+severity: error
+message: Move CSS into an external stylesheet and load it through the page stylesheet list.
+rule:
+  kind: style_element
+---
+id: no-inline-style-attribute
+language: Html
+severity: error
+message: Replace static style attributes with classes from an external stylesheet.
+rule:
+  all:
+    - kind: attribute
+    - regex: '(?i)^style\s*='

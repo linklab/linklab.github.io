@@ -1,13 +1,10 @@
 ---
 layout: page
 permalink: /members/alumni
+stylesheets:
+  - href: /assets/css/pages/c_alumni.css
 ---
-<style>
-    .title-box {
-        margin-bottom: 40px;
-        position: relative;
-    }
-</style>
+
 <section>
     <div class="container">
         <div class="title-box">
@@ -35,7 +32,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 </li>
                             </ul>
                             <ul>
-                                <li style="font-size: 1.1em"><strong>Current Job</strong>: <br/>
+                                <li class="u-font-size-1p1em"><strong>Current Job</strong>: <br/>
                                 <strong>Assistant Professor, Yuan Ze University, Taiwan</strong>
                                 <a href="https://www.cse.yzu.edu.tw/en/people/professor?name=Ihsan%20Ullah" target="_blank">
                                     <i class="fa fa-link" aria-hidden="true"></i>
@@ -72,7 +69,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 </li>
                             </ul>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
                             </ul>
                         </div>
                     </div>
@@ -99,7 +96,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 </li>
                             </ul>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국과학기술정보연구원 (KISTI)</li>
                             </ul>
                         </div>
                     </div>
@@ -124,7 +121,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                                 </li>
                             </ul>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 배민로봇 (<a href="https://robot.baemin.com/" target="_blank">
+                                <li class="u-font-size-1p1em"><b>취업</b>: 배민로봇 (<a href="https://robot.baemin.com/" target="_blank">
                                             <i class="fa fa-link" aria-hidden="true"></i>
                                         </a>)</li>
                             </ul>
@@ -152,7 +149,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (Feb. 2026)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: -</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: -</li>
                             </ul>
                         </div>
                     </div>
@@ -174,7 +171,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (Aug. 2023)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
                             </ul>
                         </div>
                     </div>
@@ -196,7 +193,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (Feb. 2022)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국기술교육대학교 박사후연구원</li>
                             </ul>
                         </div>
                     </div>
@@ -218,7 +215,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (Feb. 2016)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)씽크온웹 CTO</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)씽크온웹 CTO</li>
                             </ul>
                         </div>
                     </div>
@@ -240,7 +237,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Ph.D. (Feb. 2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: ㈜트렌토시스템즈 수석연구원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: ㈜트렌토시스템즈 수석연구원</li>
                             </ul>
                         </div>
                     </div>
@@ -266,7 +263,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S.<br>(August 1, 2022 ~ Feb. 28, 2024)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -285,7 +282,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S.<br>(March 1, 2023 ~ August 31, 2024)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -307,7 +304,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S.<br>(March 1, 2020 ~ Feb. 28, 2023)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -329,7 +326,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S.<br>(March 1, 2019 ~ Feb. 1, 2021)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 인투와이즈 (ETRI 부설기업)</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 인투와이즈 (ETRI 부설기업)</li>
                             </ul>
                         </div>
                     </div>
@@ -348,7 +345,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S.<br>(March 1, 2019 ~ Feb. 1, 2021)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -370,7 +367,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: (주)씽크온웹 & 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>취업/진학</b>: (주)씽크온웹 & 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -389,7 +386,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -411,7 +408,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2017)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 컴퓨터공학과 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -425,7 +422,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2017)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 카페24</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 카페24</li>
                             </ul>
                         </div>
                     </div>
@@ -442,7 +439,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2016)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 네이버</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 네이버</li>
                             </ul>
                         </div>
                     </div>
@@ -459,7 +456,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)루키스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)루키스</li>
                             </ul>
                         </div>
                     </div>
@@ -476,7 +473,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 삼성전자</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 삼성전자</li>
                             </ul>
                         </div>
                     </div>
@@ -490,7 +487,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 코인원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 코인원</li>
                             </ul>
                         </div>
                     </div>
@@ -512,7 +509,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -534,7 +531,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 박사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 박사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -548,7 +545,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: LG CNS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: LG CNS</li>
                             </ul>
                         </div>
                     </div>
@@ -565,7 +562,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)익스이노</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)익스이노</li>
                             </ul>
                         </div>
                     </div>
@@ -579,7 +576,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">M.S. (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)알티캐스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)알티캐스</li>
                             </ul>
                         </div>
                     </div>
@@ -688,7 +685,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: ChatGPT 기반 스터디멘토 서비스</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/x156zge6q32siohc3d2xx/22_ChatGPT-_.pdf?rlkey=kapef9pmdacgn74tea38fhgus&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -798,7 +795,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 숙박 편의성까지 고려한 최적의 여행 경로 추천 서비스</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/0we514777f7gjrscoyfv4/27_-_-_-_-_-_-_-_-_-_.pdf?rlkey=6xbunfh3pd8auifjdsinmutxj&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -908,7 +905,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 딥러닝 기반 위험 소리 감지 앱</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/029tjyq88wtdp3f/%EC%88%9C%EB%B2%8826_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%9C%84%ED%97%98%20%EC%86%8C%EB%A6%AC%20%EA%B0%90%EC%A7%80%20%EC%95%B1_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -934,7 +931,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Undergraduate<br/>(March 1, 2021 ~ Present)</h6>
                             <hr>
                             <ul class="topic_email">
-                                <li style="font-size: 1.0em"><b>취업</b>: 티멕스소프트</li>
+                                <li class="u-font-size-1em"><b>취업</b>: 티멕스소프트</li>
                             </ul>
                         </div>
                     </div>
@@ -1042,7 +1039,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: GAN을 활용한 원샷 이미지 스타일 전이 앱</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/lx1zl4lpu3n39xq/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%EC%B5%9C%EC%A2%85_2.pptx?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -1055,7 +1052,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 이미지분석을 이용한 약 정보 검색 시스템</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/euaqabl0qhw3xbx/%EC%88%9C%EB%B2%8839_%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B6%84%EC%84%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%BD%20%EC%A0%95%EB%B3%B4%20%EA%B2%80%EC%83%89%20%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -1080,7 +1077,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h4 class="card-title">Sang-Hyun Gil (길상현)</h4>
                             <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
                             <ul class="">
-                                <li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>
                             </ul>
                         </div>
                     </div>
@@ -1098,7 +1095,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h4 class="card-title">Seung-Bum Yu (유승범)</h4>
                             <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 스마트미디어랩</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 스마트미디어랩</li>
                             </ul>
                         </div>
                     </div>
@@ -1116,7 +1113,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h4 class="card-title">Seung-Hun Lee (이승훈)</h4>
                             <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
                             <ul class="">
-                                <li style="font-size: 1.1em"><b>취업</b>: SSG</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: SSG</li>
                             </ul>
                         </div>
                     </div>
@@ -1134,7 +1131,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h4 class="card-title">Cha-Young Oh (오차영)</h4>
                             <h6 class="card-category">Bachelor (2022)</h6>                            <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 국민대학교</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 국민대학교</li>
                             </ul>
                         </div>
                     </div>
@@ -1153,7 +1150,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2022)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교</li>
                             </ul>
                         </div>
                     </div>
@@ -1162,7 +1159,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 병원 진료 수화 통역기</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/qp3jpic3mxfcey0/2021_15_graduate_project.pdf?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -1249,7 +1246,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2021)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 인스웨이브시스템즈</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 인스웨이브시스템즈</li>
                             </ul>
                         </div>
                     </div>
@@ -1288,7 +1285,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2021)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국기술교육대학교</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국기술교육대학교</li>
                             </ul>
                         </div>
                     </div>
@@ -1317,7 +1314,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 적대적 생성 딥러닝 모델을 활용한 트로트 음원 작곡</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/s/4jucvph8y1ic7dv/%EC%A0%81%EB%8C%80%EC%A0%81%20%EC%83%9D%EC%84%B1%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%8A%B8%EB%A1%9C%ED%8A%B8%20%EC%9D%8C%EC%9B%90%20%EC%9E%91%EA%B3%A1_%EC%9E%AC%EC%8B%AC%EC%82%AC.pptx?dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -1341,7 +1338,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)루미르</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)루미르</li>
                             </ul>
                         </div>
                     </div>
@@ -1355,7 +1352,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 국민연금공단</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 국민연금공단</li>
                             </ul>
                         </div>
                     </div>
@@ -1369,7 +1366,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: </li>
+                                <li class="u-font-size-1p1em"><b>취업/진학</b>: </li>
                             </ul>
                         </div>
                     </div>
@@ -1383,7 +1380,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: </li>
+                                <li class="u-font-size-1p1em"><b>취업/진학</b>: </li>
                             </ul>
                         </div>
                     </div>
@@ -1397,7 +1394,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: </li>
+                                <li class="u-font-size-1p1em"><b>취업/진학</b>: </li>
                             </ul>
                         </div>
                     </div>
@@ -1411,7 +1408,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: </li>
+                                <li class="u-font-size-1p1em"><b>취업/진학</b>: </li>
                             </ul>
                         </div>
                     </div>
@@ -1425,7 +1422,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국정보통신기술협회(TTA)</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국정보통신기술협회(TTA)</li>
                             </ul>
                         </div>
                     </div>
@@ -1439,7 +1436,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국요꼬가와전기(주)</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국요꼬가와전기(주)</li>
                             </ul>
                         </div>
                     </div>
@@ -1453,7 +1450,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2020)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업/진학</b>: </li>
+                                <li class="u-font-size-1p1em"><b>취업/진학</b>: </li>
                             </ul>
                         </div>
                     </div>
@@ -1462,7 +1459,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 딥러닝 기반 비속어 필터링 채팅 프로그램</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -1475,7 +1472,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 딥러닝을 이용한 BGM 음원 작곡 서비스</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="#" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -1504,7 +1501,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2019)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -1518,7 +1515,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2019)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 바이브 (구. 다음소프트)</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 바이브 (구. 다음소프트)</li>
                             </ul>
                         </div>
                     </div>
@@ -1532,7 +1529,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2019)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: LG CNS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: LG CNS</li>
                             </ul>
                         </div>
                     </div>
@@ -1575,7 +1572,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 민트팟</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 민트팟</li>
                             </ul>
                         </div>
                     </div>
@@ -1602,7 +1599,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)씽크온웹</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)씽크온웹</li>
                             </ul>
                         </div>
                     </div>
@@ -1629,7 +1626,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한국철도공사</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한국철도공사</li>
                             </ul>
                         </div>
                     </div>
@@ -1643,7 +1640,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 이노와어리스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 이노와어리스</li>
                             </ul>
                         </div>
                     </div>
@@ -1657,7 +1654,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2018)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 인젠트</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 인젠트</li>
                             </ul>
                         </div>
                     </div>
@@ -1674,7 +1671,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2017)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: LG CNS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: LG CNS</li>
                             </ul>
                         </div>
                     </div>
@@ -1688,7 +1685,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2017)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 동경전자</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 동경전자</li>
                             </ul>
                         </div>
                     </div>
@@ -1715,7 +1712,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2017)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)엔키</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)엔키</li>
                             </ul>
                         </div>
                     </div>
@@ -1745,7 +1742,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2016)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 김앤장법률사무소</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 김앤장법률사무소</li>
                             </ul>
                         </div>
                     </div>
@@ -1764,7 +1761,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2016)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -1778,7 +1775,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2016)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 엠앤와이즈</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 엠앤와이즈</li>
                             </ul>
                         </div>
                     </div>
@@ -1808,7 +1805,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: KAIST 대학원</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: KAIST 대학원</li>
                             </ul>
                         </div>
                     </div>
@@ -1835,7 +1832,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 국방부</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 국방부</li>
                             </ul>
                         </div>
                     </div>
@@ -1862,7 +1859,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 사이냅소프트</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 사이냅소프트</li>
                             </ul>
                         </div>
                     </div>
@@ -1876,7 +1873,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 브링프라이스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 브링프라이스</li>
                             </ul>
                         </div>
                     </div>
@@ -1890,7 +1887,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2015)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 충남문화산업진흥원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 충남문화산업진흥원</li>
                             </ul>
                         </div>
                     </div>
@@ -1907,7 +1904,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 카카오</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 카카오</li>
                             </ul>
                         </div>
                     </div>
@@ -1921,7 +1918,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 네이버</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 네이버</li>
                             </ul>
                         </div>
                     </div>
@@ -1935,7 +1932,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 네이버</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 네이버</li>
                             </ul>
                         </div>
                     </div>
@@ -1949,7 +1946,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 미디어로그</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 미디어로그</li>
                             </ul>
                         </div>
                     </div>
@@ -1975,7 +1972,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 직업능력심사평가원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 직업능력심사평가원</li>
                             </ul>
                         </div>
                     </div>
@@ -1989,7 +1986,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)세메스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)세메스</li>
                             </ul>
                         </div>
                     </div>
@@ -2003,7 +2000,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2014)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -2020,7 +2017,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2013)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: NH농협은행</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: NH농협은행</li>
                             </ul>
                         </div>
                     </div>
@@ -2034,7 +2031,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2013)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 아레스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 아레스</li>
                             </ul>
                         </div>
                     </div>
@@ -2048,7 +2045,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2013)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 삼성 SDS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 삼성 SDS</li>
                             </ul>
                         </div>
                     </div>
@@ -2062,7 +2059,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2013)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)대륙제관</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)대륙제관</li>
                             </ul>
                         </div>
                     </div>
@@ -2076,7 +2073,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2013)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 서린정보기술</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 서린정보기술</li>
                             </ul>
                         </div>
                     </div>
@@ -2103,7 +2100,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2013)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 루키스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 루키스</li>
                             </ul>
                         </div>
                     </div>
@@ -2120,7 +2117,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)한국수자원자력</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)한국수자원자력</li>
                             </ul>
                         </div>
                     </div>
@@ -2134,7 +2131,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)남해화학</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)남해화학</li>
                             </ul>
                         </div>
                     </div>
@@ -2148,7 +2145,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)코어벨</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)코어벨</li>
                             </ul>
                         </div>
                     </div>
@@ -2162,7 +2159,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 육군장교</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 육군장교</li>
                             </ul>
                         </div>
                     </div>
@@ -2176,7 +2173,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2012)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)슈어소프트테크</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)슈어소프트테크</li>
                             </ul>
                         </div>
                     </div>
@@ -2219,7 +2216,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: SK CNS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: SK CNS</li>
                             </ul>
                         </div>
                     </div>
@@ -2233,7 +2230,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -2247,7 +2244,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)웨인테크놀로지</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)웨인테크놀로지</li>
                             </ul>
                         </div>
                     </div>
@@ -2261,7 +2258,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 해군 학사장교</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 해군 학사장교</li>
                             </ul>
                         </div>
                     </div>
@@ -2275,7 +2272,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 공군 학사장교</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 공군 학사장교</li>
                             </ul>
                         </div>
                     </div>
@@ -2289,7 +2286,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2011)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국신학대학원</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국신학대학원</li>
                             </ul>
                         </div>
                     </div>
@@ -2345,7 +2342,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 삼성전자</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 삼성전자</li>
                             </ul>
                         </div>
                     </div>
@@ -2359,7 +2356,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 카카오</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 카카오</li>
                             </ul>
                         </div>
                     </div>
@@ -2373,7 +2370,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: KOICA</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: KOICA</li>
                             </ul>
                         </div>
                     </div>
@@ -2387,7 +2384,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)나우콤</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)나우콤</li>
                             </ul>
                         </div>
                     </div>
@@ -2401,7 +2398,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -2415,7 +2412,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)BlueoceanSoft</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)BlueoceanSoft</li>
                             </ul>
                         </div>
                     </div>
@@ -2429,7 +2426,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2010)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 세창세미콘</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 세창세미콘</li>
                             </ul>
                         </div>
                     </div>
@@ -2459,7 +2456,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)빌트원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)빌트원</li>
                             </ul>
                         </div>
                     </div>
@@ -2473,7 +2470,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: LG전자</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: LG전자</li>
                             </ul>
                         </div>
                     </div>
@@ -2487,7 +2484,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: LG CNS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: LG CNS</li>
                             </ul>
                         </div>
                     </div>
@@ -2501,7 +2498,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: LG CNS</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: LG CNS</li>
                             </ul>
                         </div>
                     </div>
@@ -2515,7 +2512,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)한성티앤아이</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)한성티앤아이</li>
                             </ul>
                         </div>
                     </div>
@@ -2529,7 +2526,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 한일정보통신</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 한일정보통신</li>
                             </ul>
                         </div>
                     </div>
@@ -2543,7 +2540,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)OpenTide</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)OpenTide</li>
                             </ul>
                         </div>
                     </div>
@@ -2557,7 +2554,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 하나로티앤에스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 하나로티앤에스</li>
                             </ul>
                         </div>
                     </div>
@@ -2576,7 +2573,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -2590,7 +2587,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2009)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -2620,7 +2617,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2008)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)자이네스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)자이네스</li>
                             </ul>
                         </div>
                     </div>
@@ -2634,7 +2631,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2008)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)쿼드디멘션스</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)쿼드디멘션스</li>
                             </ul>
                         </div>
                     </div>
@@ -2648,7 +2645,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2008)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: (주)에스디엔</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: (주)에스디엔</li>
                             </ul>
                         </div>
                     </div>
@@ -2662,7 +2659,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2008)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
+                                <li class="u-font-size-1p1em"><b>진학</b>: 한국기술교육대학교 대학원 석사과정</li>
                             </ul>
                         </div>
                     </div>
@@ -2676,7 +2673,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2008)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 공무원</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 공무원</li>
                             </ul>
                         </div>
                     </div>
@@ -2690,7 +2687,7 @@ Learning, Ubiquitous Computing and Wireless Sensor Network.
                             <h6 class="card-category">Bachelor (2008)</h6>
                             <hr>
                             <ul>
-                                <li style="font-size: 1.1em"><b>취업</b>: 대한상공회의소</li>
+                                <li class="u-font-size-1p1em"><b>취업</b>: 대한상공회의소</li>
                             </ul>
                         </div>
                     </div>

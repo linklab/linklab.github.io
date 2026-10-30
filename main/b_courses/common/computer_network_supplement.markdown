@@ -6,12 +6,12 @@ layout: page
 permalink: /courses/common/computer_network_supplement
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -19,7 +19,7 @@ permalink: /courses/common/computer_network_supplement
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">

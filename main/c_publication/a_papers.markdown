@@ -7,13 +7,13 @@ permalink: /publication/papers
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
-                    <section class="row content" style="padding-bottom:100px">
+                    <section class="row content u-padding-bottom-100px">
                         <section class="content-wrapper title-section">
                             <h2 class="title-level-2">International Publications</h2>
                         </section>
-                        <section style="padding: 0px 30px; width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-content-padding-30">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <article>
@@ -855,7 +855,7 @@ permalink: /publication/papers
                         <section class="content-wrapper title-section">
                             <h2 class="title-level-2">Domestic Publications</h2>
                         </section>
-                        <section style="padding: 0px 30px; width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-content-padding-30">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <article>

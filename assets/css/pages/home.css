@@ -1,0 +1,138 @@
+.page-content {
+  padding: 0px 0;
+  flex: 1;
+}
+
+@media (max-width: 767px) {
+  .lab_title,
+  .lab_sub_title {
+    font-family: "NotoSansKR-Regular", sans-serif;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    padding-bottom: 0em;
+  }
+  .lab_sub_title {
+    margin-top: 0em;
+    font-size: 0.65em;
+  }
+  .lab_member {
+    margin-top: 2em;
+  }
+}
+
+@media (min-width: 768px) {
+  .lab_title,
+  .lab_sub_title {
+    font-family: "NotoSansKR-Regular", sans-serif;
+    color: black;
+    font-size: 2em;
+    font-weight: bold;
+    padding-bottom: 0.5em;
+  }
+  .lab_sub_title {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+    margin-bottom: 0.7em;
+  }
+}
+
+.title {
+  font-family: "NotoSansKR-Regular", sans-serif;
+  color: black;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.news {
+  font-size: 1em;
+  font-weight: bold;
+  font-family: "NotoSansKR-Regular", sans-serif;
+  word-break: keep-all;
+}
+
+.solid_border {
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  padding: 0.1em;
+}
+
+.recruit {
+  font-size: 1em;
+  font-weight: bold;
+  font-family: "NotoSansKR-Regular", sans-serif;
+  word-break: keep-all;
+  color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  padding: 1em;
+}
+
+.date {
+  color: darkorange;
+  text-align: right;
+  width: 20%;
+}
+
+.desc {
+  color: darkslategray;
+  width: 80%;
+}
+
+@media (max-width: 767px) {
+  .right_padding {
+    padding: 0;
+    padding-right: 1em !important;
+    padding-left: 1em !important;
+    margin: 0 !important;
+  }
+
+  .left_padding {
+    padding: 0;
+    padding-right: 1em !important;
+    padding-left: 1em !important;
+    margin: 0 !important;
+  }
+
+  .youtube_div {
+    margin-left: -1.1em !important;
+  }
+
+  .third_image {
+    margin-bottom: 0.6em !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .right_padding {
+    padding: 0;
+    padding-right: 1em !important;
+    margin: 0 !important;
+  }
+
+  .left_padding {
+    padding: 0;
+    padding-left: 1em !important;
+    margin: 0 !important;
+  }
+
+  .second_label_photos {
+    margin-top: -0.6em;
+  }
+}
+
+.link_member_photo {
+  display: block;
+  width: 100%;
+  height: 10em;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+@media (min-width: 768px) {
+  .link_member_photo {
+    height: 11em;
+  }
+}

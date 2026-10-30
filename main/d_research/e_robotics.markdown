@@ -1,33 +1,20 @@
 ---
 layout: page
 permalink: /research/robotics
+stylesheets:
+  - href: /assets/css/pages/research-wide.css
 ---
 
-<style>
-    ol.study {
-        list-style: inside;
-        padding-top: 0.0em;
-    }
-    .article-content-1 > ul, ol {
-        margin-top: 0em;
-        margin-left: 0px;
-    }
-    @media (min-width: 1200px) {
-        .container {
-            max-width: 1200px;
-            padding: 0;
-        }
-    }
-</style>
+
 
 
 <section>
 <div class="cw-content container-fluid">
     <div class="cyw-container">
         <div class="container">
-            <div style="background-color:white;" class="container-fluid">
-                <section class="row content" style="padding-bottom:100px">
-                <section style="padding: 0px 0px; width:100%" class="content-wrapper">
+            <div class="container-fluid u-background-color-white">
+                <section class="row content u-padding-bottom-100px">
+                <section class="content-wrapper u-content-padding-0">
                     <article>
                         <button class="accordion">Robotics - Materials</button>
                         <div class="panel article-content-1 research-content">

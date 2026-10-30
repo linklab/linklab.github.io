@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2022/1/advanced_ai
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -16,7 +16,7 @@ permalink: /courses/2022/1/advanced_ai
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -42,11 +42,11 @@ permalink: /courses/2022/1/advanced_ai
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:10%">Date</th>
-                                                            <th scope="col" style="width:36%">Paper Presentation</th>
-                                                            <th scope="col" style="width:30%">Lecture Subject</th>
-                                                            <th scope="col" style="width:20%">Notice</th>
+                                                            <th scope="col" class="u-width-4-percent">#</th>
+                                                            <th scope="col" class="u-width-10-percent">Date</th>
+                                                            <th scope="col" class="u-width-36-percent">Paper Presentation</th>
+                                                            <th scope="col" class="u-width-30-percent">Lecture Subject</th>
+                                                            <th scope="col" class="u-width-20-percent">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>

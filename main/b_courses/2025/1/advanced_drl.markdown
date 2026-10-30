@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2025/1/advanced_drl
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -16,7 +16,7 @@ permalink: /courses/2025/1/advanced_drl
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -53,11 +53,11 @@ permalink: /courses/2025/1/advanced_drl
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                             <tr>
-                                                                <th scope="col" style="width:4%">#</th>
-                                                                <th scope="col" style="width:10%">Date</th>
-                                                                <th scope="col" style="width:32%">Book Presentation</th>
-                                                                <th scope="col" style="width:32%">Paper Presentation</th>
-                                                                <th scope="col" style="width:22%">Notice</th>
+                                                                <th scope="col" class="u-width-4-percent">#</th>
+                                                                <th scope="col" class="u-width-10-percent">Date</th>
+                                                                <th scope="col" class="u-width-32-percent">Book Presentation</th>
+                                                                <th scope="col" class="u-width-32-percent">Paper Presentation</th>
+                                                                <th scope="col" class="u-width-22-percent">Notice</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -246,7 +246,7 @@ permalink: /courses/2025/1/advanced_drl
                                                                      </a>
                                                                 </td>
                                                                 <td>
-                                                                    <div style="margin-left: 1.0em">
+                                                                    <div class="u-margin-left-1em">
                                                                         <strong>Imitation Learning의 목표</strong>
                                                                         <ol>
                                                                             <li>시연을 통해 에이전트가 특정 작업이나 행동을 학습하도록 함.</li>
@@ -349,7 +349,7 @@ permalink: /courses/2025/1/advanced_drl
                                                     <br/>
                                                     <div>
                                                         <h3>4족보행 로봇 제어 관련 논문</h3>
-                                                        <ol style="margin-left: 2.0em">
+                                                        <ol class="u-margin-left-2em">
                                                             <li><del>Learning Agile Robotic Locomotion Skills by Imitating Animals</del><br>
                                                                 Xue Bin Peng, et al. - RSS, 2020<br>
                                                                 <a href="https://roboticsconference.org/2020/program/papers/64.html">논문 링크</a>
@@ -384,7 +384,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                         </ol>
                                                         <h3>휴머노이드 (이족보행) 로봇 제어 관련 논문</h3>
-                                                        <ol style="margin-left: 2.0em">
+                                                        <ol class="u-margin-left-2em">
                                                             <li><del>Learning Locomotion Skills for Cassie: Iterative Design and Sim-to-Real</del><br>
                                                                 Xie, Zhaoming, et al. - PMLR, 2020<br>
                                                                 <a href="https://proceedings.mlr.press/v100/xie20a.html">논문 링크</a>
@@ -399,7 +399,7 @@ permalink: /courses/2025/1/advanced_drl
                                                             </li>
                                                         </ol>
                                                         <h3>기본 모델 (Foundation Model) 기반 로봇 제어 관련 논문</h3>
-                                                        <ol style="margin-left: 2.0em">
+                                                        <ol class="u-margin-left-2em">
                                                             <li><del>RT-1: Robotics Transformer for Real-World Control at Scale</del><br>
                                                                 Brohan, Anthony, et al. - CoRL, 2022<br>
                                                                 <a href="https://robotics-transformer1.github.io/">논문 링크</a>

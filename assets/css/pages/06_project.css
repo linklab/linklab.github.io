@@ -1,0 +1,16 @@
+.panel {
+  padding: 30px 0px 0px 0px;
+}
+
+table.acknowledgement {
+  margin: auto;
+  margin-bottom: 2.5em;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1190px;
+    padding: 0;
+  }
+}

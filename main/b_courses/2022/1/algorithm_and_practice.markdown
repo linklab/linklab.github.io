@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2022/1/algorithm_and_practice
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -16,7 +16,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -34,11 +34,11 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:19%">Date</th>
-                                                            <th scope="col" style="width:26%">In-class (오프라인/Zoom 실시간 강의)</th>
-                                                            <th scope="col" style="width:25%">Online-class (E-Learning 학습)</th>
-                                                            <th scope="col" style="width:26%">Notice</th>
+                                                            <th scope="col" class="u-width-4-percent">#</th>
+                                                            <th scope="col" class="u-width-19-percent">Date</th>
+                                                            <th scope="col" class="u-width-26-percent">In-class (오프라인/Zoom 실시간 강의)</th>
+                                                            <th scope="col" class="u-width-25-percent">Online-class (E-Learning 학습)</th>
+                                                            <th scope="col" class="u-width-26-percent">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
@@ -84,7 +84,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
                                                                 <br/>
-                                                                <div class="btn btn-outline-primary text-left" style="width: 100%">
+                                                                <div class="btn btn-outline-primary text-left u-width-100-percent">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/79tx24vh0fbni34/search.py?dl=0" target="_blank">search.py</a><br/>
                                                                     - <a href="https://www.dropbox.com/s/pk99g0mrc9b5x3x/fibonacci.py?dl=0" target="_blank">fibonacci.py</a><br/>
@@ -128,7 +128,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             <td>
                                                                     [질의응답 주제] 점근적 복잡도 분석에 사용되는 집합 기호 각각의 실제적인 쓰임새는 어떻게 되나요?
                                                                     <i class="fas fa-book-reader"></i>
-                                                                    <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-1.ipynb" target="_blank">Homework #1</a>
+                                                                    <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-1.ipynb" target="_blank" class="u-font-weight-bold">Homework #1</a>
                                                                     <br/>
                                                                     Due Date: 2021년 09월 24일, 23시 59분
                                                             </td>
@@ -169,7 +169,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [주제] 합병 정렬/퀵 정렬 알고리즘
-                                                                <div class="btn btn-outline-primary text-left" style="width: 100%">
+                                                                <div class="btn btn-outline-primary text-left u-width-100-percent">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/q0uixs4t5zqeiuc/merge_and_quick_sort.py?dl=0" target="_blank">merge_and_quick_sort.py</a>
                                                                 </div>
@@ -181,7 +181,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/wvslqexbnawu9s4/homework_2.pdf?dl=0" target="_blank">[Practice & Homework #2]</a>
+                                                                <a href="https://www.dropbox.com/s/wvslqexbnawu9s4/homework_2.pdf?dl=0" target="_blank" class="u-font-weight-bold">[Practice & Homework #2]</a>
                                                                 <br/>
                                                                 Due Date: 04월 05일 (화요일), 23시 59분
 <!--                                                                    10. 리스트, 스택, 큐 (생략)-->
@@ -227,7 +227,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                                 <a href="https://www.dropbox.com/s/yrbpvt7qke6s2xf/06_%EA%B2%80%EC%83%89%20%ED%8A%B8%EB%A6%AC.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
-                                                                <div class="btn btn-outline-primary text-left" style="width: 100%">
+                                                                <div class="btn btn-outline-primary text-left u-width-100-percent">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/h0ew1289fp5u4lp/binary_search_tree.py?dl=0" target="_blank">binary_search_tree.py</a>
                                                                 </div>
@@ -240,7 +240,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/rzml0icytd01hnc/homework_3.pdf?dl=0" target="_blank">[Practice & Homework #3]</a>
+                                                                <a href="https://www.dropbox.com/s/rzml0icytd01hnc/homework_3.pdf?dl=0" target="_blank" class="u-font-weight-bold">[Practice & Homework #3]</a>
                                                                 <br/>
                                                                 Due Date: 04월 21일 (목요일), 23시 59분
 {#                                                                    [질의응답 주제] 레드블랙트리와 B-트리는 기존 이진검색트리의 어떠한 단점을 극복하려고 하였는가?#}
@@ -340,7 +340,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             <td>
 <!--                                                                    [질의응답 주제] 행렬 곱셈 순서 문제에 대한 동적 프로그램 재귀적 관계식을 제시하고 설명할 수 있나요?
                                                                     <i class="fas fa-book-reader"></i>
-                                                                    <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-4.ipynb" target="_blank">Homework #4</a>
+                                                                    <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-4.ipynb" target="_blank" class="u-font-weight-bold">Homework #4</a>
                                                                     <br/>
                                                                     Due Date: 2021년 11월 27일(토), 23시 59분
                                                                     <br/><br/>
@@ -368,7 +368,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                                 <a href="https://www.dropbox.com/s/u9yucsz4ynrpxtv/10_%EA%B7%B8%EB%9E%98%ED%94%84.pdf?dl=0" target="_blank">
                                                                     <span class="badge badge-warning">강의 노트</span>
                                                                 </a>
-                                                                <div class="btn btn-outline-primary text-left" style="width: 100%">
+                                                                <div class="btn btn-outline-primary text-left u-width-100-percent">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/9pz1rhtv0ie9j0u/minimum_spanning_tree.py?dl=0" target="_blank">minimum_spanning_tree.py</a>
                                                                 </div>
@@ -380,7 +380,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/0fayu84hsnlji2i/homework_4.pdf?dl=0" target="_blank">[Practice & Homework #4]</a>
+                                                                <a href="https://www.dropbox.com/s/0fayu84hsnlji2i/homework_4.pdf?dl=0" target="_blank" class="u-font-weight-bold">[Practice & Homework #4]</a>
                                                                 <br/>
                                                                 Due Date: 06월 03일 (금요일), 23시 59분
 <!--                                                                    [질의응답 주제] 프림 알고리즘과 크루스컬 알고리즘의 점근적 복잡도를 비교 설명할 수 있나요?-->
@@ -395,7 +395,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 [주제] 그래프 알고리즘 - II
-                                                                <div class="btn btn-outline-primary text-left" style="width: 100%">
+                                                                <div class="btn btn-outline-primary text-left u-width-100-percent">
                                                                     [Practice]<br/>
                                                                     - <a href="https://www.dropbox.com/s/mysij8yoj2y73cj/shortest_path.py?dl=0" target="_blank">shortest_path.py</a>
                                                                 </div>
@@ -433,7 +433,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/blxdc9v22clhhdl/homework_5.pdf?dl=0" target="_blank">[Practice & Homework #5]</a>
+                                                                <a href="https://www.dropbox.com/s/blxdc9v22clhhdl/homework_5.pdf?dl=0" target="_blank" class="u-font-weight-bold">[Practice & Homework #5]</a>
                                                                 <br/>
                                                                 Due Date: 06월 15일 (수요일), 23시 59분
                                                             </td>
@@ -508,7 +508,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                         </li>
                                                         <li>
                                                             Classes:
-                                                            <ul style="margin-left: 2em">
+                                                            <ul class="u-margin-left-2em">
                                                                 <li>2분반: 월요일 (16:00 ~ 17:50, 월08A ~ 09B), 목요일 (16:00 ~ 17:50, 목08A ~ 09B)</li>
                                                                 <li>3분반: 화요일 (14:00 ~ 15:50, 화06A ~ 07B), 수요일 (14:00 ~ 15:50, 수06A ~ 07B), </li>
                                                             </ul>
@@ -518,7 +518,7 @@ permalink: /courses/2022/1/algorithm_and_practice
                                                         </li>
                                                         <li>
                                                             수업조교(TA):
-                                                            <ul style="margin-left: 2em">
+                                                            <ul class="u-margin-left-2em">
                                                                 <li>2분반: 석영준 석사과정 (Email: dsb04163@koreatech.ac.kr)</li>
                                                                 <li>3분반: 최요한 석사과정 (Email: yoweif@koreatech.ac.kr)</li>
                                                             </ul>

@@ -1,33 +1,20 @@
 ---
 layout: page
 permalink: /research/cop
+stylesheets:
+  - href: /assets/css/pages/research.css
 ---
 
-<style>
-    ol.study {
-        list-style: inside;
-        padding-top: 0.0em;
-    }
-    .article-content-1 > ul, ol {
-        margin-top: 0em;
-        margin-left: 0px;
-    }
-    @media (min-width: 1200px) {
-        .container {
-            max-width: 1190px;
-            padding: 0;
-        }
-    }
-</style>
+
 
 
 <section>
 <div class="cw-content container-fluid">
     <div class="cyw-container">
         <div class="container">
-            <div style="background-color:white;" class="container-fluid">
-                <section class="row content" style="padding-bottom:100px">
-                <section style="padding: 0px 3px; width:100%" class="content-wrapper">
+            <div class="container-fluid u-background-color-white">
+                <section class="row content u-padding-bottom-100px">
+                <section class="content-wrapper u-content-padding-3">
                     <article>
                         <button class="accordion">Neural Combinatorial Optimization (NCO) - Related Works</button>
                         <div class="panel article-content-1 research-content">
@@ -35,7 +22,7 @@ permalink: /research/cop
                                 <li>
                                     <span>
                                         Ruben Solozabal, Josu Ceberio, and Martin Takáč,
-                                        <span style="font-weight: bold">
+                                        <span class="u-font-weight-bold">
                                             "Constrained Combinatorial Optimization with Reinforcement Learning,"
                                         </span>
                                         arXiv:2006.11984, 2022
@@ -47,7 +34,7 @@ permalink: /research/cop
                                 <li>
                                     <span>
                                         Andoni I. Garmendia, Josu Ceberio, Alexander Mendiburu,
-                                        <span style="font-weight: bold">
+                                        <span class="u-font-weight-bold">
                                             "Neural Combinatorial Optimization: a New Player in the Field,"
                                         </span>
                                             arXiv:2205.01356, 2022
@@ -59,7 +46,7 @@ permalink: /research/cop
                                 <li>
                                     <span>
                                         Wouter Kool, Herke van Hoof, Max Welling,
-                                        <span style="font-weight: bold">
+                                        <span class="u-font-weight-bold">
                                             "Attention, Learn to Solve Routing Problems!,"
                                         </span>
                                         ICLR 2019
@@ -71,7 +58,7 @@ permalink: /research/cop
                                 <li>
                                     <span>
                                         Mohammadreza Nazari, Afshin Oroojlooy, Lawrence V. Snyder, and Martin Takáč,
-                                        <span style="font-weight: bold">
+                                        <span class="u-font-weight-bold">
                                             "Reinforcement Learning for Solving the Vehicle Routing Problem,"
                                         </span>
                                         NIPS 2018
@@ -83,7 +70,7 @@ permalink: /research/cop
                                 <li>
                                     <span>
                                         Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, and Samy Bengio,
-                                        <span style="font-weight: bold">
+                                        <span class="u-font-weight-bold">
                                             "Neural Combinatorial Optimization with Reinforcement Learning,"
                                         </span>
                                         ICLR 2017
@@ -95,7 +82,7 @@ permalink: /research/cop
                                 <li>
                                     <span>
                                         Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly,
-                                        <span style="font-weight: bold">
+                                        <span class="u-font-weight-bold">
                                             "Pointer networks,"
                                         </span>
                                         NIPS 2015
@@ -116,8 +103,8 @@ permalink: /research/cop
                         <div class="panel article-content-1 research-content">
                             <ol class="study">
                                 <li>
-                                    <span style="font-weight: bold">Operations Research</span>
-                                    <ol style="padding-left: 1.0em">
+                                    <span class="u-font-weight-bold">Operations Research</span>
+                                    <ol class="u-padding-left-1em">
                                         <li>
                                             Operations Research with Reinforcement Learning
                                             <a href="https://www.dropbox.com/s/3vioufswbyfx6ri/OR.pdf?dl=0" target="_blank">
@@ -126,7 +113,7 @@ permalink: /research/cop
                                         </li>
                                         <li>
                                             실습
-                                            <ol style="padding-left: 1.0em">
+                                            <ol class="u-padding-left-1em">
                                                 <li>
                                                     Knapsack Problem
                                                     <a href="https://colab.research.google.com/drive/1yzl_Od_QdGbzFTTV8NuMNgj-oKEcBKbZ" target="_blank">

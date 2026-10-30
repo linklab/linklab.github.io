@@ -2,34 +2,19 @@
 layout: page
 title: Projects
 permalink: /projects/
+stylesheets:
+  - href: /assets/css/pages/06_project.css
 ---
 
-<style>
-    .panel {
-        padding: 30px 0px 0px 0px;
-    }
 
-    table.acknowledgement {
-        margin: auto;
-        margin-bottom: 2.5em;
-        width: 100%;
-    }
-
-    @media (min-width: 1200px) {
-        .container {
-            max-width: 1190px;
-            padding: 0;
-        }
-    }
-</style>
 <section>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
-                    <section class="row content" style="padding-bottom:100px">
-                        <section style="padding: 0px 0px; width:100%" class="content-wrapper">
+                <div class="container-fluid u-background-color-white">
+                    <section class="row content u-padding-bottom-100px">
+                        <section class="content-wrapper u-content-padding-0">
                             <article>
                                 <button class="accordion">2025</button>
                                 <div class="panel article-content-1">

@@ -8,13 +8,13 @@ permalink: /seminar/undergraduate/winter_2020_2021
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
-                    <section class="row content" style="padding-bottom:100px">
+                    <section class="row content u-padding-bottom-100px">
                         <section class="content-wrapper title-section">
                         <!-- <h2 class="title-level-1">Projects</h2> -->
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 교재</button>
                                 <div class="panel article-content-1">
@@ -23,18 +23,18 @@ permalink: /seminar/undergraduate/winter_2020_2021
                                             <strong>심층 강화학습 인 액션, 알렉스 짜이, 브랜던 브라운 지음 | 류광 옮김 | 제이펍 | 2020년 11월 17일 출간</strong>,
                                             국내서: <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665612&orderClick=LAG&Kc="
                                                target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>,
                                             원서: <a href="https://www.manning.com/books/deep-reinforcement-learning-in-action"
                                                target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 참석자</button>
                                 <div class="panel article-content-1">
@@ -43,7 +43,7 @@ permalink: /seminar/undergraduate/winter_2020_2021
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 일정</button>
                                 <div class="panel article-content-1">

@@ -4,14 +4,17 @@
 
 layout: page
 permalink: /courses/2026/2/capston_design
+stylesheets:
+  - href: /assets/css/pages/capston_design.css
+  - href: /assets/css/pages/capston_design-2.css
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -19,7 +22,7 @@ permalink: /courses/2026/2/capston_design
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -28,23 +31,13 @@ permalink: /courses/2026/2/capston_design
                                                     <p><em><br>“Student-professor relationships are based on trust. Acts, which violate this trust, undermine the educational process. Your classmates and the professor will not tolerate violations of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule
-                                                    <style>
-                                                        .capston-schedule-table { font-size: 0.7em; }
-                                                        .capston-schedule-table ul { list-style-type: disc !important; list-style-position: inside !important; margin-left: 1em !important; padding-left: 0 !important; margin-bottom: 1em !important; }
-                                                        .capston-schedule-table ul li { display: list-item !important; }
-                                                        .capston-schedule-table ul ul { list-style-type: circle !important; }
-                                                        .capston-schedule-table ul ul ul { list-style-type: "- " !important; }
-                                                    </style>
-                                                    <div style="align-content: center">
-                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" style="width:75%; height:auto;"/>
+
+                                                    <div class="u-align-content-center">
+                                                        <img src="/assets/images/courses/capston_design_2026_2.png" alt="" class="u-image-three-quarter"/>
                                                     </div>
                                                     <hr/>
-                                                    <div style="font-size: medium">
-                                                        <style>
-                                                          ul li.top::marker {
-                                                            content: "👉 ";
-                                                          }
-                                                        </style>
+                                                    <div class="u-font-size-medium">
+
                                                         <h3>[2026년 10월 13일 공지 사항]</h3>
                                                         <br/>
                                                         <ul>
@@ -75,9 +68,9 @@ permalink: /courses/2026/2/capston_design
                                                         <table class="table table-bordered capston-schedule-table">
                                                             <thead class="thead-light">
                                                             <tr>
-                                                                <th scope="col" style="width:4%">회차</th>
-                                                                <th scope="col" style="width:14%">일시 / 장소</th>
-                                                                <th scope="col" style="width:14%">모임명</th>
+                                                                <th scope="col" class="u-width-4-percent">회차</th>
+                                                                <th scope="col" class="u-width-14-percent">일시 / 장소</th>
+                                                                <th scope="col" class="u-width-14-percent">모임명</th>
                                                                 <th scope="col">주요 내용</th>
                                                             </tr>
                                                             </thead>
@@ -403,7 +396,7 @@ permalink: /courses/2026/2/capston_design
                                                         <br/>
                                                         <h3 class="title-level-3">2. Course Information</h3>
                                                         <br/>
-                                                        <ul style="font-size: 1.2em">
+                                                        <ul class="u-font-size-1p2em">
                                                             <li>
                                                                 - Lecturer: 한연희 교수 (Rm. 2공학관 423호, Email: yhhan@koreatech.ac.kr)
                                                             </li>
@@ -415,7 +408,7 @@ permalink: /courses/2026/2/capston_design
                                                         <br/>
                                                         <h3 class="title-level-3">3. Course Goal</h3>
                                                         <br/>
-                                                        <ul style="font-size: 1.2em">
+                                                        <ul class="u-font-size-1p2em">
                                                             <li>
                                                                 - 겨울방학 시작 전에 각 팀이 <strong>"무엇을 만들 것인지, 왜 만드는지, 어떤 기술이 필요한지, 방학 동안 무엇을 준비해야 하는지"</strong>를 명확하게 정의
                                                             </li>

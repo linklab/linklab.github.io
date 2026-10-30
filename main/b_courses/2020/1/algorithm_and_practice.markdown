@@ -1,15 +1,17 @@
 ---
 layout: page
 permalink: /courses/2020/1/algorithm_and_practice
+stylesheets:
+  - href: /assets/css/pages/course-table.css
 ---
 
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-wrapper">
@@ -17,7 +19,7 @@ permalink: /courses/2020/1/algorithm_and_practice
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;" class="container-fluid">
+                                        <div class="container-fluid u-background-color-white">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -29,11 +31,7 @@ permalink: /courses/2020/1/algorithm_and_practice
                                                         of academic integrity.”</em></p><br>
                                                     <h3 class="title-level-2">1. Course Schedule &amp; Lecture Notes</h3>
                                                     <p>
-                                                        <style>
-                                                            td {
-                                                                width: 50%
-                                                            }
-                                                        </style>
+
                                                     </p>
                                                     <ul>
                                                         <li>March 16 (Monday) – <strong>Introduction to Course</strong>

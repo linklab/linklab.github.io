@@ -2,33 +2,21 @@
 layout: page
 title: Research
 permalink: /research/
+stylesheets:
+  - href: /assets/css/pages/05_research.css
 ---
 
-<style>
-    @media (min-width: 1200px) {
-        .container {
-            max-width: 1180px;
-            padding: 0;
-        }
-    }
-    .panel {
-        padding: 20px 0px 0px 0px;
-        background-color: white;
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.4s ease-out;
-    }
-</style>
+
 
 <section>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
-                    <section class="row content" style="padding-bottom:100px">
-                        <section style="padding: 0px 0px; width:100%" class="content-wrapper">
+                    <section class="row content u-padding-bottom-100px">
+                        <section class="content-wrapper u-content-padding-0">
                             <article>
                                 <button class="accordion">Fundamentals & Algorithms</button>
                                 <div class="panel article-content-1">

@@ -520,7 +520,7 @@
             var lenProjectData = projectData.length;
             for (var i = 0; i < lenProjectData; i++) {
               projectHtml +=
-                "<div class='col-xl-4 col-lg-4 col-md-12 col-sm-12' style='display:none;'>\
+                "<div class='col-xl-4 col-lg-4 col-md-12 col-sm-12 u-display-none'>\
 									            <div class='item-project'>\
 									              <div class='single-blog-post'>\
 									                <div class='wrapper-img-holder'>\
@@ -688,7 +688,7 @@
             var lenEssayData = essayData.length;
             for (var i = 0; i < lenEssayData; i++) {
               essayHtml +=
-                "<tr style='display:none;'>\
+                "<tr class='u-display-none'>\
                     <td class='bbs-date'>\
                       <div class='date-area'>\
                         <div class='date-d'>" +
@@ -803,7 +803,7 @@
             var lenConferenceData = conferenceData.length;
             for (var i = 0; i < lenConferenceData; i++) {
               conferenceHtml +=
-                "<tr style='display:none;'>\
+                "<tr class='u-display-none'>\
                     <td class='bbs-date'>\
                       <div class='date-area'>\
                         <div class='date-d'>" +
@@ -918,7 +918,7 @@
             var lenNoticeData = noticeData.length;
             for (var i = 0; i < lenNoticeData; i++) {
               newsHtml +=
-                "<tr style='display:none;'>\
+                "<tr class='u-display-none'>\
                     <td class='bbs-date'>\
                       <div class='date-area'>\
                         <div class='date-d'>" +
@@ -959,7 +959,7 @@
             var lenNewsData = newsData.length;
             for (var i = 0; i < lenNewsData; i++) {
               newsHtml +=
-                "<tr style='display:none;'>\
+                "<tr class='u-display-none'>\
                     <td class='bbs-date'>\
                       <div class='date-area'>\
                         <div class='date-d'>" +

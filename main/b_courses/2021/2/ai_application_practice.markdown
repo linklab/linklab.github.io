@@ -4,12 +4,12 @@ permalink: /courses/2021/2/ai_application_practice
 ---
 
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-wrapper">
@@ -17,7 +17,7 @@ permalink: /courses/2021/2/ai_application_practice
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -40,11 +40,11 @@ permalink: /courses/2021/2/ai_application_practice
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:5%">#</th>
-                                                            <th scope="col" style="width:22%">Date</th>
-                                                            <th scope="col" style="width:28%">온라인 강의 (E-Learning)</th>
-                                                            <th scope="col" style="width:28%">오프라인/Zoom 실시간 강의</th>
-                                                            <th scope="col" style="width:18%">Notice</th>
+                                                            <th scope="col" class="u-width-5-percent">#</th>
+                                                            <th scope="col" class="u-width-22-percent">Date</th>
+                                                            <th scope="col" class="u-width-28-percent">온라인 강의 (E-Learning)</th>
+                                                            <th scope="col" class="u-width-28-percent">오프라인/Zoom 실시간 강의</th>
+                                                            <th scope="col" class="u-width-18-percent">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
@@ -66,7 +66,7 @@ permalink: /courses/2021/2/ai_application_practice
                                                                 </a><br/>
                                                                 <a href="https://dora-guide.com/pycharm-install/" target="_blank">Pycharm 설치 및 설정</a>
                                                                 <a href="https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30" target="_blank">Windows 10에 Gym 설치</a>
-                                                                <div style="margin-left: 1em">
+                                                                <div class="u-margin-left-1em">
                                                                     - <a href="https://gym.openai.com/docs/" target="_blank">OpenAI Gym Docs</a>
                                                                 </div>
                                                             </td>
@@ -92,7 +92,7 @@ permalink: /courses/2021/2/ai_application_practice
                                                             <td>
                                                                 - Frozen Lake and Dynamic Programming
                                                                 <a href="https://www.deeplearningwizard.com/deep_learning/deep_reinforcement_learning_pytorch/dynamic_programming_frozenlake" target="_blank">
-                                                                    <img src="/assets/images/external_link.png" style="width: 1.0em;vertical-align:middle;"/>
+                                                                    <img src="/assets/images/external_link.png" class="u-document-icon-small"/>
                                                                 </a>
                                                             </td>
                                                         </tr>
@@ -145,7 +145,7 @@ permalink: /courses/2021/2/ai_application_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/glpfv7vpiqn5v5m/AI_APPLICATION_HW_1.pdf?dl=0" target="_blank">Homework #1</a>
+                                                                <a href="https://www.dropbox.com/s/glpfv7vpiqn5v5m/AI_APPLICATION_HW_1.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #1</a>
                                                                 <br/>
                                                                 Due Date: 2021년 10월 17일, 23시 59분
                                                             </td>
@@ -238,7 +238,7 @@ permalink: /courses/2021/2/ai_application_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/1jvrkg1hb0yv3cr/AI_APPLICATION_HW_2.pdf?dl=0" target="_blank">Homework #2</a>
+                                                                <a href="https://www.dropbox.com/s/1jvrkg1hb0yv3cr/AI_APPLICATION_HW_2.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #2</a>
                                                                 <br/>
                                                                 Due Date: 2021년 11월 7일, 23시 59분
                                                             </td>
@@ -378,7 +378,7 @@ permalink: /courses/2021/2/ai_application_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/q9w1bazex96evai/AI_APPLICATION_HW_3_Updated.pdf?dl=0" target="_blank">Homework #3 (기말고사 대치)</a>
+                                                                <a href="https://www.dropbox.com/s/q9w1bazex96evai/AI_APPLICATION_HW_3_Updated.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #3 (기말고사 대치)</a>
                                                                 <br/>
                                                                 Due Date: 2021년 12월 12일 (일요일), 23시 59분
                                                             </td>
@@ -476,7 +476,7 @@ permalink: /courses/2021/2/ai_application_practice
                                                                 R. Sutton, and A. Barto.
                                                                 The MIT Press, Second edition, (2018)
                                                                 <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf" target="_blank">
-                                                                    <img src="/assets/images/pdf_icon.png" style="width:4%" />
+                                                                    <img src="/assets/images/pdf_icon.png"  class="u-width-4-percent"/>
                                                                 </a></li>
                                                             </ul>
                                                         </div>

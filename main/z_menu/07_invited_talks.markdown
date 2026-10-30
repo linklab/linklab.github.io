@@ -8,11 +8,11 @@ permalink: /invited_talks/
     <div class="cyw-container">
         <div class="container">
             <!--Start Container Div-->
-            <div style="background-color:white;" class="container-fluid">
+            <div class="container-fluid u-background-color-white">
                 <!--Start Content Grid-->
                 <div class="row content">
                     <div class="content-wrapper">
-                        <div style="padding:1.0em" class="content-wrapper">
+                        <div class="content-wrapper u-padding-1em">
                             <h3 class = "title-level-3 year"> 2026 </h3>
                             <p>양자 얽힘 및 스와핑 기술 기반 종단간 양자 네트워킹, <a href="https://www.osia.or.kr/board/board.php?task=view&db=event&no=564&page=1&search=&searchKey=&category=&pageID=ID12832167411" target="_blank">[OSIA] 차세대 양자 통신 및 네트워킹 워크숍 - 양자 네트워킹 시뮬레이션 구현 기술의 기초화 응용</a>, 60 Minutes, 2026년 08월 21일</p>
                             <p>양자 얽힘 및 스와핑 기술 기반 종단간 양자 네트워킹, <a href="https://krnet.or.kr/include/subPage.php?pageID=ID12832166061" target="_blank">KRNER 2026</a>, 40 Minutes, 2026년 06월 23일</p>

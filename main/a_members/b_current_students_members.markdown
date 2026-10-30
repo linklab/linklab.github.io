@@ -201,7 +201,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Deahyun Kwon (권대현)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -219,7 +219,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Jungwook Shin (신정욱)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -237,7 +237,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Yonghyun Kim (김용현)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -255,7 +255,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Hyundo Jung (정현도)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -273,7 +273,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Yejin Kim (김예진)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -291,7 +291,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">China Tuller (치이나툴러)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -309,7 +309,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Jeahyun Sung (성재현)</h4>
                             <h6 class="card-category">(March 1, 2025 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -318,7 +318,7 @@ permalink: /members/students_and_members
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 사족보행 로봇을 활용한 자율 쓰레기 수거 시스템</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/hi4io97eermiw4nm3hxey/ECOWALKER.pptx?rlkey=iemmw0r2sgon4osib1fdq5fk8&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -332,7 +332,7 @@ permalink: /members/students_and_members
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 모방 학습 기반 부품 정리 양팔 매니퓰레이션</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/xipl9o63zqivl68i025og/IL.pptx?rlkey=f4da0pqss0d2lt2cdn0epoi58&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>
@@ -358,7 +358,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Daegun Kang (강대건)</h4>
                             <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -376,7 +376,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Jinsung Kim (김진성)</h4>
                             <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -394,7 +394,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Hyosuck Jeon (전효석)</h4>
                             <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -412,7 +412,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Joonyoung Lee (이준영)</h4>
                             <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -430,7 +430,7 @@ permalink: /members/students_and_members
                             <h4 class="card-title">Jungmin Yoon (윤정민)</h4>
                             <h6 class="card-category">(March 1, 2024 ~ Present)</h6>                            <hr>
                             <ul class="">
-                                <!--<li style="font-size: 1.1em"><b>취업</b>: 당근마켓</li>-->
+                                <!--<li class="u-font-size-1p1em"><b>취업</b>: 당근마켓</li>-->
                             </ul>
                         </div>
                     </div>
@@ -439,7 +439,7 @@ permalink: /members/students_and_members
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
                 <div class="item-student">
                     <div class="card card-profile">
-                        <div class="card-body" style="border-style: solid;">
+                        <div class="card-body u-border-style-solid">
                             <h4 class="card-title">졸업작품: 강화학습과 객체 인식 기술을 활용한 미확인 지형 정찰 4족 보행 로봇</h4>
                             <ul>
                                 <li>졸업작품 발표자료: <a href="https://www.dropbox.com/scl/fi/dmrjnxcmta4sao6sns5yw/4-_.pdf?rlkey=qz9g5sm9sxrquk1e6hjizqzw3&dl=0" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a></li>

@@ -3,146 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+stylesheets:
+  - href: /assets/css/pages/home.css
 ---
 
-<style>
-    .page-content {
-        padding: 0px 0;
-        flex: 1;
-    }
 
-    @media (max-width: 767px) {
-      .lab_title, .lab_sub_title{
-          font-family: 'NotoSansKR-Regular', sans-serif;
-          color: black;
-          font-size: 1.0em;
-          font-weight: bold;
-          padding-bottom: 0.0em;
-      }
-      .lab_sub_title {
-          margin-top: 0.0em;
-          font-size: 0.65em
-      }
-      .lab_member {
-          margin-top: 2.0em;          
-      }
-    }
-
-    @media (min-width: 768px) {
-      .lab_title, .lab_sub_title {
-          font-family: 'NotoSansKR-Regular', sans-serif;
-          color: black;
-          font-size: 2.0em;
-          font-weight: bold;
-          padding-bottom: 0.5em;
-      }
-      .lab_sub_title {
-          margin-top: 0.5em;
-          font-size: 1.5em;
-          margin-bottom: 0.7em;
-      }
-    }
-
-    .title {
-        font-family: 'NotoSansKR-Regular', sans-serif;
-        color: black;
-        font-size: 1.2em;
-        font-weight: bold;
-    }
-
-    .news {
-        font-size: 1em;
-        font-weight: bold;
-        font-family: 'NotoSansKR-Regular', sans-serif;
-        word-break: keep-all;
-    }
-
-    .solid_border {
-        border-style: solid;
-        border-width: 1px;
-        border-color: gray;
-        padding: 0.1em
-    }
-
-    .recruit {
-        font-size: 1em;
-        font-weight: bold;
-        font-family: 'NotoSansKR-Regular', sans-serif;
-        word-break: keep-all;
-        color: black;
-        border-style: solid;
-        border-width: 1px;
-        border-color: gray;
-        padding: 1em
-    }
-
-    .date {
-        color: darkorange;
-        text-align: right;
-        width: 20%;
-    }
-
-    .desc {
-        color: darkslategray;
-        width: 80%;
-    }
-
-    @media (max-width: 767px) {
-        .right_padding {
-            padding: 0;
-            padding-right: 1.0em !important;
-            padding-left: 1.0em !important;
-            margin: 0 !important;
-        }
-
-        .left_padding {
-            padding: 0;
-            padding-right: 1.0em !important;
-            padding-left: 1.0em !important;
-            margin: 0 !important;
-        }
-
-        .youtube_div {
-            margin-left: -1.1em !important;            
-        }
-
-        .third_image {
-            margin-bottom: 0.6em !important;
-        }
-    }
-
-    @media (min-width: 768px) {
-        .right_padding {
-            padding: 0;
-            padding-right: 1.0em !important;
-            margin: 0 !important;
-        }
-    
-        .left_padding {
-            padding: 0;
-            padding-left: 1.0em !important;
-            margin: 0 !important;
-        }
-
-        .second_label_photos {
-            margin-top: -0.6em;
-        }
-    }
-
-    .link_member_photo {
-        display: block;
-        width: 100%;
-        height: 10em;
-        object-fit: cover;
-        border-radius: 2px;
-    }
-
-    @media (min-width: 768px) {
-        .link_member_photo {
-            height: 11em;
-        }
-    }
-</style>
 <div class="row">
     <div class="col-md-12 text-center lab_title">
       옵트리얼 x 한국기술교육대학교 지능형네트워크 연구실
@@ -158,7 +23,7 @@ layout: page
             (<a href="/news/">더 많은 뉴스 보기 <i class="fa fa-solid fa-plus"></i></a>)
         </span>
         <div class="solid_border">
-            <table class="table news" style="margin-bottom: 0em">
+            <table class="table news u-margin-bottom-0em">
             </table>
         </div>
     </div>
@@ -166,11 +31,11 @@ layout: page
         <span class="title">■ Current OPTREALing...</span>
         <div class="solid_border">
             <div class="row">
-              <div class="col-md-12" style="margin-left: 2em;">
-                <ol class="desc" style="width: 90%; font-weight: bold">
+              <div class="col-md-12 u-margin-left-2em">
+                <ol class="desc u-course-outline">
                     <li><u>정책기반 강화학습 PPO 기반 4족 보행 로봇 파쿠르</u> (Legged Robot Parkour using PPO) 
                         <a href="https://www.youtube.com/watch?v=M7lDCSF0KP0" target="_blank">
-                            <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                            <i class="fa fa-youtube u-color-red" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li><u>가치기반 강화학습 DQN 기반 6G 양자 네트워크 종단간 Entanglement 요청 최적화</u> (6G End-to-End Entanglement Request Optimization in Quantum Networks)
@@ -180,7 +45,7 @@ layout: page
                     </li>
                     <li><u>오프라인 강화학습 Decision Transformer 기반 드론 장애물 회피 최적 운항</u> (Optimal Drone Navigation for Obstacle Avoidance using Decision Transformer)
                         <a href="https://www.youtube.com/watch?v=6t0Kw68pjOY" target="_blank">
-                            <i class="fa fa-youtube" style="color: red" aria-hidden="true"></i>
+                            <i class="fa fa-youtube u-color-red" aria-hidden="true"></i>
                         </a>
                     </li>
                     <li><u>다분야 최적화 실험을 통한 비동기 PPO 검증</u> (Validation of Asynchronous PPO through Multi-Domain Optimization Experiments)
@@ -294,27 +159,27 @@ layout: page
           <div class="row">
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
-                      <iframe src="https://www.youtube.com/embed/SU9KPn4pf0o" style="width:90%;height:15.0em;margin: 1.7em" allow="autoplay; encrypted-media" allowfullscreen="">
+                      <iframe src="https://www.youtube.com/embed/SU9KPn4pf0o" allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           Learning to Walk - Reinforcement Learning on Unitree Go1
                       </div>
                   </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
-                      <iframe src="https://www.youtube.com/embed/nexGfYkFzMY" style="width:90%;height:15.0em;margin: 1.7em" allow="autoplay; encrypted-media" allowfullscreen="">
+                      <iframe src="https://www.youtube.com/embed/nexGfYkFzMY" allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           Learning to Go Up and Down Stairs – Reinforcement Learning on Unitree Go1
                       </div>
                   </div>
               </div>
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
-                      <iframe src="https://www.youtube.com/embed/FNFEXJbEvsg" style="width:90%;height:15.0em;margin: 1.7em" allow="autoplay; encrypted-media" allowfullscreen="">
+                      <iframe src="https://www.youtube.com/embed/FNFEXJbEvsg" allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           Remote Reconnaissance Robot Overview - Reinforcement Learning on Unitree Go1
                       </div>
                   </div>
@@ -322,10 +187,9 @@ layout: page
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/ijdO3UNL4Bs"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           LINK 연구실 제작 MARL (Multi-Agent RL) 라이브러리로 훈련시킨 SMAC (StarCraft Multi-Agent Challenge) 미니 게임 제어
                       </div>
                   </div>
@@ -333,10 +197,9 @@ layout: page
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/MIi-kOs5SK4"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           LINK 연구실 제작 다중 AGV 이동 및 충돌 제어 및 비교 시물레이션
                       </div>
                   </div>
@@ -344,10 +207,9 @@ layout: page
               <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/V1UmPAgLx6U"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           한국기술교육대학교 30주년 미래기술전시회 행사에서 한연희 교수님 기술 발표 영상 (2021년 11월)
                       </div>
                   </div>
@@ -355,10 +217,9 @@ layout: page
              <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/7kGorLGhEJY"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           LINK 연구실 제작 MARL (Multi-Agent RL) 라이브러리로 훈련시킨 공장 자동화: 물류 분류 최적 경로 제어
                       </div>
                   </div>
@@ -366,10 +227,9 @@ layout: page
             <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/1XD9OipE9c8"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           회전형 2단 도립 진자(Rotary Double Inverted Pendulum)에 대한 심층강화학습 기반 Swing Up & Balancing 제어
                       </div>
                   </div>
@@ -377,10 +237,9 @@ layout: page
             <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/c_rCl-1RVCs"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           회전형 도립 진자(Rotary Inverted Pendulum) 3대를 활용한 엽합(Federated) 심층강화학습 기반 Swing Up & Balancing 제어 가속화
                       </div>
                   </div>
@@ -388,10 +247,9 @@ layout: page
             <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/Nsz6z6DAjow"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           SMAC (StarCraft Multi-Agent Challenge) 27m vs 30m by  Multi-Agent Reinforcement Learning (QMIX)
                       </div>
                   </div>
@@ -399,10 +257,9 @@ layout: page
             <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/XNpTM1nd7pA"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           One step PR vs Multi-Agent Reinforcement Learning: A shape
                       </div>
                   </div>
@@ -410,10 +267,9 @@ layout: page
             <div class="col-lg-4 col-md-4 col-sm-12">
                   <div class="youtube_div">
                       <iframe src="https://www.youtube.com/embed/lNJsiXGSr5A"
-                              style="width:90%;height:15.0em;margin: 1.7em"
-                              allow="autoplay; encrypted-media" allowfullscreen="">
+                              allow="autoplay; encrypted-media" allowfullscreen="" class="u-video-frame">
                       </iframe>
-                      <div style="margin-top:-1.5em;margin-bottom: 1.0em; color: #000000" class="text-center">
+                      <div class="text-center u-video-caption">
                           A SHOW of Multiple Rotary Inverted Pendulums Trained by Soft Actor-Critic
                       </div>
                   </div>

@@ -9,7 +9,7 @@ permalink: /courses/
         <article>
             <button class="accordion">Undergraduate</button>
             <div class="panel article-content-1 research-content">
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2026</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -36,7 +36,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2025</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -57,7 +57,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2024</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -90,7 +90,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2023</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -111,7 +111,7 @@ permalink: /courses/
                     <ol class="study">
                         <li>
                             <strong>Entrepreneurship in Industry (산업체취창업특강)</strong>
-                            <ul style="margin-left: 1.5em">
+                            <ul class="u-margin-left-1p5em">
                                 <li>
                                     <a href="https://www.dropbox.com/s/8hj8yf3q7ekzl54/%EC%88%98%EC%97%85%EC%9A%B4%EC%98%81%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EB%B6%80.pdf?dl=0" target="_blank">
                                         강의 내용 <i class="fa fa-link" aria-hidden="true"></i>
@@ -129,7 +129,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2022</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -150,7 +150,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2021</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -172,7 +172,7 @@ permalink: /courses/
                         <li>[Sabbatical Year]</li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2020</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -188,7 +188,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2019</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -215,7 +215,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2018</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -242,7 +242,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2017</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -259,7 +259,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2016</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -284,7 +284,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2015</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -309,7 +309,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2014</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -329,7 +329,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2013</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -349,7 +349,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2012</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -374,7 +374,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2011</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -403,7 +403,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2010</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -428,7 +428,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2009</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -457,7 +457,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2008</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -486,7 +486,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2007</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -515,7 +515,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                 <h3 class="course_year">2006</h3>
                 <h4 class="course_season text-right">[Fall]</h4>
                 <ol class="study">
@@ -572,7 +572,7 @@ permalink: /courses/
         <article>
             <button class="accordion">Graduate</button>
             <div class="panel article-content-1 research-content">
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2026</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -584,7 +584,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2025</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -596,7 +596,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2024</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -612,7 +612,7 @@ permalink: /courses/
                     </div>
                 </div>
                 <br/><br/><br/><br/><br/><br/>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2023</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -635,7 +635,7 @@ permalink: /courses/
                         <br/>
                     </div>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2022</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -653,10 +653,10 @@ permalink: /courses/
                         <br/>
                     </div>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2021</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
-                    <ol class="study" style="margin-bottom: 2.0em;">
+                    <ol class="study u-margin-bottom-2em">
                         <li>
                             <strong>Seminar on Future Convergence</strong>
                             <a href="/courses/2021/2/seminar_future_convergence" target="_blank">
@@ -670,7 +670,7 @@ permalink: /courses/
                         <li>[Sabbatical Year]</li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2020</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -686,7 +686,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2019</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -701,7 +701,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 4.5em;">
+                <div class="u-margin-bottom-4p5em">
                     <h3 class="course_year">2018</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -715,7 +715,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2017</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -732,7 +732,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2016</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -752,7 +752,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 4.5em;">
+                <div class="u-margin-bottom-4p5em">
                     <h3 class="course_year">2015</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -768,7 +768,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2014</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -785,7 +785,7 @@ permalink: /courses/
                     </ol>
                     <br/>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2013</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -805,7 +805,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.9em;">
+                <div class="u-margin-bottom-3p9em">
                     <h3 class="course_year">2012</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -830,7 +830,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2011</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -851,7 +851,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 4.0em;">
+                <div class="u-margin-bottom-4em">
                     <h3 class="course_year">2010</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -870,7 +870,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2009</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -891,7 +891,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2008</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -912,7 +912,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2007</h3>
                     <h4 class="course_season text-right">[Fall]</h4>
                     <ol class="study">
@@ -934,7 +934,7 @@ permalink: /courses/
                     <br/>
                     <br/>
                 </div>
-                <div style="margin-bottom: 4.2em;">
+                <div class="u-margin-bottom-4p2em">
                     <h3 class="course_year">2006</h3>
                     <h4 class="course_season text-right">[Spring]</h4>
                     <ol class="study">
@@ -957,10 +957,10 @@ permalink: /courses/
                 </div>
             </div>
         </article>
-        <article style="margin-top: -0.6em">
+        <article class="u-margin-top-0p6em">
             <button class="accordion">Special Lectures</button>
             <div class="panel article-content-1 research-content">
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2013</h3>
                     <ol class="study">
                         <li>
@@ -968,7 +968,7 @@ permalink: /courses/
                         </li>
                     </ol>
                 </div>
-                <div style="margin-bottom: 3.5em;">
+                <div class="u-margin-bottom-3p5em">
                     <h3 class="course_year">2020</h3>
                     <ol class="study">
                         <li>

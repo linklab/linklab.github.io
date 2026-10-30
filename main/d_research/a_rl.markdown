@@ -1,34 +1,21 @@
 ---
 layout: page
 permalink: /research/rl
+stylesheets:
+  - href: /assets/css/pages/research.css
 ---
 
-<style>
-    ol.study {
-        list-style: inside;
-        padding-top: 0.0em;
-    }
-    .article-content-1 > ul, ol {
-        margin-top: 0em;
-        margin-left: 0px;
-    }
-    @media (min-width: 1200px) {
-        .container {
-            max-width: 1190px;
-            padding: 0;
-        }
-    }
-</style>
+
 
 <section>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                         <!--Start Content Grid-->
-                        <section class="row content" style="padding-bottom:100px">
-                            <section style="padding: 0px 0px; width:100%" class="content-wrapper">
+                        <section class="row content u-padding-bottom-100px">
+                            <section class="content-wrapper u-content-padding-0">
                                 <div class="row">
                                     <div class="col-lg-6 col-md-6">
                                         <article>

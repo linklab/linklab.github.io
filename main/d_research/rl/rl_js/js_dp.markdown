@@ -8,17 +8,17 @@ permalink: /research/rl/dp
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="color:black;" class="container-fluid">
+                <div class="container-fluid u-color-black">
                     <br/>
                     <div class="text-center">
-                        <h2 style="font-weight: bold">Dynamic Programming - Policy Iteration, Value Iteration</h2>
+                        <h2 class="u-font-weight-bold">Dynamic Programming - Policy Iteration, Value Iteration</h2>
                     </div>
                     <div class="text-right">
-                        <span style="font-weight: bold">LINK@KoreaTech</span>
+                        <span class="u-font-weight-bold">LINK@KoreaTech</span>
                         <br/>
-                        <span style="font-weight: bold">Febraury, 14, 2019</span>
+                        <span class="u-font-weight-bold">Febraury, 14, 2019</span>
                         <br/>
-                        <span style="font-weight: bold">Email: <a href="mailto: link.koreatech@gmail.com">link.koreatech at gmail.com</a></span>
+                        <span class="u-font-weight-bold">Email: <a href="mailto: link.koreatech@gmail.com">link.koreatech at gmail.com</a></span>
                         <br/>
                         <span>This site is made by using the source codes shared from the site,
                             <a href="https://cs.stanford.edu/people/karpathy/reinforcejs/index.html">REINFORCEjs</a>
@@ -42,18 +42,18 @@ permalink: /research/rl/dp
                                     </button>
                                 </h2>
                                 <br/>
-                                <div class="text-left" style="font-size: 1.2em">
+                                <div class="text-left u-font-size-1p2em">
                                     <ul>
                                         <li>
-                                            Sum of All <Stat></Stat>e Values: <span style="font-weight: bold"
-                                                                           id="pi_state_values">0</span>
+                                            Sum of All <Stat></Stat>e Values: <span
+                                                                           id="pi_state_values" class="u-font-weight-bold">0</span>
                                         </li>
                                         <li>
-                                            Difference of Sum of All State Values: <span style="font-weight: bold"
-                                                                                         id="pi_diff_state_values">-1</span>
+                                            Difference of Sum of All State Values: <span
+                                                                                         id="pi_diff_state_values" class="u-font-weight-bold">-1</span>
                                         </li>
                                         <li>
-                                            Status: <span style="font-weight: bold" id="pi_status">RESET</span>
+                                            Status: <span id="pi_status" class="u-font-weight-bold">RESET</span>
                                         </li>
                                         <li>
                                             Discount Factor (gamma): 0.75
@@ -66,7 +66,7 @@ permalink: /research/rl/dp
                             </div>
                             <div class="col-md-4 text-center">
                                 <div class="text-left">
-                                    <span style="font-size: small">Iteration: <span id="pi_iter">-1</span></span>
+                                    <span class="u-font-size-small">Iteration: <span id="pi_iter">-1</span></span>
                                 </div>
                                 <div id="draw_pi" class="text-left"></div>
                             </div>
@@ -91,18 +91,18 @@ permalink: /research/rl/dp
                                     </button>
                                 </h2>
                                 <br/>
-                                <div class="text-left" style="font-size: 1.2em">
+                                <div class="text-left u-font-size-1p2em">
                                     <ul>
                                         <li>
-                                            Sum of All State Values: <span style="font-weight: bold"
-                                                                           id="vi_state_values">0</span>
+                                            Sum of All State Values: <span
+                                                                           id="vi_state_values" class="u-font-weight-bold">0</span>
                                         </li>
                                         <li>
-                                            Difference of Sum of All State Values: <span style="font-weight: bold"
-                                                                                         id="vi_diff_state_values">-1</span>
+                                            Difference of Sum of All State Values: <span
+                                                                                         id="vi_diff_state_values" class="u-font-weight-bold">-1</span>
                                         </li>
                                         <li>
-                                            Status: <span style="font-weight: bold" id="vi_status">RESET</span>
+                                            Status: <span id="vi_status" class="u-font-weight-bold">RESET</span>
                                         </li>
                                         <li>
                                             Discount Factor (gamma): 0.75
@@ -115,7 +115,7 @@ permalink: /research/rl/dp
                             </div>
                             <div class="col-md-4 text-center">
                                 <div class="text-left">
-                                    <span style="font-size: small">Iteration: <span id="vi_iter">-1</span></span>
+                                    <span class="u-font-size-small">Iteration: <span id="vi_iter">-1</span></span>
                                 </div>
                                 <div id="draw_vi" class="text-left"></div>
                             </div>

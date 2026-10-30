@@ -1,0 +1,15 @@
+ol.study {
+  list-style: inside;
+  padding-top: 0em;
+}
+.article-content-1 > ul,
+ol {
+  margin-top: 0em;
+  margin-left: 0px;
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+    padding: 0;
+  }
+}

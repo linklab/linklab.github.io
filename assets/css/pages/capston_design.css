@@ -1,0 +1,19 @@
+.capston-schedule-table {
+  font-size: 0.7em;
+}
+.capston-schedule-table ul {
+  list-style-type: disc !important;
+  list-style-position: inside !important;
+  margin-left: 1em !important;
+  padding-left: 0 !important;
+  margin-bottom: 1em !important;
+}
+.capston-schedule-table ul li {
+  display: list-item !important;
+}
+.capston-schedule-table ul ul {
+  list-style-type: circle !important;
+}
+.capston-schedule-table ul ul ul {
+  list-style-type: "- " !important;
+}

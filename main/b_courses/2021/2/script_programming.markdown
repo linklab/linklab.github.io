@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2021/2/script_programming
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -16,7 +16,7 @@ permalink: /courses/2021/2/script_programming
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -39,11 +39,11 @@ permalink: /courses/2021/2/script_programming
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:20%">Date</th>
-                                                            <th scope="col" style="width:25%">온라인 강의 (E-Learning)</th>
-                                                            <th scope="col" style="width:26%">오프라인/Zoom 실시간 강의</th>
-                                                            <th scope="col" style="width:25%">Notice</th>
+                                                            <th scope="col" class="u-width-4-percent">#</th>
+                                                            <th scope="col" class="u-width-20-percent">Date</th>
+                                                            <th scope="col" class="u-width-25-percent">온라인 강의 (E-Learning)</th>
+                                                            <th scope="col" class="u-width-26-percent">오프라인/Zoom 실시간 강의</th>
+                                                            <th scope="col" class="u-width-25-percent">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
@@ -66,7 +66,7 @@ permalink: /courses/2021/2/script_programming
                                                                 <a href="https://datascienceschool.net/01%20python/01.02%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%B2%98%EC%9D%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html" target="_blank">
                                                                     파이썬 처음 사용하기
                                                                 </a><br/>
-                                                                <div style="margin-left: 1.0em">
+                                                                <div class="u-margin-left-1em">
                                                                     - 명령어 모드: ESC<br/>
                                                                     - 위로 셀추가: a<br/>
                                                                     - 아래로 셀추가: b<br/>
@@ -107,7 +107,7 @@ permalink: /courses/2021/2/script_programming
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-1.ipynb" target="_blank">Homework #1</a>
+                                                                <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-1.ipynb" target="_blank" class="u-font-weight-bold">Homework #1</a>
                                                                 <br/>
                                                                 Due Date: 2021년 09월 24일, 23시 59분
                                                             </td>
@@ -137,7 +137,7 @@ permalink: /courses/2021/2/script_programming
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-2.ipynb" target="_blank">Homework #2</a>
+                                                                <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-2.ipynb" target="_blank" class="u-font-weight-bold">Homework #2</a>
                                                                 <br/>
                                                                 Due Date: 2021년 10월 08일, 23시 59분
                                                             </td>
@@ -164,7 +164,7 @@ permalink: /courses/2021/2/script_programming
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-3.ipynb" target="_blank">Homework #3</a>
+                                                                <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-3.ipynb" target="_blank" class="u-font-weight-bold">Homework #3</a>
                                                                 <br/>
                                                                 Due Date: 2021년 10월 22일, 23시 59분
                                                             </td>
@@ -217,7 +217,7 @@ permalink: /courses/2021/2/script_programming
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-4.ipynb" target="_blank">Homework #4</a>
+                                                                <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-4.ipynb" target="_blank" class="u-font-weight-bold">Homework #4</a>
                                                                 <br/>
                                                                 Due Date: 2021년 11월 27일(토), 23시 59분
                                                                 <br/><br/>
@@ -276,7 +276,7 @@ permalink: /courses/2021/2/script_programming
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-5.ipynb" target="_blank">Homework #5 (마지막 숙제)</a>
+                                                                <a href="https://nbviewer.jupyter.org/github/linklab/supercharged_python/blob/master/assignment2021/assignment-5.ipynb" target="_blank" class="u-font-weight-bold">Homework #5 (마지막 숙제)</a>
                                                                 <br/>
                                                                 Due Date: 2021년 12월 11일 (토요일), 23시 59분
                                                             </td>
@@ -340,7 +340,7 @@ permalink: /courses/2021/2/script_programming
                                                         </li>
                                                         <li>
                                                             Classes:
-                                                            <ul style="margin-left: 2em">
+                                                            <ul class="u-margin-left-2em">
                                                                 <li>1분반: 화요일 (11:00 ~ 13:00, 화03A ~ 04B), 금요일 (09:00 ~ 11:00, 금01A ~ 02B)</li>
                                                                 <li>2분반: 화요일 (09:00 ~ 11:00, 화01A ~ 02B), 금요일 (11:00 ~ 13:00, 금03A ~ 04B)</li>
                                                             </ul>
@@ -350,7 +350,7 @@ permalink: /courses/2021/2/script_programming
                                                         </li>
                                                         <li>
                                                             수업조교(TA):
-                                                            <ul style="margin-left: 2em">
+                                                            <ul class="u-margin-left-2em">
                                                                 <li>지창훈 석사과정 (Email: koir5660@koreatech.ac.kr)</li>
                                                                 <li>최요한 석사과정 (Email: yoweif@koreatech.ac.kr)</li>
                                                             </ul>

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.6.4/schema.json",
+  "extends": [
+    "./biome.json"
+  ],
+  "files": {
+    "includes": [
+      "**/*.css",
+      "**/*.scss",
+      "!!assets/themify-icons",
+      "!assets/css/bootstrap.css",
+      "!assets/css/bootstrap-grid.css",
+      "!assets/css/bootstrap-reboot.css",
+      "!assets/css/bootstrap.min.css",
+      "!assets/css/bootstrap-grid.min.css",
+      "!assets/css/bootstrap-reboot.min.css",
+      "!assets/css/jquery.fullPage.css",
+      "!assets/css/style.min33a6.css",
+      "!assets/css/vendor-icons.css",
+      "!assets/main.scss",
+      "!**/*.js",
+      "!**/*.mjs",
+      "!**/*.cjs"
+    ]
+  }
+}

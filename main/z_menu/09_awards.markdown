@@ -2,26 +2,19 @@
 layout: page
 title: Awards
 permalink: /awards/
+stylesheets:
+  - href: /assets/css/pages/09_awards.css
 ---
-<style>
-    ul {    
-        margin-left: 0;
-        color: #000000
-    }
-    
-    h4 {
-        font-weight: bold;
-    }
-</style>
+
 <section>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white; font-size: 110%; font-weight: bold" class="container-fluid">
+                <div class="container-fluid u-section-heading">
                     <!--Start Content Grid-->
                     <div class="row content">
-                        <div style="padding:1.0em" class="content-wrapper">
+                        <div class="content-wrapper u-padding-1em">
                             <h3 class = "title-level-3 year"> 2026 </h3>
                             <h4>2026 IEEE/RSJ International Conference on Intelligent Robots & Systems,<span class="badge badge-warning">Best Paper Finalists</span></h4>
                             <ul>
@@ -31,11 +24,11 @@ permalink: /awards/
                                 </li>
                                 <li>
                                     Awards 페이지
-                                    <a href="https://2026.ieee-iros.org/program/awards/"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>
+                                    <a href="https://2026.ieee-iros.org/program/awards/"><i class="fa fa-link u-user-select-auto" aria-hidden="true"></i></a>
                                     신문기사
-                                    <a href="https://lifenlearning.chosun.com/pan/site/data/html_dir/2026/06/23/2026062302359.html"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>,
-                                    <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=412170"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>,
-                                    <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2423537"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>,
+                                    <a href="https://lifenlearning.chosun.com/pan/site/data/html_dir/2026/06/23/2026062302359.html"><i class="fa fa-link u-user-select-auto" aria-hidden="true"></i></a>,
+                                    <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=412170"><i class="fa fa-link u-user-select-auto" aria-hidden="true"></i></a>,
+                                    <a href="https://www.ccdailynews.com/news/articleView.html?idxno=2423537"><i class="fa fa-link u-user-select-auto" aria-hidden="true"></i></a>,
                                 </li>
                                 <img src="/assets/images/awards/best-paper-student_4477_paper.jpg" width="75%"/>
                                 <br>
@@ -49,8 +42,8 @@ permalink: /awards/
                                 </li>
                                 <li>
                                     신문기사 
-                                    <a href="https://www.veritas-a.com/news/articleView.html?idxno=561838"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>, 
-                                    <a href="https://www.joongang.co.kr/article/25349633"><i class="fa fa-link" aria-hidden="true" style="user-select: auto !important;"></i></a>
+                                    <a href="https://www.veritas-a.com/news/articleView.html?idxno=561838"><i class="fa fa-link u-user-select-auto" aria-hidden="true"></i></a>,
+                                    <a href="https://www.joongang.co.kr/article/25349633"><i class="fa fa-link u-user-select-auto" aria-hidden="true"></i></a>
                                 </li>
                                 <br>
                             </ul>

@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2022/1/ai_application_practice
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-wrapper">
@@ -16,7 +16,7 @@ permalink: /courses/2022/1/ai_application_practice
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -38,11 +38,11 @@ permalink: /courses/2022/1/ai_application_practice
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:5%">#</th>
-                                                            <th scope="col" style="width:22%">Date</th>
-                                                            <th scope="col" style="width:28%">오프라인(강의실) 강의 (화요일)</th>
-                                                            <th scope="col" style="width:28%">온라인 강의 (E-Learning) (전주 목요일)</th>
-                                                            <th scope="col" style="width:18%">참고자료/공지사항</th>
+                                                            <th scope="col" class="u-width-5-percent">#</th>
+                                                            <th scope="col" class="u-width-22-percent">Date</th>
+                                                            <th scope="col" class="u-width-28-percent">오프라인(강의실) 강의 (화요일)</th>
+                                                            <th scope="col" class="u-width-28-percent">온라인 강의 (E-Learning) (전주 목요일)</th>
+                                                            <th scope="col" class="u-width-18-percent">참고자료/공지사항</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
@@ -76,7 +76,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                                       </li>
                                                                       <li>
                                                                           통합 개발 환경
-                                                                            <ul style="margin-left: 1.5em">
+                                                                            <ul class="u-margin-left-1p5em">
                                                                                 <li>
                                                                                     <a href="https://dora-guide.com/pycharm-install/" target="_blank">Pycharm</a> (추천)
                                                                                 </li>
@@ -124,7 +124,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                                   </ol>
 <!--                                                                    - Frozen Lake and Dynamic Programming
                                                                     <a href="https://www.deeplearningwizard.com/deep_learning/deep_reinforcement_learning_pytorch/dynamic_programming_frozenlake" target="_blank">
-                                                                        <img src="/assets/images/external_link.png" style="width: 1.0em;vertical-align:middle;"/>
+                                                                        <img src="/assets/images/external_link.png" class="u-document-icon-small"/>
                                                                     </a>
 -->
                                                             </td>
@@ -198,7 +198,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/fbm3hlpfa61mwug/AI_APPLICATION_HW_1.pdf?dl=0" target="_blank">Homework #1</a>
+                                                                <a href="https://www.dropbox.com/s/fbm3hlpfa61mwug/AI_APPLICATION_HW_1.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #1</a>
                                                                 <br/>
                                                                 Due Date: 2022년 10월 10일(월요일), 23시 59분
                                                             </td>
@@ -275,7 +275,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/enpsjmhbgub9tmk/AI_APPLICATION_HW_2.pdf?dl=0" target="_blank">Homework #2</a>
+                                                                <a href="https://www.dropbox.com/s/enpsjmhbgub9tmk/AI_APPLICATION_HW_2.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #2</a>
                                                                 <br/>
                                                                 Due Date: 2022년 11월 12일 (토요일), 23시 59분
                                                             </td>
@@ -356,7 +356,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                             </td>
                                                             <td>
                                                                 <i class="fas fa-book-reader"></i>
-                                                                <a style="font-weight: bold" href="https://www.dropbox.com/s/4n8isaogj3byys8/AI_APPLICATION_HW_3.pdf?dl=0" target="_blank">Homework #3</a>
+                                                                <a href="https://www.dropbox.com/s/4n8isaogj3byys8/AI_APPLICATION_HW_3.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #3</a>
                                                                 <br/>
                                                                 Due Date: 2022년 12월 11일 (일요일), 23시 59분
                                                             </td>
@@ -376,7 +376,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                             <td>
 <!--
                                                                     <i class="fas fa-book-reader"></i>
-                                                                    <a style="font-weight: bold" href="https://www.dropbox.com/s/q9w1bazex96evai/AI_APPLICATION_HW_3_Updated.pdf?dl=0" target="_blank">Homework #3 (기말고사 대치)</a>
+                                                                    <a href="https://www.dropbox.com/s/q9w1bazex96evai/AI_APPLICATION_HW_3_Updated.pdf?dl=0" target="_blank" class="u-font-weight-bold">Homework #3 (기말고사 대치)</a>
                                                                     <br/>
                                                                     Due Date: 2021년 12월 12일 (일요일), 23시 59분
 -->
@@ -475,7 +475,7 @@ permalink: /courses/2022/1/ai_application_practice
                                                                 R. Sutton, and A. Barto.
                                                                 The MIT Press, Second edition, (2018)
                                                                 <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf" target="_blank">
-                                                                    <img src="/assets/images/pdf_icon.png" style="width:4%" />
+                                                                    <img src="/assets/images/pdf_icon.png"  class="u-width-4-percent"/>
                                                                 </a>
                                                             </ul>
                                                         </div>

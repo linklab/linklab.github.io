@@ -8,13 +8,13 @@ permalink: /seminar/undergraduate/winter_2024_2025
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
-                    <section class="row content" style="padding-bottom:100px">
+                    <section class="row content u-padding-bottom-100px">
                         <section class="content-wrapper title-section">
                         <!-- <h2 class="title-level-1">Projects</h2> -->
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 교재</button>
                                 <div class="panel article-content-1">
@@ -23,14 +23,14 @@ permalink: /seminar/undergraduate/winter_2024_2025
                                             <strong>Hugging Face Deep Reinforcement Learning Course</strong>,
                                             링크: <a href="https://huggingface.co/learn/deep-rl-course/unit0/introduction"
                                                target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 참석자</button>
                                 <div class="panel article-content-1">
@@ -38,7 +38,7 @@ permalink: /seminar/undergraduate/winter_2024_2025
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 일정</button>
                                 <div class="panel article-content-1">

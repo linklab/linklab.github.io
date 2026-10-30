@@ -4,7 +4,10 @@
   "scripts": {
     "check:js": "biome check --error-on-warnings .",
     "fix:js": "biome check --write --error-on-warnings .",
-    "check:js:structure": "ast-grep scan --rule .github/lint-rules/no-inline-javascript.yml --no-ignore hidden --no-ignore vcs _site"
+    "check:js:structure": "ast-grep scan --rule .github/lint-rules/no-inline-javascript.yml --no-ignore hidden --no-ignore vcs _site",
+    "check:css": "biome check --config-path=biome.css.json --error-on-warnings .",
+    "fix:css": "biome check --config-path=biome.css.json --write --error-on-warnings .",
+    "check:css:structure": "ast-grep scan --rule .github/lint-rules/no-inline-css.yml --no-ignore hidden --no-ignore vcs _site"
   },
   "devDependencies": {
     "@ast-grep/cli": "0.51.0",

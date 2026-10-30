@@ -8,17 +8,17 @@ permalink: /research/rl/td
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="color:black;" class="container-fluid">
+                <div class="container-fluid u-color-black">
                     <br/>
                     <div class="text-center">
-                        <h2 style="font-weight: bold">Temporal Difference Learning - SARSA & Q-Learning</h2>
+                        <h2 class="u-font-weight-bold">Temporal Difference Learning - SARSA & Q-Learning</h2>
                     </div>
                     <div class="text-right">
-                        <span style="font-weight: bold">LINK@KoreaTech</span>
+                        <span class="u-font-weight-bold">LINK@KoreaTech</span>
                         <br/>
-                        <span style="font-weight: bold">Febraury, 14, 2019</span>
+                        <span class="u-font-weight-bold">Febraury, 14, 2019</span>
                         <br/>
-                        <span style="font-weight: bold">Email: <a href="mailto: link.koreatech@gmail.com">link.koreatech at gmail.com</a></span>
+                        <span class="u-font-weight-bold">Email: <a href="mailto: link.koreatech@gmail.com">link.koreatech at gmail.com</a></span>
                         <br/>
                         <span>This site is made by using the source codes shared from the site,
                             <a href="https://cs.stanford.edu/people/karpathy/reinforcejs/index.html">REINFORCEjs</a>
@@ -41,24 +41,23 @@ permalink: /research/rl/td
                                     </button>
                                 </h2>
                                 <br/>
-                                <div class="row text-left" style="font-size: 1.2em">
+                                <div class="row text-left u-font-size-1p2em">
                                     <div class="col-md-12">
                                         <ul>
                                             <li>
-                                                Sum of all state values: <span style="font-weight: bold"
-                                                                               id="sarsa_state_values">-1</span>
+                                                Sum of all state values: <span
+                                                                               id="sarsa_state_values" class="u-font-weight-bold">-1</span>
                                             </li>
                                             <li>
-                                                Total number of steps over all episodes: <span
-                                                    style="font-weight: bold" id="sarsa_total_steps">-1</span>
+                                                Total number of steps over all episodes: <span id="sarsa_total_steps" class="u-font-weight-bold">-1</span>
                                             </li>
                                             <li>
-                                                Status: <span style="font-weight: bold"
-                                                              id="sarsa_status">RESET</span>
+                                                Status: <span
+                                                              id="sarsa_status" class="u-font-weight-bold">RESET</span>
                                             </li>
                                             <li>
-                                                Epsilon: <span style="font-weight: bold"
-                                                               id="sarsa_epsilon">0.2</span>
+                                                Epsilon: <span
+                                                               id="sarsa_epsilon" class="u-font-weight-bold">0.2</span>
                                             </li>
                                             <li>
                                                 Discount Factor (&gamma;): 0.75
@@ -77,13 +76,12 @@ permalink: /research/rl/td
                                 </div>
                                 <div class="text-center">
                                     Sum of each step's reward over episodes:
-                                    <div class="text-center" id="flotreward_sarsa"
-                                         style="width:750px; height: 290px; margin: auto;"></div>
+                                    <div class="text-center u-fixed-video-frame" id="flotreward_sarsa"></div>
                                 </div>
                             </div>
                             <div class="col-md-4 text-center">
                                 <div class="text-left">
-                                    <span style="font-size: small">Episode: <span id="sarsa_episode">0</span></span>
+                                    <span class="u-font-size-small">Episode: <span id="sarsa_episode">0</span></span>
                                 </div>
                                 <div id="draw_sarsa" class="text-left"></div>
                             </div>
@@ -111,24 +109,23 @@ permalink: /research/rl/td
                                     </button>
                                 </h2>
                                 <br/>
-                                <div class="row text-left" style="font-size: 1.2em">
+                                <div class="row text-left u-font-size-1p2em">
                                     <div class="col-md-12">
                                         <ul>
                                             <li>
-                                                Sum of all state values: <span style="font-weight: bold"
-                                                                               id="qlearning_state_values">-1</span>
+                                                Sum of all state values: <span
+                                                                               id="qlearning_state_values" class="u-font-weight-bold">-1</span>
                                             </li>
                                             <li>
-                                                Total number of steps over all episodes: <span
-                                                    style="font-weight: bold" id="qlearning_total_steps">-1</span>
+                                                Total number of steps over all episodes: <span id="qlearning_total_steps" class="u-font-weight-bold">-1</span>
                                             </li>
                                             <li>
-                                                Status: <span style="font-weight: bold"
-                                                              id="qlearning_status">RESET</span>
+                                                Status: <span
+                                                              id="qlearning_status" class="u-font-weight-bold">RESET</span>
                                             </li>
                                             <li>
-                                                Epsilon: <span style="font-weight: bold"
-                                                               id="qlearning_epsilon">0.2</span>
+                                                Epsilon: <span
+                                                               id="qlearning_epsilon" class="u-font-weight-bold">0.2</span>
                                             </li>
                                             <li>
                                                 Discount Factor (&gamma;): 0.75
@@ -147,13 +144,12 @@ permalink: /research/rl/td
                                 </div>
                                 <div class="text-center">
                                     Sum of each step's reward over episodes:
-                                    <div class="text-center" id="flotreward_qlearning"
-                                         style="width:750px; height: 290px; margin: auto;"></div>
+                                    <div class="text-center u-fixed-video-frame" id="flotreward_qlearning"></div>
                                 </div>
                             </div>
                             <div class="col-md-4 text-center">
                                 <div class="text-left">
-                                    <span style="font-size: small">Episode: <span
+                                    <span class="u-font-size-small">Episode: <span
                                             id="qlearning_episode">0</span></span>
                                 </div>
                                 <div id="draw_qlearning" class="text-left"></div>

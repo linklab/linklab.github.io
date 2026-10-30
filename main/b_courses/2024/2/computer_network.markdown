@@ -6,12 +6,12 @@ layout: page
 permalink: /courses/2024/2/computer_network
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -19,7 +19,7 @@ permalink: /courses/2024/2/computer_network
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -31,16 +31,16 @@ permalink: /courses/2024/2/computer_network
                                                     <table class="table table-bordered">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:8%">주차</th>
-                                                            <th scope="col" style="width:5%">회</th>
-                                                            <th scope="col" style="width:20%">Date</th>
-                                                            <th scope="col" style="width:35%">Lecture</th>
-                                                            <th scope="col" style="">Notice</th>
+                                                            <th scope="col" class="u-width-8-percent">주차</th>
+                                                            <th scope="col" class="u-width-5-percent">회</th>
+                                                            <th scope="col" class="u-width-20-percent">Date</th>
+                                                            <th scope="col" class="u-width-35-percent">Lecture</th>
+                                                            <th scope="col">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">1주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">1주차</th>
                                                             <th scope="row">01</th>
                                                             <td>09월 03일(화)</td>
                                                             <td>
@@ -72,7 +72,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">2주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">2주차</th>
                                                             <th scope="row">03</th>
                                                             <td>09월 10일(화)</td>
                                                             <td>
@@ -91,7 +91,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">3주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">3주차</th>
                                                             <th scope="row">-</th>
                                                             <td>09월 17일(화)</td>
                                                             <td>
@@ -118,7 +118,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">4주차</th>
                                                             <th scope="row">06</th>
                                                             <td>09월 24일(화)</td>
                                                             <td>
@@ -144,7 +144,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">5주차</th>
                                                             <th scope="row">08</th>
                                                             <td>10월 01일(화)</td>
                                                             <td>
@@ -167,7 +167,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차 </th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">6주차 </th>
                                                             <th scope="row">10</th>
                                                             <td>10월 08일(화)</td>
                                                             <td>
@@ -190,7 +190,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">7주차</th>
                                                             <th scope="row">12</th>
                                                             <td>10월 15일(화)</td>
                                                             <td>
@@ -219,7 +219,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">8주차</th>
                                                             <th scope="row">14</th>
                                                             <td>10월 22일(화)</td>
                                                             <td>
@@ -244,7 +244,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">9주차</th>
                                                             <th scope="row">16</th>
                                                             <td>10월 29일(화)</td>
                                                             <td colspan="2" class="centred">
@@ -266,7 +266,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">10주차</th>
                                                             <th scope="row">18</th>
                                                             <td>11월 05일(화)</td>
                                                             <td>
@@ -288,7 +288,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">11주차</th>
                                                             <th scope="row">20</th>
                                                             <td>11월 12일(화)</td>
                                                             <td>
@@ -314,7 +314,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">12주차</th>
                                                             <th scope="row">22</th>
                                                             <td>11월 19일(화)</td>
                                                             <td>
@@ -336,7 +336,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">13주차</th>
                                                             <th scope="row">24</th>
                                                             <td>11월 26일(화)</td>
                                                             <td>
@@ -358,7 +358,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">14주차</th>
                                                             <th scope="row">26</th>
                                                             <td>12월 03일(화)</td>
                                                             <td>
@@ -384,7 +384,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">15주차</th>
                                                             <th scope="row">28</th>
                                                             <td>12월 10일(화)</td>
                                                             <td>
@@ -406,7 +406,7 @@ permalink: /courses/2024/2/computer_network
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">16주차</th>
                                                             <th scope="row">30</th>
                                                             <td>12월 17일(화)</td>
                                                             <td class="centred" colspan="2">
@@ -451,7 +451,7 @@ permalink: /courses/2024/2/computer_network
                                                     <br/>
                                                     <h3 class="title-level-3">4. References</h3>
                                                     <br/>
-                                                    <div class="row" style="padding-left: 2.0em">
+                                                    <div class="row u-padding-left-2em">
                                                         <div class="col-12">
                                                             <h4>[강의 노트]</h4>
                                                             <ul>

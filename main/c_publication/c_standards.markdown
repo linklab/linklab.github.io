@@ -1,22 +1,20 @@
 ---
 layout: page
 permalink: /publication/standards
+stylesheets:
+  - href: /assets/css/pages/publication-panels.css
 ---
-<style>
-   .panel {
-        padding: 0px 0px 0px 0px;
-    }
-</style>
+
 <div>
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
-                <div style="background-color:white;" class="container-fluid">
-                    <div class="row content" style="padding-bottom:100px">
+                <div class="container-fluid u-background-color-white">
+                    <div class="row content u-padding-bottom-100px">
                         <section class="content-wrapper title-section">
                             <h2 class="title-level-2">Standards</h2>
                         </section>
-                        <section style="padding: 0px 30px; width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-content-padding-30">
                                 <article>
                                     <button class="accordion">International Standards</button>
                                     <h4 class="title-level-4 year">IEEE</h4>

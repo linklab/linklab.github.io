@@ -8,13 +8,13 @@ permalink: /seminar/undergraduate/fall_2021
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
-                    <section class="row content" style="padding-bottom:100px">
+                    <section class="row content u-padding-bottom-100px">
                         <section class="content-wrapper title-section">
                         <!-- <h2 class="title-level-1">Projects</h2> -->
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 교재</button>
                                 <div class="panel article-content-1">
@@ -22,24 +22,24 @@ permalink: /seminar/undergraduate/fall_2021
                                         <li>
                                             <strong>케라스 창시자에게 배우는 딥러닝, 프랑소와 숄레 지음 | 박해선 옮김 | 길벗 | 2018년 10월 22일 출간</strong>,
                                             국내서: <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791160505979" target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>,
                                             원서: <a href="https://www.manning.com/books/deep-learning-with-python" target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>
                                         </li>
                                     </ul>
                                     <ul>
                                         <li>
                                             <strong>교재 Github (Tensorflow 2.6 기준 업데이트)</strong>: <a href="https://github.com/rickiepark/deep-learning-with-python-notebooks/tree/tf2" target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 참석자</button>
                                 <div class="panel article-content-1">
@@ -48,7 +48,7 @@ permalink: /seminar/undergraduate/fall_2021
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 일정 (매주 수요일 오후 4시)</button>
                                 <div class="panel article-content-1">

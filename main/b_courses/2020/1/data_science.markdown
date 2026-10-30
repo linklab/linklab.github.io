@@ -1,14 +1,16 @@
 ---
 layout: page
 permalink: /courses/2020/1/data_science
+stylesheets:
+  - href: /assets/css/pages/course-table.css
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-wrapper">
@@ -16,18 +18,14 @@ permalink: /courses/2020/1/data_science
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;" class="container-fluid">
+                                        <div class="container-fluid u-background-color-white">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
                                                     <h2 class="title-level-1">
                                                         Data Science (2020 Spring – 240178) </h2>
                                                     <p>
-                                                        <style>
-                                                            td {
-                                                                width: 50%
-                                                            }
-                                                        </style>
+
                                                     </p>
                                                     <p><em>“Student-teacher relationships are based on trust. Acts,
                                                         which violate this trust, undermine the educational process.

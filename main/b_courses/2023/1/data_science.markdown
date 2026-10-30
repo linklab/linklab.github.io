@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2023/1/data_science
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -16,7 +16,7 @@ permalink: /courses/2023/1/data_science
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -41,11 +41,11 @@ permalink: /courses/2023/1/data_science
                                                     <table class="table table-responsive table-hover">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:4%">#</th>
-                                                            <th scope="col" style="width:10%">Date</th>
-                                                            <th scope="col" style="width:18%">Lecture</th>
-                                                            <th scope="col" style="">Presentation</th>
-                                                            <th scope="col" style="width:30%">Notice</th>
+                                                            <th scope="col" class="u-width-4-percent">#</th>
+                                                            <th scope="col" class="u-width-10-percent">Date</th>
+                                                            <th scope="col" class="u-width-18-percent">Lecture</th>
+                                                            <th scope="col">Presentation</th>
+                                                            <th scope="col" class="u-width-30-percent">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
@@ -66,7 +66,7 @@ permalink: /courses/2023/1/data_science
 -->
                                                             <td>
                                                                 <span class="font-weight-bold">
-                                                                    Homework #1 <span style="font-size: 7px">(기한: 3월 26일 오후 23시 59분)</span>
+                                                                    Homework #1 <span class="u-font-size-7px">(기한: 3월 26일 오후 23시 59분)</span>
                                                                 </span><br/>
                                                                 - <a href="https://learnxinyminutes.com/docs/python/" target="_blank">Learn X in Y minutes</a>에 소개된 코드를 자신만의 jupyter notebook 구성하여 URL 제출 (비전공자)<br/>
                                                                 - 딥러닝과 파이토치 소개 (강의 교재 1장) 읽고 간단하게 요약하기<br/>
@@ -161,7 +161,7 @@ permalink: /courses/2023/1/data_science
                                                             </td>
                                                             <td>
                                                                 <span class="font-weight-bold">
-                                                                    Homework #2 <span style="font-size: 7px">(기한: 4월 16일 일요일 오후 23시 59분)</span>
+                                                                    Homework #2 <span class="u-font-size-7px">(기한: 4월 16일 일요일 오후 23시 59분)</span>
                                                                 </span><br/>
                                                                 - 4.7 Exercises(연습문제) Problem 1(1번) 풀이<br/>
                                                                 - 5.7 Exercises(연습문제) Problem 1(1번) 풀이<br/>
@@ -213,7 +213,7 @@ permalink: /courses/2023/1/data_science
                                                             <td>
 <!--
                                                                 <span class="font-weight-bold">
-                                                                    Homework #2 <span style="font-size: 7px">(기한: 4월 30일 오후 23시 59분)</span>
+                                                                    Homework #2 <span class="u-font-size-7px">(기한: 4월 30일 오후 23시 59분)</span>
                                                                 </span><br/>
                                                                 - 암과 싸워 이기기 위한 파이토치 활용 (강의 교재 9장 및 10장~14장) 요약 보고서 제출<br/>
 -->
@@ -396,7 +396,7 @@ permalink: /courses/2023/1/data_science
                                                                         <ul>
                                                                             <li>로컬 파일을 원격으로 업로드하고 URL을 얻으려면 Google Drive, Dropbox 또는 OneDrive와 같은 클라우드 스토리지 서비스를 사용할 수 있음.</li>
                                                                             <li>다음은 Google 드라이브에 로컬 파일을 업로드하고 URL을 얻는 단계임:</li>
-                                                                            <ol style="margin-left: 1.5em">
+                                                                            <ol class="u-margin-left-1p5em">
                                                                                 <li>Google 드라이브 계정에 로그인합니다.</li>
                                                                                 <li>"새로 만들기" 버튼을 클릭하고 "파일 업로드"를 선택합니다.</li>
                                                                                 <li>선택 업로드할 로컬 파일.</li>

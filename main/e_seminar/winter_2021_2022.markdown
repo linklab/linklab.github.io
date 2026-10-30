@@ -8,13 +8,13 @@ permalink: /seminar/undergraduate/winter_2021_2022
         <div class="cyw-container">
             <div class="container">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
-                    <section class="row content" style="padding-bottom:100px">
+                    <section class="row content u-padding-bottom-100px">
                         <section class="content-wrapper title-section">
                         <!-- <h2 class="title-level-1">Projects</h2> -->
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 교재</button>
                                 <div class="panel article-content-1">
@@ -23,18 +23,18 @@ permalink: /seminar/undergraduate/winter_2021_2022
                                             <strong>만들면서 배우는 파이토치 딥러닝, 오가와 유타로 지음 | 박광수 옮김 | 한빛미디어 | 2021년 8월 5일 출간</strong>,
                                             국내서: <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B7628794939"
                                                target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>,
                                             교보: <a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162244609"
                                                target="_blank">
-                                                <img src="/assets/images/external_link.png" style="width: 1.5em;vertical-align:middle;"/>
+                                                <img src="/assets/images/external_link.png" class="u-document-icon"/>
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 참석자</button>
                                 <div class="panel article-content-1">
@@ -43,7 +43,7 @@ permalink: /seminar/undergraduate/winter_2021_2022
                                 </div>
                             </article>
                         </section>
-                        <section style="width:100%" class="content-wrapper">
+                        <section class="content-wrapper u-width-100-percent">
                             <article>
                                 <button class="accordion">세미나 일정</button>
                                 <div class="panel article-content-1">

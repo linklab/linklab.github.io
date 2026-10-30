@@ -1,0 +1,21 @@
+.news {
+  font-family: "NotoSansKR-Regular", sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.news td {
+  color: darkorange;
+}
+
+.news .desc {
+  color: darkslategray;
+  word-break: keep-all;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1180px;
+    padding: 0;
+  }
+}

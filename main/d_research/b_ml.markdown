@@ -1,62 +1,49 @@
 ---
 layout: page
 permalink: /research/ml
+stylesheets:
+  - href: /assets/css/pages/research-wide.css
 ---
 
-<style>
-    ol.study {
-        list-style: inside;
-        padding-top: 0.0em;
-    }
-    .article-content-1 > ul, ol {
-        margin-top: 0em;
-        margin-left: 0px;
-    }
-    @media (min-width: 1200px) {
-        .container {
-            max-width: 1200px;
-            padding: 0;
-        }
-    }
-</style>
+
 
 <section>
 <div class="cw-content container-fluid">
     <div class="cyw-container">
         <div class="container">
-            <div style="background-color:white;" class="container-fluid">
-            <section class="row content" style="padding-bottom:100px">
-                <section style="padding: 0px 7px; width:100%" class="content-wrapper">
+            <div class="container-fluid u-background-color-white">
+            <section class="row content u-padding-bottom-100px">
+                <section class="content-wrapper u-content-padding-7">
                     <article>
                         <button class="accordion">Machine Learning - Fundamentals</button>
-                        <div class="panel article-content-1 research-content" style="max-height: 983px;">
+                        <div class="panel article-content-1 research-content u-max-height-983px">
                             <ol class="study">
                                 <li>
-                                    <span style="font-weight: bold">Graph Neural Networks</span>
-                                    <ol style="padding-left: 1.0em">
+                                    <span class="u-font-weight-bold">Graph Neural Networks</span>
+                                    <ol class="u-padding-left-1em">
                                         <li>
                                             Basic Graph Theory
                                             <a href="https://www.dropbox.com/s/1qn0bdde7a1eg28/1.GNN_01.pdf?dl=0" target="_blank">
-                                                <img class="pdf_icon" style="width: 3%" src="/assets/images/pdf_icon.png">
+                                                <img class="pdf_icon u-width-3-percent" src="/assets/images/pdf_icon.png">
                                             </a>
                                         </li>
                                         <li>
                                             Node Embedding
                                             <a href="https://www.dropbox.com/s/dln81ndccpuc25f/1.GNN_02.pdf?dl=0" target="_blank">
-                                                <img class="pdf_icon" style="width: 3%" src="/assets/images/pdf_icon.png">
+                                                <img class="pdf_icon u-width-3-percent" src="/assets/images/pdf_icon.png">
                                             </a>
                                         </li>
                                         <li>
                                             Neighbor Aggregation and GCNs
                                             <a href="https://www.dropbox.com/s/mm859k3q3yya4pq/1.gnn_03.pdf?dl=0" target="_blank">
-                                                <img class="pdf_icon" style="width: 3%" src="/assets/images/pdf_icon.png">
+                                                <img class="pdf_icon u-width-3-percent" src="/assets/images/pdf_icon.png">
                                             </a>
                                         </li>
                                     </ol>
                                 </li>
                                 <li>
-                                    <span style="font-weight: bold">Graph Neural Networks: Laboratory</span>
-                                    <ol style="padding-left: 1.0em">
+                                    <span class="u-font-weight-bold">Graph Neural Networks: Laboratory</span>
+                                    <ol class="u-padding-left-1em">
                                         <li>
                                             Data Handling and GCN Learning of Graph with PyTorch Geometric
                                             <a href="https://colab.research.google.com/drive/1mW6UuowOkYJKoRc4tf1giy8sO4VVZq9X?usp=sharing" target="_blank">
@@ -71,14 +58,14 @@ permalink: /research/ml
                     <br/>
                     <article>
                         <button class="accordion">Language/Time Series</button>
-                        <div class="panel article-content-1 research-content" style="max-height: 983px;">
+                        <div class="panel article-content-1 research-content u-max-height-983px">
                             <ol class="study">
                                 <li>
-                                    <span style="font-weight: bold">Recurrent Neural Networks</span>
-                                    <ol style="padding-left: 1.0em">
+                                    <span class="u-font-weight-bold">Recurrent Neural Networks</span>
+                                    <ol class="u-padding-left-1em">
                                         <li>
                                             Laboratory
-                                            <ul style="padding-left: 1.0em">
+                                            <ul class="u-padding-left-1em">
                                                 <li>
                                                     RNN from scratch
                                                     <a href="https://colab.research.google.com/drive/1XQS3jw6IgFo2a-mi8lkq_Q67aLrqqzWU" target="_blank">
@@ -102,23 +89,23 @@ permalink: /research/ml
                                     </ol>
                                 </li>
                                 <li>
-                                    <span style="font-weight: bold">Attention & Transformer</span>
-                                    <ol style="padding-left: 1.0em">
+                                    <span class="u-font-weight-bold">Attention & Transformer</span>
+                                    <ol class="u-padding-left-1em">
                                         <li>
                                             Seq2Seq & Attention & Pointer Network
                                             <a href="https://www.dropbox.com/s/v4bqwhsz7sltrlm/11.Attention_PN.pdf?dl=0" target="_blank">
-                                                <img class="pdf_icon" style="width: 3%" src="/assets/images/pdf_icon.png">
+                                                <img class="pdf_icon u-width-3-percent" src="/assets/images/pdf_icon.png">
                                             </a>
                                         </li>
                                         <li>
                                             Transformer
                                             <a href="https://www.dropbox.com/s/aatwrdtrzpmnzht/12.Transformer.pdf?dl=0" target="_blank">
-                                                <img class="pdf_icon" style="width: 3%" src="/assets/images/pdf_icon.png">
+                                                <img class="pdf_icon u-width-3-percent" src="/assets/images/pdf_icon.png">
                                             </a>
                                         </li>
                                         <li>
                                             Laboratory
-                                            <ul style="padding-left: 1.0em">
+                                            <ul class="u-padding-left-1em">
                                                 <li>
                                                     Attention from scratch
                                                     <a href="https://colab.research.google.com/drive/1efbm9nLFHiVLPlG0POhxOsesF2LC_x92" target="_blank">
@@ -147,14 +134,14 @@ permalink: /research/ml
                     <br/>
                     <article>
                         <button class="accordion">Generation</button>
-                        <div class="panel article-content-1 research-content" style="max-height: 983px;">
+                        <div class="panel article-content-1 research-content u-max-height-983px">
                             <ol class="study">
                                 <li>
-                                    <span style="font-weight: bold">Autoencoder</span>
-                                    <ol style="padding-left: 1.0em">
+                                    <span class="u-font-weight-bold">Autoencoder</span>
+                                    <ol class="u-padding-left-1em">
                                         <li>
                                             Laboratory
-                                            <ul style="padding-left: 1.0em">
+                                            <ul class="u-padding-left-1em">
                                                 <li>
                                                     AE - Fashion MNIST
                                                     <a href="https://colab.research.google.com/drive/11FZpGDORJSS_gfKfsDVt0dCavdm0vQkU" target="_blank">

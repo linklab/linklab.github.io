@@ -5,7 +5,9 @@
     accordion.addEventListener("click", function () {
       this.classList.toggle("acc_active");
       const panel = this.nextElementSibling;
-      panel.style.maxHeight = panel.style.maxHeight ? null : `${panel.scrollHeight}px`;
+      const maxHeight = panel.style.maxHeight || getComputedStyle(panel).maxHeight;
+      const collapsed = !maxHeight || maxHeight === "0px" || maxHeight === "none";
+      panel.style.maxHeight = collapsed ? `${panel.scrollHeight}px` : "0px";
     });
   }
   // Preserve the existing initial state, including two clicks on the ML page.

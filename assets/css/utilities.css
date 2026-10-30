@@ -1,0 +1,350 @@
+/* Shared replacements for static inline styles. Scoped to the site body to retain their precedence over component rules. */
+#site-page .u-display-none {
+  display: none;
+}
+
+#site-page .u-text-align-center {
+  text-align: center;
+}
+
+#site-page .u-width-16-percent {
+  width: 16%;
+}
+
+#site-page .u-width-21-percent {
+  width: 21%;
+}
+
+#site-page .u-margin-bottom-0em {
+  margin-bottom: 0em;
+}
+
+#site-page .u-margin-left-2em {
+  margin-left: 2em;
+}
+
+#site-page .u-course-outline {
+  width: 90%;
+  font-weight: bold;
+}
+
+#site-page .u-color-red {
+  color: red;
+}
+
+#site-page .u-video-frame {
+  width: 90%;
+  height: 15em;
+  margin: 1.7em;
+}
+
+#site-page .u-video-caption {
+  margin-top: -1.5em;
+  margin-bottom: 1em;
+  color: #000000;
+}
+
+#site-page .u-float-left-spaced {
+  float: left;
+  margin-right: 10px;
+}
+
+#site-page .u-margin-top-5px {
+  margin-top: -5px !important;
+}
+
+#site-page .u-font-size-1p1em {
+  font-size: 1.1em;
+}
+
+#site-page .u-border-style-solid {
+  border-style: solid;
+}
+
+#site-page .u-font-size-1em {
+  font-size: 1em;
+}
+
+#site-page .u-wrap-anywhere {
+  overflow-wrap: anywhere;
+  word-wrap: anywhere;
+}
+
+#site-page .u-background-color-white {
+  background-color: white;
+}
+
+#site-page .u-light-content {
+  background-color: white;
+  color: black;
+}
+
+#site-page .u-width-5-percent {
+  width: 5%;
+}
+
+#site-page .u-width-22-percent {
+  width: 22%;
+}
+
+#site-page .u-width-28-percent {
+  width: 28%;
+}
+
+#site-page .u-width-18-percent {
+  width: 18%;
+}
+
+#site-page .u-margin-left-1em {
+  margin-left: 1em;
+}
+
+#site-page .u-document-icon-small {
+  width: 1em;
+  vertical-align: middle;
+}
+
+#site-page .u-font-weight-bold {
+  font-weight: bold;
+}
+
+#site-page .u-width-4-percent {
+  width: 4%;
+}
+
+#site-page .u-full-width-centered {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#site-page .u-width-20-percent {
+  width: 20%;
+}
+
+#site-page .u-width-25-percent {
+  width: 25%;
+}
+
+#site-page .u-width-26-percent {
+  width: 26%;
+}
+
+#site-page .u-width-15-percent {
+  width: 15%;
+}
+
+#site-page .u-width-35-percent {
+  width: 35%;
+}
+
+#site-page .u-width-10-percent {
+  width: 10%;
+}
+
+#site-page .u-width-36-percent {
+  width: 36%;
+}
+
+#site-page .u-width-30-percent {
+  width: 30%;
+}
+
+#site-page .u-width-19-percent {
+  width: 19%;
+}
+
+#site-page .u-width-100-percent {
+  width: 100%;
+}
+
+#site-page .u-margin-left-1p5em {
+  margin-left: 1.5em;
+}
+
+#site-page .u-font-size-7px {
+  font-size: 7px;
+}
+
+#site-page .u-width-8-percent {
+  width: 8%;
+}
+
+#site-page .u-width-40-percent {
+  width: 40%;
+}
+
+#site-page .u-vertical-align-middle {
+  vertical-align: middle;
+}
+
+#site-page .u-width-32-percent {
+  width: 32%;
+}
+
+#site-page .u-padding-left-2em {
+  padding-left: 2em;
+}
+
+#site-page .u-reference-note {
+  color: blue;
+  font-size: 0.6em;
+}
+
+#site-page .u-width-17-percent {
+  width: 17%;
+}
+
+#site-page .u-width-23-percent {
+  width: 23%;
+}
+
+#site-page .u-align-content-center {
+  align-content: center;
+}
+
+#site-page .u-image-three-quarter {
+  width: 75%;
+  height: auto;
+}
+
+#site-page .u-font-size-medium {
+  font-size: medium;
+}
+
+#site-page .u-width-14-percent {
+  width: 14%;
+}
+
+#site-page .u-font-size-1p2em {
+  font-size: 1.2em;
+}
+
+#site-page .u-list-style-type-square {
+  list-style-type: square;
+}
+
+#site-page .u-padding-bottom-100px {
+  padding-bottom: 100px;
+}
+
+#site-page .u-content-padding-30 {
+  padding: 0px 30px;
+  width: 100%;
+}
+
+#site-page .u-nested-study-list {
+  padding-left: 1em;
+  font-size: 0.9em;
+}
+
+#site-page .u-content-padding-0 {
+  padding: 0px 0px;
+  width: 100%;
+}
+
+#site-page .u-content-padding-7 {
+  padding: 0px 7px;
+  width: 100%;
+}
+
+#site-page .u-max-height-983px {
+  max-height: 983px;
+}
+
+#site-page .u-padding-left-1em {
+  padding-left: 1em;
+}
+
+#site-page .u-width-3-percent {
+  width: 3%;
+}
+
+#site-page .u-content-padding-3 {
+  padding: 0px 3px;
+  width: 100%;
+}
+
+#site-page .u-document-icon {
+  width: 1.5em;
+  vertical-align: middle;
+}
+
+#site-page .u-font-size-large {
+  font-size: large;
+}
+
+#site-page .u-color-black {
+  color: black;
+}
+
+#site-page .u-font-size-small {
+  font-size: small;
+}
+
+#site-page .u-fixed-video-frame {
+  width: 750px;
+  height: 290px;
+  margin: auto;
+}
+
+#site-page .u-course-callout {
+  font-family: Arial, serif;
+  font-weight: bold;
+  color: #565656;
+  background: #f8e8ff;
+  box-shadow: 0px 0px 0px 5px #f8e8ff;
+  border: dashed 2px #8a66ae;
+  border-radius: 8px;
+}
+
+#site-page .u-section-content {
+  background-color: white;
+  font-size: 110%;
+}
+
+#site-page .u-width-80-percent {
+  width: 80%;
+}
+
+#site-page .u-section-heading {
+  background-color: white;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+#site-page .u-padding-1em {
+  padding: 1em;
+}
+
+#site-page .u-margin-bottom-3p5em {
+  margin-bottom: 3.5em;
+}
+
+#site-page .u-margin-bottom-2em {
+  margin-bottom: 2em;
+}
+
+#site-page .u-margin-bottom-4p5em {
+  margin-bottom: 4.5em;
+}
+
+#site-page .u-margin-bottom-3p9em {
+  margin-bottom: 3.9em;
+}
+
+#site-page .u-margin-bottom-4em {
+  margin-bottom: 4em;
+}
+
+#site-page .u-margin-bottom-4p2em {
+  margin-bottom: 4.2em;
+}
+
+#site-page .u-margin-top-0p6em {
+  margin-top: -0.6em;
+}
+
+#site-page .u-user-select-auto {
+  user-select: auto !important;
+}

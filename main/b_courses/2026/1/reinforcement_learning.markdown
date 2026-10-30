@@ -3,12 +3,12 @@ layout: page
 permalink: /courses/2026/1/reinforcement_learning
 ---
 
-<section style="overflow-wrap: anywhere; word-wrap: anywhere;">
+<section class="u-wrap-anywhere">
     <div class="cw-content container-fluid">
-        <div class="cyw-container" style="width: 100%; margin-left: auto; margin-right: auto">
-            <div class="container" style="width: 100%; margin-left: auto; margin-right: auto">
+        <div class="cyw-container u-full-width-centered">
+            <div class="container u-full-width-centered">
                 <!--Start Container Div-->
-                <div style="background-color:white;" class="container-fluid">
+                <div class="container-fluid u-background-color-white">
                     <!--Start Content Grid-->
                     <div class="row content">
                         <div class="content-fluid">
@@ -16,7 +16,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                 <div class="cyw-container">
                                     <div class="container">
                                         <!--Start Container Div-->
-                                        <div style="background-color:white;color:black" class="container-fluid">
+                                        <div class="container-fluid u-light-content">
                                             <!--Start Content Grid-->
                                             <div class="row content">
                                                 <div class="content-wrapper">
@@ -26,23 +26,23 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <h3 class="title-level-3">
                                                     1. Course Schedule &amp; Lecture Notes
                                                     <span>
-                                                        <a style="color: blue; font-size: 0.6em" href="https://github.com/linklab/link_rl">[수업 실습 코드]</a>, 
-                                                        <a style="color: blue; font-size: 0.6em" href="https://docs.google.com/document/d/1KAJhVAWfSa0mV0aS0MRQDc5JADieL2p8sm1OgiBjaRM/edit?usp=sharing">[수업 질의 응답]</a>
+                                                        <a href="https://github.com/linklab/link_rl" class="u-reference-note">[수업 실습 코드]</a>,
+                                                        <a href="https://docs.google.com/document/d/1KAJhVAWfSa0mV0aS0MRQDc5JADieL2p8sm1OgiBjaRM/edit?usp=sharing" class="u-reference-note">[수업 질의 응답]</a>
                                                     </span>
                                                     </h3>
                                                     <table class="table table-bordered">
                                                         <thead class="thead-light">
                                                         <tr>
-                                                            <th scope="col" style="width:8%">주차</th>
-                                                            <th scope="col" style="width:5%">회</th>
-                                                            <th scope="col" style="width:20%">Date</th>
-                                                            <th scope="col" style="width:35%">Lecture</th>
-                                                            <th scope="col" style="">Notice</th>
+                                                            <th scope="col" class="u-width-8-percent">주차</th>
+                                                            <th scope="col" class="u-width-5-percent">회</th>
+                                                            <th scope="col" class="u-width-20-percent">Date</th>
+                                                            <th scope="col" class="u-width-35-percent">Lecture</th>
+                                                            <th scope="col">Notice</th>
                                                         </tr>
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">1주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">1주차</th>
                                                             <th scope="row">01</th>
                                                             <td>03월 02일(월)</td>
                                                             <td>
@@ -69,7 +69,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">2주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">2주차</th>
                                                             <th scope="row">03</th>
                                                             <td>03월 09일(월)</td>
                                                             <td>
@@ -91,7 +91,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">3주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">3주차</th>
                                                             <th scope="row">05</th>
                                                             <td>03월 16일(월)</td>
                                                             <td>
@@ -113,7 +113,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">4주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">4주차</th>
                                                             <th scope="row">07</th>
                                                             <td>03월 23일(월)</td>
                                                             <td>
@@ -138,7 +138,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">5주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">5주차</th>
                                                             <th scope="row">09</th>
                                                             <td>03월 30일(월)</td>
                                                             <td>
@@ -163,7 +163,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">6주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">6주차</th>
                                                             <th scope="row">11</th>
                                                             <td>04월 06일(월)</td>
                                                             <td>
@@ -188,7 +188,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">7주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">7주차</th>
                                                             <th scope="row">13</th>
                                                             <td>04월 13일(월)</td>
                                                             <td>
@@ -210,7 +210,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">8주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">8주차</th>
                                                             <th scope="row">15</th>
                                                             <td>04월 20일(월)</td>
                                                             <td>
@@ -235,7 +235,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">9주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">9주차</th>
                                                             <th scope="row">17</th>
                                                             <td>04월 27일(월)</td>
                                                             <td>
@@ -257,7 +257,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">10주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">10주차</th>
                                                             <th scope="row">19</th>
                                                             <td>05월 04일(월)</td>
                                                             <td>
@@ -276,7 +276,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">11주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">11주차</th>
                                                             <th scope="row">21</th>
                                                             <td>05월 11일(월)</td>
                                                             <td colspan="2" class="centred">
@@ -296,7 +296,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">12주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">12주차</th>
                                                             <th scope="row">23</th>
                                                             <td>05월 18일(월)</td>
                                                             <td>
@@ -317,7 +317,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">13주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">13주차</th>
                                                             <th scope="row">25</th>
                                                             <td>05월 25일(월)</td>
                                                             <td>
@@ -336,7 +336,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">14주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">14주차</th>
                                                             <th scope="row">27</th>
                                                             <td>06월 01일(월)</td>
                                                             <td>
@@ -361,7 +361,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">15주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">15주차</th>
                                                             <th scope="row">29</th>
                                                             <td>06월 08일(월)</td>
                                                             <td>
@@ -380,7 +380,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <th scope="row" rowspan="2" style="vertical-align: middle">16주차</th>
+                                                            <th scope="row" rowspan="2" class="u-vertical-align-middle">16주차</th>
                                                             <th scope="row">31</th>
                                                             <td>06월 15일(월)</td>
                                                             <td>
@@ -428,7 +428,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <br/>
                                                     <h3 class="title-level-3">4. References</h3>
                                                     <br/>
-                                                    <div class="row" style="padding-left: 2.0em">
+                                                    <div class="row u-padding-left-2em">
                                                         <div class="col-12">
                                                             <h4>[강의 노트]</h4>
                                                             <ul>
@@ -474,7 +474,7 @@ permalink: /courses/2026/1/reinforcement_learning
                                                     <br>
                                                     <h3 class="title-level-3">7. Term Project Assignments</h3>
                                                     <br/>
-                                                    <div class="row" style="padding-left: 2.0em">
+                                                    <div class="row u-padding-left-2em">
                                                         <div class="col-6">
                                                             <h4>Term Project #1: BipedalWalker (9명)</h4>
                                                             <ul>
