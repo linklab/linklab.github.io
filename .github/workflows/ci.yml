@@ -80,6 +80,10 @@ jobs:
         continue-on-error: true
         run: npm run fix:css
 
+      - name: Apply safe HTML and Liquid fixes
+        continue-on-error: true
+        run: npm run fix:html
+
       - name: Commit automatic fixes
         id: commit
         if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
@@ -104,6 +108,9 @@ jobs:
 
       - name: Check CSS and SCSS
         run: npm run check:css
+
+      - name: Check HTML and Liquid formatting
+        run: npm run check:html
 
   build:
     name: Build and check

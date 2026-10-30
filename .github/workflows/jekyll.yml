@@ -59,6 +59,8 @@ jobs:
         run: npm run check:js:structure
       - name: Check CSS structure
         run: npm run check:css:structure
+      - name: Check HTML structure
+        run: npm run check:html:structure
       - name: Upload artifact
         if: inputs.deploy
         # Automatically uploads an artifact from the './_site' directory by default
